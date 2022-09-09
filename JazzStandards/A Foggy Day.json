@@ -1,0 +1,35 @@
+{
+  "Title": "A Foggy Day",
+  "Composer": "Gershwin George",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "v",
+      "MainSegment": {
+        "Chords": "F^7|Bb69|F^7|Bb69|F^7|E7|A-|D13|G-7,C7|F^7|A-,A-6|A-7,D13b9|A-9,D9|G-7,C7|F6,D7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|D7b9|G-7|C7|F6|Ab7|G7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": ""
+      },
+      "Endings": [
+        {
+          "Chords": "F^7|C-7,F7|Bb^7|Eb7|A-7|D7|G7|C7"
+        },
+        {
+          "Chords": "C-7|F7|Bb^7|Eb7|F^7/C,G-7/C|F^7/C,G-7/C|F^7/C,D-7|G-7,C7|F6|G-7,C7"
+        }
+      ]
+    }
+  ]
+}

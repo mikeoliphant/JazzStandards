@@ -1,0 +1,34 @@
+{
+  "Title": "Jeannine",
+  "Composer": "Pearson Duke",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Ab-7|Ab-7|Ab-7|Ab-7|Ab-7|Ab-7|Ab-7|Ab-7|F#-7|B7|E^7|A7|Bb-7|Eb7#9"
+      },
+      "Endings": [
+        {
+          "Chords": "Ab^7|Eb7#9"
+        },
+        {
+          "Chords": "Ab^7|Eb-7,Ab7"
+        }
+      ]
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Db^7|Gh7,C7|F^7|F^7|F-7|Bb7|Bb-7|Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab-7|Ab-7|Ab-7|Ab-7|Ab-7|Ab-7|Ab-7|Ab-7|F#-7|B7|E^7|A7|Bb-7|Eb7#9|Ab^7|Eb7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

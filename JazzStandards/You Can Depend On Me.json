@@ -1,0 +1,35 @@
+{
+  "Title": "You Can Depend On Me",
+  "Composer": "Carpenter-Dunlap-Hines",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|C7|F^7|A-7,Abo7|G-7|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F6|Ah7,D7"
+        },
+        {
+          "Chords": "F6|F6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb6|Bb6|G7|G7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|C7|F^7|A-7,Abo7|G-7|C7|F6|Ah7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

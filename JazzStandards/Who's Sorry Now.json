@@ -1,0 +1,21 @@
+{
+  "Title": "Who's Sorry Now?",
+  "Composer": "Snyder-Kalmar-Ruby",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|C^7|E7|E7|A7|A7|D7|D7|G7|G7|C^7|D7|G^7|D7|G7,F-6|G7,D-7,G7,"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|C^7|E7|E7|A7|A7|D-7|A7|F^7|F-6|C^7|A7|D7|F-7,G7|C^7,G7|C^7"
+      },
+      "Endings": []
+    }
+  ]
+}

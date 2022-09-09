@@ -1,0 +1,41 @@
+{
+  "Title": "Skating In Central Park",
+  "Composer": "Lewis John",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C/G|G7b9|C^7/G|C^7/G|F^7/G|G7#5|C^7/G|C7b5/Gb|F^7|B7|E-7|A7|D-7|G7"
+      },
+      "Endings": [
+        {
+          "Chords": "F/A,F/A,Bb-6,|Bb-6,G7/B"
+        },
+        {
+          "Chords": "C^7|C7b5"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7|F-^7/E|F-7/Eb|Dh7|Eb^7|Bb6/D|C-7|Bb-6|C-6|C-6/Bb|Ah7|D7b9|F-7|F-^7/E|Dh7|G7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C/G|G7b9|C^7/G|C^7/G|F^7/G|G7#5|C^7/G|C7b5/Gb|F^7|B7|E-7|A7|D-7|G7|C^7|G7b9"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "C^7/G|C7b9/Gb|F^7|Cadd9/E|D-9|G7|E-7|A-7|D7|F#o7|C/G|C+/G#|A-7,G6|F-7,Eb^7|Db^7#11|Db^7#11|C^7#5|Db/C|Bb/C|B/C,C|C^9"
+      },
+      "Endings": []
+    }
+  ]
+}

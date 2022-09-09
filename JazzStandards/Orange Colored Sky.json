@@ -1,0 +1,35 @@
+{
+  "Title": "Orange Colored Sky",
+  "Composer": "DeLugg-Stein",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6,Bo7|C-7,C#o7|Bb/D,Ab7#11|G9|C-7,C#o7|Bb/D,G7b13|C-7,F7"
+      },
+      "Endings": [
+        {
+          "Chords": "D-,G7,C-,F7"
+        },
+        {
+          "Chords": "Bb^7,Bb7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb^7|Bb7#9#5|Ah7,D7b9|G-|G-,G-b6|G-6,G-7|F7|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6,Bo7|C-7,C#o7|Bb/D,Ab7#11|G9|C-7,C#o7|Bb/D,G7b13|C-7,F7|Bb^7"
+      },
+      "Endings": []
+    }
+  ]
+}

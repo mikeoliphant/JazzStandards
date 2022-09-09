@@ -1,0 +1,21 @@
+{
+  "Title": "Firm Roots",
+  "Composer": "Walton Cedar",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7|Bb7|Eb^7|Eb^7|F-7|Bb7|Eb^7|Eb^7|D-7|G7|C^7|C^7|C-7|F7|Bb^7|Bb^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7|G-7|A-7|Bb-7|Ab7sus|Ab7sus|Ab7sus|Ab7sus|F7sus|F7sus|F7sus|F7sus"
+      },
+      "Endings": []
+    }
+  ]
+}

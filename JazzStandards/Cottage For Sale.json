@@ -1,0 +1,35 @@
+{
+  "Title": "Cottage For Sale",
+  "Composer": "Robison Willard",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb6|G7|C7b9|F-7,Ab-6|G-7,C7|F-7,Ab-6|F7,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb6,Bb7"
+        },
+        {
+          "Chords": "Eb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G7b13|G7b13|C7|C7|F7|F7|F-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Eb6|G7|C7b9|F-7,Ab-6|G-7,C7|F-7,Ab-6|F7,Bb7|Eb6"
+      },
+      "Endings": []
+    }
+  ]
+}

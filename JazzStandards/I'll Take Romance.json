@@ -1,0 +1,31 @@
+{
+  "Title": "I'll Take Romance",
+  "Composer": "Oakland Ben",
+  "Key": "F",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "F6|D-7|G-7|C7,C7/Bb|A-7|Ab7|Db^7|Gb7|A7alt|D7b9|G-7|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F6|Ab7|G-7|C7"
+        },
+        {
+          "Chords": "F6|F6|Bh7|E7"
+        }
+      ]
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb-7|Ab7|Db^7|Bb7|Eb-7|Ab7|Db^7|Db6|C#-7|F#7|B^7|E^7|A-7|D7|G-7|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F6|F6|G-7|C7"
+        }
+      ]
+    }
+  ]
+}

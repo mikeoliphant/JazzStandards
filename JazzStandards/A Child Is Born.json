@@ -1,0 +1,21 @@
+{
+  "Title": "A Child Is Born",
+  "Composer": "Hanna Roland",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Eb-/Bb|Bb^7|Eb-/Bb|Bb^7|Eb-/Bb|Ah7|D7#9|G-7|D7#5|G-7|D7#5|G-7|C7|F7sus|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb^7|Eb-/Bb|Bb^7|Eb-/Bb|Bb^7|D7alt|Eb^7|Ab7|Bb/F|Gb6|G-7|C7|F7sus|F7"
+      },
+      "Endings": []
+    }
+  ]
+}

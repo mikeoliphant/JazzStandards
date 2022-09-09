@@ -1,0 +1,41 @@
+{
+  "Title": "Dindi",
+  "Composer": "Jobim Antonio-Carlos",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Db^7|Eb^7|Db^7|C^7|A-9|D-9|G13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb^7|Db^7|Eb^7|Bb-7,Eb7|Ab^7|Ab-^7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb6|Bb-7"
+        },
+        {
+          "Chords": "Eb6|Ah7,D7b9"
+        }
+      ]
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-|Eb-6|G-,Eb-6|G-7,C7b9|F-|C#-6|F-,C#-6|F-7,Bb7b9"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Eb^7|Db^7|Eb^7|Bb-7,Eb7|Ab^7|Ab-^7|Eb6|Db7"
+      },
+      "Endings": []
+    }
+  ]
+}

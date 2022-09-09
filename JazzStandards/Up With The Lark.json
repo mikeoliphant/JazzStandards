@@ -1,0 +1,41 @@
+{
+  "Title": "Up With The Lark",
+  "Composer": "Kern Jerome",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "C^7/G|C6/G|G9sus|G7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "C6|Eb13|Ab^7|G7#9#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6|G9|C69|G9sus|E-7|A-7|A-7|D13|D-7|G13|D-7|G13|C69|Eb13|Ab^7|G7#9#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C9|G9|C69|G-7|F#-7|B7|E69|C#-7|F#-7|B7|E^7|E^7|F-7|Bb7|Eb69|Eb69|A13|A7#5|D^7|D^7|B/G|A/F|G/Eb|F/Db"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6|G9|C69|F-7|E-7|A-7|D7|Ab7|C^7/G|C6/G|G9sus|G7|C6|Eb13|Ab^7|G7#9#5"
+      },
+      "Endings": []
+    }
+  ]
+}

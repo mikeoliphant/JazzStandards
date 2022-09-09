@@ -1,0 +1,35 @@
+{
+  "Title": "My Romance",
+  "Composer": "Rodgers Richard",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,F^7|E-7,Ebo7|D-7,G7|C^7,E7|A-7,E7|A-7,A7|D-7,G7|C^7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7,Bb7|C^7,C7|F^7,Bb7|C^7|F#h7,B7b9|E-7,Bb7|A-7,D7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,F^7|E-7,Ebo7|D-7,G7|C^7,E7|A-7,E7|A-7,A7|D-7,G7|C^7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F^7,A7|D-7,D-7/C|Bh7,E7b9|A-7,Ab7|C^7/G,A-7|D-7,G7|C6,A-7|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

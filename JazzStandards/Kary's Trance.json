@@ -1,0 +1,28 @@
+{
+  "Title": "Kary's Trance",
+  "Composer": "Konitz Lee",
+  "Key": "A-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-6|A-6|D-6|D-6|Bh7|E7b9|A-6|A-6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G7|G7|C^7|C^7|B7|B7|E7|E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-6|A-6|D-6|D-6|Bh7|E7b9|A-6|A-6"
+      },
+      "Endings": []
+    }
+  ]
+}

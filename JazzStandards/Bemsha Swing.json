@@ -1,0 +1,14 @@
+{
+  "Title": "Bemsha Swing",
+  "Composer": "Monk Thelonious",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "C,A7|Ab7,Db7|C,Eb7|D7,Db7|C,A7|Ab7,Db7|C,Bb7|Ab7,Gb7|F,D7|Db7,Gb7|F,Ab7|G7,Db7|C,A7|Ab7,Db7|C,Db^7|Db^7"
+      },
+      "Endings": []
+    }
+  ]
+}

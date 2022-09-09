@@ -1,0 +1,28 @@
+{
+  "Title": "Tempus Fugit",
+  "Composer": "Powell Bud",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,A7b9|D-7|A7b9|D-7|G-7,A7b9|D-7|E7,A7b9|D-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eh7|A7#9|D-7|E7#9|A7b13|A7b13|D7b13|D7b13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,A7b9|D-7|A7b9|D-7|G-7,A7b9|D-7|E7,A7b9|D-"
+      },
+      "Endings": []
+    }
+  ]
+}

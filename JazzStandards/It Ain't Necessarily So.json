@@ -1,0 +1,28 @@
+{
+  "Title": "It Ain't Necessarily So",
+  "Composer": "Gershwin George",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,C7|G-7,C7|G-7,C7|G-7,C7|C7,Db7|C7,Db7|A7b9#5,D7#9|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-7,Eb7|Ab^7|A-7,D7|G^7|G-7,C7|F^7|A7|D7b13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,C7|G-7,C7|G-7,C7|G-7,C7|C7,Db7|C7,Db7|A7b9#5,D7#9|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

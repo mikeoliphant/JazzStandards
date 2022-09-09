@@ -1,0 +1,21 @@
+{
+  "Title": "Young At Heart",
+  "Composer": "Richards Johnny",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7,Dbo7|C-7|C-7|F7,C-7|F7,F7#5|Bb^7|Bb^7"
+      },
+      "Endings": [
+        {
+          "Chords": "Dh7,G7b9|Dh7,G7b9|G-7,C7|G-7,C7|F7|C-7,F7|Bb6|C-7,F7"
+        },
+        {
+          "Chords": "Dh7,G7b9|Dh7,G7b9|G-7,C7|Eb^7,Eb-6|Bb^7,G-7|C-7,F7|Bb,Bb/D,Eb6,Eo|C-/F,F7,Bb6,"
+        }
+      ]
+    }
+  ]
+}

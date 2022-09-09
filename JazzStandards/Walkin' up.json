@@ -1,0 +1,28 @@
+{
+  "Title": "Walkin' up",
+  "Composer": "Evans Bill",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,Bb^7|Ab^7,Gb^7|F^7,B13|E^7,A^7#11|Eb^7,Ab^7|Db^7,Gb^7|B^7,E^7|A^7,D^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab7sus|Ab7sus|Ab7sus|Ab7sus|G7sus|G7sus|G7sus|G7sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,Bb^7|Ab^7,Gb^7|F^7,B13|E^7,A^7#11|Eb^7,Ab^7|Db^7,Gb^7|B^7,E^7|A^7,D^7"
+      },
+      "Endings": []
+    }
+  ]
+}

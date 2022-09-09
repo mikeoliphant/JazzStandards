@@ -1,0 +1,21 @@
+{
+  "Title": "Too Young",
+  "Composer": "Lippman-Dee",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6|D-7|G-7|C-7,F7|Bb6|D-7|Eb^7|Dh7,G7|C-7,C-7/Bb|Ah7,D7b9|G-7|D-7,Db7|C-7|F7|D-7,G7|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb6|D-7|G-7|C-7,F7|Bb6|Bb7|Eb6|Dh7,G7|C-7|Eb-7|D-7|G7|C-7|F7|Bb6|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

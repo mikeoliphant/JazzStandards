@@ -1,0 +1,34 @@
+{
+  "Title": "Speak Like A Child",
+  "Composer": "Hancock Herbie",
+  "Key": "A-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C#7alt|C#7alt|G#7alt|E9sus,A-7|Bb13|Bb7#5|Bb-9|Eb13|Ab13sus|Ab13sus,Ab13b9|G7alt|G7alt|Gb^7#11|Gb^7#11|Gbo7|Gbo7|Eb9sus|Eb13|Eb-9|D7#9|Db7alt,C7|F^7,Bb-9"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "A-9|E9sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C#7alt|C#7alt|G#7alt|E9sus,Ah7|Bb13|Bb7#5|A7#9#5|A13b9|Ab13|Ab13b9|G7alt|G7alt|Gb^7#11|Gb^7#11|Gbo7|Gbo7,F-|Db^7#5/F|Db^7#5/F|Gb^7#11|Gb^7#11|C/Db,Bb/C|C/B,Bb-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-9|E9sus"
+      },
+      "Endings": []
+    }
+  ]
+}

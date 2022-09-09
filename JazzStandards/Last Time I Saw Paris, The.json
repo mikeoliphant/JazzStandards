@@ -1,0 +1,28 @@
+{
+  "Title": "Last Time I Saw Paris, The",
+  "Composer": "Mancini Henry",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab6|Ab6|Ab6|Eb7|Bb-7|Eb7|Bb-7,Eb7|Ab6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7,Bb7|Eb^7,C7|F-7,Bb7|Eb^7|G-7,C7|F^7|Bb-7|Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab6|Ab6|Ab6|Eb7|Bb-7|Eb7|Bb-7,Eb7|Ab6"
+      },
+      "Endings": []
+    }
+  ]
+}

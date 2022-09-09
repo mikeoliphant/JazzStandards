@@ -1,0 +1,34 @@
+{
+  "Title": "On The Sunny Side Of The Street",
+  "Composer": "McHugh Jimmy",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C6|E7|F^7|C6/G,E7b9/G#|A-7|D7"
+      },
+      "Endings": [
+        {
+          "Chords": "D-7,G7|E-7,A7,D-7,G7"
+        },
+        {
+          "Chords": "D-7,G7|C6"
+        }
+      ]
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|C7|F^7|F^7|A-7|D7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "C6|E7|F^7|C6/G,E7b9/G#|A-7|D7|D-7,G7|C6,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

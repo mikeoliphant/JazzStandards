@@ -1,0 +1,72 @@
+{
+  "Title": "La Fiesta",
+  "Composer": "Corea Chick",
+  "Key": "A",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "E|F|G,F|E"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E|F|G,F|E"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "E|F|G,F|E"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "E|F|G,F|E"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "A^7,D^7/A|A^7,D^7/A|A^7,D^7/A|A^7,D^7/A"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A^7,C#7|D^7,D#h7|A^7/E,Fo7|F#-7,B7|E7,A^7|D^7|C#-7,F#7"
+      },
+      "Endings": [
+        {
+          "Chords": "B7|E7"
+        },
+        {
+          "Chords": "B7,E7"
+        }
+      ]
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "A^7,B-/A|A^7,D-/A|E-/A,F/A|G,F"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "E|F|G,F"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "A^7,D^7/A|A^7,D^7/A|A^7,D^7/A|A^7,D^7/A"
+      },
+      "Endings": []
+    }
+  ]
+}

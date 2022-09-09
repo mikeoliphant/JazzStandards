@@ -1,0 +1,35 @@
+{
+  "Title": "Nicolette",
+  "Composer": "Wheeler Kenny",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-9|Bb7#9#5|Eb-9|Bb^7#11/A|G^7#11/F#|Go7,A#o7|B-11|E7#9#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E-11,E-11/D|C#h7,Go7|G#h7|C#7#9#5|F#-11|A^7#11/G#|C#^7#11,F#^7#11|B^7#11,D^7#11/E"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "E-9|Bb7#9#5|Eb-9|Bb^7#11/A|G^7#11/F#|Go7,A#o7|B-11|E7b9#11,E13#11|E-11|Bb^7#11/A"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7#11,Eb^7#11|D9sus,B-7"
+      },
+      "Endings": []
+    }
+  ]
+}

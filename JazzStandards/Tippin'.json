@@ -1,0 +1,35 @@
+{
+  "Title": "Tippin'",
+  "Composer": "Silver Horace",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6,G7b9|C-7,C#o7|Bb/D,G7b9|C-7,F7|Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb6,Eo7|Bb/F,G7b9|C7,F7"
+        },
+        {
+          "Chords": "Eb6,Eo7|Bb/F,G-7|C-7,,F7,Bb"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7|D7|Ab-7|Db7|G-7|C7|Ch7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6,G7b9|C-7,C#o7|Bb/D,G7b9|C-7,F7|Bb7|Eb6,Eo7|Bb/F,G-7|C7,,F7,Bb"
+      },
+      "Endings": []
+    }
+  ]
+}

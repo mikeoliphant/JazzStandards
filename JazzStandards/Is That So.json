@@ -1,0 +1,27 @@
+{
+  "Title": "Is That So?",
+  "Composer": "Pearson Duke",
+  "Key": "C",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "F-7,Eb-9|B^7,C#-9|A^7,D^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "G^7|Gb7#5|F13|E7b9|Eb^7|A-7,D7|G^7|C-7,F7|Bb^7|A7#5|Ab13|G7b9|Gb^7|Eb-7,Db-7|A^7,B-9|G^7,C^7|F^7|E7#5|Eb13|D7b9|Db^7|G-7,C7|Ab-7,Db7|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|C-7,Bb-9|Gb^7,Ab-9|E^7,A^7|D^7,F^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

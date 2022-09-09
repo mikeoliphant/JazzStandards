@@ -1,0 +1,21 @@
+{
+  "Title": "All Of A Sudden My Heart Sings",
+  "Composer": "Herpin-Jamblan-Rome",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C|C|G7|G7|C|C7|F|F-|C|F|F|G7|G7|C|C"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-|A-|E-|E-|F|F|E-|A-|D-|F-|C/G|A-|D7|G7|C,F-|C,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

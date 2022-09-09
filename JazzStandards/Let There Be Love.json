@@ -1,0 +1,35 @@
+{
+  "Title": "Let There Be Love",
+  "Composer": "Rand-Grant",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Ab^7|Gh7|C7|Fh7|Bb7|Eb^7,Ab7|G-7,F#o7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7|Bb7|Eb^7,Ab7|G-7,F#o7|F-7|Bb7|G-7,C7b9|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Ab^7|Gh7|C7|Fh7|Bb7|Eb^7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Eb^7|G-7|C9|C9|F-7|Bb7|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

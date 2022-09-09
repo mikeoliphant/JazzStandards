@@ -1,0 +1,28 @@
+{
+  "Title": "Conference Of The Birds",
+  "Composer": "Holland Dave",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "D-,D-,D-,F,F|Bb,Bb,Bb,Eb,Eb"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-,D-,D-,F,F|Bb,Bb,Bb,Eb,Eb|D-,D-,D-,F,F|Bb,Bb,Bb,Eb,Eb|D-,D-,D-,F,F|Bb,Bb,Bb,Eb,Eb|D-,D-,D-/C,G/B,G/B|G/B"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": ""
+      },
+      "Endings": []
+    }
+  ]
+}

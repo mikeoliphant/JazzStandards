@@ -1,0 +1,27 @@
+{
+  "Title": "Intrepid Fox, The",
+  "Composer": "Hubbard Freddie",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|C-7|C-7|C-7|C-7|B^7#11|B^7#11|B^7#11|B^7#11|B^7#11|B^7#11|Bb7sus|Bb7sus|Bb7sus|Bb7sus|A7sus,,F#7sus,Eb7sus|C7sus,,A7sus,F#7sus|F7sus|F7sus|F7sus|F7sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb7sus|Db7sus,Eb7sus|Bb7sus,Db7sus|Eb7sus,F7sus|Bb7sus|Db7sus,Eb7sus|F7sus,G7sus|A7sus"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "C-7|C-7|C-7|C-7|C-7|C-7|B^7#11|B^7#11|B^7#11|B^7#11|B^7#11|B^7#11|Bb7sus|Bb7sus|Bb7sus|Bb7sus|Bb7sus|Bb7sus|F7sus|F7sus|F7sus|F7sus|F7sus|F7sus"
+      },
+      "Endings": []
+    }
+  ]
+}

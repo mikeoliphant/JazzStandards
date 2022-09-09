@@ -1,0 +1,35 @@
+{
+  "Title": "God Bless The Child",
+  "Composer": "Herzog-Holiday",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^,Eb7,Ab6,|Eb^,Eb7,Ab6,|Bb-7,Eb7|Bb-7,Eb7|Ab^7|Ab-6|G-7,C7b9|F-7,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb6|F-7,Bb7"
+        },
+        {
+          "Chords": "Eb6|Dh7,G7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-,C-^7|C-7,C-6|G-7|Dh7,G7b9|C-,C-^7|C-7,C-6|G-7,C7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^,Eb7,Ab6,|Eb^,Eb7,Ab6,|Bb-7,Eb7|Bb-7,Eb7|Ab^7|Ab-6|G-7,C7b9|F-7,Bb7|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

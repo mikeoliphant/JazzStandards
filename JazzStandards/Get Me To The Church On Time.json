@@ -1,0 +1,27 @@
+{
+  "Title": "Get Me To The Church On Time",
+  "Composer": "Lerner Alan",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G6|G6|G6|G6|G6|G6|G6|G6|A-7|D7|A-7|D7|A-7|D7|G6|G6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|C^7|G^7|G^7|A7|A7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "A-7|D7|B-7|E7|A-7|C-7,F7|B-7|E7#9|A-7,D7|B-7,E7#9|A-7|D7|G6|G6"
+      },
+      "Endings": []
+    }
+  ]
+}

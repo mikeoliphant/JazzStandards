@@ -1,0 +1,35 @@
+{
+  "Title": "Monk's Mood",
+  "Composer": "Monk Thelonious",
+  "Key": "Db",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7,,Bb7,C^|C^7|Dh7,G7b9#11|Db^7#11|Bb7,A7b13|E7b9,Eb7#9"
+      },
+      "Endings": [
+        {
+          "Chords": "D7sus,E7sus|D-7,Bb7b9#11"
+        },
+        {
+          "Chords": "Ab7#5,G7|Db^7#11"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7/C,C13b9|G-7/C,F#-7|F#-7,B13b9|E6|Ah,Ab7,G7sus,Abo7|Ah7,F13|F-7,Bb-b6|D-7,Bb7b9#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7,,Bb7,C^|C^7|Dh7,G7b9#11|Db^7|Bb7,A7b13|E7b9,Eb7#9|Ab7#5,G7|Db^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

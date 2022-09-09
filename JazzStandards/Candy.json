@@ -1,0 +1,35 @@
+{
+  "Title": "Candy",
+  "Composer": "David-Whitney-Kramer",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb-6|D-7|Dbo7|C-7|F7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb6|F-7,Bb7"
+        },
+        {
+          "Chords": "Bb6,Eb7|Bb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7|D7|D-7|G7|G-7|C7|C-7|F7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb-6|D-7|Dbo7|C-7|F7|Bb6,Eb7|Bb6"
+      },
+      "Endings": []
+    }
+  ]
+}

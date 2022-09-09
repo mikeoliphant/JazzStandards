@@ -1,0 +1,52 @@
+{
+  "Title": "Butterfly",
+  "Composer": "Hancock Herbie",
+  "Key": "F-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "F-7|F-7,A-7|F-7|F-7,A-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-11|F-11,A-11|F-11|F-11,D-11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb7|A7#9#5|Ab^7/Bb|Ab^7#5/Bb|Ab^7/Bb|Bb13|Eb13sus|Eb13sus|Eb7#9#5|Eb7#9#5|Ab13sus|Ab13sus,Ab13sus,W/C,C7/E|F-7|F-7,A-7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "F-7|F-7,A-7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "F-11|F-11|F-11|F-11"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Bb13|Bb13|Bb13|Bb13"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "A^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Day Waves",
+  "Composer": "Corea Chick",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7|Bb|G-6|E-7,F^7#11|G7,A-|D-7|E7#9|F|F#h7|G7sus|G7sus|Eb7#11/G|Eb7#11/G"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F#h7|F-^7|C/E|B7/D#|G/D|A/C#|F/C|Ab7sus|Ab7,Bb-|Bb-|Eo,Eb^7|Eo,Eb^7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Title": "Pee Wee",
+  "Composer": "Williams Tony",
+  "Key": "Db",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Db^7|Eb/Db|F/Db|D-7|A^7/Eb(Ebh7)|Bb^7/E(Eh7)|B^7/F|B^7/F|G7sus(D-7)|G7alt|F7sus(C-7)|Db^7#11|Gb^7|G7sus|G7alt|Eb^7,Db^7/F|Gb^7#11,(F/Gb)|Db7sus|F/Db|F/Db|F/Db"
+      },
+      "Endings": []
+    }
+  ]
+}

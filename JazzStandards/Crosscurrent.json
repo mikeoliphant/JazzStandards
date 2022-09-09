@@ -1,0 +1,35 @@
+{
+  "Title": "Crosscurrent",
+  "Composer": "Tristano Lennie",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,D7#5|G-7,C7|A-7,D7b9|G-7,C7|F^7,F7|Bb^7,Bo7|C7sus,C7|F^7,C7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7,Ab7|G-7,C7|F6,D7b9|G-7,C7|F^7,F7|C7#11(Bb^7),(Bo7)|(C|us,(C7)|us,(C7)|F^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": ")",
+      "MainSegment": {
+        "Chords": "Bb-7|A^7#11|Ab-7|G^7#11|Gb^7|B7,D7|G-7|C7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F^7,D7b9|G-7,C7|A-7,D7b9|G-7,C7|F^7,F7|C7#11(Bb^7),(Bo7)|(C7sus)x,(C7)|F^7#11,C7#5"
+      },
+      "Endings": []
+    }
+  ]
+}

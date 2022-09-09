@@ -1,0 +1,21 @@
+{
+  "Title": "Mood Indigo",
+  "Composer": "Ellington Duke",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab^7|Bb7|Eb-7,Eb7#5|Ab^7|Ab^7|Bb7|E7|Eb7|Ab^7|Ab7|Db6|Gb7|Ab^7|Bb7|Eb-7,Eb7#5|Ab^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7,F7|Bb7|Bb-7,Eb7|Ab^7,Eb7|Ab^7,F7|Bb7|E7|Eb7|Ab^7|Ab7|Db6|Gb7|Ab^7,F7|Bb7|Bb-7,Eb7|Ab6,Eb7"
+      },
+      "Endings": []
+    }
+  ]
+}

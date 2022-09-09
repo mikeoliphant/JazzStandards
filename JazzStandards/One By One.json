@@ -1,0 +1,35 @@
+{
+  "Title": "One By One",
+  "Composer": "Shorter Wayne",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|Bb^7|Bb^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ah7,D7b13|G-7,,(F-7),(Bb7)|C-7(Eb),(C-7)F7(F7)|Bb^7|A7#9,Ab7|G-7,Bb7/F|Eh7,D7b13|G-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E7#9,A7#9|D-7,Bh7|Eh7,A7b9|D-7,Bb7|A7#9,Ab7|G-7,Bb7/F|Eh7,D7b13|G-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ah7,D7b13|G-7,,(F-7),(Bb7)|C-7(Eb),(C-7)F7(F7)|Bb^7|A7#9,Ab7|G-7,Bb7/F|Eh7,D7b13|G-7"
+      },
+      "Endings": []
+    }
+  ]
+}

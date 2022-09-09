@@ -1,0 +1,35 @@
+{
+  "Title": "Under A Blanket Of Blue",
+  "Composer": "Livingston Jerry",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-7|Eb7#5|Ab^7,C-7|F7|Bb-7|Eb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Ab^7|F7(Ao7)"
+        },
+        {
+          "Chords": "Ab^7,Db-6|Ab6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab7,Eb-7|Ab7|Db^7|Db^7|Bb7,F-7|Bb7|F-7,Bb7|Eb7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-7|Eb7#5|Ab^7,C-7|F7|Bb-7|Eb7|Ab^7,Db-6|Ab6"
+      },
+      "Endings": []
+    }
+  ]
+}

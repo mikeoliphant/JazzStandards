@@ -1,0 +1,41 @@
+{
+  "Title": "Corcovado",
+  "Composer": "Jobim Antonio-Carlos",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D7/A|D7/A|Abo7|Abo7|G-7|C7|Fo7,F^7|F^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7|Bb7|E-7|A7b13|D7|D7|D-7|Abo7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D7/A|D7/A|Abo7|Abo7|G-7|C7|Fo7,F^7|F^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F-7|Bb7#11|E-7|A-7|D-7|G7|E-7|A7b13|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "C6"
+      },
+      "Endings": []
+    }
+  ]
+}

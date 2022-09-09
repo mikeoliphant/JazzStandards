@@ -1,0 +1,34 @@
+{
+  "Title": "Sophisticated Lady",
+  "Composer": "Ellington Duke",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-7|Gb7,F7,E7,Eb7|Ab^7|Ab7,G7,Gb7,F7|Bb7|Bb-7,Eb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Ab6|Ch7,F7b9"
+        },
+        {
+          "Chords": "Ab6|Ah7,D7"
+        }
+      ]
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,E-7|A-7,D7|B-7,E7b9|A-7,D7b9|G^7,E-7|A-7,D7|G^7,C-7|Bb-7,,Ch,F7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Bb-7|Gb7,F7,E7,Eb7|Ab^7|Ab7,G7,Gb7,F7|Bb7|Bb-7,Eb7|Ab6|Ch7,F7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

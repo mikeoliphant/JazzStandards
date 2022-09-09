@@ -1,0 +1,25 @@
+{
+  "Title": "Nacada",
+  "Composer": "Metheny Pat",
+  "Key": "G",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "G^9,E-9|Eb^7#11,B7#9#5|E-9,A13|Ab^9,Db9#11,Ch7,F7#9"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "E^9,A13|D^7,B-7|Bb^7,Eb9#11|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D^7,B-7|Bb^7,Eb9#11|D^7"
+      },
+      "Endings": []
+    }
+  ]
+}

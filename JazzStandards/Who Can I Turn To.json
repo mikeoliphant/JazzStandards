@@ -1,0 +1,35 @@
+{
+  "Title": "Who Can I Turn To",
+  "Composer": "Newley-Bricusse",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|F-7|Bb7|Eb^7,F-7|G-7,Ab^7|Bb-7|Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7|Ah7,D7#9|G-7|C-7|F-7,F#o7|G-7,C7|F-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|F-7|Bb7|Eb^7,F-7|G-7,Ab^7|Bb-7|Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Ab^7|Dh7,G7b9|C-7|F7,F#o7|Eb/G,Gbo7|F-7,Bb7|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

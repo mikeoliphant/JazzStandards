@@ -1,0 +1,34 @@
+{
+  "Title": "Satin Doll",
+  "Composer": "Strayhorn-Ellington",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7,G7|D-7,G7|E-7,A7|E-7,A7|A-7,D7|Ab-7,Db7"
+      },
+      "Endings": [
+        {
+          "Chords": "C^7,F7|E-7,A7"
+        },
+        {
+          "Chords": "C^7|C^7"
+        }
+      ]
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,C7|G-7,C7|F^7|F^7|A-7,D7|A-7,D7|G7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D-7,G7|D-7,G7|E-7,A7|E-7,A7|A-7,D7|Ab-7,Db7|C^7,F7|E-7,A7"
+      },
+      "Endings": []
+    }
+  ]
+}

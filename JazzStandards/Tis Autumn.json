@@ -1,0 +1,35 @@
+{
+  "Title": "Tis Autumn",
+  "Composer": "Nemo Henry",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7|Bb7#5|Eb^7,F-7|G-7,C7b9|F-7,Db7#11|C-7,F7|F-7,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb6,C7#9"
+        },
+        {
+          "Chords": "Eb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-7,Eb7|Bb-7,Eb7|Ab6,Eb7b9#5|Ab6|C-7,F7|C-7,F7|F-7,C7#9#5|F7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7|Bb7#5|Eb^7,F-7|G-7,C7b9|F-7,Db7#11|C-7,F7|F-7,Bb7|Eb6,C7b9#5"
+      },
+      "Endings": []
+    }
+  ]
+}

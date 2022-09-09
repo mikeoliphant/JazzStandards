@@ -1,0 +1,28 @@
+{
+  "Title": "Lyresto",
+  "Composer": "Burrell Kenny",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|G-7,C7|F-7|Bb7|Eb^7|G-7,C7|Ab-7|Db7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": ""
+      },
+      "Endings": [
+        {
+          "Chords": "G-7|F#-7,B7|F-7|F-7,Bb7|G-7|C7|F-7|Bb7"
+        },
+        {
+          "Chords": "Bb-7|Eb7|Ab-7|Db7|Eb^7,C7#5|F-7,Bb7|Eb^7,C7#5|F-7,Bb7"
+        }
+      ]
+    }
+  ]
+}

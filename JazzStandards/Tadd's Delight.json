@@ -1,0 +1,35 @@
+{
+  "Title": "Tadd's Delight",
+  "Composer": "Dameron Tadd",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-7|Bb-7,Eb7b9|Ab^7|Ch7,F7|Bb-7|Bb-7,Eb7b9|Ab^7|Eb-7,Ab7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Db^7|Gb7#11|Ab^7|F7b9|Bb7#11|Bb7#11|Eb7|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-7|Bb-7,Eb7b9|Ab^7|Ch7,F7|Bb-7|Bb-7,Eb7b9|Ab^7|Eb-7,Ab7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Db^7|Gb7#11|Ab^7|C-7,F7|F-7,Bb7|Bb-7,Eb7|Ab^7|F7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "Scene",
+  "Composer": "Harrell Tom",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|F-7|Bb-7|Eb-7|Ab-7|Db-7|F#-7|B-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A^7|G^7#11|D^7#11|B-7|Ab-7|G^7|F#-7|F^7|C^7|C^7|A/B|A/B"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|F-7|Bb-7|Eb-7|Ab-7|Db-7|F#-7|B-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "A^7|D-7|C^7|B-7|C-7|Bb^7|A-7/D|A-7/D|G^7|G^7"
+      },
+      "Endings": []
+    }
+  ]
+}

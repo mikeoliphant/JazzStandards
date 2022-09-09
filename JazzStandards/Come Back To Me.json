@@ -1,0 +1,35 @@
+{
+  "Title": "Come Back To Me",
+  "Composer": "Alan Lerner, Burton Lane",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|C7|G-7|C7|F^7|Bb^7"
+      },
+      "Endings": [
+        {
+          "Chords": "A-7|D7"
+        },
+        {
+          "Chords": "F^7|Bh7,E7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7|Bh7,E7|A-7|Bh7,E7|A-7|D7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|C7|Ah7|D7|G-7|C7|F^7|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

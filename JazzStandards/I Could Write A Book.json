@@ -1,0 +1,35 @@
+{
+  "Title": "I Could Write A Book",
+  "Composer": "Rodgers Richard",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,A-7|D-7,G7|C^7,A-7|D-7,G7|C^7,D-7|E-7,A7#9|D-7|Bh7,E7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7|Ab7,G7|F#h7,B7b9|E-7,A7|A-7|D7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,A-7|D-7,G7|C^7,A-7|D-7,G7|C^7,D-7|E-7,A7#9|D-7|Bh7,E7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "A-7|Ab7|Gh7,C7b9|F^7,Bb7|E-7,A7|D-7,G7|C6|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Who Cares",
+  "Composer": "Gershwin George",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|F7#11|E7b13|E7b13|A7b13|A7b13|D-7|G7|E-7,F-7|E-7,Ebo7|D-7|G7|E-7|A-7|Eb-7,Ab7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|F7#11|E7b13|E7b13|A-7|A-7|D7|D#o7|E-7|F7|E-7|A7|D-7|G7|C6|C6"
+      },
+      "Endings": []
+    }
+  ]
+}

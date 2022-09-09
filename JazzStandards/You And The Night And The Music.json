@@ -1,0 +1,28 @@
+{
+  "Title": "You And The Night And The Music",
+  "Composer": "Schwartz Arthur",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-|Dh7,G7b9|C-,C7b9|F-7|Dh7|G7b9|C^7|C^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab7|Ab7|G7|G7|Ab7|Ab7|G7,Ab7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-|Dh7,G7b9|C-,C7b9|F-7|Dh7,G7b9|C-,Ah7|Dh7,G7b9|C-"
+      },
+      "Endings": []
+    }
+  ]
+}

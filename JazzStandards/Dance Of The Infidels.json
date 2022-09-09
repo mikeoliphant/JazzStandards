@@ -1,0 +1,21 @@
+{
+  "Title": "Dance Of The Infidels",
+  "Composer": "Powell Bud",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "F^7|F-7(Bb-7),Bb7(Eb7)|A-7,G-7|F#-7,B7|F-7|Bb7|A-7,D7|Ab-7,Db7|G-7|Db-7,Gb7|F^7/C|F^7/C|F^7/C|F^7/C"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F-7(Bb-7),Bb7(Eb7)|A-7,G-7|F#-7,B7|F-7|Bb7|A-7,D7|Ab-7,Db7|G-7|Db-7,Gb7|F^7|F^7"
+      },
+      "Endings": []
+    }
+  ]
+}

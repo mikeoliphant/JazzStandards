@@ -1,0 +1,35 @@
+{
+  "Title": "Warm Valley",
+  "Composer": "Ellington Duke",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|E7|Eb7,,Eh,A7|D7|Dh7,G7b9|Ch7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb^7,F7sus|Bb^7,F7#9"
+        },
+        {
+          "Chords": "Bb^7,F7sus|Bb^7,B7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E^7,C#-7|G#-7,Go7|F#-7,B7|B-7,E7|A^7|Eh7,A7|D^7,C#h7|Ch7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|E7|Eb7,,Eh,A7|D7|Dh7,G7b9|Ch7|Bb^7,F7sus|Bb^7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

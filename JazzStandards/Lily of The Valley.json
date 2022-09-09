@@ -1,0 +1,21 @@
+{
+  "Title": "Lily of The Valley",
+  "Composer": "Traditional",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F|F|C7|F|F|F|C7|F"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F|Bb7|G-7|C7|F|Bb7|F6,D-7|G7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

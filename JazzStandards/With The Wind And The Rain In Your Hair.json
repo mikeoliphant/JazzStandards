@@ -1,0 +1,34 @@
+{
+  "Title": "With The Wind And The Rain In Your Hair",
+  "Composer": "Edwards Clare",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Eb^7,G7b9/D|C-7,C-7/Bb|Ah7,D7b9|G-7,Eb7|Ab^7|Db7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb^7,C7|F-7,Bb7"
+        },
+        {
+          "Chords": "Eb6|Eb6"
+        }
+      ]
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ebo7|Ebo7|Eb^7,F-7|G-7,G7b9|C-7|F7|F-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Dh7,G7b9|C-7,C-7/Bb|Ah7,D7b9|G-7,Eb7|Ab^7|Db7|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

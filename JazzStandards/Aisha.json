@@ -1,0 +1,41 @@
+{
+  "Title": "Aisha",
+  "Composer": "Tyner McCoy",
+  "Key": "A-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-9|G-9|A-9|F-9|F-7,Bb7|G-7,C7|A-7,D7b9"
+      },
+      "Endings": [
+        {
+          "Chords": "G7,C7,F-,E7"
+        },
+        {
+          "Chords": "G-7,C7,B-7,E7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A^7,D7#11|A^7,D7#11|Db^7,Gb7#11|Db^7,Gb7#11|B^7,E7#11|B^7,E7#11|Eb^7,Gb^7|A^7,,B-7,E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-9|G-9|A-9|F-9|F-7,Bb7|G-7,C7|A-7,D7b9|G7,C7,F-,E7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "G-7,C7,F-7,Bb7|Eb-7,Ab7,Gb13,"
+      },
+      "Endings": []
+    }
+  ]
+}

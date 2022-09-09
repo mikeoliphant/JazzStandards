@@ -1,0 +1,35 @@
+{
+  "Title": "Softly, As In A Morning Sunrise",
+  "Composer": "Romberg Sigmund",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|Dh7,G7b9|C-7|Dh7,G7b9|C-7|Dh7,G7b9"
+      },
+      "Endings": [
+        {
+          "Chords": "C-7|Dh7,G7b9"
+        },
+        {
+          "Chords": "C-7|F-7,Bb7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|C7b9|C7b9|F-7|F#o7|Dh7|G7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|Dh7,G7b9|C-7|Dh7,G7b9|C-7|Dh7,G7b9|C-7|Dh7,G7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

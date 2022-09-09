@@ -1,0 +1,20 @@
+{
+  "Title": "Ma Belle Hélène",
+  "Composer": "Wheeler Kenny",
+  "Key": "C",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Ab/G|Ab/G|E/F#|E/F#|C/F|C/F|Ab/Bb|Ab/Bb|G/Eb|G/Eb|Eb/D|Eb/D|B/C#|B/C#|G/F#|G/F#|F#/B|Bb/B|D/Ab|C/Ab|Gb/Ab|Gb/Ab|Gb/Ab|Gb/Ab"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A/G#|A/G#|F/G|F/G|C#/F#|C#/F#|A/B|A/B|Ab/E|Ab/E|E/Eb|E/Eb|C/D|C/D|Ab/G|Ab/G|G/C|B/C|D#/A|C#/A|G/A|Bb/A|D-11|D-11"
+      },
+      "Endings": []
+    }
+  ]
+}

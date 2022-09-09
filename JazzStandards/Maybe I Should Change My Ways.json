@@ -1,0 +1,20 @@
+{
+  "Title": "Maybe I Should Change My Ways",
+  "Composer": "Ellington Duke",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Ch7,F13b9|Bb^7|Eb13,D7b13|G9|C13,B13|Bb13|Eb^7|Eb^7|Eb^7|Eb-6,Ab7|Bb^7|D-7,Db7#11|Ch7"
+      },
+      "Endings": [
+        {
+          "Chords": "G7,,C7,F7|Bb^7|Bb^7"
+        },
+        {
+          "Chords": "G7,,C7,F7|Bb6|Bb6"
+        }
+      ]
+    }
+  ]
+}

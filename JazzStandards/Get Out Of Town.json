@@ -1,0 +1,21 @@
+{
+  "Title": "Get Out Of Town",
+  "Composer": "Porter Cole",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-|G-|G-6|G-6|G-6|G-6|Dh7|G7b9|C-7|F7|Bb^7|Dbo7|C-7|Eh7,A7b9|Ah7|D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-|G-|G-6|G-6|G-6|G-6|Dh7|G7b9|C-7|Eb-7,Ab7|Bb^7,Eb7|Dh7,G7b9|C-7|Ch7,F7b9|Bb6|Ah7,D7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

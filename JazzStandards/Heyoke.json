@@ -1,0 +1,20 @@
+{
+  "Title": "Heyoke",
+  "Composer": "Wheeler Kenny",
+  "Key": "F",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "F^7|F^7|B-7|C#7|F#-7|F#-7|Bb-7|A^7|Ab^7|Ab^7|B^7|B^7|D^7|G^7"
+      },
+      "Endings": [
+        {
+          "Chords": "F^7,A^7|Db^7,Gb^7"
+        },
+        {
+          "Chords": "F#-7|Eb-11|A^7#11/Ab|A^7#11/Ab|Ab7sus|Ab7sus"
+        }
+      ]
+    }
+  ]
+}

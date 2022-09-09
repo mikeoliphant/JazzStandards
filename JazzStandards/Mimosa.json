@@ -1,0 +1,28 @@
+{
+  "Title": "Mimosa",
+  "Composer": "Benson George",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "F-9|F^9|F-9|F^9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-9|Bb13/F|Db7#11|C7b9|F-9|Bb13/F|Db7#11|C7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7|D-7|G-7|C7|A7|D-7|G-7|C7|F-9|F^9|F-9|F^9"
+      },
+      "Endings": []
+    }
+  ]
+}

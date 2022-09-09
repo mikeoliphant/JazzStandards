@@ -1,0 +1,35 @@
+{
+  "Title": "Aren't You Glad You're You",
+  "Composer": "Van-Heusen Jimmy",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,F^7/A|Bb6,Bo7|C7|F6|C7|F6,D7|G7|C,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,F^7/A|Bb6,Bo7|A^7,E7|A^7|B-7,E7|A^7,F#-7|B-7,E7|A^7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb^7|Bb-7,Eb7|Ab^7|G-7,C7|F^7,D-7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,F^7/A|Bb6,Bo7|C7|F6|C7|F6,D7|G-7,C7|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

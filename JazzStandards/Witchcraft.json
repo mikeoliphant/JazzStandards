@@ -1,0 +1,28 @@
+{
+  "Title": "Witchcraft",
+  "Composer": "Coleman Cy",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6|F6|Abo7|Abo7|G-7|C7sus|F^7|C-7,F7|Bb^7|Bb^7|Bb-7|Eb7|Ab6|G7b9|C7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7|F^7|Bb7#11|Bb7#11|F^7|F^7|Bh7|E7b9|A-7|F/A|A-6|F/A,A-|G-7|Eb/G|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F6|F6|Abo7|Abo7|G-7|C7|F6|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

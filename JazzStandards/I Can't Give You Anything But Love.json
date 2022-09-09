@@ -1,0 +1,35 @@
+{
+  "Title": "I Can't Give You Anything But Love",
+  "Composer": "McHugh Jimmy",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,C7|A-7,Abo7|G-7|C7|F^7,C7|A-7,Abo7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb^7|Bb^7|G7|G7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,C7|A-7,Abo7|G-7|C7|C-7|F7|Bb^7|Bb^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Bb^7|Eb7|F^7|D7|G-7|C7|F6,D7|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

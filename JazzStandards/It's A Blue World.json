@@ -1,0 +1,35 @@
+{
+  "Title": "It's A Blue World",
+  "Composer": "Wright-Forrest",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-9|G-9,G-9,C7#5|F^9|F^9|C-9|C-9,C-9,F7#5|Bb^9|Bb^9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb^9|Bb-9,C7b9|F^7|F7|Bb-7|Db7|C7,Bb-6|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-9|G-9,G-9,C7#5|F^9|F^9|C-9|C-9,C-9,F7#5|Bb^9|Bb^9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Bb^9|Bb-9,Eb7|F^7,G-7|Ah7,D7|G7|G-7,C7|F6|Ah7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

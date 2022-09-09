@@ -1,0 +1,28 @@
+{
+  "Title": "I Cried For You",
+  "Composer": "Freed-Arnheim-Lyman",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|A-7,D7|D-7/G|G7|G-7|C7|F6,C7#5|F6|F^7|A-7,D7|G-7|C7|C7|C7|G#o7|C7/G,Gb7b5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7|A-7,D7|D-7/G|G7|G-7|C7,Bb7|A7|A7|D7|D7|D7|D7|G7|G7|G7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|A-7,D7|D-7/G|G7|G-7|C7|F6|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

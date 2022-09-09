@@ -1,0 +1,28 @@
+{
+  "Title": "Angel Eyes",
+  "Composer": "Dennis Matt",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-,,D7,Db7(G7)|C-,Ab7|C-,Ah7|Dh7,G7b9|C-,,D7,Db7(G7)|C-,A7alt|Ab7,G7b9|C-,,(Dh),(G7)"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-7,Eb7|Ab^7,F7|Bb-7,Eb7|Ab^7|A-7,D7|G^7|C#-7,F#7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-,,D7,Db7(G7)|C-,Ab7|C-,Ah7|Dh7,G7b9|C-,,D7,Db7(G7)|C-,A7alt|Ab7,G7b9|C-,,(Dh),(G7)"
+      },
+      "Endings": []
+    }
+  ]
+}

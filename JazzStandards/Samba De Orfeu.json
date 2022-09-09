@@ -1,0 +1,28 @@
+{
+  "Title": "Samba De Orfeu",
+  "Composer": "Bonfa Luiz",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|C^7|C^7|C^7|C^7,F7#11|E-7,A7|D-7|G7|D-7(Eb-7)|G7(Ab7)|D-7(Eb-7)|G7(Ab7)|D-7|G7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb7#11,A7|D-7,G7"
+        },
+        {
+          "Chords": "C^7|C^7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|C7|F^7|F^7|F-7|Bb7|Eb^7|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

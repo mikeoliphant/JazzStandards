@@ -1,0 +1,13 @@
+{
+  "Title": "Summer Band Camp",
+  "Composer": "Goodrick Mick",
+  "Key": "C",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "C^7/G|C^7/G|Ab^7#11/G|Ab^7#11/G|Gb^7#11|Gb^7#11|D^7#11/F#|D^7#11/F#|Bb7/F|Bb7|E^7#11/G#|E^7#11/G#|Db^7/Ab|Db^7/Ab|F7/A|F7|B^7/Bb|B^7/Bb|G7sus|G7sus|Eb^7/G|Eb^7/G|A7/G|A7/G"
+      },
+      "Endings": []
+    }
+  ]
+}

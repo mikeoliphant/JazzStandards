@@ -1,0 +1,28 @@
+{
+  "Title": "Woody'n You",
+  "Composer": "Gillespie Dizzy",
+  "Key": "Db",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Gh7|C7b9|Fh7|Bb7b9|Ebh7|Ab7b9|Db^7|Db^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab-7,Db7|Ab-7(A-7),Db7(D7)|Ab-7,Db7|Gb^7|Bb-7,Eb7|Bb-7(B-7),Eb7(E7)|Bb-7,Eb7|Ab^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Gh7|C7b9|Fh7|Bb7b9|Ebh7|Ab7b9|Db^7|Db^7"
+      },
+      "Endings": []
+    }
+  ]
+}

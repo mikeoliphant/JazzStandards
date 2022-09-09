@@ -1,0 +1,35 @@
+{
+  "Title": "Young And Foolish",
+  "Composer": "Hague Albert",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,A-7|D-7,G7|C^7|G-7,C7|F^7|Eh7,A7b9|D-7|G7sus,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|Ebo7|C/E,E7b13|A-7|A-7|D7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,A-7|D-7,G7|C^7|G-7,C7|F^7|Eh7,A7b9|D-7|G7sus,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C^7|E7b13|A-7|D7,D#o7|C^7/E,A7b13|D-7,G7|C6|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

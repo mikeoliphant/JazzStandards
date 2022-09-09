@@ -1,0 +1,14 @@
+{
+  "Title": "Bluesette",
+  "Composer": "Thielemans Toots",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|Ah7|D7b9|G-7|C7|F-7|Bb7|Eb^7|Eb^7|Eb-7|Ab7|Db^7|Db^7|C#-7|F#7|B^7|B^7|C-7|F7|D-7|G7|C-7|F7"
+      },
+      "Endings": []
+    }
+  ]
+}

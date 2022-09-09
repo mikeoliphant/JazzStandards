@@ -1,0 +1,21 @@
+{
+  "Title": "E.S.P.",
+  "Composer": "Shorter Wayne",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E7alt|E7alt|F^7|F^7|E7alt|E7alt|Eb^7#11|Eb^7#11|D7alt|Eb7#11|E7alt|F^7,Eb^7"
+      },
+      "Endings": [
+        {
+          "Chords": "D-7|G7|G-7|Gb7"
+        },
+        {
+          "Chords": "Db7#11|G-7|Db-7,Gb7|F^7"
+        }
+      ]
+    }
+  ]
+}

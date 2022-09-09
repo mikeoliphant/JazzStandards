@@ -1,0 +1,34 @@
+{
+  "Title": "I Only Have Eyes For You",
+  "Composer": "Warren Harry",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|G7|D-7|G7|C^7"
+      },
+      "Endings": [
+        {
+          "Chords": "C^7,F7|E-7|Eb-7,Ab7"
+        },
+        {
+          "Chords": "C^7,E7#5|A7|A7"
+        }
+      ]
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "D-7|G7,G7/F|E-7|A7|Dh7|G7|E-7|Eb-7,Ab7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D-7|G7|D-7|G7|C^7|F7|Bb7#11|A7b9|D-7|G7|C6|E-7,A7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

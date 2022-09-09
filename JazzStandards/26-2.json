@@ -1,0 +1,35 @@
+{
+  "Title": "26-2",
+  "Composer": "Coltrane John",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,Ab7|Db^7,E7|A^7,C7|C-7,F7|Bb^7,Db7|Gb^7,A7|D-7,G7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,Ab7|Db^7,E7|A^7,C7|C-7,F7|Bb^7,Ab7|Db^7,E7|A^7,C7|F^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7,F7|E-7,A7|D^7,F7|Bb^7|Eb-7|Ab7|Db^7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,Ab7|Db^7,E7|A^7,C7|C-7,F7|Bb^7,Ab7|Db^7,E7|A^7,C7|F^7"
+      },
+      "Endings": []
+    }
+  ]
+}

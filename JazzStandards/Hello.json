@@ -1,0 +1,35 @@
+{
+  "Title": "Hello",
+  "Composer": "Jackson Milt",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7,,B-7,E7|A-7,D7|G^7,C7|B-7,E-7|A-7,,B-7,(A-7/C)"
+      },
+      "Endings": [
+        {
+          "Chords": "A-7,D7b9|G^7,A-7|B-7,E-7"
+        },
+        {
+          "Chords": "A-7|D7|D-7,G7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|G,,F#h,B7|E-7|D-7,G7|C^7|G,,F#h,B7|E-7,A7|A-7,,B-7,E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7,,B-7,E7|A-7,D7|G^7,C7|B-7,E-7|A-7,B-7|A-7,D7|G^7,C-6|B-7,E7"
+      },
+      "Endings": []
+    }
+  ]
+}

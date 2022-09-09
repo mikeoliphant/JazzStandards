@@ -1,0 +1,35 @@
+{
+  "Title": "Brilliant Corners",
+  "Composer": "Monk Thelonious",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "Bb^7,Db7|Db7|Bb^7,Db7|Db7,Gb7,F7#11,"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb,D7,Db7,|Gb7,F7#11|Bb,Ab7|Gb7,F7#11|Bb,D7,Db7,|Gb7,F7#11|Bb|Bb"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7,D7|D-7,G7,Gb7,|B7,E7|E-7,A7|Ab7|G7,Gb7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb,D7,Db7,|Gb7,F7#11|Bb,Ab7|Gb7,F7#11|Bb,D7,Db7,|Gb7,F7#11|Bb"
+      },
+      "Endings": []
+    }
+  ]
+}

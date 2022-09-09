@@ -1,0 +1,28 @@
+{
+  "Title": "Along Came Betty",
+  "Composer": "Golson Benny",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-7|B-7,E7|Bb-7|B-7,E7|A^7|Ab7|G^7|Gb7|F#-7|G-7,C7|F#-7|G-7,C7|F^7|A7b9|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|F7|Ah7,D7b9|G-7,G-7/F|Eh7|A7b9|F-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Bb-7|B-7,E7|Bb-7|B-7,E7|Ch7|F7b13|Bbh7|Eb7#9|Ab^7|B-7,E7"
+      },
+      "Endings": []
+    }
+  ]
+}

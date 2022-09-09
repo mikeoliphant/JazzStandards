@@ -1,0 +1,19 @@
+{
+  "Title": "Just A Gigolo",
+  "Composer": "Casucci Leonello",
+  "Key": "F",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "F|F^7|F,Abo7|G-7,D7|G-|G-7|C7|F"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "F7|Eb7|D7|G-7|Bb-7,Eb7|A-7,D7|G-7,C7|F,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

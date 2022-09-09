@@ -1,0 +1,35 @@
+{
+  "Title": "Tones For Joan's Bones",
+  "Composer": "Corea Chick",
+  "Key": "D",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "E-7|E-7|E-7|E-7|Eh7|Eh7|Eh7|Eh,Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D^7|D^7|G-7/D|G-7/D|D7#9|D7#9,D7#9,F7b9,|Bb^7,Ab-7|Gb^7,F7|Bbh7|Bbh7|Eb7#9|Eb7#9|Ab-7|Ab-7/Gb|Fh7|E^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb^7|Gb^7|F^7|Ab^7|C^7|Eb^7|Db-^7|Db-^7,Db-^7,A7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D^7|D^7|G-7/D|G-7/D|D7#9|D7#9,D7#9,F7b9,|Bb^7|Bb^7|E-7|A7,Bbo7|B-7|E7|E-7,F#-7|F-7,Bb7|Eb^7,D-7|C-7,F7|E-7,F#-7|G^7,A7b9|Eb^7#11|Eb^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

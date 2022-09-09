@@ -1,0 +1,20 @@
+{
+  "Title": "502 Blues",
+  "Composer": "Rowles Jimmy",
+  "Key": "A-",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "A-7|Db^7|Bh7|E7#9|A-7|Db^7|Bh7|E7#9|C-7|F7b9|Bb^7|Ab-7,Db7"
+      },
+      "Endings": [
+        {
+          "Chords": "F#h7|B7b9|E^7#5|E^7#5,E7"
+        },
+        {
+          "Chords": "F#h7|B7b9|E-7|E-7"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Title": "Lennie-Bird",
+  "Composer": "Tristano Lennie",
+  "Key": "G",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "G^7|G^7|G-7|C7|F^7|F^7|F-7|Bb7|Eb6|A7b9|D7b9|D7b9|B-7,E-7|A-7,D7|G^7,E-7|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

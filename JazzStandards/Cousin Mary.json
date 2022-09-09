@@ -1,0 +1,14 @@
+{
+  "Title": "Cousin Mary",
+  "Composer": "Coltrane John",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab7|Ab7|Ab7|Ab7|Db7|Db7|Ab7|Ab7|D7|Db7|Ab7|Ab7"
+      },
+      "Endings": []
+    }
+  ]
+}

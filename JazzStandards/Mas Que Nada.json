@@ -1,0 +1,35 @@
+{
+  "Title": "Mas Que Nada",
+  "Composer": "Ben Jorge",
+  "Key": "F-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7,Bb7|F-7,Bb7|Bb-7|Eb7|F-7|C7sus|F-7,Bb7|F-7,Bb7|F-7,Bb7|F-7,,C-,B-|Bb-7|Eb7|F-7|C7sus|F-7|C7#9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7|C7#9|F-7|C7#9|F-7|C7#5|F-7,Bb7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Bb-7|Eb7|Ab6|Ab6|Bb7/D|Eb7/Db,C7#9|F-7|C7#9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "F-7|C7#9|F-7|C7#9|F-7|C7#5|F-7,Bb7|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

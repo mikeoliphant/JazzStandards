@@ -1,0 +1,35 @@
+{
+  "Title": "April In Paris",
+  "Composer": "Duke Vernon",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G7b9sus|C^7|Dh7|G7b9|C^7|C^7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7|F^7|Bh7,E7|A-,A-/G|F#h7|B7b9|B-7,E7|Eh7,A7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F#h7,Fo7|C/E,Ebo7|Dh7,G7b9|C6|Bh7,E7|A-,A-/G|F#h7,B7b9|E^7,,D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "G7b9sus|C^7|Eh7|A7b9|D7|Dh7,G7|C6|C6"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "Bye Bye Blues",
+  "Composer": "Hamm-Bennett-Lown-Gray",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C|C|Ab7|Ab7|C|C|A7|A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D7|D7|G7|G7|C|Co7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C|C|Ab7|Ab7|C|C|A7|A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "D7|D7|G7|G7|C|Ab7|C|C"
+      },
+      "Endings": []
+    }
+  ]
+}

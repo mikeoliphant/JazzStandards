@@ -1,0 +1,48 @@
+{
+  "Title": "I Mean You",
+  "Composer": "Monk Thelonious",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "Eb7|Eb7|Eb7|Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6|F6|Db7|D7|G-7|C7|F6|F6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb7|Eb7|F6|F6|Db7|Db7|Gb7|Gb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6|F6|Db7|D7|G-7|C7|F6|F6"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "F6|F6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb7|Eb7|Eb7|Eb7"
+      },
+      "Endings": []
+    }
+  ]
+}

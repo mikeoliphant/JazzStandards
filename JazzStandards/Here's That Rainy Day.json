@@ -1,0 +1,35 @@
+{
+  "Title": "Here's That Rainy Day",
+  "Composer": "Van-Heusen Jimmy",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-(G^7),G-^7/F#|F-6(Bb7),Bb7|Eb^7|Ab^7|A-7|D7|G^7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb^7|Eb^7|A-7|D7|G^7,E-7|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-(G^7),G-^7/F#|F-6(Bb7),Bb7|Eb^7|Ab^7|A-7|D7|G^7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C^7|A-7,D7|B-7,E-7|A7|A-7|D7|G6,E-7|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

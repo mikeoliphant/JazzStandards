@@ -1,0 +1,35 @@
+{
+  "Title": "Where Are You?",
+  "Composer": "McHugh Jimmy",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,C7|B-7,Bbo7|A-7,D7sus|G^7,E-7|A7,Bbo7|B-7,E7|A-7,D7"
+      },
+      "Endings": [
+        {
+          "Chords": "B7,E7,A-7,D7"
+        },
+        {
+          "Chords": "G6,D-7,G7,"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7,A-7|F#-7,B7|E-7,A-7,D7,|G^7,D-7,G7,|C^7,A-7|F#-7,B7|E-7,A7|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,C7|B-7,Bbo7|A-7,D7sus|G^7,E-7|A7,Bbo7|B-7,E7|A-7,D7|G6,A-7,D7,"
+      },
+      "Endings": []
+    }
+  ]
+}

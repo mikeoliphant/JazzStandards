@@ -1,0 +1,29 @@
+{
+  "Title": "Maybe September",
+  "Composer": "Faith Percy",
+  "Key": "A-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-|A-^7|Bh7|E7b9|A-7|A-7|G7sus|G7"
+      },
+      "Endings": [
+        {
+          "Chords": "1C^7,,Bh,E7|A-7|Bh7|Bh7|E7b9|E7b9|E7b9|E7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": ""
+      },
+      "Endings": [
+        {
+          "Chords": "2C^7,,Bh,E7|A-7,D7|F7#11|F7#11|E7b9|Bh7,E7b9|A-|Bh7,E7b9"
+        }
+      ]
+    }
+  ]
+}

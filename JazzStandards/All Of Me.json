@@ -1,0 +1,35 @@
+{
+  "Title": "All Of Me",
+  "Composer": "Marks Gerald",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|C^7|E7|E7|A7|A7|D-7|D-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E7|E7|A-7|A-7|D7|D7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|C^7|E7|E7|A7|A7|D-7|D-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F^7|F-6(F#o7)|E-7(C^7/G)|A7|D-7|G7|C6,Ebo7|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

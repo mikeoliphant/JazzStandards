@@ -1,0 +1,28 @@
+{
+  "Title": "Let's Call This",
+  "Composer": "Monk Thelonious",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D9sus|D9sus|D9sus|D9sus|D9sus|D9sus,D9sus,F#7|F7,E7|Eb7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G7|G7|C7|C7|A7|A7|B-7,Bb7|A-7,Ab7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D9sus|D9sus|D9sus|D9sus|D9sus|D9sus,D9sus,F#7|F7,E7|G6"
+      },
+      "Endings": []
+    }
+  ]
+}

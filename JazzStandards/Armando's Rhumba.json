@@ -1,0 +1,21 @@
+{
+  "Title": "Armando's Rhumba",
+  "Composer": "Corea Chick",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|D7b9|G7b13|C-7|C-7|D7b9|G7b13|C-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C7b9|F-7|D7b9/F#|G-7|Abo7|D7b9/A|Bb7sus|Bb7sus|Bb7b9sus,(E7#9)|Bb7b9sus,(E7#9)|Eb6,(E),(F),(F#)|G7b13"
+      },
+      "Endings": []
+    }
+  ]
+}

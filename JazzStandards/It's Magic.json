@@ -1,0 +1,35 @@
+{
+  "Title": "It's Magic",
+  "Composer": "Styne Jule",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7,Eb^7|Bb/D,Dbo7|C-7,F7|C-7,F7|C-7|F7|Bb^7|F7sus,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb^7,Eb7|D-7,Dbo7|C-7|F7|G-7,C7|G-7,C7|C-7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Bb^7,Eb^7|Bb/D,Dbo7|C-7,F7|C-7,F7|C-7|F7|Dh7|G7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "C-7|Eb-7,Ab7|Bb6,G-7|C-7,F7|D-7,G-7|C-7,F7|Bb6,G-7|C-7,F7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

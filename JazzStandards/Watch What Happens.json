@@ -1,0 +1,35 @@
+{
+  "Title": "Watch What Happens",
+  "Composer": "Legrand Michel",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|F7|F7|F-7|Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb^7,E^7|F^7,E^7"
+        },
+        {
+          "Chords": "Eb^7,E^7|F^7,F#^7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G^7|G^7|G-7|C7|F^7|F^7|F-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|F7|F7|F-7|Bb7|Eb6|E6,D6|Eb6|E6,D6|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

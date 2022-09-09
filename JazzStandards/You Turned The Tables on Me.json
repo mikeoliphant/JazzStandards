@@ -1,0 +1,21 @@
+{
+  "Title": "You Turned The Tables on Me",
+  "Composer": "Alter Louis",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|C7|F^7,G-7|A-7,D7b9|G-7|C7|F^7|C-7,F7|Bb^7|Eb7#11|A-7|Abo7|G-7|G#o7|A-7,D7b9|G-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|C7|F^7|D-7,G7|C-7|F7|Bb^7|Bb^7|Bb-6|Eb7|F^7|Abo7|G-7,D7b9|G-7,C7|F6|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

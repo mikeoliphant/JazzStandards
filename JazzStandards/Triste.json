@@ -1,0 +1,21 @@
+{
+  "Title": "Triste",
+  "Composer": "Jobim Antonio-Carlos",
+  "Key": "A",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A^7|A^7|F^7#11|F^7#11|A^7|A^7|C#-7|F#7b9|B-7|G#h7,C#7b9|F#-7|G#7#9|C#^7|D#-7,G#7|C#^7,F#7|B-7,E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A^7|A^7|A-7|D7|A^7|A^7|E-7|A7|D^7|G7|C#-7,F#7|B7|B-7|E7|A-7,D7|A-7,D7|A-7,D7|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

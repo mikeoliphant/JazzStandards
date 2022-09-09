@@ -1,0 +1,28 @@
+{
+  "Title": "I'm Old Fashioned",
+  "Composer": "Kern Jerome",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6,D-7|G-7,C7|F^7,D-7|G-7,C7|Bb6/F|F^7|Eh7|A7b9|D-7|G7|D-7|G7|G-7|G-7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F6,D-7|G-7,C7|F^7,D-7|B-7,E7|A^7,B-7|C#-7,D7|E7,F#o7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F6,D-7|G-7,C7|F^7,D-7|G-7,C7|C-7,F7|Bb^7,Eb7|A-7,D-7|Bh7,Bb-6|A-7,D-7|G-7,C7|F6,D-7|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

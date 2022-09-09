@@ -1,0 +1,28 @@
+{
+  "Title": "Spiral",
+  "Composer": "Coltrane John",
+  "Key": "B-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G/D|Gb/D|F/D|E/D|Eb/D|D|G-|F#7b13|B-|C#h7,F#7b9|B-|E-7,A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G7|G7|B-|B-|E-7|A7|D^7,E-7|F^7,A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G/D|Gb/D|F/D|E/D|Eb/D|D|G-|F#7b13|B-|C#h7,F#7b9|B-|E-7,A7"
+      },
+      "Endings": []
+    }
+  ]
+}

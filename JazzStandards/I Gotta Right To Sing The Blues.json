@@ -1,0 +1,21 @@
+{
+  "Title": "I Gotta Right To Sing The Blues",
+  "Composer": "Arlen Harold",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,C7|G-7,C7|C-7,F7#5|F7#5|F-7,Bb7|F-7,Bb7|Dh7(Eb-7),(Ab7)|G7(D-7),(G7)|G-7,C7|G-7,C7|C-7,F7|C-7,F7|Bb6,C-7(Eb-6/Bb)|Dbo7(Bbo7),Bb6/D(Bb6)|Eb6(C-7/Bb),Eo7(Bbo7)|Bb6/F(Bb6),(Ab7)G7(G7)"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7,C7|G-7,C7|C-7,F7#5|F7#5|F-7,Bb7|F-7,Bb7|Dh7(Eb-7),(Ab7)|G7(D-7),(G7)|G-7,C7|G-7,C7|Ab7(Eb-6)|Ab7(Eb-6)|G-7,C7|C-7,F7b9|Bb6|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

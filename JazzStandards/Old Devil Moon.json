@@ -1,0 +1,20 @@
+{
+  "Title": "Old Devil Moon",
+  "Composer": "Lane Burton",
+  "Key": "F",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "F6|Eb6|F6|Eb6|F6|Eb6|F7sus|F7|Bb^7|Bb^7|Bb-7|Eb7|Ab-7,Db7|Gb^7,C7|F6|Eb6"
+      },
+      "Endings": [
+        {
+          "Chords": "F6|Eb6|D^7|D^7|D-7|G7|G-7|C7"
+        },
+        {
+          "Chords": "F6|Eb6|F6|Eb6|A-7,D7|G-7,C7|F6|Eb6"
+        }
+      ]
+    }
+  ]
+}

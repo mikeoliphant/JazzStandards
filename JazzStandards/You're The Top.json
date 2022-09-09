@@ -1,0 +1,43 @@
+{
+  "Title": "You're The Top",
+  "Composer": "Porter Cole",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "v",
+      "MainSegment": {
+        "Chords": "Eb^7,Eo7|F-7,Bb7|G-7,F#o7|G-7,C7|F-7|F-7,Bb7|Eb^7|F-7,Bb7|Eb^7,Eo7|F-7,Bb7|Eb^7|A-7,D7|G-7,D7b9|G-7,D7b9|Bb7|Bb7,Bb7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb6|Eb6,Eb6,Eo7|F-7|Bb7|C-,C-^7|C-7,C-6"
+      },
+      "Endings": [
+        {
+          "Chords": "Dh7|G7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7,G-7|F-7,Bb7|Eb6|Ah7|D7,G7|C7,F7|F-7|Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb-7|Eb7"
+        }
+      ]
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Ab^7,G-7|F-7,G-7|Ab^7,C7b9|F7|F-7|Bb7sus|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Take Five",
+  "Composer": "Desmond Paul",
+  "Key": "Eb-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb-,Bb-7|Eb-,Bb-7|Eb-,Bb-7|Eb-,Bb-7|Eb-,Bb-7|Eb-,Bb-7|Eb-,Bb-7|Eb-,Bb-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "B^7,Ab-6|Bb-7,Eb-7|Ab-7,Db7|Gb^7|B^7,Ab-6|Bb-7,Eb-7|Ab-7,Db7|Fh7,Bb7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb-,Bb-7|Eb-,Bb-7|Eb-,Bb-7|Eb-,Bb-7|Eb-,Bb-7|Eb-,Bb-7|Eb-,Bb-7|Eb-,Bb-7"
+      },
+      "Endings": []
+    }
+  ]
+}

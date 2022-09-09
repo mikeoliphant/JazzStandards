@@ -1,0 +1,19 @@
+{
+  "Title": "500 Miles High",
+  "Composer": "Corea Chick",
+  "Key": "E-",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "E-7|E-7|G-7|G-7|Bb^7|Bb^7|Bh7|E7#9|A-7|A-7|F#h7|F#h7|F-7|F-7|C-7|C-7|B7#9|B7#9"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "C-7|C-7|Ab^7|Ab^7"
+      },
+      "Endings": []
+    }
+  ]
+}

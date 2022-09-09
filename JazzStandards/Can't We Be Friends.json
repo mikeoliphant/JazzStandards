@@ -1,0 +1,35 @@
+{
+  "Title": "Can't We Be Friends",
+  "Composer": "Swift-James",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F7|Bb7|Eb^7,B7|C-7,G-,Gb-,|F-7|Bb7|Eb^7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eo7"
+        },
+        {
+          "Chords": "Bb-7,Eb7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab7|Ao7|Eb6|Eb6|Bb-7|Eb7|A-7,D7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F7|Bb7|Eb^7,B7|C-7,,G-,Gb-|F-7|Bb7|Eb^7|Eo7"
+      },
+      "Endings": []
+    }
+  ]
+}

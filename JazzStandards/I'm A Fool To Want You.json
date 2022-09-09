@@ -1,0 +1,35 @@
+{
+  "Title": "I'm A Fool To Want You",
+  "Composer": "Herron-Sinatra-Wolf",
+  "Key": "E-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-6|Bh7,E7b9|A-6|F#h7,B7b9|E-7|A-7"
+      },
+      "Endings": [
+        {
+          "Chords": "C7#11|B9,B7b13"
+        },
+        {
+          "Chords": "F#h7,B7b9|E-6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-,A-^7|A-7,D7|G^7|B-7,E7b9|A-,A-^7|A-7,D7|G^7|G^7|F#h7|B7b9|E-7|E-7|G-7|C7|F#h7|B7b13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-6|Bh7,E7b9|A-6|F#h7,B7b9|E-7|A-7|F#h7,B7b9|E-6"
+      },
+      "Endings": []
+    }
+  ]
+}

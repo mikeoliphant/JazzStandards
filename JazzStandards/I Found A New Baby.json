@@ -1,0 +1,35 @@
+{
+  "Title": "I Found A New Baby",
+  "Composer": "Palmer-Williams",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7|Eh7,A7|D-7|D7|G7|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F^7|Eh7,A7"
+        },
+        {
+          "Chords": "F^7|F^7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E7|A7|D-7|D-7|D7|G7|C7|Eh7,A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7|Eh7,A7|D-7|D7|G7|C7|F^7|F^7"
+      },
+      "Endings": []
+    }
+  ]
+}

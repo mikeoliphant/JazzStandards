@@ -1,0 +1,35 @@
+{
+  "Title": "Willow Weep For Me",
+  "Composer": "Ronell Ann",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G7,C7|G7,C7|G7,,A-7,Bbo|G6/B,A-7,D-7,Db7|C7,Db7#11|C7,,A-7,D7"
+      },
+      "Endings": [
+        {
+          "Chords": "G7,C7|G7,D7"
+        },
+        {
+          "Chords": "G7,C7|G7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|G-7,G7b9|C-7,Bb7|Ab7,G7b9|C-7|G-7,G7b9|C-7,Bb7|Ab7,,A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G7,C7|G7,C7|G7,,A-7,Bbo|G6/B,A-7,D-7,Db7|C7,Db7#11|C7,,A-7,D7|G7,C7|G7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

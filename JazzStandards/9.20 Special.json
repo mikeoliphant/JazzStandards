@@ -1,0 +1,35 @@
+{
+  "Title": "9.20 Special",
+  "Composer": "Warren Earl",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D9|F-6|D9|F-6|C|C7,B7,Bb7,A7"
+      },
+      "Endings": [
+        {
+          "Chords": "D9|G7,Ab7,G7,"
+        },
+        {
+          "Chords": "D9|G7,C6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C7|C7|F6|F6|D7|D7|G7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D9|F-6|D9|F-6|C|C7,B7,Bb7,A7|D9|G7,C6"
+      },
+      "Endings": []
+    }
+  ]
+}

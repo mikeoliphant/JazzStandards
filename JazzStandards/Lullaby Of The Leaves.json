@@ -1,0 +1,35 @@
+{
+  "Title": "Lullaby Of The Leaves",
+  "Composer": "Petkere Bernice",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-,Ah7|D7,G7b13|G-7,C7|F-7,F-7/Eb|Dh7|G7b13"
+      },
+      "Endings": [
+        {
+          "Chords": "C-|Ab7,G7b9"
+        },
+        {
+          "Chords": "C-|C-"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab7(F-7)|Ab7(F-7)|C^7|C^7|Ab7(F-7)|Ab7(F-7)|C6,A7|Dh7,G7b13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-,Ah7|D7,G7b13|G-7,C7|F-7,F-7/Eb|Dh7|G7b13|C-|Dh7,G7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

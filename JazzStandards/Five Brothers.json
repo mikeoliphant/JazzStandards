@@ -1,0 +1,41 @@
+{
+  "Title": "Five Brothers",
+  "Composer": "Mulligan Gerry",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,A-7|D-7,G7|C^7,A-7|D-7,G7|G-7,C7|F^7,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "C^7,Eb7|D-7,G7"
+        },
+        {
+          "Chords": "D-7,Db7|C^7,B7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E^7|F-7,Bb7|Eb^7|E-7,A7|D^7|Eb-7,Ab7|Db^7|D-7,Db7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,A-7|D-7,G7|C^7,A-7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "G-7,C7|F^7,Bb7|D-7,Db7|C^7"
+      },
+      "Endings": []
+    }
+  ]
+}

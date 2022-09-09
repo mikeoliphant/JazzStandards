@@ -1,0 +1,35 @@
+{
+  "Title": "It's Only a Paper Moon",
+  "Composer": "Arlen Harold",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,E7|A-7,D7|A-7,D7|G^7,,A-7,D7|D-7,G7|C^7,Ah7|D7"
+      },
+      "Endings": [
+        {
+          "Chords": "G6,,A-7,D7"
+        },
+        {
+          "Chords": "G6,G7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7,C#o7|G^7/D,E7|A-7,D7|G6,G7|C^7,C#o7|G^7/D|Bh7,E7b9|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,E7|A-7,D7|A-7,D7|G^7,,A-7,D7|D-7,G7|C^7,Ah7|D7|G6,,A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

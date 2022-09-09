@@ -1,0 +1,28 @@
+{
+  "Title": "A Sound For Sore Ears",
+  "Composer": "Heath Jimmy",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7sus|Bb7sus|Bb7sus|Bb7sus|Bb7sus|Bb7sus|Bb7sus|Bb7sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G7sus|G7sus|G7sus|G7sus|G7sus|G7sus|G7sus|G7sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "B-7,E7|A^7|Bb-7,Eb7|Ab^7|Ab^7|F^7|D^7|B^7"
+      },
+      "Endings": []
+    }
+  ]
+}

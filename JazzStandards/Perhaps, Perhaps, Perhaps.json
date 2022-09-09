@@ -1,0 +1,28 @@
+{
+  "Title": "Perhaps, Perhaps, Perhaps",
+  "Composer": "Farres-Davis",
+  "Key": "E-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-7|A-7,B7|E-7|A-7,B7|E-7|C7,B7|E-7,A-7|E-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "B7|B7|E6|E6|B7|B7|E6|E6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-7|A-7,B7|E-7|A-7,B7|E-7|C7,B7|E-7,A-7|E-"
+      },
+      "Endings": []
+    }
+  ]
+}

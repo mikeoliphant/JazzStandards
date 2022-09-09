@@ -1,0 +1,35 @@
+{
+  "Title": "That's Life",
+  "Composer": "Kay-Gordon",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|F#-7,B7|E-7|A7|G^7,B7|E-7|A7|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|F#-7,B7|E-7|A7|G^7,,F#-7,F-7|E-7|A7,D7|G6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G7|G7|C6|C6|A7|A7|D7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|F#-7,B7|E-7|A7|G^7,,Fh,B7|E-7|A7b9,D7b13|G6"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "Hackensack",
+  "Composer": "Monk Thelonious",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6|Bb7|F6|A-7,D7|G-7|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F6|C7"
+        },
+        {
+          "Chords": "F6|F6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb7|Bo7|F6|A-7,D7|G7|G7|C7|Db7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6|Bb7|F6|A-7,D7|G-7|C7|F6|C7"
+      },
+      "Endings": []
+    }
+  ]
+}

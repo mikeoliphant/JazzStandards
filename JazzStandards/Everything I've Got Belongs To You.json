@@ -1,0 +1,35 @@
+{
+  "Title": "Everything I've Got Belongs To You",
+  "Composer": "Rodgers-Hart",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|Eb^7|Eb^7|Eb-7|Eb-7|Eb-7|Eb-7|C-7|F7|Bb^7|Bb7|Eb^7,Eb7/G|Ab^7,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb6|Bb7"
+        },
+        {
+          "Chords": "Eb6|Eb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "B|F#7|B|F#7,B|Eb|D7|G-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|Eb^7|Eb^7|Eb-7|Eb-7|Eb-7|Eb-7|C-7|F7|Bb^7|Bb7|Eb^7,Eb7/G|Ab^7,Bb7|Eb6|Eb6"
+      },
+      "Endings": []
+    }
+  ]
+}

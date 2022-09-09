@@ -1,0 +1,28 @@
+{
+  "Title": "Nica's Dream",
+  "Composer": "Silver Horace",
+  "Key": "Bb-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-^7|Bb-^7|Ab-^7|Ab-^7|Bb-^7|Bb-^7|Ab-7|Db7|Ab-7|Db7|Gb^7|C7#9#5|F7#5|F7#5|Bb-^7|Bb-^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab7sus|Ab7sus|Fh7|Bb7#5|Eb7|Ab7|Db^7|E-7,A7|Ab7sus|Ab7sus|Fh7|Bb7#5|Eb7|Ab7|Db^7|Ch7,F7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-^7|Ab-^7|Gb7|C7#9#5|F7#5|F7#5|Bb-^7"
+      },
+      "Endings": []
+    }
+  ]
+}

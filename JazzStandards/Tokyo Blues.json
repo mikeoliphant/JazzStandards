@@ -1,0 +1,14 @@
+{
+  "Title": "Tokyo Blues",
+  "Composer": "Silver Horace",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Db7|Db7|C-7|C-7|Db7|Db7|C-7|C-7|Db7|Db7|C-7|C-7|Eb7|D7b13,G7b9|C-7|C-7"
+      },
+      "Endings": []
+    }
+  ]
+}

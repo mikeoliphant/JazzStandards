@@ -1,0 +1,35 @@
+{
+  "Title": "Yardbird Suite",
+  "Composer": "Parker Charlie",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6|F-7,Bb7|C7,Bb7|A7|D7|G7"
+      },
+      "Endings": [
+        {
+          "Chords": "E-7,A7|D-7,G7"
+        },
+        {
+          "Chords": "C6|F#h7,B7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E-7|F#h7,B7b9|E-7|A7|D-7|Eh7,A7|D7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6|F-7,Bb7|C7,Bb7|A7|D7|G7|C6|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

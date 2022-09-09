@@ -1,0 +1,21 @@
+{
+  "Title": "Feel Like Makin' Love",
+  "Composer": "McDaniels Eugene",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7|Bb7sus|Eb^7|Db7,C7|F-7|Bb7sus|Eb^7|A7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7|G-7|F-7|C-7|Ab^7|G-7|Db7|C-7,,Eb7,E7|F7"
+      },
+      "Endings": []
+    }
+  ]
+}

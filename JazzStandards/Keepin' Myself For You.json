@@ -1,0 +1,35 @@
+{
+  "Title": "Keepin' Myself For You",
+  "Composer": "Youmans Vincent",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,Eo7|F7,Bb7|Ah7,Ab-7|Gh7,C7b9|F-7,Ab-6|Bb7sus,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb6/G,Gbo7|F-7,Bb7"
+        },
+        {
+          "Chords": "Eb6,F-7|Eb6/G,B7/F#"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E^7,C#-7|F#-7,B7|E^7/G#,,C#-7,C#-/B|Bb7|Eb^7,,C-7,C-/Bb|Ah,D7,G-7,Gb7|F-7|E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,Eo7|F7,Bb7|Ah7,Ab-7|Gh7,C7b9|F-7,Ab-6|F-7,Bb7sus|Eb6,C7b9|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

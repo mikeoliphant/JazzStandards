@@ -1,0 +1,20 @@
+{
+  "Title": "United",
+  "Composer": "Shorter Wayne",
+  "Key": "F",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "E7#9|A7b9|D-|D-|E7#9|A7b9|D-|D-|C-7|F7|Bb^7|Db7"
+      },
+      "Endings": [
+        {
+          "Chords": "Gb^7|C7|F^7|F-7"
+        },
+        {
+          "Chords": "Gb^7|F7|Bb^7|F-7"
+        }
+      ]
+    }
+  ]
+}

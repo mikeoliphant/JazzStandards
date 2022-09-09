@@ -1,0 +1,27 @@
+{
+  "Title": "Like Sonny",
+  "Composer": "Coltrane John",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|D-7|F-7|F-7|Ab-7|Ab-7,Bb7|Eb^7|Eb^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|A-7|F-7|F-7|C#-7|C#-7,F#7|B^7|Eb-7,Ab7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D-7|D-7|F-7|F-7|Ab-7|Ab-7,Bb7|Eb^7|Eb^7"
+      },
+      "Endings": []
+    }
+  ]
+}

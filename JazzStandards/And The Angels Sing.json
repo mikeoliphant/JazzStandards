@@ -1,0 +1,32 @@
+{
+  "Title": "And The Angels Sing",
+  "Composer": "Elman Ziggy",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb6|F-7,Bb7|Eb^7|Eb9|F-7,C7b13|F9,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb6,C-7|F-7,Bb13"
+        },
+        {
+          "Chords": "Eb6,Bb9sus|Eb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-7,Eb7|Bb-7,Eb7|Ebo7,Eb7|Bb-7,Eb7|Bb-7,Eb7|Bb-7,Eb7|Bb-7|Eb7|Bb-7,Eb7|Bb-7,Eb7|Ebo7,Eb7|Bb-7,Eb7|Ab6,,F-7,C7|F9,Bb7|Eb6,C-7|F-7,Bb13"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb6,C-7|F-7,Bb13|Eb6|F-7,Bb7|G7|C7,,Bo,C-|F-7|Fh7,Db9|Eb6,C-7|F-7,Bb7"
+        }
+      ]
+    }
+  ]
+}

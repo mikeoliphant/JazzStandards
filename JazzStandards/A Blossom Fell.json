@@ -1,0 +1,21 @@
+{
+  "Title": "A Blossom Fell",
+  "Composer": "Barnes-Cornelius",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6,Bo|C-7|F7,F7#5|Bb6|Bb^7/D,Dbo|C-7,F7|C-7,F7|Bb6,Bo,F7/C,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb6,Bo|C-7|F7,F7#5|Bb6,Bb7#5|Eb^7|Bb^7/D|C-7|Bb6,Bb7#5|Eb^7,Eb-6|Bb^7/D,Dbo7|C-7,F7|Bb6,,C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

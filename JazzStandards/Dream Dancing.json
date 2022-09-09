@@ -1,0 +1,28 @@
+{
+  "Title": "Dream Dancing",
+  "Composer": "Porter Cole",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E7#5|E7#5|A^7|A^7|D-7|G7|C^7|C7|F^7|Bb9|E-7|A7|Eb-7,Ab7|D-7,G7|C^7|C^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7|Bb7|C^7,G7|C6|D7|Ah7,D7b9|D-7|G7sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C^7|Gb7#11|F^7|E-7,A7|Eb-7,Ab7|D-7,G7|Eb-7,Ab7|D-7,G7|Eb-7,Ab7|D-7,G9sus|C6|C6"
+      },
+      "Endings": []
+    }
+  ]
+}

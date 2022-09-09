@@ -1,0 +1,35 @@
+{
+  "Title": "Agua De Beber",
+  "Composer": "Jobim Antonio-Carlos",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "D-7|E7#9,A7b13|D-7|E7#9,A7b13|D-7|Bb^7|D-7|D-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E7b9|A7alt|D-7|G7|G-7|C7|F^7|F^7|E7,Eb7|D-7,Dbo7|F7/C|E7#9/B|E7b9|A7sus|D-7|D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G7|G-7|D-7|D7b9|G7|G-7|D-7|A7b13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "D-7|E7#9,A7b13|D-7|E7#9,A7b13|D-7|Bb^7|D-7|D-7"
+      },
+      "Endings": []
+    }
+  ]
+}

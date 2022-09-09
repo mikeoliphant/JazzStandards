@@ -1,0 +1,35 @@
+{
+  "Title": "I Can't Get Started",
+  "Composer": "Duke Vernon",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,A-7|D-7,G7|B-7,E7,Bb-7,Eb7|A-7,D7,Ab-7,Db7|C^7,A-7|D-7,G7"
+      },
+      "Endings": [
+        {
+          "Chords": "E7,A7|D7,G7"
+        },
+        {
+          "Chords": "C6,Bb7|C6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E-7,A7|E-7,A7|D^7,,E-7,A7|D^7|D-7,G7|D-7,G7|E-7,Ebo7|D-7,G7sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,A-7|D-7,G7|B-7,E7,Bb-7,Eb7|A-7,D7,Ab-7,Db7|C^7,A7#5|D-7,G7|C6,A7|D7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

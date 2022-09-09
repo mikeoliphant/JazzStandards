@@ -1,0 +1,34 @@
+{
+  "Title": "All The Things You Are",
+  "Composer": "Kern Jerome",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7|Bb-7|Eb7|Ab^7|Db^7|D-7,G7|C^7|C^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C-7|F-7|Bb7|Eb^7|Ab^7|A-7,D7|G^7|G^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "A-7|D7|G^7|G^7|F#h7|B7b9|E^7|C7b13"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "F-7|Bb-7|Eb7|Ab^7|Db^7|Db-^7|C-7|Bo7|Bb-7|Eb7|Ab^7|Gh7,C7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

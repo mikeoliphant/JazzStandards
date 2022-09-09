@@ -1,0 +1,35 @@
+{
+  "Title": "Dancing On The Ceiling",
+  "Composer": "Rodgers Richard",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|C-7,F7|Bb6,Bo7|F^7/C,D7|G-7,C7|A-7,D7"
+      },
+      "Endings": [
+        {
+          "Chords": "G-7,C7|F6,C7"
+        },
+        {
+          "Chords": "G-7,C7|F6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb6|Eb7|F^7|C-7,F7|Bb6|Eb7|A-7,D7|G-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|C-7,F7|Bb6,Bo7|F^7/C,D7|G-7|C7|F6|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

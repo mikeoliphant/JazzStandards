@@ -1,0 +1,20 @@
+{
+  "Title": "It's Impossible",
+  "Composer": "Manzanero Armando",
+  "Key": "G",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "G,G6|G^7,G6|F#h7|B7|E-7|D-7,G7sus|Bh7|E7"
+      },
+      "Endings": [
+        {
+          "Chords": "A-7|F9|G^7|E7|A-7|A7|D7|A-7,D7"
+        },
+        {
+          "Chords": "A-7|F9|G^7|E7|A-7|D9|G6|A-7,D7"
+        }
+      ]
+    }
+  ]
+}

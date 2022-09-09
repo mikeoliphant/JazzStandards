@@ -1,0 +1,28 @@
+{
+  "Title": "Glad To Be Unhappy",
+  "Composer": "Rodgers-Hart",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|Eb7|C7|C7|G-7|Eb7|C7|F6,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb^7,C7|A-7,D7|G-7,C7|F6|Bb^7,B-7,E7,|A-7,D7|G-7,C7|F6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "G-7|Eb7|C7|C7|A-7,D7|G-7,C7|F6|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

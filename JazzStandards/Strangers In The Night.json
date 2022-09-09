@@ -1,0 +1,35 @@
+{
+  "Title": "Strangers In The Night",
+  "Composer": "Kaempfert Bert",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7|F^7|F^7|F^7|F/A,Abo7|G-6,Eb/G|G-6,Eb/G"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|G-7|G-7|G-7|G-7|G-7,G-7,C7b9|F^7|F^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Ah7|Ah7|D7b9|D7b9|G-7|Bb-6|F/C,D-7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7|F^7|F/A,Abo7|G-7|C7b9|F6|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

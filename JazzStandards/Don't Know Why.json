@@ -1,0 +1,54 @@
+{
+  "Title": "Don't Know Why",
+  "Composer": "Harris Jesse",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "Bb^7,Bb7|Eb^9,D9|G-7,C7|F7sus,Bb"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7,Bb7|Eb^9,D9|G-7,C7|F7sus,Bb|Bb^7,Bb7|Eb^9,D9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,C7|F7sus,Bb"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb^7,Bb7|Eb^9,D9|G-7,C7|F7sus,Bb|Bb^7,Bb7|Eb^9,D9|G-7,C7|F7sus,Bb"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|C7|F7|F7|G-7|C7|F7,F7/Eb|Bb/D,F7/C"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Bb^7,Bb7|Eb^9,D9|G-7,C7|F7sus,Bb|Bb^7,Bb7|Eb^9,D9|G-7,C7|F7sus,Bb"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "G-7,C7|F7sus,,Bb,Bb7/F|G-7,C7|F7sus,Bb"
+      },
+      "Endings": []
+    }
+  ]
+}

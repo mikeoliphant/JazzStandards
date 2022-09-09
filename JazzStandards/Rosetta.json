@@ -1,0 +1,35 @@
+{
+  "Title": "Rosetta",
+  "Composer": "Hines Earl",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6|E7|Eb7|D7|G7|C7|A-7,D7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6|E7|Eb7|D7|G7|C7|F6|Bh7,E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-|Bh7,E7|A-|D-7,G7|C^7,A-7|D-7,G7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6|E7|Eb7|D7|G7|C7|F6|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

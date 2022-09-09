@@ -1,0 +1,28 @@
+{
+  "Title": "Gregory Is Here",
+  "Composer": "Silver Horace",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "B9#11|B9#11|C-11|C-11|B9#11|B9#11|C-11|C-11|Ah7|D7b9|G-7|C7|C-11|B7#9|Bb^7|Bb^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb-7|Ab7|Db^7|Bb-7|Eb-7|Ab7|C-11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "B9#11|B9#11|C-11|C-11|B9#11|B9#11|C-11|C-11|Ah7|D7b9|G-7|C7|C-11|B7#9|Bb^7|Bb^7"
+      },
+      "Endings": []
+    }
+  ]
+}

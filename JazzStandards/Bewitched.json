@@ -1,0 +1,35 @@
+{
+  "Title": "Bewitched",
+  "Composer": "Rodgers Richard",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,A-7(C#o7)|D-7,G7|C^7(C^7/E),C7#5(E7#5)|F^7,F#o7(Bb7#11)|C6/G(C6),A-7(Ebo7)"
+      },
+      "Endings": [
+        {
+          "Chords": "D-7,,G7,A7|D-7|G7"
+        },
+        {
+          "Chords": "D-7,,G-7,C7|F^7|Eh7,A7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-6|D-6|A-7|A-7|D-7(F^7),G7(E-7)|D-7,G7|E-7,Ebo7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,A-7(C#o7)|D-7,G7|C^7(C^7/E),C7#5(E7#5)|F^7,F#o7(Bb7#11)|C6/G(C6),A-7(Ebo7)|D-7,G7|C6,A-7|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "Over The Rainbow (Somewhere)",
+  "Composer": "Arlen Harold",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "v",
+      "MainSegment": {
+        "Chords": "Eb6,C-7|F-7,Bb7|Eb^7,C-7|F-7,Bb7|Eb6,Eo7|F-7,Bb7|Eb6,C-7|F-7,Bb7|Eb6,C-7|F-7,Bb7|Eb^7|D-7,G7|C-7,C-7/Bb|F7sus,F7|F-7|Bb7sus|F-7|Bb7sus|F-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb6,C-7|G-7,Eb^7|Ab^7,Ao7(Bb7sus)|G-7,C7|F-7,Db7|G-7,C7b9|F7,Bb7|Eb6,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb6|F-7,Bb7|G-7,C7|F-7,Bb7|Eb6|Ah7,D7b9|G-7,Gbo7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb6(Ah7),C-7(D7b9)|G-7,Eb^7|Ab^7,Ao7(Bb7sus)|G-7,C7|F-7,Db7|G-7,C7b9|F-7(F7),Bb7|Eb6,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

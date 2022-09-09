@@ -1,0 +1,20 @@
+{
+  "Title": "Twisted Blues",
+  "Composer": "Montgomery Wes",
+  "Key": "Db",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Gb7|G7|Gb7|G7|Gb7|G7|Gb7|G7|Gb7|Go7|Db^7|B-7,E7|Bb-7,Eb7|E-7,A7|Eb-7,Ab7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-7,Eb7|A7,D7|Db7#9"
+      },
+      "Endings": []
+    }
+  ]
+}

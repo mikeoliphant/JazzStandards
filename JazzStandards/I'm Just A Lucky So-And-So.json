@@ -1,0 +1,35 @@
+{
+  "Title": "I'm Just A Lucky So-And-So",
+  "Composer": "Ellington Duke",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G6|C^7|G6|D-7,G7|C7,A7|A-7,D7"
+      },
+      "Endings": [
+        {
+          "Chords": "G6,E7#9|A-7,D7"
+        },
+        {
+          "Chords": "G6|D-7,G7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C7|G^7|C7|G^7|F#h7,B7|E-7|A-7|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G6|C^7|G6|D-7,G7|C7,A7|A-7,D7|G6,E7#9|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "Title": "Prelude To A Kiss",
+  "Composer": "Ellington Duke",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D9,G9|C7,F^7|B9,E9|A7,D-7|D-7,,G7,G#o|A-7,D13|D-7,G7b9"
+      },
+      "Endings": [
+        {
+          "Chords": "C^7,,E-7,A7"
+        },
+        {
+          "Chords": "C^7,,F#h,B7"
+        }
+      ]
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E^7,C#-7|F#h7,B7|G#-7,Go7|F#-7,B7|E^7,C#-7|F#h7,B7|E7,A7|D-7,Eb-7,E-7,Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D9,G9|C7,F^7|B9,E9|A7,D-7|D-7,,G7,G#o|A-7,D13|D-7,G7b9|C^7,,E-7,A7"
+      },
+      "Endings": []
+    }
+  ]
+}

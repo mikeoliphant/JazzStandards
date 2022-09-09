@@ -1,0 +1,42 @@
+{
+  "Title": "New Picture",
+  "Composer": "Heath Jimmy",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|Eb-^7|Eb-^7|Bb^7|Bb^7|Eb-^7|Eb-^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|G7#9|Gb7|F7,Ebo7|D-7|G7|C-7|F7|Dh7|G7#9|C-7|F7|Eh7|Eh7|A7#9|A7#9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D^7|B7#9|E-7|F-7|Eb^7#11|Eb^7#11|D7#9|D7#9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "G^7|Ab^7,Db^7|F^7|Gb^7,B^7|Eb^7|E^7,A^7|Db^7|Ch7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|Eb-^7|Eb-^7|Bb^7|Bb^7|Eb-^7|Eb-^7"
+      },
+      "Endings": []
+    }
+  ]
+}

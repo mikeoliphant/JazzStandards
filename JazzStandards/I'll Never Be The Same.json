@@ -1,0 +1,21 @@
+{
+  "Title": "I'll Never Be The Same",
+  "Composer": "Khan-Malneck-Signorelli",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Db7,C7|Db7,C7|F^7,G-7|A-7,D7|Db7,C7|Db7,C7|F^7|D-7,Db7|C-7,F7|C-7,F7sus|C-7,F7|Bb^7|D-7,G7|D-7,G7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Db7,C7|Db7,C7|F^7|D-7,Db7|C-7,F7|C-7,F7|Bb^7|Bb^7|G-7|Bb-6|Ah7|D7|Db7,C7|Db7,C7|F6,D7|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

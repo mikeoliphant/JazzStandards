@@ -1,0 +1,32 @@
+{
+  "Title": "It Might As Well Be Spring",
+  "Composer": "Rodgers Richard",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|A-7|B-7,E7|A-7,D7|G^7|G^7|D-7|G7|C^7|C#h7,F#7b9|B-7|E7|A-7|D7"
+      },
+      "Endings": [
+        {
+          "Chords": "B-7,E-7|A-7,D7"
+        },
+        {
+          "Chords": "G^7|D-7,G7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|A-7|D-7|G7|D-7|G7|C^7|Bh,E7|A-7|A-7/G|F#h7|B7b9|E-7|A7|A-7|D7"
+      },
+      "Endings": [
+        {
+          "Chords": "B-7|E7|A7|A7|C-7|F7|G^7,G^7/F#|E-7,E-7/D|C#h7|C-6|B-7|E7|A-7|D7|G^7|G^7|A-7|D7"
+        }
+      ]
+    }
+  ]
+}

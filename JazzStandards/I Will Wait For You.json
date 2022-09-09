@@ -1,0 +1,21 @@
+{
+  "Title": "I Will Wait For You",
+  "Composer": "Legrand Michel",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7|D-7,D-7,D7b9|G-7|G-7,G-7,Db7|C7sus|C7,C7b9|Bb/F,F^7|Eh7,A7b9|D-7|D-7,D-7,D7b9|G-7,G-7/F|Eh7,A7b9|D-,Bh7|Eh7,A7b9"
+      },
+      "Endings": [
+        {
+          "Chords": "D-|Eh7,A7b9"
+        },
+        {
+          "Chords": "N2D-|N2D-"
+        }
+      ]
+    }
+  ]
+}

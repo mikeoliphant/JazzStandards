@@ -1,0 +1,27 @@
+{
+  "Title": "Topsy",
+  "Composer": "Battle-Durham",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-|Bb7,A7|D-|Bb7,A7|D-|Bb7,A7|D-|Bb7,A7|G-|Eb7,D7|G-|G-|D-|Bb7,A7|D-|D-"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D7|D7|G7|G7|C7|C7|F7|Bb7,A7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D-|Bb7,A7|D-|Bb7,A7|D-|Bb7,A7|D-|D-"
+      },
+      "Endings": []
+    }
+  ]
+}

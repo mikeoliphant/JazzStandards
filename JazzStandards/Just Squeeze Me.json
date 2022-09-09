@@ -1,0 +1,35 @@
+{
+  "Title": "Just Squeeze Me",
+  "Composer": "Ellington Duke",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,G-7|A-7,C7|F^7,Bb^7|A-7,D7|G-7|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F^7,D7|G-7,C7"
+        },
+        {
+          "Chords": "F^7|F^7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F7|F7|Bb6|Bb6|G7|G7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,G-7|A-7,C7|F^7,Bb^7|A-7,D7|G-7|C7|F^7,D7|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

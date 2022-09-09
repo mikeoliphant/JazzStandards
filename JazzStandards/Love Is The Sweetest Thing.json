@@ -1,0 +1,35 @@
+{
+  "Title": "Love Is The Sweetest Thing",
+  "Composer": "Noble Ray",
+  "Key": "D",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D6,B-7|E-7,A7|D6,B-7|E-7,A7|A-7,D7|G^7,E-7"
+      },
+      "Endings": [
+        {
+          "Chords": "B-7,E7|E-7,A7"
+        },
+        {
+          "Chords": "B-7,E7|A7,D6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "B-7|F#-7,B7|E-7,A7|D^7|C#h7,F#7|B-7|E7|E-7,A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D6,B-7|E-7,A7|D6,B-7|E-7,A7|A-7,D7|G^7,E-7|B-7,,E7,A7|D6"
+      },
+      "Endings": []
+    }
+  ]
+}

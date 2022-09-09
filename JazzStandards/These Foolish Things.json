@@ -1,0 +1,35 @@
+{
+  "Title": "These Foolish Things",
+  "Composer": "Strachey-Link",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,C-7|F-7,Bb7|Eb^7,C-7|F-7,Bb7|Bb-7,Eb7|Ab^7,,G7,C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F7|F-7,Bb7"
+        },
+        {
+          "Chords": "F7,Bb7|Eb6,,Ah,D7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7,Eh7|Ah7,D7b9|G-7|C7,F7|Bb^7,G-7|C-7,F7|Bb7,Eo7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,C-7|F-7,Bb7|Eb^7,C-7|F-7,Bb7|Bb-7,Eb7|Ab^7,,G7,C7|F7,Bb7|Eb6,,F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

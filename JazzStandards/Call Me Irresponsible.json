@@ -1,0 +1,28 @@
+{
+  "Title": "Call Me Irresponsible",
+  "Composer": "Van-Heusen Jimmy",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F,F6|F#o7|G-7,G-6|G#o7|F^7/A|A7b13|D7b13|D7b13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|C7|Ah7|D7b13"
+      },
+      "Endings": [
+        {
+          "Chords": "D-7|G7|G-7|C7"
+        },
+        {
+          "Chords": "G-7|C7|A7b13|D7b9|G-7|C7|F6|G-7,C7"
+        }
+      ]
+    }
+  ]
+}

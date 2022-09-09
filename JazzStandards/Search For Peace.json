@@ -1,0 +1,34 @@
+{
+  "Title": "Search For Peace",
+  "Composer": "Tyner McCoy",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ah7,D7b9|G13sus|Ah7,D7b9|G13sus|G-11,C7b9|F-7,Bb13b9|Eb-7,Ab13b9|C#-7,E7/B"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C13,Ab13/C|C13,Ab13/C|C13,Ab13/C|A-7,D7|G-9,Ab^7/G|G-9,Ab^7/G|G-9,Ab^7/G|G13sus,G13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Ah7,D7b9|G13sus|Ah7,D7b9|G13sus|G-11,C7b9|F-7,Bb13b9|Eb-7,Ab13b9|C#-7,E7/B"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "C13"
+      },
+      "Endings": []
+    }
+  ]
+}

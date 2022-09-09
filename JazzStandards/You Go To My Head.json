@@ -1,0 +1,42 @@
+{
+  "Title": "You Go To My Head",
+  "Composer": "Coots Fred",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,G-7|Ab-7,Db7|Gb^7|Fh7,Bb7b13|Eb-7,Ch7|Fh7,Bb7b13"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb^7,C-7|F-7,Bb7"
+        },
+        {
+          "Chords": "Eb^7|Bb-7,Eb7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7|Ao7|Eb6/Bb|Eb6|A-7,D7|B-7,E7b9|A-7,D7|G^7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,G-7|Ab-7,Db7|Gb^7|Fh7,Bb7b13|Eb-7,Ch7|Fh7,Bb7b13|Eb^7|Bb-7,Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Ab^7|Db7|Eb^7,Bb6/D|C-7,W/Bb,Ah,D7|G-7,C7|F-7,Bb7|Eb^7,C-7|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

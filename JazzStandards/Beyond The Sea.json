@@ -1,0 +1,35 @@
+{
+  "Title": "Beyond The Sea",
+  "Composer": "Trenet Charles",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6,D-7|G-7,C7|F6,D-7|G-7,C7|F6,A7|D-7,C7|F6,D-7|Bb6,D7/A|G-7,C7|D-7,Bb^7"
+      },
+      "Endings": [
+        {
+          "Chords": "G7|C7"
+        },
+        {
+          "Chords": "G-7,C7|F6,E7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A6,F#-7|B-7,E7|A6,F#-7|B-7,E7|A6|D-7,G7|C6,A-7|D-7,G7|C6,A-7|D-7,G7|C6|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6,D-7|G-7,C7|F6,D-7|G-7,C7|F6,A7|D-7,C7|F6,D-7|Bb6,D7/A|G-7,C7|D-7,Bb7|G-7,C7|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

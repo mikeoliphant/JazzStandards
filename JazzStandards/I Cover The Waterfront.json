@@ -1,0 +1,28 @@
+{
+  "Title": "I Cover The Waterfront",
+  "Composer": "Green Johnny",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-7,A7|A-7,D7|G^7,C^7|B-7,Bbo7|A-7|D7sus,D7|G^7|Bh7,E7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7,D7|B-7,E7|A-7,D7|G^7|B-7,E7|A^7,F#-7|B-7,E7|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-7,A7|A-7,D7|G^7,C^7|B-7,Bbo7|A-7|D7sus,D7|G^7|Bh7,E7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

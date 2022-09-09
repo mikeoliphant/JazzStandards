@@ -1,0 +1,35 @@
+{
+  "Title": "Give Me The Simple Life",
+  "Composer": "Bloom Rube",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7,Bb7|G-7,C7|Dh7,G7b13|C-7,C-7/Bb|Ah7,Ab-6|Eb6/G,Gbo7"
+      },
+      "Endings": [
+        {
+          "Chords": "F-7,C7|F7,C7"
+        },
+        {
+          "Chords": "F-7,Bb7|Eb6,C-7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7,Bb7|G-7,C7|F-7,Bb7|Eb^7|Dh7,G7b9|C-7|F7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7,Bb7|G-7,C7|Dh7,G7b13|C-7,C-7/Bb|Ah7,Ab-6|Eb6/G,Gbo7|F-7,Bb7|Eb6,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

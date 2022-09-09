@@ -1,0 +1,35 @@
+{
+  "Title": "All God's Chillun Got Rhythm",
+  "Composer": "Kahn-Kaper",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,D-7|G-7,C7|A-7,D7|G-7,C7|F^7,D-7|G-7,C7|Ah7|D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bh7,E7|A-7,D7|G-7,C7|F^7|A7|D-7|G7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,D-7|G-7,C7|A-7,D7|G-7,C7|F^7,D-7|G-7,C7|Ah7|D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Bh7,E7|A-7,D7|G-7,C7|Eb7,D7|G-7|C7|F6,(D7)|(G-7)x,(C7)"
+      },
+      "Endings": []
+    }
+  ]
+}

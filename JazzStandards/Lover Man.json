@@ -1,0 +1,35 @@
+{
+  "Title": "Lover Man",
+  "Composer": "Davis-Ramirez-Sherman",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7,G7|D-7,G7|G-7,C7|G-7,C7|F7|Bb7|Ab-7,Db7,G-7,C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F^7,,Eh,A7"
+        },
+        {
+          "Chords": "F^7,E7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-,A-^7|A-7,D7|G^7,A-7|B-7,,A-7,D7|G-,G-^7|G-7,C7|F^7|Eh7,A7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7,G7|D-7,G7|G-7,C7|G-7,C7|F7|Bb7|Ab-7,Db7,G-7,C7|F^7,,(Eh7),(A7)"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "What'll I Do",
+  "Composer": "Berlin Irving",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|F-7,Bb7|C^7|F-7,Bb7|E-7,A7|D-7,G7|C6"
+      },
+      "Endings": [
+        {
+          "Chords": "D-7,G7"
+        },
+        {
+          "Chords": "G-7,C7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7|G-7,C7|F^7|Bb7|E-7|A7|D7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|F-7,Bb7|C^7|F-7,Bb7|E-7,A7|D-7,G7|C6|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

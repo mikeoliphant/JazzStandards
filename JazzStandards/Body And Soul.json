@@ -1,0 +1,34 @@
+{
+  "Title": "Body And Soul",
+  "Composer": "Green Johnny",
+  "Key": "Db",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb-7,Bb7b13|Eb-7,Ab7|Db^7,Gb7|F-7,Eo7|Eb-7,Eb-7/Db|Ch7,F7b9|Bb-7,,Eb-7,Ab7"
+      },
+      "Endings": [
+        {
+          "Chords": "Db6,Gb7,Fh,Bb7"
+        },
+        {
+          "Chords": "Db6,,E-7,A7"
+        }
+      ]
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D^7,E-7|D^7/F#,,G-7,C7|F#-7,B-7,E-7,A7|D^7|D-7,G7|E-7,Ebo7|D-7,G7|C7,B7,Bb7,"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Eb-7,Bb7b13|Eb-7,Ab7|Db^7,Gb7|F-7,Eo7|Eb-7,Eb-7/Db|Ch7,F7b9|Bb-7,,Eb-7,Ab7|Db6,Gb7,Fh,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Inch Worm, The",
+  "Composer": "Loesser Frank",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Eb^7|F^7|Eb^7|F^7,F^7,F7,|Bb^7,Bb^7,Bb-6,|F^7,F^7,G7,|G-7,G-7,C7,"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7|Eb^7|F^7|Eb^7|F^7|Bb^7,Bb^7,Bb-6,|F6,F6,C7,|F6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F13|Eb13|F13"
+      },
+      "Endings": []
+    }
+  ]
+}

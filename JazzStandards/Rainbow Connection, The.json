@@ -1,0 +1,28 @@
+{
+  "Title": "Rainbow Connection, The",
+  "Composer": "Williams-Ascher",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|E-7|A-7|D7sus|G^7|E-7|C^7"
+      },
+      "Endings": [
+        {
+          "Chords": "D7sus"
+        },
+        {
+          "Chords": "C^7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|C^7|C^7|C^7|B-7|B-7|E7sus|E7|A-7|D7|B-7|E7|A-7|D7|G6|E-7|A-7|D7"
+      },
+      "Endings": []
+    }
+  ]
+}

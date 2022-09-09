@@ -1,0 +1,35 @@
+{
+  "Title": "Mambo Inn",
+  "Composer": "Bauza-Sampson-Woodlen",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,C7|F^7,D7|G-7,C7|F^7,D7|G-7,C7|A-7,D7|G-7,C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F6,D7b13"
+        },
+        {
+          "Chords": "F6,B7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-7|Eb7|Ab^7,Eb/G|F-7,F-7/Eb|D-7|G7|G-7|A-7,D7b13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,C7|F^7,D7|G-7,C7|F^7,D7|G-7,C7|A-7,D7|G-7,C7|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

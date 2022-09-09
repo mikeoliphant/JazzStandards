@@ -1,0 +1,28 @@
+{
+  "Title": "Heaven",
+  "Composer": "Ellington Duke",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|G7b5|G7b5|C7#11|C7#11|F7#5|F7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7|Bb7|Eb^7|Eb^7|Eh7|A7|D-7|C7,Cb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|G7|G7|C7|C7,C7,F7|Bb^7|Bb^7"
+      },
+      "Endings": []
+    }
+  ]
+}

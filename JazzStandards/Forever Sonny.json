@@ -1,0 +1,35 @@
+{
+  "Title": "Forever Sonny",
+  "Composer": "Heath Jimmy",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|Eh7,Eb7|D-7,G-7|C-7,F7#5|Bb7|Eb7,Ab7"
+      },
+      "Endings": [
+        {
+          "Chords": "D-7,G-7|C-7,D7#9"
+        },
+        {
+          "Chords": "C-7,F7|Bb^7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D7#9|D7#9|G7|G7|C7#9|C7#9|F7|F7,D7#9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|Eh7,Eb7|D-7,G-7|C-7,F7#5|Bb7|Eb7,Ab7|C-7,F7|Bb^7,D7#9"
+      },
+      "Endings": []
+    }
+  ]
+}

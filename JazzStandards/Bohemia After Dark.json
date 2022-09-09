@@ -1,0 +1,35 @@
+{
+  "Title": "Bohemia After Dark",
+  "Composer": "Pettiford Oscar",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|Ah7,D7b9|G-7|Ah7,D7b9|G-7|Ah7,D7b9"
+      },
+      "Endings": [
+        {
+          "Chords": "G-7|D7b9,G-7"
+        },
+        {
+          "Chords": "G-7|G-7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C7sus|C7sus|C7sus|C7sus|C7sus|C7sus|C7sus|Ah7,D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|Ah7,D7b9|G-7|Ah7,D7b9|G-7|Ah7,D7b9|G-7|G-7"
+      },
+      "Endings": []
+    }
+  ]
+}

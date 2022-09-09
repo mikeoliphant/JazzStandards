@@ -1,0 +1,35 @@
+{
+  "Title": "You're Nobody Till Somebody Loves You",
+  "Composer": "Morgan-Stock-Cavanaugh",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|G7|C7|C7|F-7|Bb7|Eb6|Eb6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|Gbo7|F-7|C7|F-7|F-7,Bb7|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|G7|C7|C7|F-7|C7|F-7|F-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Ab^7|Ao7|Eb^7/Bb,G-7|C7|F-7|F-7,Bb7|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Title": "Gary's Notebook",
+  "Composer": "Morgan Lee",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "C-7|Db7#11|C-7|Db7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|Db7#11|C-7|Db7#11"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "C-7|Db7#11|C-7|Db7#11|F-6|Gb7#11|F-6|F-6|C-7|Db7#11|C-7|C-7|Eb-7|Ab7|D-7|G7#9|C-7|Db7#11|C-7|Db7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

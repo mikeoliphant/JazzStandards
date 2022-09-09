@@ -1,0 +1,21 @@
+{
+  "Title": "Estate",
+  "Composer": "Martino Bruno",
+  "Key": "B-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "B-7|B-7|E-7|F#7b9|B-7|B-7|E-7|A7|D7sus|D7|G^7|G^7|F#7|F#7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "B^7|B^7|Fh7|Bb7b9|Eb-7|Ab7b9|E-7|A7|D7sus|D7|G^7|G^7|F#7|F#7#5"
+      },
+      "Endings": []
+    }
+  ]
+}

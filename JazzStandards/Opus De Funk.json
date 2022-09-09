@@ -1,0 +1,13 @@
+{
+  "Title": "Opus De Funk",
+  "Composer": "Silver Horace",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Bb|Bb|Bb|Bb7|Eb7|Eo7|Bb/F|D-7,G7|C-7|C7,F7|Bb7|Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

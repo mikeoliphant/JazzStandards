@@ -1,0 +1,14 @@
+{
+  "Title": "Night Dreamer",
+  "Composer": "Shorter Wayne",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,Bb7/F|Eb^7,D7#9#5|G^7,Bb7/F|Eb^7,D7#9#5|G^7,Bb7/F|Eb^7,D7#9#5|Eb-7|Ab9|E13sus|E13sus|F13sus|F13sus|G^7,Bb7/F|Eb^7,D7#9#5|G^7,Bb7/F|Eb^7,D7#9#5"
+      },
+      "Endings": []
+    }
+  ]
+}

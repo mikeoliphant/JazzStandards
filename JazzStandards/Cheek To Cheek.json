@@ -1,0 +1,34 @@
+{
+  "Title": "Cheek To Cheek",
+  "Composer": "Berlin Irving",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7,C#o7|D-7,G7|C^7,C#o7|D-7,G7|C^7,D-7|Ebo7,E-7|Bb7#11|A7,D7|G7,D-7|E-7,F7|Bb7#11|A7|D-7|G7"
+      },
+      "Endings": [
+        {
+          "Chords": "E-7,A7|D-7,G7"
+        },
+        {
+          "Chords": "C6|C6"
+        }
+      ]
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "D-7,G7|C6,A7|D-7,G7|C6,A7|D-7,G7|C6,A7|D-7,G7|C6"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "C-7|C-7|Eb-7|Ab7|Dh7|G7,G#o7|A-7|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

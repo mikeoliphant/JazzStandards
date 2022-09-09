@@ -1,0 +1,35 @@
+{
+  "Title": "There's No You",
+  "Composer": "Hopper Hal",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Eb7|F^7|Db7|F^7|A-7,Abo7"
+      },
+      "Endings": [
+        {
+          "Chords": "G-7|C7"
+        },
+        {
+          "Chords": "G-7,C7|F^7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7,F7|C-7,F7|Bb^7,F7#5|Bb^7|D-7,G7|D-7,G7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Eb7|F^7|Db7|F^7|A-7,Abo7|G-7,C7|F^7,(C7)"
+      },
+      "Endings": []
+    }
+  ]
+}

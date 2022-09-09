@@ -1,0 +1,35 @@
+{
+  "Title": "Close Your Eyes",
+  "Composer": "Petkere Bernice",
+  "Key": "Eb-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Fh7|Bb7b9|Fh7|Bb7b9|Eb-6,Ch7|Fh7,Bb7b9"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb-6|Eb-6"
+        },
+        {
+          "Chords": "Eb^7|Eb^7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-7|Eb7|Bb-7|Eb7|Ab7|Ab7|B7|Bb7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Fh7|Bb7b9|Fh7|Bb7b9|Eb-6,Ch7|Fh7,Bb7b9|Eb-6|Eb-6"
+      },
+      "Endings": []
+    }
+  ]
+}

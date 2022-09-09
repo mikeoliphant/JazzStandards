@@ -1,0 +1,21 @@
+{
+  "Title": "Everything I Love",
+  "Composer": "Porter Cole",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|B7#11|Bb^7|A-7,D7|G-7|C7|A-7,D7|G-7,C7|F6|Ab7|G-7|A-7,D7|Bb-7|Eb7|Ab^7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7|B7#11|Bb^7|A-7,D7|Bh7|E7b9|A7|A7|D-7,Db-7|C-7,F7|Bb^7,D7#5|G-7,G#o7|A-7,D7|G-7,C7|F6|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Lover",
+  "Composer": "Rodgers Richard",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|A-7|D7|Ab-7|Db7|G-7|C7|F#-7|B7|F-7|Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "G-7|C7|F-7|Bb7"
+        },
+        {
+          "Chords": "Eb^7|F-7/Bb|Eb^7|A-7,D7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G^7|E-7|A-7|D7|G^7|E-7|A-7|D7|Bb^7|G-7|C-7|F7|G-7|C7|F-7|Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

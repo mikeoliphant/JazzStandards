@@ -1,0 +1,20 @@
+{
+  "Title": "Country",
+  "Composer": "Jarrett Keith",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab|Bb|Eb(C-)|Eb7(C-)|Ab|Bb,G/B|C-|C-,Eb7/Bb|Ab|Bb,G/B|C-|F7,F#o7|Eb/G|Ab|Bb7,Eb|Eb"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Ab|F-7|G-7|C-7|G7b9|Ab|F7sus|F#o7|Eb/Bb|Bb7sus|D-11,G7|C-,Eb7/Bb,Ab,|Eb/G|Ab|Bb7,Eb|Eb"
+      },
+      "Endings": []
+    }
+  ]
+}

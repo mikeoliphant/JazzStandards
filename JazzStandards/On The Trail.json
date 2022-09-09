@@ -1,0 +1,19 @@
+{
+  "Title": "On The Trail",
+  "Composer": "Grofe Ferde",
+  "Key": "F",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "F^7|F^7|F^7|F^7|F^7|A-7,D7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Ab-7|Db7|Ab-7|Db7|G-7|C7|F6|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

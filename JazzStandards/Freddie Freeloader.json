@@ -1,0 +1,20 @@
+{
+  "Title": "Freddie Freeloader",
+  "Composer": "Davis Miles",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Bb7|Bb7|Bb7|Bb7|Eb7|Eb7|Bb7|Bb7|F7|Eb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Ab7|Ab7"
+        },
+        {
+          "Chords": "Bb7|Bb7"
+        }
+      ]
+    }
+  ]
+}

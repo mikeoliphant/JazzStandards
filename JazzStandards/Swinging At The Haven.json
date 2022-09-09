@@ -1,0 +1,28 @@
+{
+  "Title": "Swinging At The Haven",
+  "Composer": "Marsalis Ellis",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb13sus|Bb13sus|Bb13sus|Bb13sus|Ab13sus|Ab13sus|Ab13sus|Ab13sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Db^7|Gh7,C7b9"
+      },
+      "Endings": [
+        {
+          "Chords": "F^7|F^7|Bb-7|Eb7sus,Eb7|Ab^7|G-7,C7b9"
+        },
+        {
+          "Chords": "F^7|Bb-7,Eb7|A-7,D7|G-7,C7|F6|F6"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Title": "Prism",
+  "Composer": "Jarrett Keith",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-|G-b6|Eh7|C#h7,F#7b9|B-7,D-7|A13b9,G-|D-7|D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "C-7,G-7|Eh7,E7b9|A-|E7b9|F^7,C^7|C-7,G-7|F#-7|B-7,E7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F#-7|F#h7/B,F#13b9|B9sus,B7b9sus/B|B7#5,B/A|G^7#5|F#h7|C^7|B-7,E7b9|F#h7,F^7|E13b9,,D/F#,E/G#|C^7#5,F9sus|F9sus,F^7#11|C^7/E,A/E|A/E|Bb/E|B/E,C/D"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Title": "Bye Bye Blackbird",
+  "Composer": "Henderson Ray",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|G-7,C7|F^7|G-7,C7|F^7(Ah7)|Ah7(D7b9),D7b9|G-7|C7|G-7|D7|G-7|C7|G-7|C7|F6|F6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F7|E7(F7)|Eb7|D7b9|G-7|G-7|Db7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "F^7|G-7,C7|F^7(Ah7)|Ah7(D7b9),D7b9|G-7|C7|F6|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

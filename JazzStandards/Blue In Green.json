@@ -1,0 +1,19 @@
+{
+  "Title": "Blue In Green",
+  "Composer": "Miles Davis, Bill Evans",
+  "Key": "D-",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "G-6|A7#9|D-7,Db7|C-7,F7|Bb^7#11|A7#9|D-6|E7b13|A-7|D-7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "G-6|A7#9|D-6|D-6"
+      },
+      "Endings": []
+    }
+  ]
+}

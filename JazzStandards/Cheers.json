@@ -1,0 +1,35 @@
+{
+  "Title": "Cheers",
+  "Composer": "McGhee Howard",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6|Eb7|Bb6|Gb7|D-7,G7|C-7,F7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb6,C7b9|C-7,F7"
+        },
+        {
+          "Chords": "Bb6|Bb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7|Bb7|Eb^7|Eb^7|C7|C7|F7|F7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6|Eb7|Bb6|Gb7|D-7,G7|C-7,F7|Bb6|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

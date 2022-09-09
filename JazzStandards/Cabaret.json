@@ -1,0 +1,32 @@
+{
+  "Title": "Cabaret",
+  "Composer": "Kander-Ebb",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Bb7|Eb^7|Bb7|Eb^7|Eb^7|Bb-7|Eb7|Ab^7|Ao7|G-7|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F-7|Bb7|G-7,C7|F-7,Bb7"
+        },
+        {
+          "Chords": "F-7|Bb7|Eb6|Eb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab-6|Ab-6|Eb^7|Eb^7|C-,C-^7|C-7,F7|Bb7|Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "F-7|Bb7sus|Eb6|F-7,Bb7"
+        }
+      ]
+    }
+  ]
+}

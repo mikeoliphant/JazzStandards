@@ -1,0 +1,41 @@
+{
+  "Title": "Begin The Beguine",
+  "Composer": "Porter Cole",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C|C6|C^7|C6|C|C6,C#o|D-7|G7|D-7|D-7|D-7|D-7|D-7|G7|C^7|C6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb6|Bb6|Bb-7|Eb7|Ab^7|Ab6|Ao7|Ao7|G6|Ab7|G6|Ab7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C|C6|C^7|C6|C|C7|D-7|G7|Dh7|Dh7|Dh7|Dh7|D-7|G7|C^7|C6"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "C|C6|C^7|C6|C|C6|G7|G7|F^7|F^7|E-7|A7"
+      },
+      "Endings": [
+        {
+          "Chords": "D-7|G7|C^7|C6"
+        },
+        {
+          "Chords": "D-7|D-7|Dh7|Dh7|D-7|G7|C|C6"
+        }
+      ]
+    }
+  ]
+}

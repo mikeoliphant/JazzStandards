@@ -1,0 +1,42 @@
+{
+  "Title": "I Guess I'll Hang My Tears Out To Dry",
+  "Composer": "Styne Jule",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-7,Eb-7|D-7,G7|C^7,A-7|D-7(Bh7),G7(E7)|G-7,C7|F^7,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "E-7,A7,D-7,G7|C6,G7"
+        },
+        {
+          "Chords": "E-7,A7,D-7,G7|C6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7,C7|G-7,C7|F^7,C7|F6|E-7,A7|E-7,A7|D-7,Ab7#11|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-7,Eb-7|D-7,G7|C^7,A-7|D-7(Bh7),G7(E7)|G-7,C7|F^7,Bb7|E-7,A7,D-7,G7|C6,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^,C^/B,A-,A-/G|F#h7,B7|E-7,Eb-7|D-7,G7sus|C6|C6"
+      },
+      "Endings": []
+    }
+  ]
+}

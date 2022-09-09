@@ -1,0 +1,35 @@
+{
+  "Title": "Elora",
+  "Composer": "Johnson J.J.",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb^7,Eb^7|D-7,Db7|C-7,G7b9|C-7,F7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb^7|Dh7,Db7"
+        },
+        {
+          "Chords": "Bb^7|F-7,Bb7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb-7|Bb^7|Ah7,D7b9|G-7|C7|C-7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb^7,Eb^7|D-7,Db7|C-7,G7b9|C-7,F7|Bb^7|Dh7,Db7"
+      },
+      "Endings": []
+    }
+  ]
+}

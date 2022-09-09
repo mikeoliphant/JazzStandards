@@ -1,0 +1,35 @@
+{
+  "Title": "Bein' Green",
+  "Composer": "Raposo Joe",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|A7#5|Dh7/Ab|G7sus,G7b9|C-7|F7sus,F7|Bb^7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb^,Ab/Eb,Gb/Db,F7/C"
+        },
+        {
+          "Chords": "Bb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7|Db^7|Bb^7|Bb^7|G-,G-^7|G-7,C7|C-7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|A7#5|Dh7/Ab|G7sus,G7b9|C-7|F7sus,F7|Bb6|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

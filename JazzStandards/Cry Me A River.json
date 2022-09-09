@@ -1,0 +1,35 @@
+{
+  "Title": "Cry Me A River",
+  "Composer": "Hamilton Arthur",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-,C-b6|C-6,C-7|F-7,Bb7|Eb^7,G7b9|Gh7,C7b9|F9|F-7,Bb7sus"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb6,G7b13"
+        },
+        {
+          "Chords": "Eb6,,Ah,D7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-|C-6,D7b9|G-,Eh7|Eb7#11,D7b9|G-,Eh7|Ah7,D7b9|G^7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-,C-b6|C-6,C-7|F-7,Bb7|Eb^7,G7b9|Gh7,C7b9|F9|F-7,Bb7sus|Eb6,G7b13"
+      },
+      "Endings": []
+    }
+  ]
+}

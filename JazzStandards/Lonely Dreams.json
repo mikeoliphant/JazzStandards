@@ -1,0 +1,35 @@
+{
+  "Title": "Lonely Dreams",
+  "Composer": "Gibbs Terry",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G7b5|Db-7,Gb7|G7b5|Db-7,Gb7|C-7,F7|B7b5|Bb^7"
+      },
+      "Endings": [
+        {
+          "Chords": "Ah7,D7"
+        },
+        {
+          "Chords": "A-7,D7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7,,Bh,E7|A-7,,Bh,E7|A-7,,Bh,E7|C-7,F7|Bb^7,Bo7|C-7,F7|Bb^7|Ah7,Ab7b5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G7b5|Db-7,Gb7|G7b5|Db-7,Gb7|C-7,F7|B7b5|Bb^7|Bb^7"
+      },
+      "Endings": []
+    }
+  ]
+}

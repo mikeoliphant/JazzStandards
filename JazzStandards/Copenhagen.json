@@ -1,0 +1,35 @@
+{
+  "Title": "Copenhagen",
+  "Composer": "Davis-Melrose",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb-6|Bb|G7|C7|F7|Bb"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb,Bb,Bb7"
+        },
+        {
+          "Chords": "Bb,F7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb|C-/Bb,D-/Bb|Bb|Gb|Bb|F7|Bb|Bb,Bb,F7|Bb|C-/Bb,D-/Bb|Bb|Gb|Bb|F7|Bb|Bb,Bb,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb-6|Bb|G7|C7|F7|Bb|Bb,Bb,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

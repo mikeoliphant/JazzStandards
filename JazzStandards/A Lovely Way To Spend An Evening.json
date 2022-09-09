@@ -1,0 +1,35 @@
+{
+  "Title": "A Lovely Way To Spend An Evening",
+  "Composer": "McHugh Jimmy",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|G-7,C7|A-7|D-7|G-7|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F^7|C-7,F7"
+        },
+        {
+          "Chords": "F6|C-7,F7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb^7,Eb9|A-7,D-7|G-7,C7|F^7|Eh7,A7b9|D-7|G7|C7,,C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|G-7,C7|A-7|D-7|G-7|C7|F^7|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

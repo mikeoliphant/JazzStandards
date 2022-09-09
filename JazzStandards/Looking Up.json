@@ -1,0 +1,23 @@
+{
+  "Title": "Looking Up",
+  "Composer": "Petrucciani Michel",
+  "Key": "A",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "A^7|A7|D^7|G7|A^7|A7|D^7|C#7|F#-7|B7|E^7|C#7|D#-7|D#-7|G#7|G#7"
+      },
+      "Endings": [
+        {
+          "Chords": "C#-7|C#-7/B|A^7|B7|C#-7|G7#11|F#7|G#7"
+        },
+        {
+          "Chords": "C#-7|C#7/B|A#h7|D#7|G#7|A7|G#7|D7"
+        },
+        {
+          "Chords": "C#-7|C#-7/B|A^7|B7|E|A/E|E|D/E"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Title": "Look To The Rainbow",
+  "Composer": "Lane Burton",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb6|Ab^7|G-7|F-7,Bb7|Eb6|Bb-7,Eb7|Ab^7|Bb7|F-7|Bb7|F-7|Bb7|Bb7|Bb7|Ab6|Eb6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb^7|C-7|F-7,Bb7|Eb^7|F-7,Bb7|Eb^7|Ab^7,Ah7|Bb7|Eb^7|C-7|F-7,Bb7|Eb^7|Ab6|G-7,C7|F-7,Bb7|Eb6"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Ab^7|Eb6/G|F-7,Bb7|Eb^7|Ab6|G-7,C7|F-7,Bb7|Eb6"
+      },
+      "Endings": []
+    }
+  ]
+}

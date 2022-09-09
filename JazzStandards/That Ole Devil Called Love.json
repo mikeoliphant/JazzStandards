@@ -1,0 +1,35 @@
+{
+  "Title": "That Ole Devil Called Love",
+  "Composer": "Fisher Doris",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-7,Eb7|Ab6|C-7|F7|Bb-7|Bbh7,Eb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Ab6,Bo7|Bb-7,Eb7"
+        },
+        {
+          "Chords": "Ab6,Db-6|Ab6,Ao7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-7,Eb7|Ab6,B7|Bb-7,Eb7|Ab6,C7b9|F-6,Go7|F-6/Ab,F-6|Bb7|Bb-7,Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-7,Eb7|Ab6|C-7|F7|Bb-7|Bbh7,Eb7|Bb-7,,Bb-7/Eb,Eb7|Ab6"
+      },
+      "Endings": []
+    }
+  ]
+}

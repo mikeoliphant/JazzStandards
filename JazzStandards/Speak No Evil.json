@@ -1,0 +1,27 @@
+{
+  "Title": "Speak No Evil",
+  "Composer": "Shorter Wayne",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|Db^7|C-7|Db^7|C-7|Db^7|C-7|Db^7,Eb-7|E-7,C-7|D-7,Bb-7|A7alt|Bb-7|A7alt|Bb-7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Ah7|Ab7|G-7|Gb7#11|F-7|Bb7#11|D/Eb|Db^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|Db^7|C-7|Db^7|C-7|Db^7|C-7|Db^7,Eb-7|E-7,C-7|D-7,Bb-7|A7alt|Bb-7|A7alt|Bb-7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "It Could Happen To You",
+  "Composer": "Van-Heusen Jimmy",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eo7(Gh7),(C7b9)|F-7|F#o7(Ah7),(D7b9)|Eb^7|Ab^7|Gh7|C7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7|Bb7(Db7)|Eb^7|Dh7,G7b9|C-7|F7|F-7(F#-7),(B7)|Bb7(F-7),(Bb7)"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eo7(Gh7),(C7b9)|F-7|F#o7(Ah7),(D7b9)|Eb^7|Ab^7|Gh7|C7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F-7|Bb7(Db7)|Eb^7,Ab7|Gh7,C7b9|F-7|Bb7|Eb^7,C-7|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

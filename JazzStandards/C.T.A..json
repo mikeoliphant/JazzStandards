@@ -1,0 +1,34 @@
+{
+  "Title": "C.T.A.",
+  "Composer": "Heath Jimmy",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb7,Ab7|Gb7,F7|Bb7,Ab7|Gb7,F7|Bb6,G7|C-7,F7"
+      },
+      "Endings": [
+        {
+          "Chords": "D-7,G7|C-7,F7"
+        },
+        {
+          "Chords": "Bb6,F7|Bb6"
+        }
+      ]
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D7#9|D7#9|G7|G7|C7#9|C7#9|F7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Bb7,Ab7|Gb7,F7|Bb7,Ab7|Gb7,F7|Bb6,G7|C-7,F7|Bb6,F7|Bb6"
+      },
+      "Endings": []
+    }
+  ]
+}

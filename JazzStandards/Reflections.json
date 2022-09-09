@@ -1,0 +1,35 @@
+{
+  "Title": "Reflections",
+  "Composer": "Monk Thelonious",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab^,Gb7,F7,E7|Bb-7,Eb7b9|Ab^7,,Bb-7,B-7|C-7,F7b9|Gh7|Bb-7,Eb7b9|Ab^7,Ao7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb-7,F7,Bb-7,A7"
+        },
+        {
+          "Chords": "Ch7,F7b5"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-7,Eb7b9|Ab7,Db7|G-7,C7b13|F-|F-7|F-7,Bb7b9|Bb-7|Bb-7,Eb7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab^,Gb7,F7,E7|Bb-7,Eb7b9|Ab^7,,Bb-7,B-7|C-7,F7b9|Gh7|Bb-7,Eb7b9|Ab^7,Gb7|Ab^7"
+      },
+      "Endings": []
+    }
+  ]
+}

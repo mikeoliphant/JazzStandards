@@ -1,0 +1,28 @@
+{
+  "Title": "Frenesi",
+  "Composer": "Dominguez Alberto",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-7,Eb7|Bb-7,Eb7|Bb-7,Eb7|Bb-7,Eb7|Ab^7|Bb-7,Eb7|Ab^7|Ab^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|Db9#11|C^7|C^7|C^7|Bb-7|Eb7|Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-7,Eb7|Bb-7,Eb7|Bb-7,Eb7|Bb-7,Eb7|Ab^7|Bb-7,Eb7|Ab^7|Ab^7"
+      },
+      "Endings": []
+    }
+  ]
+}

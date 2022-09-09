@@ -1,0 +1,35 @@
+{
+  "Title": "Nevertheless",
+  "Composer": "Kalmar-Ruby",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6|Dbo7|C-6,F7|Dh7,G7b13|C-7,G7|C7,F7|Bb^7,G-7|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6|Dbo7|C-6,F7|Dh7,G7b13|C-7,G7|C7,F7|Bb^7|Bb^7,Bb^7,G-,F#-"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7,Bb7|F-7,Bb7|Eb^7|Eb^7|G-7,C7|G-7,C7|C-7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6|Dbo7|C-6,F7|Dh7,G7b13|C-7,G7|C7,F7|Bb^7|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

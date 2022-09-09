@@ -1,0 +1,35 @@
+{
+  "Title": "Once In A While",
+  "Composer": "Edwards Michael",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,Ab7|Eb^7|G-7,D7b13|G-7,C7|F-7,C7|F-7,Bb7|G-7,C7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,Ab7|Eb^7|G-7,D7b13|G-7,C7|F-7,C7|F-7,Bb7|Eb6,Ab-6|Eb6,,A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G^7,E-7|A-7,D7|B-7,Bbo7|A-7,D7|G^7,E-7|A-7,D7|G6,C7b9|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,Ab7|Eb^7|G-7,D7b13|G-7,C7|F-7,C7|F-7,Bb7|Eb6,C-7|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

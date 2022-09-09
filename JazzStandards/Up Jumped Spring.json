@@ -1,0 +1,31 @@
+{
+  "Title": "Up Jumped Spring",
+  "Composer": "Hubbard Freddie",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb^7|G7#5|C-7|F7,F#o7|G-7|F-7|Eh7|A7b9|D-7|Eb-7|D-7|Eb-7"
+      },
+      "Endings": [
+        {
+          "Chords": "B7#11|E7|Ch7|F7"
+        },
+        {
+          "Chords": "C-7|F7|Bb6|Ah7,D7"
+        }
+      ]
+    },
+    {
+      "MainSegment": {
+        "Chords": "G-7|C7|F^7|D-7|Ab-7|Eb-7|C-7|F7"
+      },
+      "Endings": [
+        {
+          "Chords": "C-7|F7|B^7|Bb^7"
+        }
+      ]
+    }
+  ]
+}

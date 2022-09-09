@@ -1,0 +1,13 @@
+{
+  "Title": "St. Thomas",
+  "Composer": "Rollins Sonny",
+  "Key": "C",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "C^7,F7|E-7,A7|D-7,G7|C6|C^7,F7|E-7,A7|D-7,G7|C6|Eh7|A7b9|D-7|G7|C^7,C7/E|F^7,F#o7|G7|C6"
+      },
+      "Endings": []
+    }
+  ]
+}

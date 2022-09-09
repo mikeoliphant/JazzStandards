@@ -1,0 +1,13 @@
+{
+  "Title": "Parker's Mood",
+  "Composer": "Parker Charlie",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Bb7|Eb7|Bb7|Bb7|Eb7|Eb7|Bb7|Bb7|C-7|F7|Bb7|F7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "Ceora",
+  "Composer": "Morgan Lee",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab^7|Bb-7,Eb7|Ab^7|Eb-7,Ab7|Db^7|D-7,G7|C-7|F7#9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-7|Eb7|C-7|F7|D-7|G7|C-7,F7|Bb-7,Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab^7|Bb-7,Eb7|Ab^7|Eb-7,Ab7|Db^7|D-7,G7|C-7|F7#9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Bb-7|Eb7|Ch7|F7#9|Bb-7|Eb7|Ab^7|Bb-7,Eb7"
+      },
+      "Endings": []
+    }
+  ]
+}

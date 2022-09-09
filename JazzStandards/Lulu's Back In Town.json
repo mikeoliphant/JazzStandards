@@ -1,0 +1,28 @@
+{
+  "Title": "Lulu's Back In Town",
+  "Composer": "Warren Harry",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C7,F7|Bb7,Eb^7|C7,F7|Bb7,Eb7|Ab^7,Ao7|G-7,C7|F7,Bb7|Eb6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7,Ao7|Eb6/Bb,Eb7|Ab^7,Ao7|Eb6/Bb,C-7|Ah7,D7b9|Gh7,C7|F7b9|F7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C7,F7|Bb7,Eb^7|C7,F7|Bb7,Eb7|Ab^7,Ao7|G-7,C7|F7,Bb7|Eb6"
+      },
+      "Endings": []
+    }
+  ]
+}

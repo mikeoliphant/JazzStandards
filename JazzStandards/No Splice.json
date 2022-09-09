@@ -1,0 +1,21 @@
+{
+  "Title": "No Splice",
+  "Composer": "Konitz Lee",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|Ah7,D7b9|G-7|G-7|F-7|Bb7|Eb^7|Eb^7|Ah7|D7b9|Eb7,D7b9|G-7|Eb7|Bb-7,Eb7|Ab^7|Ah7,D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|Ah7,D7b9|G-7|G-7|F-7|Bb7|Eb^7|Eb^7|Eo7|Bb^7/F|F#o7|G-7|Eb7|D7b9|G-7|Ah7,D7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

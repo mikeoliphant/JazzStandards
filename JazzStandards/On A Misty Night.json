@@ -1,0 +1,42 @@
+{
+  "Title": "On A Misty Night",
+  "Composer": "Dameron Tadd",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "Eb^7,Db^7|B^7,Bb-7|Ab^7,Gb7|F-7,E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,G-7|C-7,,G-7,Gb-7|F-7|Bb7|Ab-7|Db7#11,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "G-7,C7|F-7,Bb7"
+        },
+        {
+          "Chords": "Eb6|Eb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "B-7,E7|Bb-7,Eb7|Ab^7|Ab^7|C#-7,F#7|C-7,F7|F-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,G-7|C-7,,G-7,Gb-7|F-7|Bb7|Ab-7|Db7#11,Bb7|Eb6,C7|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

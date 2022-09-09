@@ -1,0 +1,61 @@
+{
+  "Title": "Tell Me A Bedtime Story",
+  "Composer": "Hancock Herbie",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "G^7|G^7|F#-7|F#-7|G^7|G^7|F#-7|F#-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|G^7|F#-7|F#-7|G^7|F#-7|C^7#11|C^7#11|B^7,G^7|E^7,C^7#11|B^7,G^7|E^7,C^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "B7sus|B7#5|E^7,E7#9|Eb7#9|D^7|Db7#9|C^7#11|C^7#11|B^7,G^7|E^7,C^7#11|B^7,G^7|E^7,C^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "B7sus|A7sus|Ab-7|E-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "Db-7|Eb-7|E-7|F#-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7#11|G^7#11|F#-7|F#-7|E-7|A7|D^7|C^7#11|B^7,G^7|E^7,C^7#11|B^7,G^7|E^7,C^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "E^7,C^7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "B^7,G^7|E^7,C^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

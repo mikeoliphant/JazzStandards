@@ -1,0 +1,21 @@
+{
+  "Title": "You Made Me Love You",
+  "Composer": "Monaco James",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,F7#11|E-7,Ebo7|D-7,G7|D-7,G7|D-7,G7|D-7,G7|C6|C6|A7|A7|D7|D7|D7|D7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7,F7#11|E-7,Ebo7|D-7,G7|D-7,G7|D-7,G7|G7,F7|E7|E7|A7|A7|D7|D7,D#o7|E-7,Ebo7|D-7,G7|C6|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

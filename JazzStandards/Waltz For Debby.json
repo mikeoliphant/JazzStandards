@@ -1,0 +1,28 @@
+{
+  "Title": "Waltz For Debby",
+  "Composer": "Evans Bill",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7/A|D-7|G-7|C7|A7/G|D7/F#|G7/F|C7/E|F7/Eb|Bb6/D|Gh7/Db|C7|A-7|D-7|G-7|C7|F^7/A|D-7|G-7|C7|A7/C#|D7/C|G7/B|C7/Bb|A7|D-7|B7|E7|A^7/C#|A^7/B|A^7|A^7/G#"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|C7|A-7|D7|G-7|A7|D-7|C-7|Bb^7|A7|D-7|G7|Ab^7|Db^7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7/A|D-7|G-7|C7|A7/G|D7/F#|G7/F|C7/E|F7/Eb|Bb6/D|Gh7/Db|C7|A-7|D-7|B-7|E7|A-7|F7|Bb^7|A7alt|D-7|D-7|G7|G#o7|A-7/C|Abo7/C|G-7/C|C7|F6|D-7|G-7|C7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Little Sunflower",
+  "Composer": "Hubbard Freddie",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7|D-7|D-7|D-7|D-7|D-7|D-7|D-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|Eb^7|Eb^7|D^7|D^7|D^7|D^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7|D-7|D-7|D-7|D-7|D-7|D-7|D-7"
+      },
+      "Endings": []
+    }
+  ]
+}

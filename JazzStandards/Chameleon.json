@@ -1,0 +1,28 @@
+{
+  "Title": "Chameleon",
+  "Composer": "Hancock Herbie",
+  "Key": "Bb-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "Bb-7|Eb7|Bb-7|Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-7|Eb7|Bb-7|Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-7|Eb7|Bb-7|Eb7"
+      },
+      "Endings": []
+    }
+  ]
+}

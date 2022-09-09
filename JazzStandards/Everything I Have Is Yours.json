@@ -1,0 +1,35 @@
+{
+  "Title": "Everything I Have Is Yours",
+  "Composer": "Lane Burton",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|Eb-7,Ab7|D-7,G7|D-7,G7#5|C^7|Eb-7,Ab7|D-7,G7|Bh7,E7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-|A-^7/G#|A-7/G|D7/F#|E-7|A7|A-7,D7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|Eb-7,Ab7|D-7,G7|D-7,G7#5|C^7|G-7,C7|F^7|Bh7,E7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "A-|A-^7/G#|A-7/G|D7/F#,F-6|C^7|Eb-7,Ab7|D-7,G7|C6,,D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

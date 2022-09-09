@@ -1,0 +1,35 @@
+{
+  "Title": "Pretend",
+  "Composer": "Douglas-Parman-Lavere",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|C^7|D-7|D-7|G7|G7"
+      },
+      "Endings": [
+        {
+          "Chords": "C^7|G7sus"
+        },
+        {
+          "Chords": "C6|C6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E-7|D-7,G7|C6|C6|F#h7|B7b9|E-7,Ebo7|D-7,G7sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|C^7|D-7|D-7|G7|G7|C^7|D-7,G7sus"
+      },
+      "Endings": []
+    }
+  ]
+}

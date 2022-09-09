@@ -1,0 +1,41 @@
+{
+  "Title": "I Got Rhythm",
+  "Composer": "Gershwin George",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6,G-7|C-7,F7|D-7,G-7|C-7,F7|Bb7,Bb7/D|Eb7,Eo7|Bb6/F,F7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb6,F7"
+        },
+        {
+          "Chords": "Bb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D7|D7|G7|G7|C7|C7|F7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6,G-7|C-7,F7|D-7,G-7|C-7,F7|Bb7,Bb7/D|Eb7,Eo7|Bb6/F,F7|Bb6,F7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Bb6/F,Eb9|D-7,G7|C-7,F7|Bb6"
+      },
+      "Endings": []
+    }
+  ]
+}

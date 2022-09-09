@@ -1,0 +1,21 @@
+{
+  "Title": "Mercy Mercy Mercy",
+  "Composer": "Zawinul Joe",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7|Eb7|Bb7|Eb7|Bb7|Eb7|Bb7|Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb,Eb/Bb|Bb7,Eb/Bb|Bb,Eb/Bb|Bb7,Eb/Bb|Bb,,Bb/D,Eb|F7sus|Bb,,Bb/D,Eb|F7sus|C-7|D-7|G-,F,G-,F|G-"
+      },
+      "Endings": []
+    }
+  ]
+}

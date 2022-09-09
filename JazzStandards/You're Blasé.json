@@ -1,0 +1,35 @@
+{
+  "Title": "You're Blasé",
+  "Composer": "Hamilton Ord",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Abo7|G-7,F#o7|G-7,F#o7|G-7|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "A-7,D7|G-7,C7"
+        },
+        {
+          "Chords": "F6,Bb7|F6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-,F7,Bb-,Eb7|C-,F7,Bb-,Eb7|A-7,Abo7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Abo7|G-7,F#o7|G-7,F#o7|G-7|C7|F6,Bb7|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Black Narcissus",
+  "Composer": "Henderson Joe",
+  "Key": "G#-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab-7|Bb-7/Ab|Ab-7|Bb-7/Ab|Ab-7|Bb-7/Ab|Ab-7|Cb^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F#-7|G#-7/F#|F#-7|G#-7/F#|F#-7|G#-7/F#|F#-7|A^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Eb^7#11|F^7#11|Bb^7#11|C^7#11|Eb^7#11|F^7#11,Bb^7#11|G^7#11,Ab^7#11|Bb^,C^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

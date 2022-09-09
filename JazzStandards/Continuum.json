@@ -1,0 +1,21 @@
+{
+  "Title": "Continuum",
+  "Composer": "Pastorius Jaco",
+  "Key": "E",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E^7|E^7|E^7|E^7|E^7"
+      },
+      "Endings": [
+        {
+          "Chords": "A^7|A^7|E^7"
+        },
+        {
+          "Chords": "Bb-7|A-7|Eo7,E^7|E^7|Eb7sus|D7sus|E^7|B-7/E,A-7/E|E^7"
+        }
+      ]
+    }
+  ]
+}

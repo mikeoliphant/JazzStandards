@@ -1,0 +1,35 @@
+{
+  "Title": "In A Mellow Tone (In A Mellotone)",
+  "Composer": "Ellington Duke",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7|Eb7|Ab6|Ab6|Eb-7|Ab7|Db^7|Db^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Db6|Gb7|Ab6|F7|Bb7|Bb7|Eb7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7|Eb7|Ab6|Ab6|Eb-7|Ab7|Db^7|Db^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Db7|Do7|Ab6/Eb|F7|Bb7|Eb7|Ab6|F7"
+      },
+      "Endings": []
+    }
+  ]
+}

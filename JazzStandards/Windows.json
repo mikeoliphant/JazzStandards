@@ -1,0 +1,34 @@
+{
+  "Title": "Windows",
+  "Composer": "Corea Chick",
+  "Key": "B-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "B-7|B-7|B-7|B-7|G#h7|G#h7|G#h7|C#7|F#-7|F#-7|F#-7|F#-7|D7sus|D7sus|D7sus|D7sus|E^7#11|E^7#11|E^7#11|E^7#11|E^7#11|E^7#11|E^7#11|E^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab7|A7|Ab7|A7|Ab7|A7|Ab7|A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "E^7|E^7/D#|C#-7|C#-7/B|Bbh7|Bbh7/Ab|Eb7/G|Eb7|Ab-7|Ab-7/Gb|Db7/F|Db7|E^7|D#-7|C#-7|C7#11"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "B^7|B^7|C#-7/B|C#-7/B"
+      },
+      "Endings": []
+    }
+  ]
+}

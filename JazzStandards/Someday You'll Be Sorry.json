@@ -1,0 +1,28 @@
+{
+  "Title": "Someday You'll Be Sorry",
+  "Composer": "Armstrong Louis",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb|Eb|D7|D7|Eb|Eb|C7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": ""
+      },
+      "Endings": [
+        {
+          "Chords": "F-|Bb7|Eb|C-|F7|F7|Bb7|Bb7,Bb7#5"
+        },
+        {
+          "Chords": "Ab|Ab-|Eb|C7|F-|Bb7|Eb|Eb"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "Title": "Nearness Of You, The",
+  "Composer": "Carmichael Hoagy",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|C-7,F7|Bb^7|Bbo7(Bh7),(E7b9)|A-7,D7|G-7,C7"
+      },
+      "Endings": [
+        {
+          "Chords": "A-7,D7|G-7,C7"
+        },
+        {
+          "Chords": "F^7,Eb7|F6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|C7|F^7|C-7,F7|Bb^7|Ah7,D7b9|G7|G-7,C7"
+      },
+      "Endings": [
+        {
+          "Chords": "Ah7|D7b9|G-7|C7|F^7,D-7|G-7,C7"
+        }
+      ]
+    }
+  ]
+}

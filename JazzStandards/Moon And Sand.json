@@ -1,0 +1,27 @@
+{
+  "Title": "Moon And Sand",
+  "Composer": "Wilder-Palitz",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|Bb^7|Ab^7|Bb7sus|Eb^7,A7|Ab^7|A-7|D7|G-7|C7|F^7|F^7|Bh7|E7b9|Eh7|A7b13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7|G7b9|C-7|F7b9|Bb^7|G-7|Eh7|A7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D-7|Bb^7|Ab^7|Bb7sus|Eb^7,A7|Ab^7|A-7|D7|G-7|C7|A-7|D-7|G-7|Eh7,A7|D-7|D-7"
+      },
+      "Endings": []
+    }
+  ]
+}

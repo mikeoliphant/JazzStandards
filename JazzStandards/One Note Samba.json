@@ -1,0 +1,28 @@
+{
+  "Title": "One Note Samba",
+  "Composer": "Jobim Antonio-Carlos",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7|Db7|C-7|B7#11|D-7|Db7|C-7|B7#11|F-7|Bb7|Eb^7|Ab7|D-7|Db7|C-7,B7#11|Bb6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb-7|Ab7|Db^7|Db^7|C#-7|F#7|B^7|Ch7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7|Db7|C-7|B7#11|D-7|Db7|C-7|B7#11|F-7|Bb7|Eb^7|Ab7|Db6|C7|B^7|Bb6"
+      },
+      "Endings": []
+    }
+  ]
+}

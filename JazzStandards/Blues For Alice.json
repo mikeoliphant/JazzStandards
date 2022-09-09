@@ -1,0 +1,13 @@
+{
+  "Title": "Blues For Alice",
+  "Composer": "Parker Charlie",
+  "Key": "F",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "F^7|Eh7,A7b9|D-7,G7(Db7)|C-7,F7|Bb7|Bb-7,Eb7|A-7,D7|Ab-7,Db7|G-7|C7|A-7,D-7|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "I Concentrate On You",
+  "Composer": "Porter Cole",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|Ab7#11|Ab7#11|Eb-7|Eb-7|Ab-6|Ab-6|Fh7|Bb7b9|Eb-7|Gb7|B7|Bb7b13|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|Ab7#11|Ab7#11|Eb-7|Db-7,Gb7|Cb^7|Cb^7|Ab-7|Db7|Gb^7|C7|F7|Bb7|Eb6|Eb6,Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Ab^7|Ab-6|Eb^7|Eb^,C7|F-7|Bb7|Eb^7|Eb^,Eb7|Ab^7|Db7|Gb^7|Gb^7|Ch7|F7|Bb7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "Eb6|G-7|Ah7|Ah7|Ab^7|G-7|Db7#11|Db7#11|Db7#11|C7#5|F-7|F-7|B7|Bb7|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

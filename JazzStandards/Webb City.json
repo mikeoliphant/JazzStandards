@@ -1,0 +1,35 @@
+{
+  "Title": "Webb City",
+  "Composer": "Powell Bud",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7,G-7|C-7,C#o7|D-7,G7b9|C-7,F7|Bb7|Eb7,Eb-7"
+      },
+      "Endings": [
+        {
+          "Chords": "D-7,G7b9|C-7,F7"
+        },
+        {
+          "Chords": "C-7,F7|Bb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb7|Eb7|Bb7|G7#5|C7#11|C7#11|F7#5|F7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7,G-7|C-7,C#o7|D-7,G7b9|C-7,F7|Bb7|Eb7,Eb-7|C-7,F7|Bb6"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Rockin' Chair",
+  "Composer": "Carmichael Hoagy",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Bb-7,Eb7|Ab^7|Db7|G-7|C7|F7|Bb7|Eb^7|C-7|Ah7,D7b9|G-7|C-7|F7|F-7,Bb7|Eb6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab7|Ab7|Eb^7|Eb^7|Ah7,D7b9|G-7|C-7,F7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Bb-7,Eb7|Ab^7|Db7|G-7,C7|F-7,Bb7|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

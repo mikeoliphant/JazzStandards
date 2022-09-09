@@ -1,0 +1,35 @@
+{
+  "Title": "Mimi",
+  "Composer": "Rogers Richard",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|G6|A-7|D7|G^7|G6|A-11|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|G6|A-7|D7|G^7|G6|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|C6|Co7|Co7|E-7|E-7|Eo7|Eo7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|G6|A-7|D7|G^7,E-7|A-7,D7|G6|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

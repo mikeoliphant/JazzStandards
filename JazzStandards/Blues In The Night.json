@@ -1,0 +1,34 @@
+{
+  "Title": "Blues In The Night",
+  "Composer": "Arlen Harold",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G7|C7|G7|G7|C7|C7|G7|G7|D7|Eb7,D7|G7,C7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C7|F7|Bb7|Eb7|Bb7|A7"
+      },
+      "Endings": [
+        {
+          "Chords": "D7|Db7,D7"
+        },
+        {
+          "Chords": "B-7,E7|A-7,D7"
+        }
+      ]
+    },
+    {
+      "MainSegment": {
+        "Chords": "A7,Db7|C7|Eb7,D7|G6"
+      },
+      "Endings": []
+    }
+  ]
+}

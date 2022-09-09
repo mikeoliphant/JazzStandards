@@ -1,0 +1,35 @@
+{
+  "Title": "My Melancholy Baby",
+  "Composer": "Burnett-Norton",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|Ab7|G7|C-7|G9#5|C-7|G9#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|C-7|F7|Gbo7|G-7|C7|C-7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|Ab7|G7|C-7|G9#5|C-7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Eb^7|Eo7|Bb7|G7|C-7|F7|Bb6,Bo7|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

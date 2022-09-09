@@ -1,0 +1,21 @@
+{
+  "Title": "At Long Last Love",
+  "Composer": "Porter Cole",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6,A-7|D-7(G6/B),G9|C6(A-7),A-7|D-7(G6),G9|C6(F6),D-7|E-7,A7b9|D-7|E-7(G7),A7|D-7|E-7(A7/C#),A9|D-7(F6/C)|G7(Bh7)|D-7(F6/A)|D-7(F6/A),D-7(F6/A),G9|C6,(A7#9)|(A7#9),(D-7),(D-7),G13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C6,A-7|D-7(G6/B),G9|C6(A-7)|D-7(G6),G13|C13,(Bb6/D)|G-7(Ebo7),C9(C9/E)|F6,(G-7)|(Abo7)x,(F6/A)|F^7(F#h7)|Bb9(F-6)|E-7|A7|D-7|G7|C6|D-7,G13"
+      },
+      "Endings": []
+    }
+  ]
+}

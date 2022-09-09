@@ -1,0 +1,28 @@
+{
+  "Title": "Fascinating Rhythm",
+  "Composer": "Gershwin George",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-,F-/Eb|Dh7,Db7|F-/C,Bo7|Bb7,,F-/Ab,C7/G|F-,F-/Eb|Dh7,Db7|F-/C,C7b13|F6|C-,C-/Bb|Ah7,Ab7|C-/G,F#o7|F7,,C-/Eb,G7/D|C-,C-/Bb|Ah7,F-/Ab|G7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C7(G-7),(C7)|C7(G-7),(C7)|C7(G-7),(C7)|C7(G-7),(C7)|F7(C-7),(F7)|F7(C-7),(F7)|F7(C-7),(F7)|F7(C-7),(F7)"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb6|G-7,C7|F6|Eh7,A7b9|D-7|G7|G-7|C7"
+        },
+        {
+          "Chords": "Bb6|Eh7,A7b9|D-7|G7|G-7(G-7),(C7)|C7(G-7),(C7)|F6|F6"
+        }
+      ]
+    }
+  ]
+}

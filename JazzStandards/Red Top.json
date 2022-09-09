@@ -1,0 +1,14 @@
+{
+  "Title": "Red Top",
+  "Composer": "Hampton Lionel",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F7|F7|F7|F7|Bb7|Bb7|F6,G-7|A-7,D7b9|G-7|C7|F7,Ab7|G-7,C7sus"
+      },
+      "Endings": []
+    }
+  ]
+}

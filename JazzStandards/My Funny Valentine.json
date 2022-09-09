@@ -1,0 +1,35 @@
+{
+  "Title": "My Funny Valentine",
+  "Composer": "Rodgers Richard",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-6|Dh7(C-^7/B),G7b9|C-7(C-7/Bb)|F7(C-6/A)|Ab^7|F-7|Dh7|G7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-6|Dh7(C-^7/B),G7b9|C-7(C-7/Bb)|F7(C-6/A)|Ab^7|F-7|Fh7(B7)|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb^7,F-7|G-7,F-7|Eb^7,F-7|G-7,F-7|Eb^7,G7b9|C-7,B7,Bb-7,A7|Ab^7|Dh7,G7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C-6|Dh7(C-^7/B),G7b9|C-7(C-7/Bb)|F7(C-6/A)|Ab^7|Dh7,G7b9|C-7,B7|Bb-7,Eb7|Ab^7|F-7,Bb7|Eb6|Dh7,G7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

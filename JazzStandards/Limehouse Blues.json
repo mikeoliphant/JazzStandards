@@ -1,0 +1,20 @@
+{
+  "Title": "Limehouse Blues",
+  "Composer": "Braham-Furber",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Db7|Db7|Db7|Db7|Bb7|Bb7|Bb7|Bb7|Ab6|Ab6|C7|F-7|Bb7|Bb7|Bb-7|Eb7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Db7|Db7|Db7|Db7|Bb7|Bb7|Bb7|Bb7|Ab6|F7|Bb-7|Db-6|Ab6/C,Bo7|Bb-7,Eb7|Ab6|Ab6"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "April",
+  "Composer": "Tristano Lennie",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|G^7|C7|C7|C7|C7|C7|C7|Eb7|D7|Bh7|E7b9|A-7|Ab^7|G^7|G^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|C-7,C-7,C#o7|Bb^7|Bb^7,Bb^7,Bo7|C-7|F7|D-7|D-7|A-7|D7#5|G^7|G^7|F#-7|B7|E^7|Eb7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|G^7|C7|C7|C7|C7|C7|C7|Eb7|D7|Bh7|E7b9|A-7|Ab^7|G^7|G^7"
+      },
+      "Endings": []
+    }
+  ]
+}

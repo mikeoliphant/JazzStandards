@@ -1,0 +1,20 @@
+{
+  "Title": "Moment's Notice",
+  "Composer": "Coltrane John",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "E-7,A7|F-7,Bb7|Eb^7|Ab-7,Db7|D-7,G7|Eb-7,Ab7|Db^7|D-7,G7|C-7,B7|Bb-7,Eb7|Ab^7|Ab-7,Db7"
+      },
+      "Endings": [
+        {
+          "Chords": "G-7,C7|Ab-7,Db7|Gb6|F-7,Bb7"
+        },
+        {
+          "Chords": "G-7,C7|F-7,Bb7|Eb6/Bb|F-7/Bb|G-7/Bb|F-7/Bb|Eb6/Bb,F-7/Bb|G-7/Bb,F-7/Bb|Eb6"
+        }
+      ]
+    }
+  ]
+}

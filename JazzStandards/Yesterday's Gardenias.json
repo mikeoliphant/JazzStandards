@@ -1,0 +1,41 @@
+{
+  "Title": "Yesterday's Gardenias",
+  "Composer": "Mysels Robertson",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7,C-7|D-7,G7b9|C-7,Bo7|C-7,F7|Bb^7,Eb7#11|D-7,G-7|E-7|A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D^7,B-7|Ab-7,Db7|Gb^7,Ab-7|Bb-7,Bb7|Eb^7,C-7|A7|D^7,B-7|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7,C-7|D-7,G7b9|C-7,Bo7|C-7,F7|Bb^7,Eb7#11|D-7,G-7|E-7,A7|Ah7,D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Eb^7,C-7|A-7,D7|G-7,Dh7|G7b9,Db7#11|C-7,D-7|Eb^7,F7sus|Bb6,Db7|Gb^7,F7sus"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Bb^"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "I Wish I Knew",
+  "Composer": "Warren Harry",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|D7|A-7|D7|G^7|C7|G^7|B-7,E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7|D7|G^7|G^7,G^7,B7b13|E-7|A7|D7,A-7/C|B-7,E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|D7|A-7|D7|G^7|C7|G^7|B-7,E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "A-7|D7|Bh7|E7b13|A-7|D7|G6|B-7,E7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

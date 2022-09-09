@@ -1,0 +1,35 @@
+{
+  "Title": "Unforgettable",
+  "Composer": "Irving Gordon",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|G^7|Bbo7|Bbo7|C^7|C^7|E-7|A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7|F-7|C^7,F7|E-7,A7|A-7|A-7|D7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|G^7|Bbo7|Bbo7|C^7|C^7|E-7|A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F^7|Bb7#11|C^7,F7|E-7,A7|A-7,D7|D-7,G7|C6|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "Title": "I Get Along Without You",
+  "Composer": "Carmichael Hoagy",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7,G-7|C-7,F7|Bb^7,Eb^7|D-7,Dbo7|C-7|F7|C-7|F7|C-7|B7#5|C-7|F7|Bb^7,Eb^7|D-7,Dbo7|C-7|F7"
+      },
+      "Endings": [
+        {
+          "Chords": "C-7,G7b13|C-7,F7|Bb^7,Bo7|C-7,F7"
+        },
+        {
+          "Chords": "Bb^7|D-7,Dbo7|C-7|F7|Bb^7,F7|Bb^7"
+        }
+      ]
+    },
+    {
+      "MainSegment": {
+        "Chords": "Eb6,Eb/D|C-7,F7|Bb^7,Eb6|D7,Ab7|G-7|C7|C-7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb^7,G-7|C-7,F7|Bb^7,Eb^7|D-7,Dbo7|C-7|F7|C-7|F7|C-7|B7#5|C-7|F7|Bb6|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

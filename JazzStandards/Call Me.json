@@ -1,0 +1,28 @@
+{
+  "Title": "Call Me",
+  "Composer": "Hatch Tony",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|G^7|G-7|C7|F^7|F^7|F-7|Bb7|Eb^7|C-7|Eb^7|C-7|Eb^7|C-7|G^7|G^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7,D7|A-7,D7|G^7,C7|B-7,E7#9|A-7,D7|A-7,D7|B-7,E7#9|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|G^7|G-7|C7|F^7|F^7|F-7|Bb7|Eb^7|C-7|Eb^7|C-7|Eb^7|C-7|G^7|G^7"
+      },
+      "Endings": []
+    }
+  ]
+}

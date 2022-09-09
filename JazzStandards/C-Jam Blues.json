@@ -1,0 +1,14 @@
+{
+  "Title": "C-Jam Blues",
+  "Composer": "Ellington Duke",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C7|C7|C7|C7|F7|F7|C7|C7|G7|G7|C7|C7"
+      },
+      "Endings": []
+    }
+  ]
+}

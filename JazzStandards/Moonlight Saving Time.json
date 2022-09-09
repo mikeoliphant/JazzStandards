@@ -1,0 +1,35 @@
+{
+  "Title": "Moonlight Saving Time",
+  "Composer": "Kahal Irving",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,Abo7|G-7,C7|F6,C7|A-7,Abo7|G-7,C7|G-7,C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F6,D-7|G-7,C7"
+        },
+        {
+          "Chords": "F6,D7b9|F6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F7,C-7|F7|Bb6,F7|Bb7,,A7,Ab7|G7,D-7|G7|C7|G7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,Abo7|G-7,C7|F6,C7|A-7,Abo7|G-7,F#o7|C7/G,C7|G7,C7|F6,,G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

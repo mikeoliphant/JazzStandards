@@ -1,0 +1,35 @@
+{
+  "Title": "Out Of Nowhere",
+  "Composer": "Green Johnny",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|G^7|Bb-7|Eb7|G^7|G^7|B-7|E7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7|E7b9|A-7|A-7|Eb7|Eb7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|G^7|Bb-7|Eb7|G^7|G^7|B-7|E7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "A-7|E7b9|A-7|C-6|B-7,Bbo7|A-7,D7|G6|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "Blue Champagne",
+  "Composer": "Watts-Ryerson-Eaton",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6,Abo7|G-7,C7|F6,D-7|Db7,C7|F^7,Abo7|G-7,C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F6|G-7,C7"
+        },
+        {
+          "Chords": "F6|Eh7,A7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-,D-^7|D-7,G7|F^7,,G-7,C7|F^7,,Eh7,A7|D-7,D-^7|D-7,G7|F^7,G9|Db7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6,Abo7|G-7,C7|F6,D-7|Db7,C7|F^7,Abo7|G-7,C7|F6|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

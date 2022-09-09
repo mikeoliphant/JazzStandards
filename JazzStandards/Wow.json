@@ -1,0 +1,35 @@
+{
+  "Title": "Wow",
+  "Composer": "Tristano Lennie",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|C7|F6,G-7|A-7,Ab^7|G^7|Gb-7|F^7|F#o7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|C7|F6|A-7,Ab^7|G^7|Gb-7|F^7|F^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb^7|Bb^7|G7#11|G7#11|C7#11|C7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|C7|F6,G-7|A-7,Ab^7|G^7|Gb-7|F^7|F#o7"
+      },
+      "Endings": []
+    }
+  ]
+}

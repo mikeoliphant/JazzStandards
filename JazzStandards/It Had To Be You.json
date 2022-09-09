@@ -1,0 +1,35 @@
+{
+  "Title": "It Had To Be You",
+  "Composer": "Jones Isham",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,D7#5|G^7,F7|E7,B-7|E7|A7,E-7|A7,E-7|A7,E-7|A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D7|F#h7,B7b9|E-7,B7b9|E-7,Bb7#11|A7,E-7|A7|A-7|D7,D7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,D7#5|G^7,F7|E7,B-7|E7|A7,E-7|A7,E-7|A7,E-7|A7,,D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C^7|F7|G^7,B7b9|E-7,Bbo7|D7/A,Abo7|D7/A,D7|G6,E7|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

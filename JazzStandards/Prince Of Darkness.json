@@ -1,0 +1,26 @@
+{
+  "Title": "Prince Of Darkness",
+  "Composer": "Shorter Wayne",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|C-7|G-11|G-11|Bb-9|Bb-9|G-11|G-11|Gb^7|Gb^7|Bb^7#5|B^7#11|Bb7|Eb-7|G-11|G-11"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "G-9|G-9|Bb7|Eb-7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "G-9"
+      },
+      "Endings": []
+    }
+  ]
+}

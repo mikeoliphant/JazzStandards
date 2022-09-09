@@ -1,0 +1,27 @@
+{
+  "Title": "Hello Dolly",
+  "Composer": "Herman Jerry",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C|C|A-|A-|C^7/G|Abo7|D-7|G7|D-|D-#5|D-6|D-#5|D-/G|G7|E-7,Ebo7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C|C|A-|A-|G-7|C7|F|E7|A-|E-|A-|E-|D7|G7|C6,Ebo7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D7|G7|D7|G7|C,C/E,F,F#o|C/G,G7,C6,"
+      },
+      "Endings": []
+    }
+  ]
+}

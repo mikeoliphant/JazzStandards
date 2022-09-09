@@ -1,0 +1,35 @@
+{
+  "Title": "If I Didn't Care",
+  "Composer": "Lawrence Jack",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6,F7#5|Bb6|Bb6,F7#5|Bb6|C7,C7#5|C7|C7,C7#5|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D7|D7|G-7|G-7|C7|C7|C-7,Eb-6|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6,F7#5|Bb6|Bb6,F7#5|Bb6|C7,G-7|C7,G-7|C7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ah7|D7b13|G7|G7|C7|C-7,F7b9|Bb6|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

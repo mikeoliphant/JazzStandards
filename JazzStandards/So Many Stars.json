@@ -1,0 +1,35 @@
+{
+  "Title": "So Many Stars",
+  "Composer": "Mendez Sergio",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|C7|C-7|F7|Bb^7|Eb7|A-,A-#5|A-6,A-7|A-^7,A-7|D7b9|G-7|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F^7|A-7,D7"
+        },
+        {
+          "Chords": "F^7|F^7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "B-7|Bb7#11|A-7|D7|G-7|C7|A13,A7#5|A-7,D7b13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "G-7|C7|A-7|D7b13|G-7|C7|F^7|F^7"
+      },
+      "Endings": []
+    }
+  ]
+}

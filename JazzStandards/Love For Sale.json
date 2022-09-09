@@ -1,0 +1,21 @@
+{
+  "Title": "Love For Sale",
+  "Composer": "Porter Cole",
+  "Key": "Bb-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|Bb-7|Bb-7|Eb^7|Eb^7|Bb-7|Bb-7|Eb-7|Ab7|Db^7|Gb7|Ch7|F7b13|Bb-6|Bb-6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb-7|Ab7|Db^7|Bb7|Eb-7|Ab7|Db^7|Db^7|Bb7|B7,Bb7|Eb-6|Eb-6|Gh7,C7b9|Gh7,C7b9|F#-7,B7|Fh7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

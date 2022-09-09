@@ -1,0 +1,35 @@
+{
+  "Title": "When Your Lover Has Gone",
+  "Composer": "Swan E.A.",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|G6|G-6|C7|A7|A7|C-6|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G^7|E-7|A7|Bbo7|B-7,E7#5|A-7,D9|G^7,E-7|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|G6|G-6|C7|A7|A7|C-6|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "G^7|E-7|G^7,F7|E7|A-7|Eb7,D7#5|G6,E-7|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

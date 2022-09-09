@@ -1,0 +1,35 @@
+{
+  "Title": "Eronel",
+  "Composer": "Monk Thelonious",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,G^7/A|B-7,E7b5|Bb-^7|Bb-^7,Bb-^7,Eb7#11|A-7|C-7,F7"
+      },
+      "Endings": [
+        {
+          "Chords": "A-7,Ab7|G6,Ab6"
+        },
+        {
+          "Chords": "A-7,Ab7|G^7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7,G7#11|D-7,Db9|G7|C7|C-7|F7|B-7,Bb7|Eb^7,Ab7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,G^7/A|B-7,E7b5|Bb-^7|Bb-^7,Bb-^7,Eb7#11|A-7|C-7,F7|A-7,Ab7|G^7"
+      },
+      "Endings": []
+    }
+  ]
+}

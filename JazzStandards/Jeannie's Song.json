@@ -1,0 +1,28 @@
+{
+  "Title": "Jeannie's Song",
+  "Composer": "Ivery Marchel",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|C7|G-7|C7|F^7|Bb9|A-7|Abo7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": ""
+      },
+      "Endings": [
+        {
+          "Chords": "G-7|C7|F^7|E-7,A7|D^7|A7|D-7|G7"
+        },
+        {
+          "Chords": "G-7|C7|A-7|D7|G-7|C7|F^7|F^7"
+        }
+      ]
+    }
+  ]
+}

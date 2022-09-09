@@ -1,0 +1,35 @@
+{
+  "Title": "Memories Of You",
+  "Composer": "Blake Eubie",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,Eo7|F-7,F#o7|Eb^7/G,C-7|Ah7,Ab-6|Eb^7,D7|Db7,C7|F7,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb6,,F-7,Bb7"
+        },
+        {
+          "Chords": "Eb6,,Dh,G7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|Ab7|C-7|F7,G7b13|C-7|F7sus,F7|F-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,Eo7|F-7,F#o7|Eb^7/G,C-7|Ah7,Ab-6|Eb^7,D7|Db7,C7|F7,Bb7|Eb6,,F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

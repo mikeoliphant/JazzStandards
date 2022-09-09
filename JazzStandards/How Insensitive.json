@@ -1,0 +1,21 @@
+{
+  "Title": "How Insensitive",
+  "Composer": "Jobim Antonio-Carlos",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-|D-|C#o7|C#o7|C-6|C-6|G7/B|G7/B|Bb^7|Bb^7|Eb^7#11|Eb^7#11|Eh7|A7b9|D-|D-,D-,Db7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-6|C-6|Bo7|Bo7|Bb^7|Eh7,A7b9|D-|D-,D-,Db7|C-7|F7|B-7|E7b9|Bb^7|A7b9|D-|D-"
+      },
+      "Endings": []
+    }
+  ]
+}

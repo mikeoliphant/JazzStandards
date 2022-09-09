@@ -1,0 +1,35 @@
+{
+  "Title": "New York, New York",
+  "Composer": "Kander John",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F|F|G-7|C7|F|F"
+      },
+      "Endings": [
+        {
+          "Chords": "G-7|C7"
+        },
+        {
+          "Chords": "C-7|F7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb|Bb-|F|F|A-7|D7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F|F|G-7|C7|F|F|C-7|F7|Bb|Bb-|F/C|D7|G-7,A-7|Bb,C7|F|F|G-7|C7"
+      },
+      "Endings": []
+    }
+  ]
+}

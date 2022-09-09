@@ -1,0 +1,28 @@
+{
+  "Title": "Blue Silver",
+  "Composer": "Silver Horace",
+  "Key": "Eb-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-11|Eb-11|Fh7/B|Db9|Fh7,Bb7b9|C#-7,F#7,B^7,|Fh7,Gb13|Ab13,Bb7#5|Eb-11|Eb-11|Eb-11|Eb-11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bbh7,Eb7b9|Ab-7|Fh7,Bb7b9|Eb-7|A-7,D7b9|G^7|Fh7,Gb13|Ab13,Bb7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-11|Eb-11|Fh7/B|Db9|Fh7,Bb7b9|C#-7,F#7,B^7,|Fh7,Gb13|Ab13,Bb7#5|Eb-11|Eb-11|Eb-11|Eb-11"
+      },
+      "Endings": []
+    }
+  ]
+}

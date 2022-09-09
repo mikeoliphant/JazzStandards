@@ -1,0 +1,14 @@
+{
+  "Title": "Sweeping Up",
+  "Composer": "Swallow Steve",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D7|G^7|F#-7|B-|E-7|B-|A-7"
+      },
+      "Endings": []
+    }
+  ]
+}

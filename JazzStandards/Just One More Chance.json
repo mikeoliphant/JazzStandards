@@ -1,0 +1,34 @@
+{
+  "Title": "Just One More Chance",
+  "Composer": "Johnston-Coslow",
+  "Key": "G",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "G^7|G^7|A-7,D7|A-7,D7|A-7,D7|A-7,D7"
+      },
+      "Endings": [
+        {
+          "Chords": "G^7,Eb7|A-7,D7"
+        },
+        {
+          "Chords": "G6,Eb7,D7,|G6"
+        }
+      ]
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7,G7|C^7|Ah7,D7|G^7|Bh7,E7|A-7|E-7,A7|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G^7|G^7|A-7,D7|A-7,D7|A-7,D7|A-7,D7|G6,Eb7,D7,|G6"
+      },
+      "Endings": []
+    }
+  ]
+}

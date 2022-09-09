@@ -1,0 +1,27 @@
+{
+  "Title": "When You're Smilin'",
+  "Composer": "Shay - Fisher - Goodwin",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Bb6|Bb6|Bb^7|Bb^7|D-7|G7|C-7|F7|C-7|C-7|C-7|C-7|F7|F7#5|Bb^7|Bb^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7|Bb7|Eb6|Eb6|G-7|C7|C-7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb6|Bb6|Ab7#11|G7|C-7|F7|Bb6|(C-7)x,(F7)"
+      },
+      "Endings": []
+    }
+  ]
+}

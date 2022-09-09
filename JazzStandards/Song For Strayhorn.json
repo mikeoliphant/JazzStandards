@@ -1,0 +1,35 @@
+{
+  "Title": "Song For Strayhorn",
+  "Composer": "Mulligan Gerry",
+  "Key": "D",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D^7|E-7/D|D^7|E-7/D|D^7|A-7"
+      },
+      "Endings": [
+        {
+          "Chords": "D^7|A7sus"
+        },
+        {
+          "Chords": "D^7|Ab7#11"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G^7|A/G|D^7/F#|F7#11|C^7/E|F^7|F#-7,B7|E^7,Bb7|A7sus|A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D^7|E-7/D|D^7|E-7/D|D^7|A-7|D^7|A-7|D^7|A7sus"
+      },
+      "Endings": []
+    }
+  ]
+}

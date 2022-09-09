@@ -1,0 +1,28 @@
+{
+  "Title": "Subconscious Lee",
+  "Composer": "Konitz Lee",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Gh7|C7b9|F-7|F-7|Dh7|G7b9|C^7|C^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb^7|Bb^7|Ab7|Ab7|G7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Gh7|C7b9|F-7|F-7|Dh7|G7b9|C^7|C^7"
+      },
+      "Endings": []
+    }
+  ]
+}

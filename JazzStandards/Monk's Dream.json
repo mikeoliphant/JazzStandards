@@ -1,0 +1,27 @@
+{
+  "Title": "Monk's Dream",
+  "Composer": "Monk Thelonious",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7,F7|Bb7#11|C^7,F7|Bb7#11|C^7,F7|B-7,Bb7#11|A7#11,Ab7#11|G7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C7|C7|C7|C7|C7|C7|C7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "C^7,F7|Bb7#11|C^7,F7|Bb7#11|C^7,F7|B-7,Bb7#11|A7#11,Ab7#11|G7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

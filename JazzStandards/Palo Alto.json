@@ -1,0 +1,28 @@
+{
+  "Title": "Palo Alto",
+  "Composer": "Konitz Lee",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7|D7b9|D7b9|G-7|C7|F^7|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb^7#11|Bb^7#11|G7b9|G7b9|C-7|F7|Bb6|C7#9|F^7|F^7|Eh7|A7b9|G7#11|G7#11|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7|D7#11|D7#11|G-7|C7|F^7,D-7|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

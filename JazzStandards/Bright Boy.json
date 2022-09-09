@@ -1,0 +1,41 @@
+{
+  "Title": "Bright Boy",
+  "Composer": "Bright John",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|E-7,A7b5|Ab^7|Ab-7,Db7|G-7,C7|F-7,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb^7|E7b5"
+        },
+        {
+          "Chords": "Eb^7|Eb^7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7|D7|G^7|G^7|G-7|C7|F^7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|E-7,A7b5|Ab^7|Ab-7,Db7|G-7|C7|F-7|Bb7|Eb^7|Eb^7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Ab-7,Db7|G-7,C7|F-7,Bb7|Eb^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

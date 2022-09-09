@@ -1,0 +1,27 @@
+{
+  "Title": "Very Early",
+  "Composer": "Evans Bill",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|Bb7|Eb^7|Ab7b9|Db^7|G7|C^7|Bb7#11|D^7|A-7|F#-7|B13b9|E-7|Ab7|Db^7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "B^7|Ab7b9|Db^7|Bb7|B^7|G7|C^7|Ab7|Db^7|G7|C^7|A7alt|D-7,E-7|F^7,G7|C^7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D-7,E-7|F^7,G7|C^7,Ab^7|Bb^7,G^7|B^7|B^7"
+      },
+      "Endings": []
+    }
+  ]
+}

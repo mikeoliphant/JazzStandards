@@ -1,0 +1,35 @@
+{
+  "Title": "Eiderdown",
+  "Composer": "Swallow Steve",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "B7alt|B7alt|E-7|E-7|C-7|C-7|G-7|G-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|C7|F^7|F^7|F-7|Bb7|Eb^7|Eb^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Eh7|Eb-6|D-7,G7#9|G-7,C7|F^7|D-7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "B7alt|B7alt|E-7|E-7|C-7|C-7|G-7|G-7"
+      },
+      "Endings": []
+    }
+  ]
+}

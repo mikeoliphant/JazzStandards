@@ -1,0 +1,35 @@
+{
+  "Title": "Four",
+  "Composer": "Davis Miles",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|Eb-7|Ab7|F-7|F-7|Ab-7|Db7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb^7/G|F#-7,B7|F-7|Bb7|Eb^7/G|F#-7,B7|F-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|Eb-7|Ab7|F-7|F-7|Ab-7|Db7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Eb^7/G|F#-7,B7|F-7|Bb7|G-7,Gb-7|F-7,Bb7|Eb^7|Eb^7"
+      },
+      "Endings": []
+    }
+  ]
+}

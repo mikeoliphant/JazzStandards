@@ -1,0 +1,27 @@
+{
+  "Title": "And On The Third Day",
+  "Composer": "Gibbs Michael",
+  "Key": "D",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "D7|D7|D7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D7|D7|D7|D7|D7|D7|C^7|C^7|D7|D7|E7|E7|E7|E7|D^7#11|D^7#11|E7|E7|Gb7|Gb7|Gbh7|E7|E7|E7b5|E7b5"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D7|D7|D7|D7"
+      },
+      "Endings": []
+    }
+  ]
+}

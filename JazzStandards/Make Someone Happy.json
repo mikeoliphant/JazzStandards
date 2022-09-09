@@ -1,0 +1,20 @@
+{
+  "Title": "Make Someone Happy",
+  "Composer": "Styne Jule",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Eb,Eb+|Eb6|Eb,Eb+|Eb6|Bb-7|Eb7|Bb-7|Eb7|Ab,Ab+|Ab6|Ab-7(Fh7)|Db7(Bb7)"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb^7|G-7,C7|F-7|Bb7"
+        },
+        {
+          "Chords": "Eb^7|Ah7,D7b13|G-,G-^7|G-7,C7|F-7|Bb7|G-7|C7|F-7|Bb7|Eb6|F-7,Bb7"
+        }
+      ]
+    }
+  ]
+}

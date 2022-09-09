@@ -1,0 +1,27 @@
+{
+  "Title": "Lone Jack (Page 1)",
+  "Composer": "Metheny Pat",
+  "Key": "Bb-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-7|Bb-7|Gb^7|Gb^7|Bb-7|Bb-7|Gb^7|Gb^7|Bb-7|Bb-7|Gb^7|Gb^7|F7#9|F7#9|Ab,Bb-7|Bb-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb-7|Eb-7|Db^7|Db^7|B^7|B^7|Bb-7|Bb-7|Ab7sus|Ab7sus|Gb^7#11|Gb^7#11|F7#9|F7#9|Ab,Bb-7|Bb-7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Bb-7|Bb-7|Db/Eb,Eb/F|Gb6/Ab,F6/G|Db/Eb,Eb/F|Bb/C,Ab/Bb|D/E,E/F#|G/A,A/B|C/D,D/E|F/G|G/A,Ab/Bb|Ab/Bb"
+      },
+      "Endings": []
+    }
+  ]
+}

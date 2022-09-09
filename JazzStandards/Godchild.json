@@ -1,0 +1,35 @@
+{
+  "Title": "Godchild",
+  "Composer": "Wallington George",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab^7|Bb-7,Bo7|Eb-7,Ab7|Db-7,Gb7|C-7,B-7|Bb-7,Eb7|Ab^7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb-7,Eb7"
+        },
+        {
+          "Chords": "Ab^7,G7#9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|D-7,G7|C^7|F-7,Bb7|Eb^7|F-7,Bb7|Eb^7|Bb-7,Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab^7|Bb-7,Bo7|Eb-7,Ab7|Db-7,Gb7|C-7,B-7|Bb-7,Eb7|Ab^7|Bb-7,Eb7"
+      },
+      "Endings": []
+    }
+  ]
+}

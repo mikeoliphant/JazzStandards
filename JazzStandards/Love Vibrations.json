@@ -1,0 +1,28 @@
+{
+  "Title": "Love Vibrations",
+  "Composer": "Silver Horace",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Dh7|Db7b5|C-7|F7|F-7|Bb7|Eb^7,A7|Ab7,D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-|G-#5|G-6|G-7,C7|F-7|G-7,C7|F-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Dh7|Db7b5|C-7|F7,F#o7|G-7,C7b9|F-7,Bb7|Db6,D6|Eb6"
+      },
+      "Endings": []
+    }
+  ]
+}

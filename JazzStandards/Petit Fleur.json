@@ -1,0 +1,35 @@
+{
+  "Title": "Petit Fleur",
+  "Composer": "Bechet Sidney",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D7b9|D7b9|G-|G-|A7b9|A7b9|D7b9|D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D7b9|D7b9|Bb^7|Bo7|C-7|F7|Bb^7|Bb^7|Ah7|D7b9|G-|G-|A7b9|A7b9|D7b9|D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "D7b9|D7b9|G-|G-|Ah7|D7b13|G-,D7b9|G-"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "G7b9|G7b9|C-|C-|F7|F7|Bb6|Ah7|D7b9|D7b9|G-|G-|A7#9|D7b9|G-,D7b9|G-"
+      },
+      "Endings": []
+    }
+  ]
+}

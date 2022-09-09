@@ -1,0 +1,21 @@
+{
+  "Title": "Pennies From Heaven",
+  "Composer": "Johnston Arthur",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6,F^7|E-7,Ebo7|D-7|G7|C6,F^7|E-7,Ebo7|D-7|G7|G-7|C7|F^7|F^7|D7|D7|G7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C6,F^7|E-7,Ebo7|D-7|G7|G-7|C7|F^7|F^7|D-7|Bb7#11|E-7|A7|D-7|G7|C6|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

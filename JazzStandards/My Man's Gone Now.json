@@ -1,0 +1,21 @@
+{
+  "Title": "My Man's Gone Now",
+  "Composer": "Gershwin George",
+  "Key": "E-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-9|F^9/B|E-9|B13|E7#9|A-9|B7b9sus,B7#9#5|E-9|F^9#11/B|E-9|B7#9#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb13,Bb7#5|Eb^7|B13,B9#5|E-9|C#13,C#9#5|F#-9|A-9/B,B7b9#5|E-9|F^7#11/B|E-9|B7#9#5"
+      },
+      "Endings": []
+    }
+  ]
+}

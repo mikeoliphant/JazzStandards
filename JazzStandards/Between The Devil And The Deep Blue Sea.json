@@ -1,0 +1,35 @@
+{
+  "Title": "Between The Devil And The Deep Blue Sea",
+  "Composer": "Arlen Harold",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|G-7,C7|F^7|G-7,C7|C-7,F7|Bb^7,Eb7|G-7,C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F6,C7"
+        },
+        {
+          "Chords": "F6,E7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A^7,F#-7|B-7,E7|A^7,F#-7|B-7,E7|C^7,A-7|F-6|Ab7|G7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|G-7,C7|F^7|G-7,C7|C-7,F7|Bb^7,Eb7|G-7,C7|F6,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

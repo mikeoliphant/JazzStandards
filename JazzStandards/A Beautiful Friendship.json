@@ -1,0 +1,28 @@
+{
+  "Title": "A Beautiful Friendship",
+  "Composer": "Kahn Donald",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|Gb7#11|F^7|Eh7,A7b9|A-7|D7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|C7|F^7|Bb7|E-7|A7|D7|G7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|Gb7#11|F^7|Eh7,A7b9|D-7|G7|C6,A7|D7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Rhythm-a-ning",
+  "Composer": "Monk Thelonious",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb,G7|C-7,F7|Bb,G7|C-7,F7|Bb7,Bb7/D|Eb7,Eo7|Bb7/F,G7|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D7|D7|G7|G7|C7|C7|F7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb,G7|C-7,F7|Bb,G7|C-7,F7|Bb7,Bb7/D|Eb7,Eo7|Bb7/F,G7|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

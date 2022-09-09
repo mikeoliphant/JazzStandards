@@ -1,0 +1,28 @@
+{
+  "Title": "Miles Ahead",
+  "Composer": "Davis Miles",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|C^7|C^7|C^7|D-7|G-7|G-7|G-7|F^7|F^7|Bb^7|B7,E7|A-,A-/G|F#h7,F7|Eh7|A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|D-7|C^7|C^7|D-7|G-7|G-7,G-7,C7|F^7|Bh7|E7b13|Eh7|A7|D-7|G7|D7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A7|D-7|D-7|G7sus|Bb^7|Db7|C^7|C^7"
+      },
+      "Endings": []
+    }
+  ]
+}

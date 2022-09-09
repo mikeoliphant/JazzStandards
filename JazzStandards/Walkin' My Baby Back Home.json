@@ -1,0 +1,35 @@
+{
+  "Title": "Walkin' My Baby Back Home",
+  "Composer": "Ahlert-Turk",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,Bb7|Eb^7,Bb7|Eb^7,C7|F7|F-7,Bb7|F-7,Bb7|F-7,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb6,Bb7"
+        },
+        {
+          "Chords": "N2|Eb6,D7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|C7|C-7,C-7/Bb|Ah7,D7b9|G-7|C7|C-7,F7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,Bb7|Eb^7,Bb7|Eb^7,C7|F7|F-7,Bb7|F-7,Bb7|F-7,Bb7|Eb6"
+      },
+      "Endings": []
+    }
+  ]
+}

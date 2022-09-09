@@ -1,0 +1,28 @@
+{
+  "Title": "Slow Hot Wind",
+  "Composer": "Mancini Henry",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-9|A-9|A-9|A-9|D-9|D-9|A-9|A-9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7#11|F^7#11,F^7#11,E^7|Eb^7|Eb^7|Eb7,Ab7sus|Db^7|C^7|B-7,E7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-9|A-9|A-9|A-9|D-9|D-9|A-9|A-9"
+      },
+      "Endings": []
+    }
+  ]
+}

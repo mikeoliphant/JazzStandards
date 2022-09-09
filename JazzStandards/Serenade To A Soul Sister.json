@@ -1,0 +1,28 @@
+{
+  "Title": "Serenade To A Soul Sister",
+  "Composer": "Silver Horace",
+  "Key": "Eb-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb-7|E7#9|Eb-7|E7#9|Eb-7|E7#9|Eb-7|E7#9,Eb-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab13|A13|Ab13|Bb7b13|Eb-7|E7#9|Eb-7|E7#9,Eb-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "B13|C13,B13|Bb7b13|B13,Bb7b13|Eb-7|E7#9|Eb-7|E7#9"
+      },
+      "Endings": []
+    }
+  ]
+}

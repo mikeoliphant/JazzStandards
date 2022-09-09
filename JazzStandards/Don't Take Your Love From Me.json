@@ -1,0 +1,35 @@
+{
+  "Title": "Don't Take Your Love From Me",
+  "Composer": "Nemo Henry",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,D-7|E-7,Ebo7|G7/D,G7|D-7,G7|D-7|G7|C^7|C^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C/E|Ebo7|D-7,A7b13|D-7|D-7,A7b13|Ab7#11,G7|E-7,Eb-7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,D-7|E-7,Ebo7|G7/D,G7|D-7,G7|D-7|G7|C6,D-7|D#o7,,C6/E,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F^7|Bb7|C^7|Eh7,A7b13|D-7|G7|C6|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

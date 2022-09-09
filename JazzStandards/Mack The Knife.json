@@ -1,0 +1,14 @@
+{
+  "Title": "Mack The Knife",
+  "Composer": "Weill-Brecht",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6|Bb6|C-7|C-7|F7|F7|Bb6|Bb6|G-7|G-7|C-7|C-7|C-7|C-7,F7|Bb6|Bb6"
+      },
+      "Endings": []
+    }
+  ]
+}

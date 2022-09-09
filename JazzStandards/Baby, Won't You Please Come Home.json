@@ -1,0 +1,20 @@
+{
+  "Title": "Baby, Won't You Please Come Home",
+  "Composer": "Warfield-Williams",
+  "Key": "G",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "G,B7|E7|A7|A7|B7|E-|A7|D7|G,B7|E7|C7|B7|C,C#o7|G,E7|A7,D7"
+      },
+      "Endings": [
+        {
+          "Chords": "G6,D7"
+        },
+        {
+          "Chords": "G,B7,E7,|A7,D7|G6"
+        }
+      ]
+    }
+  ]
+}

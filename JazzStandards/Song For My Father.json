@@ -1,0 +1,21 @@
+{
+  "Title": "Song For My Father",
+  "Composer": "Silver Horace",
+  "Key": "F-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7|F-7|Eb7|Eb7|Db7|C7sus|F-7|F-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb7|Eb7|F-7|F-7|Eb7,Db7|C7|F-7|F-7"
+      },
+      "Endings": []
+    }
+  ]
+}

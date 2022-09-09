@@ -1,0 +1,54 @@
+{
+  "Title": "Travels",
+  "Composer": "Metheny Pat",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|Gadd9/B|C,C/D|G^7,B7|E-,E-,E-,D-|Cadd9|E-,C/D"
+      },
+      "Endings": [
+        {
+          "Chords": "G,Dsus"
+        },
+        {
+          "Chords": "G,,F/G,G"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C,D|Bb^7,C|F^7,G|C,,Bb/C,C|F^7,G7|Eb^7,,Fsus,F7|Bb^7,C|Dsus,D"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|G^7/B|C^7,C^7/D|G^7,B7|E-7,D-9|C^7|E-7,C/D|Gadd9,C/D"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "G^7,,G,D/F#"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "E-,C/D|G^7,B7|E-,C/D|G^7,D/F#"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-7,C/D|G^7"
+      },
+      "Endings": []
+    }
+  ]
+}

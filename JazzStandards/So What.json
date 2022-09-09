@@ -1,0 +1,35 @@
+{
+  "Title": "So What",
+  "Composer": "Davis Miles",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-11|D-11|D-11|D-11|D-11|D-11|D-11|D-11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-11|D-11|D-11|D-11|D-11|D-11|D-11|D-11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb-11|Eb-11|Eb-11|Eb-11|Eb-11|Eb-11|Eb-11|Eb-11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-11|D-11|D-11|D-11|D-11|D-11|D-11|D-11"
+      },
+      "Endings": []
+    }
+  ]
+}

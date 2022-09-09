@@ -1,0 +1,35 @@
+{
+  "Title": "Peacocks, The",
+  "Composer": "Rowles Jimmy",
+  "Key": "Bb-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-,Bb-^7|Bb-7,Bb-6|Bb-,F#-7|F-7,Bb13|Eb-7|Eb-7|C7#9,F7#9"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb-,F7b9"
+        },
+        {
+          "Chords": "Bb-"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ch7,F7|Bb-|Ch7,F7|Bb-,Bb-^7|Ebh7,Ab7|Db-^7|Eb7#11|Ch7,F7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-,Bb-^7|Bb-7,Bb-6|Bb-,F#-7|F-7,Bb13|Eb-7|Eb-7|C7#9,F7#9|Bb-,F7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

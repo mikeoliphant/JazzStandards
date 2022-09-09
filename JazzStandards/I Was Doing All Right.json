@@ -1,0 +1,35 @@
+{
+  "Title": "I Was Doing All Right",
+  "Composer": "Gershwin George",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,Abo7|A-7,D7|G^7,Abo7|A-7,D7|G7|C^7,C-6|G^7/D,D7"
+      },
+      "Endings": [
+        {
+          "Chords": "G^7,,A-7,D7"
+        },
+        {
+          "Chords": "G^7,B7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E6|E6|A7|A7|E6|C#-7,B6|F#-7,G#-7|A-7,Bbo7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,Abo7|A-7,D7|G^7,Abo7|A-7,D7|G7|C^7,C-6|G^7/D,D7|A-7,D7|G6,E7|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

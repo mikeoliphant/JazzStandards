@@ -1,0 +1,34 @@
+{
+  "Title": "Little Niles",
+  "Composer": "Weston Randy",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-|G-6|Eb7|D7b9|G-|G-6|Eb7|D7b9|G-|G-b6|G-6|G-b6|B7b5|E7|A7b5|D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Do7/Db|Do7/Db|Do7/Db|Do7/Db"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Ebo7/D|Ebo7/D|Ebo7/D|Ebo7/D"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-|G-6|Eb7|D7b9|G-|G-6|Eb7|D7b9|G-|G-b6|G-6|G-b6|B7b5|E7|A7b5|D7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

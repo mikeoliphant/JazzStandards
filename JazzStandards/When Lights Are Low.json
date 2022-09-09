@@ -1,0 +1,35 @@
+{
+  "Title": "When Lights Are Low",
+  "Composer": "Carter Benny",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,F-7|G-7,F-7|Eb^7,F-7|G-7,C7|F-7,Bb7|G-7,C7|F-7,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb6,Bb7"
+        },
+        {
+          "Chords": "Eb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab-7,Db7|Gb^7|B-7,E7|A^7|D-7,G7|C^7|C-7,F7|F-7,Bb7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,F-7|G-7,F-7|Eb^7,F-7|G-7,C7#9|F-7,Bb7|G-7,C7|F-7,Bb7|Eb6,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

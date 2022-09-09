@@ -1,0 +1,35 @@
+{
+  "Title": "Taking A Chance On Love",
+  "Composer": "Duke Vernon",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,D-7|G-7,D7|G-7,C7|F^7,A7|D-7|G7"
+      },
+      "Endings": [
+        {
+          "Chords": "G-7,C7|A-7,Ab7,G-7,C7"
+        },
+        {
+          "Chords": "G-7,C7|F6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7,F7|Bb6,G7(Bo7)|C-7,F7|Bb^7|Bb-7,Eb7|Ab6,Ao7|Bb-7,Bo7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,D-7|G-7,D7|G-7,C7|F^7,A7|D-7|G7|G-7,C7|F6,,(G-),(C7)"
+      },
+      "Endings": []
+    }
+  ]
+}

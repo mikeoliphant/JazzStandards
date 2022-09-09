@@ -1,0 +1,42 @@
+{
+  "Title": "Mahjong",
+  "Composer": "Shorter Wayne",
+  "Key": "F-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "F-11|Eb69|F-11|Eb69"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-11|Eb69|F-11|Eb69|F-11|Eb69|F-11|Eb69"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Db^9|Eb69|Db^9|Eb69|Db^9|Eb69|Db^9|Eb69"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "D7#9|Eb-7,Ab7|Db^9|Db-7,Gb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-11|Eb69|F-11|Eb69|F-11|Eb69|F-11|Eb69"
+      },
+      "Endings": []
+    }
+  ]
+}

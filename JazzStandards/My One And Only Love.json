@@ -1,0 +1,35 @@
+{
+  "Title": "My One And Only Love",
+  "Composer": "Wood-Mellin",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,A-7|D-7,,G7,G#o|A-7,F^7|E-7,A7|D-7,,G7(Bh7),G#o(E7)|A-7,D7|D-7,G7"
+      },
+      "Endings": [
+        {
+          "Chords": "E-7,A7,D-7,G7"
+        },
+        {
+          "Chords": "C6,,F#h,B7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E-7,(C#h7)|F#h7,B7b9|E-7,(C#h7)|F#h7,B7b9|E-,E-^7|E-7,A7|D-7,A7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,A-7|D-7,,G7,G#o|A-7,F^7|E-7,A7|D-7,,G7(Bh7),G#o(E7)|A-7,D7|D-7,G7|C6,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

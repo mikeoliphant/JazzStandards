@@ -1,0 +1,27 @@
+{
+  "Title": "Recado Bossa Nova",
+  "Composer": "Ferreira Djalma",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-|G-|D7b9|D7b9|Dh7|G7b9|C-|C-|Ah7|D7b9|G-|G-"
+      },
+      "Endings": [
+        {
+          "Chords": "A7b9|A7b9|D7b9|D7b9"
+        },
+        {
+          "Chords": "Ab7#11|D7b9|G-|G-"
+        }
+      ]
+    },
+    {
+      "MainSegment": {
+        "Chords": "G7b9|G7b9|C-|C-|A7b9|A7b9|D-|D7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

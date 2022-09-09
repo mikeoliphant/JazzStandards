@@ -1,0 +1,35 @@
+{
+  "Title": "Morning",
+  "Composer": "Fischer Clare",
+  "Key": "A-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "B-7,E7|A-7,D7|B-7,E7|A-7,D7|D-7,G7|E-7,A7|B-7,E7"
+      },
+      "Endings": [
+        {
+          "Chords": "A-7,D7"
+        },
+        {
+          "Chords": "A-7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|D-7|C6|C6|D-7|D-7|E7/B|E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "B-7,E7|A-7,D7|B-7,E7|A-7,D7|D-7,G7|E-7,A7|B-7,E7|A-7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Incentive",
+  "Composer": "Silver Horace",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Dh7|G13b9|Ch7|F13b9|Bbh7|Eb13b9|A-7|D9|Db^7|C13b9|F-7,F-7/Eb"
+      },
+      "Endings": [
+        {
+          "Chords": "D-11,G7|C^7,A-7|D-7,G13|C69|Bb-7,Eb9"
+        },
+        {
+          "Chords": "Bb13,Bo7|C-7,F7b9|Bb-7,Eb9sus|G13b9|Ab^9"
+        }
+      ]
+    }
+  ]
+}

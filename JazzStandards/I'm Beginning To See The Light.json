@@ -1,0 +1,28 @@
+{
+  "Title": "I'm Beginning To See The Light",
+  "Composer": "Hodges-James-Ellington",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D7,G7|C6,A7|D7,G7|Eb-7,Ab7|D7,G7|C7,Bb7,A7,|D7,G7|C6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E7|E7|Eb7|Eb7|D7|D7|Ab7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D7,G7|C6,A7|D7,G7|Eb-7,Ab7|D7,G7|C7,Bb7,A7,|D7,G7|C6"
+      },
+      "Endings": []
+    }
+  ]
+}

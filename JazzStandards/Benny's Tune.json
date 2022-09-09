@@ -1,0 +1,33 @@
+{
+  "Title": "Benny's Tune",
+  "Composer": "Loueke Lionel",
+  "Key": "Db",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Gb-6|Db/F|Gb-6|Db/F"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "B^7#11|Bb-7|F/A|Ab7sus|Eb/G|Gb13|Db/F|B7#11|Gh7|Gb-6|Db/F|B^7#11|A^7#5|D/Ab"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Gb-6|Db/F|Gb-6|Db/F"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Gb-6|Db/F|E6|Eb7#9|D^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "Title": "Horace-Scope",
+  "Composer": "Silver Horace",
+  "Key": "Db",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Db^7|E-7,A7|Eb-7|Ab-7,Db7|Db-7|Ab7#5|G13|G13,G13,Gb13|F-7|Bb-7|Eb-7|Ab7#5|Db7#9|Bb7#9b5|A7"
+      },
+      "Endings": [
+        {
+          "Chords": "Ab7#9#5"
+        },
+        {
+          "Chords": "Gb-7/Ab,Db7#9"
+        }
+      ]
+    },
+    {
+      "MainSegment": {
+        "Chords": "Db^7|E-7,A7|Eb-7|Ab-7,Db7|Db-7|Ab7#5|G13|Gb13|F-7|Bb-7|Eb-7|Ab7#5|Db7#9|Bb7#9b5|A7|Ab7#9#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Gb-7|Bb7#9b5,A7|Gb-7/Ab|Db7#9"
+      },
+      "Endings": []
+    }
+  ]
+}

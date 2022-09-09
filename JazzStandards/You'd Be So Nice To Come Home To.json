@@ -1,0 +1,35 @@
+{
+  "Title": "You'd Be So Nice To Come Home To",
+  "Composer": "Porter Cole",
+  "Key": "A-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|Bh7,E7b9|A-7|A-7|G-7|C7|F^7|F^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bh7|E7b9|A-7|A-7|F#h7|B7b9|Bh7|E7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|Bh7,E7b9|A-7|A-7|G-7|C7|F^7|F^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "F#o7|C6/G|G#o7|A-7|D7,Ab7|G7|C6|Bh7,E7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

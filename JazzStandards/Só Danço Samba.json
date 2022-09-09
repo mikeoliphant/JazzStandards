@@ -1,0 +1,35 @@
+{
+  "Title": "Só Danço Samba",
+  "Composer": "Jobim Antonio-Carlos",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6|F7|D7|D7|D-7|G7"
+      },
+      "Endings": [
+        {
+          "Chords": "C6|F7"
+        },
+        {
+          "Chords": "C6|C6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|C7|F^7|F^7|A-7|D7|G7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6|F7|D7|D7|D-7|G7|C6|F7"
+      },
+      "Endings": []
+    }
+  ]
+}

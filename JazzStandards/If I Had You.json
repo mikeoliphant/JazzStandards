@@ -1,0 +1,35 @@
+{
+  "Title": "If I Had You",
+  "Composer": "Campbell-Connelly-Shapiro",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb7|Eb^7|Eb-6|Bb^7,Dbo7|C-7,F7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb^7,Dbo7|C-7,F7"
+        },
+        {
+          "Chords": "Bb6|Eh7,A7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|Eh7,A7b9|D-7|Eh7,A7b9|D-7,Bh7|Eh7,A7b9|D-7,G7|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb7|Eb^7|Eb-6|Bb^7,Dbo7|C-7,F7|Bb^7,Dbo7|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

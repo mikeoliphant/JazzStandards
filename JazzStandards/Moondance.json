@@ -1,0 +1,40 @@
+{
+  "Title": "Moondance",
+  "Composer": "Morrison Van",
+  "Key": "A-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7,B-7/E|A-7,B-7/E|A-7,B-7/E|A-7,B-7/E|A-7,B-7/E|A-7,B-7/E|A-7,B-7/E|A-7,B-7/E"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|A-7|D-7|A-7|D-7|A-7|D-7|E7b13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "A-7,D-7|A-7,D-7|A-7,D-7|A-7,D-7|A-7,D-7|A-7,D-7|A-7,D-7|E7b13"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "A-7,B-7/E|A-7,B-7/E|A-7,B-7/E|A-7,B-7/E"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "A-,G|F,E-|D-,E7b13|A-"
+      },
+      "Endings": []
+    }
+  ]
+}

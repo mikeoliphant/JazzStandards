@@ -1,0 +1,35 @@
+{
+  "Title": "Crystal Silence",
+  "Composer": "Corea Chick",
+  "Key": "A-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|E-7|F^7#11|B-7|Bb^7#11|A-9"
+      },
+      "Endings": [
+        {
+          "Chords": "B-,C,D7,E7|A-7|Bb^7#11"
+        },
+        {
+          "Chords": "D-9|E7#9|D-9|E7#9|F^7#11|G7sus|A-9|A-9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D^7|A-7|Bb^7|F-7|C^7|G-7|B7b13|E7sus,E7#9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|E-7|F^7#11|B-7|Bb^7#11|A-9|B-,C,D7,E7|A-7|Bb^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Like A Lover",
+  "Composer": "Dori Caymmi-Nelson Motta",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|G7sus|C^7|D/C|B-7,E-7|A7sus,A7|D^7|G7|F^7|G/F|C^7|G7sus|C^7|G7sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7,F-6/C|C^7|D/C|D/C|B-7,B7b9|E-7|F#h7|B7b9|E-7|A-7,G-7|D/F#|G7sus|G7sus"
+      },
+      "Endings": []
+    }
+  ]
+}

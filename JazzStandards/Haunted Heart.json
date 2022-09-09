@@ -1,0 +1,35 @@
+{
+  "Title": "Haunted Heart",
+  "Composer": "Schwartz Arthur",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb6,C-7|F-7,Bb7|Eb6,C-7|F-7,Bb7|Eb6,Ab^7|G-7,C7b13|F-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7|F#o7|G-7,Bb7|Eb^7|Ah7|D7b9|G-7,C7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb6,C-7|F-7,Bb7|Eb6,C-7|F-7,Bb7|Eb6,Ab^7|G-7,C7b13|Bb-7|Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Ab6|Ao7|Eb6/Bb|C-7|Ah7|D7b13|Gh7|C7b9|F-7|Bb7|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

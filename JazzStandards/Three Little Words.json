@@ -1,0 +1,28 @@
+{
+  "Title": "Three Little Words",
+  "Composer": "Ruby Harry",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|C^7|C^7|Eb-7,Ab7|D-7|G7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|C7|G-7|C7|F^7|F^7|Bb7,A7|Ab7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|C^7|C^7|Eb-7,Ab7|D-7|G7|C6|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

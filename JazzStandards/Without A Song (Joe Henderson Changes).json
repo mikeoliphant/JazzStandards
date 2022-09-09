@@ -1,0 +1,35 @@
+{
+  "Title": "Without A Song (Joe Henderson Changes)",
+  "Composer": "Youmans Vincent",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|A7#11|Ab^7|Gb7|B^7|E7#9#11|Db7#11|Bb7sus|G-7|Gb7|F-7|Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb6,Ab^7|G-7,F-7|Eb6|Bb7"
+        },
+        {
+          "Chords": "Eb6|Eb6|Eb6|Bb-7,Eb7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7|G-7,C7|F-7,Bb7|Eb^7|G-7|Ah7,D7b13|G-7,C7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|A7#11|Ab^7|Gb7|B^7|E7#9#11|Db7#11|Bb7sus|G-7|Gb7|F-7|Bb7|Eb6,Ab^7|G-7,F-7|Eb6|Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

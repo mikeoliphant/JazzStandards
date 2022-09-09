@@ -1,0 +1,28 @@
+{
+  "Title": "Bolivia",
+  "Composer": "Walton Cedar",
+  "Key": "D",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,(Bb7sus)|A13|D^7|Ab13b9|G^7|F#7b13|B-7|C^7#11|B-7|B-7/A|G#h7|G-7,C7|F^7|B7b9|Bb^7|A7#9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)"
+      },
+      "Endings": []
+    }
+  ]
+}

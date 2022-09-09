@@ -1,0 +1,21 @@
+{
+  "Title": "Butch And Butch",
+  "Composer": "Nelson Oliver",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "C#h7,C-7|B-7,E7|A-7|A-7|C#h7,F#7b9|B-7,Db6|D7sus|D7sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,G#o7|A-7,Bbo7|B-7,G6|D-7,G7|C^7|C#-7,F#7|C-7,F7|B-7,E7|D7sus|D7sus|G6,Bb7|A7,Ab7"
+      },
+      "Endings": []
+    }
+  ]
+}

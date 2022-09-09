@@ -1,0 +1,35 @@
+{
+  "Title": "More Than You Know",
+  "Composer": "Youmans Vincent",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6,G7#5|G-7,C7|F^7,,E-7,A7|D-7,F-6|G7,Ab7#11|D-7,G7|E-7,A7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6,G7#5|G-7,C7|F^7,,E-7,A7|D-7,F-6|E-7,A7|D-7,G7|C6|F#h7,B7b13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E-7,C#h7|F#h7,B7#9|E-7|A-7,D7|G^7,E-7|A-7,D7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6,G7#5|G-7,C7|F^7,,E-7,A7|D-7,F-6|E-7,A7|D-7,G7|C6,A-7|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

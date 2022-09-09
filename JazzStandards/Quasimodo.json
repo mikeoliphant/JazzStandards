@@ -1,0 +1,21 @@
+{
+  "Title": "Quasimodo",
+  "Composer": "Parker Charlie",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|D7|F-7|Bb7|F-7|Bb7|Eb^7|Eb^7,Eb^7,G7|C-7,C-7/Bb|A-7,D7|G-7|C7,F7|Bb6|C-7,F7|F-7,C7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb^7|D7|F-7|Bb7|F-7|Bb7|Bb-7,F7b13|Bb-7,Eb7|Ab^7|D-7,G7|C-7|Ah7,Ab-7|G-7,C7|F-7,Ab-7|G-7,C7|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "Mountain Greenery",
+  "Composer": "Rodgers Richard",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6,A-7|D-7,G7|C6,A-7|D-7,G7|C6|A-7,D7|E-7,A7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6,A-7|D-7,G7|C6,A-7|D-7,G7|C6|A-7,D7|G7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F6|G-7,C7|F6|Bb7|A-7|D7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6,A-7|D-7,G7|C6,A-7|D-7,G7|C6,A-7|D-7,G7|C6,A-7|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

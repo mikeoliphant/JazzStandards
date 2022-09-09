@@ -1,0 +1,34 @@
+{
+  "Title": "For Once In My Life",
+  "Composer": "Murden Orlando",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb,Bb+|Bb6,Bo7|C-,G7|C-,G7|C-,C-b6|C-6,F7|Bb6,F7|Bb6,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-,G-/F#|F-7,Bb7#5|Eb6,G-7|C-7,F7|D-7|G-7|C7|F7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Bb,Bb+|Bb6,Bo7|C-,G7|C-,G7|C-,C-b6|C-6,F7|Bb6,F7|Bb6,D7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "G-,G-/F#|F-7,Bb7#5|Eb6|C7#11|Bb/F,G-7|C-7,F7|Bb6|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

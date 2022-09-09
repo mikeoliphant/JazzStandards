@@ -1,0 +1,35 @@
+{
+  "Title": "Shine",
+  "Composer": "Dabney-Mack-Brown",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|F-7|Bb7|Eb^7|Eb^7|F-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G7|G7|C-7|C-7|F7|F7|Bb7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|F-7|Bb7|G7|G7|C-7|C-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "Ab^7#11|Ab^7#11,Ab^7#11,Db7|Eb6|C7|F-7|Bb7|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

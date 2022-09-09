@@ -1,0 +1,28 @@
+{
+  "Title": "A Shade Of Jade",
+  "Composer": "Henderson Joe",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|C-7|C-7|C-7|Db^7#11|Db^7#11|Eb^7#11,E^7#11|D^7#11|Db^7#11|Db^7#11|Db^7#11|Db^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Gb^7|Gb^7|F13b9|F13b9|Bb-^7|Bb-^7|Gh7|C7#9|F^7,D-7|D-7|Bb-7,Eb^7|Eb^7|Gb^7#11,Db^7#11|Db^7#11|Dh7,Ab^7|Ab^7,G7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|C-7|C-7|C-7|Db^7#11|Db^7#11|Eb^7#11,E^7#11|D^7#11|Db^7#11|Db^7#11|Db^7#11|Db^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

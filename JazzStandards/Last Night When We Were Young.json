@@ -1,0 +1,28 @@
+{
+  "Title": "Last Night When We Were Young",
+  "Composer": "Arlen Harold",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,C7|B-7,E7b13|A7|A-7,D7#9|D-7,G7|Ah7,D7b9|G^7,G#o7|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|B7,E7|A7|Bb7,A7b9|D-7|B7|Eh7,A7b9|Eb7,D7,D7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,C7|B-7,E7|D-7|B7,E7|A7|A-7,D7|G6|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

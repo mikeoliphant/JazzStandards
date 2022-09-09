@@ -1,0 +1,35 @@
+{
+  "Title": "Lazybones",
+  "Composer": "Carmichael-Mercer",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,F7|C^7,F7|C^7,,F7,G7|C6,C7/Bb|A7|D-7|Ab7b5,G7"
+      },
+      "Endings": [
+        {
+          "Chords": "C6,G7"
+        },
+        {
+          "Chords": "C6,G7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F6|F6|C^7,G7|C^7|F7,Eb7|D7,G7|D7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,F7|C^7,F7|C^7,,F7,G7|C6,C7/Bb|A7|D-7|Ab7b5,G7|C6,,D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

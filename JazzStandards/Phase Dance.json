@@ -1,0 +1,28 @@
+{
+  "Title": "Phase Dance",
+  "Composer": "Metheny Pat",
+  "Key": "B-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "B-9|B-9|B-9|B-9|Bb^7#11|Bb^7#11|Bb^7#11|Bb^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A13sus|A13sus|A13sus|A13sus|G69|G69|G69|G69"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "B-9|B-9|B-9|B-9|Bb^9#11|Bb^9#11|Bb^9#11|Bb^9#11"
+      },
+      "Endings": []
+    }
+  ]
+}

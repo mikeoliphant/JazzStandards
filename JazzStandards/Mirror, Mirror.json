@@ -1,0 +1,21 @@
+{
+  "Title": "Mirror, Mirror",
+  "Composer": "Corea Chick",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|E7alt|F^7|A7alt|D^7|F#7alt|G^7|B7alt|C^7|B7#11|B^7|A-7|F7|F#o7|C/G|C7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "B^7|Eb7alt|E^7|Ab7alt|G^7|E^7|Db^7#11|Bb7|A7alt|D-7|G7|G#o7|A-7|D7#11|F-11|G7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "That's Amore (That's Love)",
+  "Composer": "Warren-Brooks",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb|Bb^7|Bb6|Dbo7|C-7|F7|C-7|F7|C-7|F7|C-7|F7|Bb^7|Bb6|C-7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb|Bb^7|Bb6|Dbo7|C-7|F7|C-7|F7|C-7|F7|C-7|F7|Bb^7|Bb6|C-7|F7"
+      },
+      "Endings": []
+    }
+  ]
+}

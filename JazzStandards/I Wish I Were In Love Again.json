@@ -1,0 +1,35 @@
+{
+  "Title": "I Wish I Were In Love Again",
+  "Composer": "Rodgers Richard",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|C7#11|G^7|C7#11|G^7|C7#11"
+      },
+      "Endings": [
+        {
+          "Chords": "B-7,E-7|A-7,D7"
+        },
+        {
+          "Chords": "D7|G7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C#h7,C-6|G6/B,E7#5|A7,D7|G6,G7|C#h7,C-6|G6/B,E7#5|A7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|C7#11|G^7|C7#11|G^7|B7,E-7|A-7,D7|G6,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

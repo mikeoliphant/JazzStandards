@@ -1,0 +1,35 @@
+{
+  "Title": "Lazy Afternoon",
+  "Composer": "Latouche-Moross",
+  "Key": "A-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|A7|A-7|D7|A-7|D7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|D7|D-7|G9|D-7|G7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "D-7|G7|C^7,F7|E-7,A7|D-7|G7|C^7|Bh7|E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|A7|A-7|D7|A-7|D7|A-7|D7|A6|B-7,E7"
+      },
+      "Endings": []
+    }
+  ]
+}

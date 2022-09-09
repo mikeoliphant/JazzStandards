@@ -1,0 +1,21 @@
+{
+  "Title": "Passion Dance",
+  "Composer": "Tyner McCoy",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F7sus|F7sus|F7sus|F7sus|F7sus|F7sus|F7sus|F7sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb7b13sus|Bb7b13sus|Bb7b13sus|Bb7b13sus|Bb7b13sus|Bb7b13sus|Bb7b13sus|Bb7b13sus|Eb-11/Bb|Eb-11/Bb|Eb-11/Bb|Eb-11/Bb|Eb-11/Bb|Eb-11/Bb|Db/Cb,C7#9|C7#9"
+      },
+      "Endings": []
+    }
+  ]
+}

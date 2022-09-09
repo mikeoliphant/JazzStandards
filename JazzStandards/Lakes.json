@@ -1,0 +1,47 @@
+{
+  "Title": "Lakes",
+  "Composer": "Metheny Pat",
+  "Key": "D",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "D|A/D|G/D|A/D"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D,,A/C#,B-|B-,D/A|E/G#,G/A|D^7,F#7|F#7,B-7|E-,,G/A,A/G|D^7/F#,E-9|G/A,Bb/A"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A,,Bbo,B-|B-,D/C,D/C,D/C|A/C#,A-7/D|G^7,F#/G#|C#-7,C9|B-,D9|G^7,F#-7|F^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "E-9,F#-7|F#/G|E7#9/G#,Eb/A|D/A#|C/B,Bb/C|A7/C#,,D9,D/Eb|E-9,,F#-7,G^|A7sus"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D|A/D|G/C|A/D"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D^7,C7sus|F^7,Ab7sus|Db^7,B7sus|E^7,D7sus|G^7,F7sus|Bb^7,Db7sus|Gb^7,G7sus|C^7,A7sus"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "Lullaby In Rhythm",
+  "Composer": "Goodman-Hirsch",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7,Go7|F^7|Ab-7,Db7|Gb^7|G-7"
+      },
+      "Endings": [
+        {
+          "Chords": "C7|F^7,C7"
+        },
+        {
+          "Chords": "C7|F6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-7|Eb7|F^7|Eh7,A7|D-7|G7|C7|Db7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7,Go7|F^7|Ab-7,Db7|Gb^7|G-7|C7|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

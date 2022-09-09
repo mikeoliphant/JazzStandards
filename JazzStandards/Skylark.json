@@ -1,0 +1,35 @@
+{
+  "Title": "Skylark",
+  "Composer": "Carmichael Hoagy",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,F-7|Eb^7/G,Ab^7|Eb^7,A7#11|Ab^7,,G-7,C7|F7|F-7,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb6,C-7|F-7,Bb7"
+        },
+        {
+          "Chords": "Eb6,Bb7#9|Eb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7(Ab^7),B7(F7)|Bb-7,Eb7|Ab^7|Gh7,C7b9|F-,Db7|Bb-7,Eb7,Ab^7,|G^7,E-7|A7,D7,G6,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,F-7|Eb^7/G,Ab^7|Eb^7,A7#11|Ab^7,,G-7,C7|F7|F-7,Bb7|Eb6,Bb7#9|Eb6,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

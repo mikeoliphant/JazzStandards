@@ -1,0 +1,35 @@
+{
+  "Title": "Whisper Not",
+  "Composer": "Golson Benny",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7,C-7/Bb|Ah7,D7b9|G-7,G-7/F|Eh7,A7b9|D-7,Bh7|Eh7,A7b9|D-7,E-7"
+      },
+      "Endings": [
+        {
+          "Chords": "F-7,G7b9"
+        },
+        {
+          "Chords": "F-7,Bb7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ah7|D7b9|G-7|G-7/F|Eh7|A7b9|Dh7|G7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7,C-7/Bb|Ah7,D7b9|G-7,G-7/F|Eh7,A7b9|D-7,Bh7|Eh7,A7b9|D-7,E-7|F-7,G7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

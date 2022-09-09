@@ -1,0 +1,42 @@
+{
+  "Title": "Chega De Saudade (No More Blues)",
+  "Composer": "Jobim Antonio-Carlos",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "G-9|C7|F^9|Bb^7|Bo7|E-,A7|D-7|A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-|D-7/C|E7b9/B|E7b9/B|Eh7/Bb|A7b9|D-|Eh,A7|D-|Bh,E7|A-|A-|Bb^7|Bb^7|Eh7|A7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-|D-7/C|E7b9/B|E7b9/B|Eh7/Bb|A7b9|D-|D7b9|G-|A7b9|D-|D-7/C|E7b9/B|A7b9|D-|E-7,A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "D^7|B7/D#|E-7|E-7|A7sus|A7|Do7|D^7|F#-7|Fo7|E-7|E-7|E7|E7|Eh7|A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "D^7|B-7|E7|E7|F#7|F#7|B-7,Bb-7|A-7,D7|G^7|G-7|F#-7|B7|E7|A7|F#-7|B7|E7|A7|D6|A7"
+      },
+      "Endings": []
+    }
+  ]
+}

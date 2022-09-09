@@ -1,0 +1,35 @@
+{
+  "Title": "Smoke Gets In Your Eyes",
+  "Composer": "Kern Jerome",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,Gbo7|F-7,Bb7|Bb-7,Eb7|Ab^7,Ao7|G-7,C-7|F-7,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "G-7,C7|F-7,Bb7"
+        },
+        {
+          "Chords": "Eb6|Db-7,Gb7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "B^7|E7#11|Eb-7,Ab7|Db-7,Gb7|B^7|F-7,Bb7|Eb^7,C7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,Gbo7|F-7,Bb7|Bb-7,Eb7|Ab^7,Ao7|G-7,C-7|F-7,Bb7|Eb6,C-7|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Boplicity",
+  "Composer": "Henry Cleo",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,F^7|G-7,C7|F^7|C-7,F7#5|Bb^7|G-7/C|G-7/C,C7sus|F^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7,F7#5|C-7,B7|Bb^7|Bb^7|Bb-7,Eb7#5|Bb-7,A7|Ab^7,Ab-7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,F^7|G-7,C7|F^7|C-7,F7#5|Bb^7|G-7/C|G-7/C,C7sus|F^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

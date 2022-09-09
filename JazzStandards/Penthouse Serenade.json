@@ -1,0 +1,35 @@
+{
+  "Title": "Penthouse Serenade",
+  "Composer": "Jason-Burton",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Abo7|G-7|C7|G-7,C7|G-7,C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F6,Abo7|G-7,C7"
+        },
+        {
+          "Chords": "F6,Bb7|F6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7,F#o7|G-7,C7|F^7,A7|D-7|G7,D-7|G7|C7,G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Abo7|G-7|C7|G-7,C7|G-7,C7|F6,Eb7|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

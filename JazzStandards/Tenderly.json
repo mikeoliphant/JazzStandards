@@ -1,0 +1,35 @@
+{
+  "Title": "Tenderly",
+  "Composer": "Gross Walter",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Ab7|Eb-7|Ab7|F-7|Db7#11|Eb^7|Gh7,C7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Fh7|Bb7|Fh7|Bb7,Bo7|C-7|F7|F-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Ab7|Eb-7|Ab7|F-7|Db7#11|Eb^7|Gh7,C7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Fh7|Bb7,Bo7|C-7|F7,F#o7|G-7,C7|F-7,Bb7|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

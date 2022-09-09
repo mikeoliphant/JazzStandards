@@ -1,0 +1,35 @@
+{
+  "Title": "Easy Street",
+  "Composer": "Jones Alan",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,C7|F-7,G7b13|C-7,,Bb-7,Eb7|Ab-7,Bb7|G-7,C7|F-7,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb^7,C-7|F-7,Bb7"
+        },
+        {
+          "Chords": "Eb^7|Bb-7,Eb7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7|Ab-7,Db7|Eb^7|Bb-7,Eb7|Ab^7|Ab-7,Db7|Eb^7,F7|F-7,Bb7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,C7|F-7,G7b13|C-7,,Bb-7,Eb7|Ab-7,Bb7|G-7,C7|B7,Bb7#5|Eb^7,Ab7|Eb6,,F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

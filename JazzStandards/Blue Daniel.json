@@ -1,0 +1,19 @@
+{
+  "Title": "Blue Daniel",
+  "Composer": "Rosolino Frank",
+  "Key": "D",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "D6|C7|B-7|E7|B-7|E7|B-7|E7|G-7|C7|D^7|C7|E-7|A7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D6,C7|B-7|E7|A7|D^7"
+      },
+      "Endings": []
+    }
+  ]
+}

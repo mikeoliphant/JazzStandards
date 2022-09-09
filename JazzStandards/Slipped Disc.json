@@ -1,0 +1,55 @@
+{
+  "Title": "Slipped Disc",
+  "Composer": "Goodman Benny",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7,Eb7|Ab^7,Bo7|Bb-7,Eb7|Ab6,F7|Bb7,Eb7|Ab^7,Bo7|Bb-7,Eb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Ab6,F7"
+        },
+        {
+          "Chords": "Ab6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C7|F-6|C7|F-6|Bb7|Eb7|Bb7|Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7,Eb7|Ab^7,Bo7|Bb-7,Eb7|Ab6,F7|Bb7,Eb7|Ab^7,Bo7|Bb-7,Eb7|Ab6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": ""
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Db,Do7|Ab/Eb,Ab7|Db,Do7|Ab/Eb,Ab7|Db,Do7|Ab/Eb,F7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb7|Eb7"
+        },
+        {
+          "Chords": "Bb7,Eb7|Ab6"
+        }
+      ]
+    }
+  ]
+}

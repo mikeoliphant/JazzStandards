@@ -1,0 +1,35 @@
+{
+  "Title": "Tour De Force",
+  "Composer": "Gillespie Dizzy",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Dh7,Db-7|C-7,B-7|Bb-7,Eb7|C-7,B-7|Dh7,Db-7|C-7,B-7|Bb-7,Eb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Ab6,Ab6,Bb-7,Ab7"
+        },
+        {
+          "Chords": "Ab6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb-7,Ab7|Db^7,Do7|Eb-7,Ab7|Db^7|F-7,Bb7|Eb^7,Eo7|F-7,E7|Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Dh7,Db-7|C-7,B-7|Bb-7,Eb7|C-7,B-7|Dh7,D-7|C-7,B-7|Bb-7,Eb7|Ab6"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "Boulevard Of Broken Dreams, The",
+  "Composer": "Dubin-Warren",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-,Eh7|D-/F,D-|Eh7|A7|Eh7|A7"
+      },
+      "Endings": [
+        {
+          "Chords": "D-,G-|D-,A7"
+        },
+        {
+          "Chords": "D-,G-|D-,D7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ah7|D7b9|G-7|C7|G-7|C7|F^7|A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-,Eh7|D-/F,D-|Eh7|A7|Eh7|A7|D-,G-|D-,A7"
+      },
+      "Endings": []
+    }
+  ]
+}

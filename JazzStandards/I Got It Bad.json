@@ -1,0 +1,35 @@
+{
+  "Title": "I Got It Bad",
+  "Composer": "Ellington Duke",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Go,G^7|B7b13,E-7|A7,E-7|A7|A-7|B7,E7,A7,D7"
+      },
+      "Endings": [
+        {
+          "Chords": "G6,E-7|A-7,D7"
+        },
+        {
+          "Chords": "G6,C#o7|D-7,G7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|C^7|F7|F7|G^7|B-7,E7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Go,G^7|B7b13,E-7|A7,E-7|A7|A-7|B7,E7,A7,D7|G6,E-7|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

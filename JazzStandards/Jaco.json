@@ -1,0 +1,40 @@
+{
+  "Title": "Jaco",
+  "Composer": "Metheny Pat",
+  "Key": "C-",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Gsus|Gsus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb/F|Eb/F"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7,,(Db9),(C-7)|C-7,,(Db9),(C-7)|Db^7,Db9|C-7|C-7|C-7|Db^7,Db9|C-7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Ab^7,Ab7(Ab^7)|G-7,C7(G-7)|Ab^7|G-7,C-7(G-7)|Db^7|C-7,Ab7|D7#9,G7#5|C-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "C-7,Ab^9|Db^7,G7#5"
+      },
+      "Endings": []
+    }
+  ]
+}

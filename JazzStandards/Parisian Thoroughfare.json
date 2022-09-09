@@ -1,0 +1,35 @@
+{
+  "Title": "Parisian Thoroughfare",
+  "Composer": "Powell Bud",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|G-7,C7|A-7,D7|G-7,C7|F^7|G-7,C7|F^7"
+      },
+      "Endings": [
+        {
+          "Chords": "G-7,C7"
+        },
+        {
+          "Chords": "B-7,E7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A^7|B-7,E7|A^7|A-7,D7|G^7|D-7,G7|G-7|C7b5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|G-7,C7|A-7,D7|G-7,C7|F^7|G-7,C7|F^7|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

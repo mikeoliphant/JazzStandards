@@ -1,0 +1,35 @@
+{
+  "Title": "Scrapple From The Apple",
+  "Composer": "Parker Charlie",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|C7|G-7|C7|F^7,F7/A|Bb^7,Bo7"
+      },
+      "Endings": [
+        {
+          "Chords": "F^7,G-7|A-7,D7"
+        },
+        {
+          "Chords": "F^7,C7|F^7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A7|A7|D7|D7|G7|G7|C7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|C7|G-7|C7|F^7,F7/A|Bb^7,Bo7|F^7,G-7|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

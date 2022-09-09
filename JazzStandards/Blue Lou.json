@@ -1,0 +1,35 @@
+{
+  "Title": "Blue Lou",
+  "Composer": "Mills Irving",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ch7|F7|Ch7|F7|Bb^7|Eb^7"
+      },
+      "Endings": [
+        {
+          "Chords": "C-7|F7"
+        },
+        {
+          "Chords": "C7,F7|Bb^7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7|F#o7|G-7|C7|F^7|F#o7|G-7,C7|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ch7|F7|Ch7|F7|Bb^7|Eb^7|C7,F7|Bb^7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Questar",
+  "Composer": "Jarrett Keith",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "Bb^7|B^7/Bb|Bb^7|Eb^7/Bb|Bb^7|Bb69|B^7/Bb|C/B"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Bbo7,Bb^7|Bbo7,Bb^7|Eb^7/Bb|F/Bb,Eb^7/Bb|B^7/Bb|C/Bb,B^7/Bb|Bb^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7,Ab7|G-7,F#^7#5|Eh7,A-7|C#/D|Ab^7|G9sus|E/G|B/G,G9sus|G9sus|Ab^7#11/G|Ab^7#11/G|Bb^7#11|A-7,Ab^7|G7sus|G7sus"
+      },
+      "Endings": []
+    }
+  ]
+}

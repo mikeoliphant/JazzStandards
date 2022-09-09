@@ -1,0 +1,20 @@
+{
+  "Title": "A Taste Of Honey",
+  "Composer": "Marlow-Scott",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-|D-^7|D-7|G7|D-|D-^7|D-7|G7|D-|D-|Bb^7|A-7|D-|D-"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D-7|G7|D-7|G7|Bb^7|A-7|D-|Eh7,A7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

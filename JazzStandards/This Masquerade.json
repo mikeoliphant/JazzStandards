@@ -1,0 +1,34 @@
+{
+  "Title": "This Masquerade",
+  "Composer": "Russell Leon",
+  "Key": "F-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "F-7|Bb7|F-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-|F-^7|F-7|Bb7|F-7|Db7|Gh7|C7#9|F-|F-^7|F-7|Bb7|Db7|Gh7,C7b9|F-|F-,,E-7,A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb-7|Ab7|Db^7|Bb7b13|Eb-7|Ab7|Db^7|Db^7|D-7|G13,G7b13|C^7|C^7|G-7|G13,G7b13|C9sus|Gb7#11"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "F-7|Bb7|F-7|B7"
+      },
+      "Endings": []
+    }
+  ]
+}

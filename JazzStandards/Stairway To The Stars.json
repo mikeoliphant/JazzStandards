@@ -1,0 +1,35 @@
+{
+  "Title": "Stairway To The Stars",
+  "Composer": "Maineck Matt",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6,G7#5|G-7,C7|F^7|Bb7#11|A-7,D7|D-7,G7"
+      },
+      "Endings": [
+        {
+          "Chords": "E7,A7|D-7,G7"
+        },
+        {
+          "Chords": "C6,F7|F#h7,B7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E-7,F7#11|E-7,B7sus|E-7,B7b9|Eh7,A7b9|D-7,Eb7#11|D-7,A7sus|D-7,D7|D-7/G,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6,G7#5|G-7,C7|F^7|Bb7#11|A-7,D7|D-7,G7|C6,A-7|D7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

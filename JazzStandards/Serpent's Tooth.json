@@ -1,0 +1,35 @@
+{
+  "Title": "Serpent's Tooth",
+  "Composer": "Davis Miles",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7,Bo7|C-7,C#o7|D-7,D7#5|Eb^7,Ab^7#11|Bb^7,E9|Eb^7,Ab7"
+      },
+      "Endings": [
+        {
+          "Chords": "D-7,G7|C-7,F7"
+        },
+        {
+          "Chords": "Bb^7|Bb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb7|Bb7|Eb^7|Eb^7|C7|C7|F7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7,Bo7|C-7,C#o7|D-7,D7#5|Eb^7,Ab7#11|Bb^7,E9|Eb^7,Ab7|Bb^7|Bb6"
+      },
+      "Endings": []
+    }
+  ]
+}

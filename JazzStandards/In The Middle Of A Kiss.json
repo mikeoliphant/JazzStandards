@@ -1,0 +1,35 @@
+{
+  "Title": "In The Middle Of A Kiss",
+  "Composer": "Coslow Sam",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7,C7|F7,E7|A-7,D7|G-7,C7|F^7|Eh7,A7|D-7,A7|D-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7,D7|D-7,G7|C6,G7|C^7|A-7,Ah7|D7|D-7,G7|Bh7,E7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7,C7|F7,E7|A-7,D7|G-7,C7|F^7|Eh7,A7|D-7,Db7|C7sus,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F^7,F-6|F-7,Bb7|C^7,Bb7|A7|D-7,A7|D-7,G7|C6|E7b13"
+      },
+      "Endings": []
+    }
+  ]
+}

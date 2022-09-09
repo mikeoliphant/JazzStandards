@@ -1,0 +1,21 @@
+{
+  "Title": "I've Got A Crush On You",
+  "Composer": "Gershwin George",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7,Dbo7|C-7,F7|Bb^7,Dbo7|C-7,F7|D-7,G-7|C7|C7|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb^7,Dbo7|C-7,F7|Bb^7,Dbo7|C-7,,Eb-7,Ab7|D-7,G-7|C7|Bb/F,G-7|C7,F7|Bb6|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

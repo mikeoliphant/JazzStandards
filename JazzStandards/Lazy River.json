@@ -1,0 +1,20 @@
+{
+  "Title": "Lazy River",
+  "Composer": "Carmichael Hoagy",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D7|D7,Db7,C7,F#o|G7|G7,Ab7,G7,|C7|C7,Db7,C7,|F6,C7|F6"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D7|D7,Db7,C7,F#o|G7|G7,Ab7,G7,|Bb6,Bo7|F6/C,D7|G7,C7|F6,D7|G7,C7|F6,A7"
+      },
+      "Endings": []
+    }
+  ]
+}

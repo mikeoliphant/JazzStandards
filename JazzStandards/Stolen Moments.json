@@ -1,0 +1,28 @@
+{
+  "Title": "Stolen Moments",
+  "Composer": "Nelson Oliver",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "C-7|D-7/C|Eb^7/C|D-7/C"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|C-6|C-7|C-6|F-7|F-6|C-7|C-6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-,D#-|E-,F-|F#-,F-|E-,Eb-|D-7,D#o7|C7/E,F-|C-|G7"
+      },
+      "Endings": []
+    }
+  ]
+}

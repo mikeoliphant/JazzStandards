@@ -1,0 +1,35 @@
+{
+  "Title": "You Won't Forget Me",
+  "Composer": "Goell-Spielman",
+  "Key": "Bb-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ah7|D7b9|G-7|C7|C-7|F7b9|Bb-7|G7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ah7|D7b9|G-7|G-7/F|Eh7|A7b9|Eb7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Ah7|D7b9|G-7|C7|C-7|F7b9|Ab7sus|G7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "C-7|Ab7sus|D7b9|G7|Gb7|F7|Bb-7|C/Bb,B/Bb"
+      },
+      "Endings": []
+    }
+  ]
+}

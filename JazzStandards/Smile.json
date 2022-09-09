@@ -1,0 +1,35 @@
+{
+  "Title": "Smile",
+  "Composer": "Chaplin Charles",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7|F^7|F^7|F^7|Abo7|G-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|G-7|Bb-7|Eb7|F^7|F^7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7|F^7|F^7|F^7|Abo7|G-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "G-7|G-7|Bb-7|Eb7|F^7|F^7|G-7|C7|F6|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

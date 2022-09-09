@@ -1,0 +1,35 @@
+{
+  "Title": "There Is No Greater Love",
+  "Composer": "Jones Isham",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Eb7|Ab7#11|G7"
+      },
+      "Endings": [
+        {
+          "Chords": "C7|C7|C-7|F7"
+        },
+        {
+          "Chords": "C7|C-7,F7|Bb6|Bb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ah7,D7b9|G-6|Ah7,D7b9|G-6|Ah7,D7b9|G-6|C7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Eb7|Ab7#11|G7|C7|C-7,F7|Bb6|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

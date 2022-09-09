@@ -1,0 +1,21 @@
+{
+  "Title": "That Old Feeling",
+  "Composer": "Brown-Fain",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6|C6|Eh7(F-7),(Bb7)|A7b9(Eh7),(A7b9)|D-7,A7b9|D-7|Dh7(Eb-7),(Ab7)|G7(D-7),(G7)|A-7|E7b13|Eh7|A7|D7|D7|Dh7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C6|C6|Eh7(F-7),(Bb7)|A7b9(Eh7),(A7b9)|D-7,A7b9|D-7|F-6(F#h7)|E7(B7b9)|Eh7(F-7),(Bb7)|A7b9(Eh7),(A7)|D-7|F-6(C-7),(F7)|C^7|A7|D-7,G7|C6"
+      },
+      "Endings": []
+    }
+  ]
+}

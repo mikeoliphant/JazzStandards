@@ -1,0 +1,39 @@
+{
+  "Title": "Maze, The",
+  "Composer": "Hancock Herbie",
+  "Key": "E-",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "E-7|A/E|E-7|A/E"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "E-7|A/E|E-7|A/E"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "A-7|G-7|F#h7|F13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-7|A7|E-7|A7|A-7|G-7|F#h7|B7b9"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "F^7"
+      },
+      "Endings": []
+    }
+  ]
+}

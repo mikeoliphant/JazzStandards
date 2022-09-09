@@ -1,0 +1,28 @@
+{
+  "Title": "Days And Nights Waiting",
+  "Composer": "Jarrett Keith",
+  "Key": "D",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb^7|A7|F#-7|B-7|E-7,A7|D^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|F7|Eb-7|Ab7|C-7|F7|D-7,G7|Db-7,Gb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb^7|A7|F#-7|B-7|E-7,A7|D^7"
+      },
+      "Endings": []
+    }
+  ]
+}

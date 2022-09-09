@@ -1,0 +1,35 @@
+{
+  "Title": "Let's Do It (Let's Fall In Love)",
+  "Composer": "Porter Cole",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6,Bo7|C-7,F7|Bb6,Bb7|Eb6,Eb-6(Ab9)|D-7,G7b9|C-7,F7"
+      },
+      "Endings": [
+        {
+          "Chords": "D7#5,G7b9|C9,F7#5"
+        },
+        {
+          "Chords": "Bb6,Eb7|Bb6,D7#5"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-6|C-7(Eb9),C-6|D-7|F-7,Bb7b9|Eb6|Eb-7,Ab7|Db6|C-7,F7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6,Bo7|C-7,F7|Bb6,Bb7|Eb7|Bb6/D,G-7|C-7,F7b9|Bb6,G7#5|C-7,F7#5"
+      },
+      "Endings": []
+    }
+  ]
+}

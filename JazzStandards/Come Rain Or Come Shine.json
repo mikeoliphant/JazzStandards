@@ -1,0 +1,21 @@
+{
+  "Title": "Come Rain Or Come Shine",
+  "Composer": "Arlen Harold",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Eh7,A7b9|D-7|D-7|G7|C7|F^7|C-7,F7|Bb-7|F-7|Bb-7|G-7,C7|Bh7(Dh7),E7b9(G7b9)|Ah7(C-6),D7b9|Ah7,D7b9|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7|Eh7,A7b9|D-7|D-7|B-7|E7|A7|A7|D7|D7|G7|Bb7,A7b9|D-,Bh7|Eh7,A7b9|D-6|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

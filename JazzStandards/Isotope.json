@@ -1,0 +1,21 @@
+{
+  "Title": "Isotope",
+  "Composer": "Henderson Joe",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "C7,A7|Eb7,D7|G7,C7|G7,C7|F7|Bb7|C7|A7sus|Ab7sus|D-7,G7|C7,A7|Gb7,Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C7|C7|C7|C7|F7|Bb7|C7|A7|Ab7|G7|C7,A7|Gb7,Eb7"
+      },
+      "Endings": []
+    }
+  ]
+}

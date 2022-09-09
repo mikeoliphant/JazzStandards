@@ -1,0 +1,42 @@
+{
+  "Title": "Somewhere",
+  "Composer": "Bernstein Leonard",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb,Bb7|Eb7,Ab|F-7,Bb7|Eb7,Ab|Bb,Bb7|G-,C-"
+      },
+      "Endings": [
+        {
+          "Chords": "Ab,Db|Bb"
+        },
+        {
+          "Chords": "Ab,Db|Bb-,Gb"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "B|Ab-|Eb-|F-7|B,Ab-6|Gb|F|D-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb,Bb7|Eb7,Ab|F-7,Bb7|Eb7,Ab|Bb,Bb7|G-,C-|Ab,Db|Bb-,Gb"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "B|Ab|Eb,Eb7|Ab"
+      },
+      "Endings": []
+    }
+  ]
+}

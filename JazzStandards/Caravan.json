@@ -1,0 +1,20 @@
+{
+  "Title": "Caravan",
+  "Composer": "Ellington Duke",
+  "Key": "F-",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C7b9|C7b9|C7b9|C7b9|C7b9|C7b9|C7b9|C7b9|C7b9|C7b9|C7b9|C7b9|F-|F-|F-|F-"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "F7|F7|F7|F7|Bb7|Bb7|Bb7|Bb7|Eb7|Eb7|Eb7|Eb7|Ab6|Ab6|G7|Db7"
+      },
+      "Endings": []
+    }
+  ]
+}

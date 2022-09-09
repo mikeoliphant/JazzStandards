@@ -1,0 +1,48 @@
+{
+  "Title": "Blood Count",
+  "Composer": "Strayhorn Billy",
+  "Key": "D",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F7#11|Bb7#9|Eb7#9#11|Bb-7,Eb7|D-|D-#5|D-6|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F7#11|Bb7#9|Eb7#9#11|Bb-7,A7|D^7|D^7#5|D6|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G^7|G^7|G-6|G-7,C7|F^7|E7|A7#11,Bb7#11|B7#11,C7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F7#11|Bb7#9|Eb7#9#11|Bb-7,Eb7|D^7|D^7#5|D6|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "G^7|C7|F#-7|B-7,E7|A7sus,F/A|E/A,Eb/A"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D^7,F/D|E/D,Eb/D"
+      },
+      "Endings": []
+    }
+  ]
+}

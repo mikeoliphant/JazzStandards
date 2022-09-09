@@ -1,0 +1,32 @@
+{
+  "Title": "This Could Be The Start Of Something Big",
+  "Composer": "Allen Steve",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|C-7|F-7|Bb7,C7b13|F-7|Bb7|C-7,B7|Bb-7,A7#11|Ab^7|Ao7|G-7/Bb|C7b9"
+      },
+      "Endings": [
+        {
+          "Chords": "F-7|Bb7|G-7,Gb7|F-7,Bb7"
+        },
+        {
+          "Chords": "F-7|Bb7|Eb6|Eb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-7|Eb7|Bb-7|Eb7|Bb-7|Eb7|Bb-7|Eb7|Ab^7|Bb-7,Eb7|Ab^7|Ab^7|Ab^7|F7|Bb7sus|Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "F-7|Bb7|Eb6|Bb7"
+        }
+      ]
+    }
+  ]
+}

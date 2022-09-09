@@ -1,0 +1,28 @@
+{
+  "Title": "Ugly Beauty",
+  "Composer": "Monk Thelonious",
+  "Key": "Db",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Dh7|G13b9|Dh7|Db^7,Eb7#11|Eb-7|Ab13b9|Db^7|Db^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab-7|Db7b9|Bb7#9#5|F-7,Bb7#11|Ab9sus|Ab7#11|Ab-7|G7b5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Dh7|G13b9|Dh7|Db^7,Eb7#11|Eb-7|Ab13b9|Ab13b9|Db^7"
+      },
+      "Endings": []
+    }
+  ]
+}

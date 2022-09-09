@@ -1,0 +1,21 @@
+{
+  "Title": "A Pretty Girl Is Like A Melody",
+  "Composer": "Berlin Irving",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A7,Bb13|A7|A-9|D7|F#/G,G|F#/G,G|G^9|G^9|D-7,G7|C6|F9|G^7|A7|A7|D9|D9,C9,B7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A7,Bb13|A7|A-9|D7|F#/G,G|D-7,G7|C^7,E7/B|A-7|C#-7,F#7|B7|B-7,E7|A-7|A-7,Eb13|D7|G6|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

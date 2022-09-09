@@ -1,0 +1,35 @@
+{
+  "Title": "That's All",
+  "Composer": "Haymes-Brandt",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7,C-7|D-7,,C-7,F7|Bb^7,Eb7|D-7,G7|Eh7,Eb-7|Bb^7/D,G7#9|C-7,F7"
+      },
+      "Endings": [
+        {
+          "Chords": "D-7,G7,C-7,F7"
+        },
+        {
+          "Chords": "Bb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7,Bb7|G-7,C-7|F-7,Bb7|Eb^7|G-7,C7|A-7,D-7|G-7,C7|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7,C-7|D-7,,C-7,F7|Bb^7,Eb7|D-7,G7|Eh7,Eb-7|Bb^7/D,G7#9|C-7,F7|Bb6,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

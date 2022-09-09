@@ -1,0 +1,27 @@
+{
+  "Title": "Criss Cross",
+  "Composer": "Monk Thelonious",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-6|G-6|Gb7#9|Bb13|D-7|G7#11|Gb13|Gb13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb^7|C-7|F7|Bb^7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "G-6|G-6|Gb7#9|Bb13|D-7|G7#11|Gb13|Gb13"
+      },
+      "Endings": []
+    }
+  ]
+}

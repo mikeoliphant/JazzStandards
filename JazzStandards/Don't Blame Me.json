@@ -1,0 +1,35 @@
+{
+  "Title": "Don't Blame Me",
+  "Composer": "McHugh Jimmy",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,Eh7|A7b13|Dh7,G13b9|C^7,A-7|Dh7,G13b9|Eh7,A7b13|D-7,G7"
+      },
+      "Endings": [
+        {
+          "Chords": "C^7,G7"
+        },
+        {
+          "Chords": "C6,C7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7|E7|A-7|A-7|D7|D7|D-7,Ab7#11|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,Eh7|A7b13|Dh7,G13b9|C^7,A-7|Dh7,G13b9|Eh7,A7b13|D-7,G7|C6,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

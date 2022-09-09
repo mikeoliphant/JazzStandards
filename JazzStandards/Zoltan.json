@@ -1,0 +1,28 @@
+{
+  "Title": "Zoltan",
+  "Composer": "Shaw Woody",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7#11|C^7#11|C^7#11|C^7#11|Bb^7#11|Bb^7#11|Bb^7#11|Bb^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Gb^7#11|Gb^7#11|Gb^7#11|F^7#11|Eb^7#11|Eb^7#11|Eb^7#11,F^7#11|Ab^7#11,Bb^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7#11|C^7#11|C^7#11|C^7#11|Bb^7#11|Bb^7#11|Bb^7#11|Bb^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

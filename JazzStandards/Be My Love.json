@@ -1,0 +1,35 @@
+{
+  "Title": "Be My Love",
+  "Composer": "Brodszky Nikolaus",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Gsus,G^|G^7|F#h7|B7b9|E-7|E-7|C#h,C7b5|B-7,E7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Do7/A,A-7|A-7|Bbo7,B-7|B-7|E-7|A7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Gsus,G^|G^7|F#h7|B7b9|E-7|E-7|C#h,C7b5|B-7,E7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Do7/A,A-7|A-7|Bbo7,B-7|E-7|A-7|D7|F7#11|E7b13|A-7|D7|G6|G6"
+      },
+      "Endings": []
+    }
+  ]
+}

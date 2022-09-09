@@ -1,0 +1,41 @@
+{
+  "Title": "A Ballad",
+  "Composer": "Mulligan Gerry",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7,G7|C^7,A-7|C#-7,F#7#9|B^7|E-7,A7b9#5|F#-7,B7b9"
+      },
+      "Endings": [
+        {
+          "Chords": "E-7,A7|D^7,B7b13|E-7,G-6|F#-7,Fo7|E-7,A7"
+        },
+        {
+          "Chords": "D-7,G7|E-7,A7b9|D-7,F-^7|E-7,Ebo7|D-7,G7|C^7"
+        }
+      ]
+    },
+    {
+      "MainSegment": {
+        "Chords": "F-7,Bb7|G-7,Gbo7|F-7,Bb7b9|Eb^7|Eb-7,Ab7|Db^7,E-7|Eb-7,Ab7b9|Db^7,,E-7,A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7,G7|C^7,A-7|C#-7,F#7#9|B^7|E-7,A7b9#5|F#-7,B7b9|E-7,A7|F#-7,B7b9|E-7,G-6|F#-7,Fo7|E-7,A7|D^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7,G7|E-7,A7#9|A7#9,Ab7#9(Abo),(Ao),(Bbo),(Bo)|G7,C^9"
+      },
+      "Endings": []
+    }
+  ]
+}

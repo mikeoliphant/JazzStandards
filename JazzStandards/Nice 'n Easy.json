@@ -1,0 +1,35 @@
+{
+  "Title": "Nice 'n Easy",
+  "Composer": "Spence-Bergman-Keith",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C|C+|C6|C7|D-7|A7b13(Eh7),(A7#9)"
+      },
+      "Endings": [
+        {
+          "Chords": "D-7|G7"
+        },
+        {
+          "Chords": "D-7|Bh7,E7b9"
+        }
+      ]
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|A-^7/G#|A-/G,F^7|E-7|Eh7|A7#9|Ab7#11|D-7/G,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C|C+|C6|C7|F^7|E7b9|A-7|D7,D#o7|E-7,A-7|D-7,G7|C6|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

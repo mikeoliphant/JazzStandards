@@ -1,0 +1,35 @@
+{
+  "Title": "Nascimento",
+  "Composer": "Harris Barry",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "G^7|C7|G^7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "B^7|B^7|Fh7|Bb7|Eb-7|Eb-7/Db|Ch7|F7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb^7|Ah7,D7|G^7|F#h7,B7|E^7|Ebh7,Ab7|Db^7|F#7"
+        },
+        {
+          "Chords": "Bb^7|Ah7,D7|Bh7|E7|A-7|D7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G^7|C7|G^7|C7|G^7|C7|G^7|C7"
+      },
+      "Endings": []
+    }
+  ]
+}

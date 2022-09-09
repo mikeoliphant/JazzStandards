@@ -1,0 +1,35 @@
+{
+  "Title": "Old Folks",
+  "Composer": "Robison Willard",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eh7,A7b13|D-7,Db7,C-7,F7|Bb^7,Eb7|Ah7,D7b9|G-7,C7|Ah7,D7b9"
+      },
+      "Endings": [
+        {
+          "Chords": "G7|G-7,C7,F-7,Bb7"
+        },
+        {
+          "Chords": "G7,C7|F6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7,C7#5|C-7,F7|Bb^7|Eb7|F^7,,Eh,A7|D-7|G7|G-7,C7,F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eh7,A7b13|D-7,Db7,C-7,F7|Bb^7,Eb7|Ah7,D7b9|G-7,C7|Ah7,D7b9|G7,C7|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

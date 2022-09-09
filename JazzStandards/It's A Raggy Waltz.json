@@ -1,0 +1,28 @@
+{
+  "Title": "It's A Raggy Waltz",
+  "Composer": "Brubeck Dave",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G7,G7,C7/G,|C7/G,Go7|G7|G7|C7|C7,,C#o7,C#o7|G7|G,E7,E7,|A7b9|D7b9|G,G7,C,|G"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|B-7,E-7|Bb-7,Eb7|Ab^7|G-7,C7|F-7,Bb7|E-7,Eb7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G|D7,Go7,Go7,|G7|G7|C7|C7,,C#o7,C#o7|G7|G,E7,E7,|A7b9|D7b9|G,G7,C,|G"
+      },
+      "Endings": []
+    }
+  ]
+}

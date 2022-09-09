@@ -1,0 +1,28 @@
+{
+  "Title": "I Don't Want To Miss Mississippi",
+  "Composer": "Ellis Serger",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G|G|G7|G7|C|C|C-|C-|G|A-7,D7|G|E7"
+      },
+      "Endings": [
+        {
+          "Chords": "A7|A7|D7|D7#5"
+        },
+        {
+          "Chords": "A7|D7|G|G"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7|D7|G|E-7|A-7|D7|G|E-7|A-7|D7|G|E-7|A7|A7|D7|D7#5"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "I've Heard That Song Before",
+  "Composer": "Styne Jule",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,C6|C6|B-7,E7|E7|A7|A7|D7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7/G,G7|D-7,G7|C6,G7#5|C6|A-7|D7|D-7/G|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,C6|C6|B-7,E7|E7|A7|A7|D-7,A7|D-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F6|Bb7|C6,B7|Bb^7,A7|D-7|Ab7#11,G7|C6|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

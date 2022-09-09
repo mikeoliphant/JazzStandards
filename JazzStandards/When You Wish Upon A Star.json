@@ -1,0 +1,35 @@
+{
+  "Title": "When You Wish Upon A Star",
+  "Composer": "Harline Leigh",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,A7b13|D-7|G7|C6,F7|E-7,Ebo7|D-7,G7|D-7,G7"
+      },
+      "Endings": [
+        {
+          "Chords": "E-7,A7,D-7,G7"
+        },
+        {
+          "Chords": "C6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7,G7|C^7|D-7,G7|Co7,C^7|A-7|D7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,A7b13|D-7|G7|C6,F7|E-7,Ebo7|D-7,G7|D-7,G7|C6"
+      },
+      "Endings": []
+    }
+  ]
+}

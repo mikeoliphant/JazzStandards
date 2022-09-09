@@ -1,0 +1,35 @@
+{
+  "Title": "Let's Face The Music And Dance",
+  "Composer": "Berlin Irving",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-|C-|Dh7|G7b9|C-|C-|Dh7|G7b9|C^7|G-7,C7|F^7|Bb7|C-|Dh7,G7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-|C-|C-,C-6|C-^7,C-7|G7|Ab7|D-7/G|D-7/G|G7|G7|C6|C7|F^7|Bb7|C6|Bb-7,Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Ab^7|Bb-7,Eb7|Ab^7|Bb-7,Eb7|Ab^7|Ab^7|G7|G7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|Bb7|D-7|G7|C6|G7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

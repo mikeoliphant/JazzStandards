@@ -1,0 +1,35 @@
+{
+  "Title": "I'm Getting Sentimental Over You",
+  "Composer": "Bassman George",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Bh7,E7b9|Ah7|D7b9|G7|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F6,D7|G-7,C7"
+        },
+        {
+          "Chords": "F6|Bh7,E7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7|F#h7|B7|E7b9|B-7|E7|A-7,D7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Bh7,E7b9|Ah7|D7b9|G7|C7|A-7|D7|G7|C7b13|F6|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

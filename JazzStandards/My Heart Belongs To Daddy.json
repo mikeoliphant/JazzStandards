@@ -1,0 +1,28 @@
+{
+  "Title": "My Heart Belongs To Daddy",
+  "Composer": "Porter Cole",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-6|C-6|C-6|F-6|G7b9|Dh7,G7b13|Dh7,G7b13|C-6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-6|C-6|C-6|G7b9|G7b9|G7b9|G7b9|C^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C^7|C^7|C7|F^7|F-6|C6|Dh7,G7b13|C-6,,Dh,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

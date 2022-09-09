@@ -1,0 +1,41 @@
+{
+  "Title": "Cheetah",
+  "Composer": "Burrell Kenny",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|C-7,C#o7|D-7,G7#9|C7,F7|Bb7|Eb,Eo7|Bb/F,G7"
+      },
+      "Endings": [
+        {
+          "Chords": "C7,F7"
+        },
+        {
+          "Chords": "C7,F7,Bb6,"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7|D7|G7|G7|G-7|C7|C-7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|C-7,C#o7|D-7,G7#9|C7,F7|Bb7|Eb,Eo7|Bb/F,G7|C7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "C7,F7,Bb6,"
+      },
+      "Endings": []
+    }
+  ]
+}

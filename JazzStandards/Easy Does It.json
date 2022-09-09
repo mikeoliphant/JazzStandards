@@ -1,0 +1,28 @@
+{
+  "Title": "Easy Does It",
+  "Composer": "Oliver-Young",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6,A-7|D-7,G7|C6,A-7|D-7,G7|C6,A-7|D-7,G7|C6,Ebo7|D-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F6,D-7|G-7,C7|F6,D-7|G-7,C7|F6,D-7|D-7,G7|C6,A7|Ab7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6,A-7|D-7,G7|C6,A-7|D-7,G7|C6,A-7|D-7,G7|C6,G7|C6"
+      },
+      "Endings": []
+    }
+  ]
+}

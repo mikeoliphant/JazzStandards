@@ -1,0 +1,21 @@
+{
+  "Title": "Litha",
+  "Composer": "Corea Chick",
+  "Key": "D",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D^7|C#-7|B^7|Bb-7|Ab^7|G-7|F^7#11|F^7#11|F^7#11|F^7#11|D^7|D^7|D^7|D^7|Eb^7|Eb^7|Eb^7|Eb^7|C^7|C^7|C^7|C^7|F7sus|F7sus|F7sus|F7sus|B7#9|B7#9|B7#9|B7#9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E-7|E-7|E-7|E-7|E-7|E-7|E-7|E-7|Bb7sus|Bb7sus|Bb7sus|Bb7sus|Bb7sus|Bb7sus|Bb7sus|Bb7sus|A-7|A-7|A-7|A-7|A-7|A-7|A-7|A-7|Eb7sus|Eb7sus|Eb7sus|Eb7sus|Eb7sus|Eb7sus|Eb7sus|Eb7sus"
+      },
+      "Endings": []
+    }
+  ]
+}

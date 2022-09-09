@@ -1,0 +1,42 @@
+{
+  "Title": "Always And Forever",
+  "Composer": "Metheny Pat",
+  "Key": "A-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "A-|D-6|A-|D-6,D-11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-9,,D-7,E-7|F^7,,G9,E7/G#|A-9,Ab^7|C^9/G,F#h7|F^7,Eb69|D9,G7sus|C^7|F-6/G,E/G#"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-9,,D-9,E-7|F-7,Bb7|Eb^7,Bb/D|Db^7|C-7,Ab/C|F-7,G-7|Ah7,D7b5|G^7,Bh7,E7,"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "A-9,,D-7,E-7|F^7,,G9,E7/G#|A-9,Ab^7|C^9/G,F#h7|F^7,Eb69|D9,F/G|C^7|F-6/G|C^7|F-6/G"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|F-6/G|C^7|F-6/G,G#o|A-9"
+      },
+      "Endings": []
+    }
+  ]
+}

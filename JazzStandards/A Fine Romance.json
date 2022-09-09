@@ -1,0 +1,35 @@
+{
+  "Title": "A Fine Romance",
+  "Composer": "Kern Jerome",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6|C#o7|D-6|D#o7|E-7|A-7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C6|Ebo7|D-7|G7|E-7|A7|D7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6|C#o7|D-6|D#o7|E-7|A-7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C6|C7|F^7|F#h7,B7b9|E-7,A7|D-7,G7|C6|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

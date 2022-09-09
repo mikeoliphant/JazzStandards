@@ -1,0 +1,28 @@
+{
+  "Title": "Day Dreaming",
+  "Composer": "Kern Jerome",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7,C-7|D-7,C#o7|C-7,Do7|C-7,F7#9|Bb^7,Eb^7|D7#11,Ab9|G7b9|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": ""
+      },
+      "Endings": [
+        {
+          "Chords": "Bb^7,Bb7/Ab|G-7,G-7/F|Eh7|Eb7,D7#5|G-7,G-7/F|Eh7,Eb9|D-7,C#o7|C-7,F7sus"
+        },
+        {
+          "Chords": "Bb^7,Bb7/Ab|G-7,F-7|Eh7|Eb-6,Ab9|D-7,G7|E7/F,F13|Bb69|C-7,F7sus"
+        }
+      ]
+    }
+  ]
+}

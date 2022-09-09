@@ -1,0 +1,28 @@
+{
+  "Title": "Let's Get Lost",
+  "Composer": "McHugh Jimmy",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|F#h7|C^7|F#h7,B7b9|Eh7|A7b13|Eh7|A7b13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": ""
+      },
+      "Endings": [
+        {
+          "Chords": "D-7|G7|C^7|F#h7,B7b9|E-7|A7|D7|D-7,G7"
+        },
+        {
+          "Chords": "D-7|G7|C^7,F7|E7,A-7|D-7|G7|C6|D-7,G7"
+        }
+      ]
+    }
+  ]
+}

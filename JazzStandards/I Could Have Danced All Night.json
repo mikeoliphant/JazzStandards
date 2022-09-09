@@ -1,0 +1,35 @@
+{
+  "Title": "I Could Have Danced All Night",
+  "Composer": "Loewe Frederick",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C|C^7|C^7|C6|C^7|A7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7,D-^7|D-^7,D-7|D-7|G7|D-7|G7|C^7|F#-7,B7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "E^7|F#-7,B7|E^7|A-7,D7|G^7|A-7,D7|G7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "C|C^7|F^7|F^7|D-7|G7|C6|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

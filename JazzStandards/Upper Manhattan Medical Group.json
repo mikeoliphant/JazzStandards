@@ -1,0 +1,35 @@
+{
+  "Title": "Upper Manhattan Medical Group",
+  "Composer": "Strayhorn Billy",
+  "Key": "Db",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Fh7|Bb7b9|Eb-7|Ab7|Dbo7,Db6|Db^7"
+      },
+      "Endings": [
+        {
+          "Chords": "Db-7|Gb7"
+        },
+        {
+          "Chords": "Ab-7|Db7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Gh7|C7b13|F^7|F^7|Abh7|Db7b13|Gb-|Ab7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Fh7|Bb7b9|Eb-7|Ab7|Dbo7|Db6|Dbo7|Db6"
+      },
+      "Endings": []
+    }
+  ]
+}

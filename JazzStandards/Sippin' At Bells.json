@@ -1,0 +1,20 @@
+{
+  "Title": "Sippin' At Bells",
+  "Composer": "Davis Miles",
+  "Key": "F",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "F^7|F-7,Bb7|A-7,G-7|F#-7,B7|Bb^7|Bb-7,Eb7|A-7|Ab-7,Db7|G-7,C7|C#-7,F#7|A-7,Ab7|Db^7,Gb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

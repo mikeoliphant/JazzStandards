@@ -1,0 +1,32 @@
+{
+  "Title": "Jazz Folk",
+  "Composer": "Abercrombie John",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|F^7|A-7,Ab7#11|G7sus,G7|C7sus|C7|F^7|F-7|E-7|A7b9|D-7|G7"
+      },
+      "Endings": [
+        {
+          "Chords": "Db^7|Bb-7|Eb-7,Ab7|D-7,G7"
+        },
+        {
+          "Chords": "Db^7|Bb-7|A-7|B7#9#5"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E-7/B|B7#9|E-7/B|B7#9|E-7/B|B7#9|E-,Eb7#11|D-,Gh7"
+      },
+      "Endings": [
+        {
+          "Chords": "Db^7|Bb-7|Eb-7|G7sus,G7"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "They Can't Take That Away From Me",
+  "Composer": "Gershwin George",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,F-7|G-7,Gbo7|F-7|Bb7sus|Bb-7|Eb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Ab^7,,G-7,C7|F-7,Bb7sus"
+        },
+        {
+          "Chords": "Ab^7,Bb7|Eb6,,Ah,D7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7,D7b9|G-7,D7b9|G-7,Eh7|Ah7,D7b9|G-7,D7b9|G-7,C7|F7|Bb7sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,F-7|G-7,Gbo7|F-7|Bb7sus|Bb-7|Eb7|Ab^7,Bb7|Eb6,Ab-6|G7,C7|F7,Bb7|Eb6|Bb7sus"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Hallelujah I Love Her So",
+  "Composer": "Charles Ray",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb,Bb/D|Eb,,Eo,F7|Bb,Bb/D|Eb,,Eo,F7|Bb|Bb7/D|Eb|Eo7|Bb,D7/A|G-,Eb7|C7,F7sus|Bb"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb6|Eo7|Bb/F|Bb7|Eb9|Db9|C7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb,Bb/D|Eb,Eo,F7,|Bb,Bb/D|Eb,Eo,F7,|Bb|Bb7/D|Eb|Eo7|Bb,D7/A|G-,Eb7|C7,F7|Bb"
+      },
+      "Endings": []
+    }
+  ]
+}

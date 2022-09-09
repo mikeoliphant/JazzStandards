@@ -1,0 +1,35 @@
+{
+  "Title": "Change Partners",
+  "Composer": "Berlin Irving",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7|Abo7|Abo7|G-7|C7|Bb-7|Eb7|F^7/A|Abo7|G-7|C7|G-7|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F6,D7|G-7,C7"
+        },
+        {
+          "Chords": "F6|Bb-7,Eb7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7|Ab^7|Ab^7|Bb-7,Eb7|Ab^7|Ab^7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7|Abo7|Abo7|G-7|C7|Bb-7|Eb7|F^7|E7|Eb7#11|D7b9|G-7|C7sus,C7|F6|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

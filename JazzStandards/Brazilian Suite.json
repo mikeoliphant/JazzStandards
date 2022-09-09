@@ -1,0 +1,39 @@
+{
+  "Title": "Brazilian Suite",
+  "Composer": "Petrucciani Michel",
+  "Key": "Bb-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "Ab-7|Eb-7|Ab-7|Eb-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab-7|Ab-7/Gb|E^7#11|Eb-7|Db-7|Eb7b9|D7b5|Db7|C^7#5|B7|Bb7b9|Eb7#9|Ab-7|Eb7b9"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Ab-7|B7/F#|Fh7|Bb7|E-7|A7|D^7|Eb-7,Ab7|Db^7|Bb-7|Eb-7|Ab7|Db^7|Bb-7|Eb^7#11|Eb7|Ab-7|Ab-7/Gb|Eb^7#11|Eb-7|Db-7|Eb7b9"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Ab-7|Eb-7|Ab-7|Eb-7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Db^7|Db^7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "Manteca",
+  "Composer": "Gillespie Dizzy",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "Bb7|Bb7|Bb7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7|Bb7|Bb7|Bb7|Bb7|Bb7|Bb7,Ab7|Db7,,Gb7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab-7|D7b9|Gb^7|B7#11|Bb7|Eb7|Ab^7|Ab^7|Ab-7|Db7|Gb^7|F#h7,B7b9|Fh7|Bb7b9|Ch7|F7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7|Bb7|Bb7|Bb7|Bb7|Bb7|Bb7,Ab7|Db7,,Gb7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

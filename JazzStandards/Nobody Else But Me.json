@@ -1,0 +1,35 @@
+{
+  "Title": "Nobody Else But Me",
+  "Composer": "Kern Jerome",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,F7|E-7,A7|D-7|G7|D-7,G7|C#-7,F#7|B^7|F#-7(F7#11),B7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E^7|Fo7|B^7/F#|Eb7/G|A-7|D7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,F7|E-7,A7|D-7|G7|D-7,E7|A-7,Ab7|G-7|C7(C#-7),(F#7)"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F^7|F-7,Bb7|C^7,A7|D7,Db7|C^7|C#o7|D-7|D#o7|D-7|Ab7,G7|C6,(Eb^7)|(Ab^7)x,(Db^7)"
+      },
+      "Endings": []
+    }
+  ]
+}

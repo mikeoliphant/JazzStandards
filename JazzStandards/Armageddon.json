@@ -1,0 +1,33 @@
+{
+  "Title": "Armageddon",
+  "Composer": "Shorter Wayne",
+  "Key": "Bb-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "E7#11,Eb7|Db7#11|Gb/C,F7#5|Bb-7|E7#11,Eb7|Db7#11|Gb/C,F7#5|Bb-7|Gb13|Bb-7|Gb13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-7|Gb13|Bb-7|Gb13|Eb7|E7#11|Eb7|Gb13|Bb-7|Ab-7,Db7|Eb7|Gb13|Bb-7|Gb13|Bb-7|B7#11"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Bb-7|Gb13"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Bb-7|B7"
+      },
+      "Endings": []
+    }
+  ]
+}

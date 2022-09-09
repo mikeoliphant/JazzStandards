@@ -1,0 +1,27 @@
+{
+  "Title": "Jitterbug Waltz",
+  "Composer": "Waller Fats",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|Eb^7|Eb^7|Ab7|Ab7|Ab7|Ab7|Eb^7|Eb^7|Eb^7|Eb^7|G-7|C7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "F7|F7|F7|F7|Ab-7|Ab-7|Db7#11|Db7#11|F7|F7|Bb7|Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "G-7|C7|F-7|Bb7"
+        },
+        {
+          "Chords": "Eb6|Ab7|Eb6|Bb7"
+        }
+      ]
+    }
+  ]
+}

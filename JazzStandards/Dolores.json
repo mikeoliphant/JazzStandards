@@ -1,0 +1,28 @@
+{
+  "Title": "Dolores",
+  "Composer": "Shorter Wayne",
+  "Key": "Db",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7|F-7,Bb7|Eb^7|A-7,D7|G-7|Ah7,D7#9|Db^7|Db^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|G-7,G-7,D7|G-7|G-7,G-7,D7|G-7|A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7|F-7,Bb7|Eb^7|A-7,D7|G-7|Ah7,D7#9|Db^7|Db^7"
+      },
+      "Endings": []
+    }
+  ]
+}

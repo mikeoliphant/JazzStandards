@@ -1,0 +1,28 @@
+{
+  "Title": "Chase, The",
+  "Composer": "Gordon Dexter",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6|Bb6|Eb7|Eb7|Bb6|Eb-7,Ab7|C-7,F7|Bb6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7,Bb7|F-7,Bb7|G-7,C-7|G-7,C-7|Ab-7,Db7|Ab-7,Db7|G-7,C-7|F#-7,B7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6|Bb6|Eb7|Eb7|Bb6|Eb-7,Ab7|C-7,F7|Bb6"
+      },
+      "Endings": []
+    }
+  ]
+}

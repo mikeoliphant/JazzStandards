@@ -1,0 +1,32 @@
+{
+  "Title": "It's All Right With Me",
+  "Composer": "Porter Cole",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-|C-^7|C-7|C-6|C-7|C-7|F-7|F-7|F#o7|F#o7|Gh7|C7b9"
+      },
+      "Endings": [
+        {
+          "Chords": "F7|F7|Dh7|G7b9"
+        },
+        {
+          "Chords": "F-7|Bb7|Eb6|Eb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-6/Eb(Gh7)|x(C7b9)|Ebo7(F7)|Ebo7(F7)|Abo7/Eb(Fh7)|x(Bb7)|Eb^7|Eb^7|Bb-6/Eb(Gh7)|x(C7b9)|Ebo7(F7)|Ebo7(F7)|Abo7/Eb(Fh7)|x(Bb7)|Dh7|G7b9"
+      },
+      "Endings": [
+        {
+          "Chords": "F7|F7|F-7|Bb7|Eb^7|Eb7/G|Ab^7|Ao7|Bb7sus|Bb7|Eb6|G7b9"
+        }
+      ]
+    }
+  ]
+}

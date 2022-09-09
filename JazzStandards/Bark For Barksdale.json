@@ -1,0 +1,35 @@
+{
+  "Title": "Bark For Barksdale",
+  "Composer": "Mulligan Gerry",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F|F|G-7|C7|F|Bb7|G7,C7|F"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb|Bb|C-7|F7|Bb|Eb7|C7,F7|Bb,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F|F|G-7|C7|F|Bb7|G7,C7|F"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "Bh7,Bb-7|Bb-7,Bb-7,A7|Ab7,G7|G7,G7,C7|F|F"
+      },
+      "Endings": []
+    }
+  ]
+}

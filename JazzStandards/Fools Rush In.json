@@ -1,0 +1,35 @@
+{
+  "Title": "Fools Rush In",
+  "Composer": "Bloom Rube",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7|G7|C^7|A-7|D-7|G7|C^7|A7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|G7|C6|A-7|D7#11|D7#11|D-7/G|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7|G7|C^7|A-7|D-7|G7|Eh7|A7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "D-7|F-6|C^7/G|A-7|D-7|G7|C6|E-7,A7"
+      },
+      "Endings": []
+    }
+  ]
+}

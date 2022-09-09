@@ -1,0 +1,35 @@
+{
+  "Title": "Freckle Face",
+  "Composer": "Nestico Sammy",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb^7|G7"
+      },
+      "Endings": [
+        {
+          "Chords": "C-7|F7|Bb^7|Dbo7"
+        },
+        {
+          "Chords": "C-7|F9|Bb6,Bbo7|Bb6,Gbo7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7|Bb7|Eb6|D7|G-7|C9|C-7|F-7,Dbo7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb^7|Dbo7|C-7|F7b9|Dh7|G7b9|C-7|Eb-7|D-7|Dbo7|C-7|F7|Bb6,Bbo7|Bb6,Dbo7"
+      },
+      "Endings": []
+    }
+  ]
+}

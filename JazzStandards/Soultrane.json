@@ -1,0 +1,35 @@
+{
+  "Title": "Soultrane",
+  "Composer": "Dameron Tadd",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Gh7,C7b9|F-7|Db7|Ab-7,,Db7,Do|Eb^7,,G7,C7|F7,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "G-,F#7,F-,E7"
+        },
+        {
+          "Chords": "Eb6,,Ah,D7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|Ah7,D7b9|G-7|C7,B7#9|Bb^7,G-7|Ch7,F7|F-7/Bb,Bbo7|B7b5,,Bb7,E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Gh7,C7b9|F-7|Db7|Ab-7,,Db7,Do|Eb^7,,G7,C7|F7,Bb7|Eb6,F-7/Bb"
+      },
+      "Endings": []
+    }
+  ]
+}

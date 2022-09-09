@@ -1,0 +1,13 @@
+{
+  "Title": "Blue Bossa",
+  "Composer": "Dorham Kenny",
+  "Key": "C-",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "C-7|C-7|F-7|F-7|Dh7|G7b9|C-7|C-7|Eb-7|Ab7|Db^7|Db^7|Dh7|G7b9|C-7|Dh7,G7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

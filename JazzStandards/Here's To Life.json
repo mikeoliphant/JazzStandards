@@ -1,0 +1,42 @@
+{
+  "Title": "Here's To Life",
+  "Composer": "Butler Artie",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7|Bb7sus,Bb9|Eb^7|Ab^9|Dh7|G7b9#5|C-7|C-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7|Bb7sus,Bb9|Eb^7|Ab^9|Dh7|G7b9#5|C^7|C^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7|Dh7/Ab|C^7|C7/Bb|Ab^7|Dh7/Ab|C7sus|C7sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Ab^7|Bb9/Ab|Bo7|C-7|F-7|Bb7sus,Bb9|C-7|C-7/Bb"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "Ab^7|Bb9/Ab|Bo7|Bb-7,A7b5|Ab^7|Bb9/Ab|Bo7|C-7|F-7|Bb7sus|C-9|C-9"
+      },
+      "Endings": []
+    }
+  ]
+}

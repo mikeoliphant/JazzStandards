@@ -1,0 +1,14 @@
+{
+  "Title": "Swinging Shepherd Blues, The",
+  "Composer": "Koffman-Roberts-Jacobson",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6|Bb6|Bb6|Bb6|Eb7|Eb7|Bb7,,C-7,C#o|Bb/D,G7#9|C-7|F7|Bb7,,Eb7,Gb7/E|F7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

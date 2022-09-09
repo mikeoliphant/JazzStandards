@@ -1,0 +1,42 @@
+{
+  "Title": "Sunshower",
+  "Composer": "Barron Kenny",
+  "Key": "A-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "A-7|Bh7|A-7|Bh7|A-7|Bh7|A-7|Bh7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|Bh7|A-7|Bh7|A-7|Bh7"
+      },
+      "Endings": [
+        {
+          "Chords": "A-7|Bh7"
+        },
+        {
+          "Chords": "A-7|A7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|D-7|E7|E7|F^7|F^7|Bh7|E7alt"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|Bh7|A-7|Bh7|A-7|Bh7|A-7|Bh7"
+      },
+      "Endings": []
+    }
+  ]
+}

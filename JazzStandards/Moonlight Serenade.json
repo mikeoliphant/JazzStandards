@@ -1,0 +1,35 @@
+{
+  "Title": "Moonlight Serenade",
+  "Composer": "Miller-Parish",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6|Abo7|G-7|C7,C7#5|F^7,F6|F^7,F6|F^7,F7|D7b9,Bb-6|A-7,D7|Gh7,G-7|C7,C7b9#5"
+      },
+      "Endings": [
+        {
+          "Chords": "F^7,G-7,C7,"
+        },
+        {
+          "Chords": "F^7,F7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb^7|Eb7|A7b9#5,D7b9|D7b9,D7|Bh7|E7b9|Ah7,D7b9|G-7,C7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Abo7|G-7|C7,C7#5|F^7,F6|F^7,F6|F^7,F7|D7b9,Bb-6|A-7,D7|Gh7,G-7|C7,C7#5|F^7"
+      },
+      "Endings": []
+    }
+  ]
+}

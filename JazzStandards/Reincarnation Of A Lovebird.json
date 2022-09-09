@@ -1,0 +1,42 @@
+{
+  "Title": "Reincarnation Of A Lovebird",
+  "Composer": "Mingus Charles",
+  "Key": "F#-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F#-|D^7|G#7|C#7#5|F#-|D9#11|G#7|C#7#5|F#-|D7#9|B-7|Eb13|G#7#9#5|C#7#5|F#-|G#h7,C#7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F#-|D^7|G#7|C#7|F#-|D9#11|G#7|C#7#5|F#-|D7#9|B-7|Eb^7|G#7|C#7#9|F#-|F#-"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F#-7,B7|F#-7,B7|E^7,A9#11|E^7,A9#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "A-7|D7|G^7,C7|Bh7,Bb7|A-7|D7b9|G#7|C#7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F#-|D^7|G#7|C#7#5|F#-|D9#11|G#7|C#7#5|F#-|D7#9|B-7|Eb13|G#7#9#5|C#7#5|F#-|G#h7,C#7|B-7|Eb^7|G#7|C#7#9#5|F#-|G#h7,C#7"
+      },
+      "Endings": []
+    }
+  ]
+}

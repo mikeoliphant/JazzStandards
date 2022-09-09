@@ -1,0 +1,14 @@
+{
+  "Title": "Straight No Chaser",
+  "Composer": "Monk Thelonious",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7|Eb7|Bb7|Bb7|Eb7|Eb7|Bb7|Bb7|F7|F7|Bb7|F7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Fever",
+  "Composer": "Davenport-Cooley",
+  "Key": "A-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-|A-|A-|A-|A-|A-|E7|A-|A-|A-|A-|A-|A-|A-|E7|A-"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "E7|A-|E7|A-|E7|A-|E7|A-"
+      },
+      "Endings": []
+    }
+  ]
+}

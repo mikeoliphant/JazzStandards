@@ -1,0 +1,35 @@
+{
+  "Title": "Don't Get Around Much Anymore",
+  "Composer": "Ellington Duke",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6|C6|A7|A7|D7|G7"
+      },
+      "Endings": [
+        {
+          "Chords": "C6|G7"
+        },
+        {
+          "Chords": "C6|G-7,C7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F6|F#o7|C^7|C7|F6|F#h7,B7b9|E-7,Ebo7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6|C6|A7|A7|D7|G7|C6|G7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "Almost Like Being In Love",
+  "Composer": "Loewe Frederick",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Db^7|Eb7|Ab^7(C-7)|C-7(F-7),F7|Bb-7|Eb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Ab6|Eb-7,Ab7"
+        },
+        {
+          "Chords": "Ab6|Ab6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|C7|F^7|F^7|F-7|Bb7|G-7(C7)|C7(Eb-7),(Ab7)"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Db^7|Eb7|Ab^7(C-7)|C-7(F-7),F7|Bb-7|Bo7|Ab6/C|Bo7|Bb-7|Eb7|Ab6|Eb-7,Ab7"
+      },
+      "Endings": []
+    }
+  ]
+}

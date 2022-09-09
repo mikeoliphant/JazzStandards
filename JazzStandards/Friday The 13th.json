@@ -1,0 +1,13 @@
+{
+  "Title": "Friday The 13th",
+  "Composer": "Monk Thelonious",
+  "Key": "G",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "G^7,F7|Eb7,D7|G^7,F7|Eb7,D7|G^7,F7|Eb7,D7|G^7,F7|Eb7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

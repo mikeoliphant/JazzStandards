@@ -1,0 +1,42 @@
+{
+  "Title": "Puttin' On The Ritz",
+  "Composer": "Berlin Irvin",
+  "Key": "F-",
+  "Sections": [
+    {
+      "Label": "v",
+      "MainSegment": {
+        "Chords": "F,Abo7|G-7,C7|F/A,Abo7|G-7,C7|Ab,Bo7|Bb-7,Eb7|Ab/C,Bo7|Bb-7,Eb7|C6,Dbo7|D-7,G7|C6,Dbo7|D-7,G7|A-7|D7|G7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-|F-|F-|F-|C7b9|C7b9"
+      },
+      "Endings": [
+        {
+          "Chords": "F-,F-/Eb|Db7,C7"
+        },
+        {
+          "Chords": "F-|F-,F7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-7|F7|Bb-7|Eb7|Ab|Eb7|Ab|Db7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-|F-|F-|F-|C7b9|C7b9|F-,F-/Eb|Db7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Dance Cadaverous",
+  "Composer": "Shorter Wayne",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "Ab^7|Ab^7|Ab^7|Ab^7|A7sus|A7sus|A7b9#5|A7b9#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "B-^7|B-^7|C-^7|C-^7|C#h7|C#h7|F#7b9|F#7b9|B-^7|B-^7|C-^7|C-^7|C#-7|C#-7|F#7sus|F#7|G^7|G^7|C13#11|C13#11|C7alt|C7alt/Ab|Ab-11|Ab-11|Fh7|Fh7|Bb7#9#5|Bb7#9#5|Bb-7|Bb-7|C#h7|F#7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "B-^7|B-^7|C-^7|C-^7|C#h7|C#h7|F#7b9|F#7b9|B-^7/D|B-^7/D|A-7/D|D7|G^7#5|G^7#5/F#|E-7|E-7/D|C#h7|C#h7|C13#11|C13#11|C7alt|C7alt/Ab|Ab-11|Ab-11|G7sus|G7sus|C#h7|F#7b9|C^7#11|C^7#11|C^7#11|C^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

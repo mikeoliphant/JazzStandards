@@ -1,0 +1,35 @@
+{
+  "Title": "Dream",
+  "Composer": "Mercer Johnny",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb|Bb|E-7|A7|Bb6|Bb6|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|Eb-6|Bb^7|Bb^7|C7|C7|C-7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb|Bb|E-7|A7|Bb6|Bb6|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C-7|Eb-6|Bb^7,A7|D7,G7#9|C-7|F7|Bb6|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

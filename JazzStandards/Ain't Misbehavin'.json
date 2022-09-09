@@ -1,0 +1,35 @@
+{
+  "Title": "Ain't Misbehavin'",
+  "Composer": "Waller Fats",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6,A7|D-7,G7|C6,C7/E|F6,F-6|C6/E,A7|D-7,G7"
+      },
+      "Endings": [
+        {
+          "Chords": "E7,A7|D7,G7"
+        },
+        {
+          "Chords": "C6,F-6|C6,E7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-|F7|D7|A7|G6,E7|A-7,D7|G6,A7|D7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6,A7|D-7,G7|C6,C7/E|F6,F-6|C6/E,A7|D-7,G7|C6,A-7|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

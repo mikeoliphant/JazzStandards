@@ -1,0 +1,13 @@
+{
+  "Title": "Little Boat (O Barquinho)",
+  "Composer": "Menescal Roberto",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|E-7,A7|E-7,A7|Ab^7|Ab^7|D-7,G7|D-7,G7|Gb^7|Gb^7|C-7,F7|C-7,F7|D-7|G7b9|C-7|F7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

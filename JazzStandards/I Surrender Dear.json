@@ -1,0 +1,35 @@
+{
+  "Title": "I Surrender Dear",
+  "Composer": "Barris Harry",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7|Eh7,A7b9|D-7,E7|A-7,D7|C^7,A-7|D7|D-7,G7"
+      },
+      "Endings": [
+        {
+          "Chords": "C^7,A7"
+        },
+        {
+          "Chords": "C^7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E7|A-7|E7|A-7|E7|A-7|D7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7,F7|Eh7,A7b9|D-7,E7|A-7,D7|C^7,A-7|D7|D-7,G7|C^7,A7"
+      },
+      "Endings": []
+    }
+  ]
+}

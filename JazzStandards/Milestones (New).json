@@ -1,0 +1,35 @@
+{
+  "Title": "Milestones (New)",
+  "Composer": "Davis Miles",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|G-7|G-7|G-7|G-7|G-7|G-7|G-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|G-7|G-7|G-7|G-7|G-7|G-7|G-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-|A-|A-|A-|A-|A-|A-|A-|A-|A-|A-|A-|A-|A-|A-|A-"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "G-7|G-7|G-7|G-7|G-7|G-7|G-7|G-7"
+      },
+      "Endings": []
+    }
+  ]
+}

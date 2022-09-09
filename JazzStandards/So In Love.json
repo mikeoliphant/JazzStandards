@@ -1,0 +1,35 @@
+{
+  "Title": "So In Love",
+  "Composer": "Porter Cole",
+  "Key": "F-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-|F-|Gh7|C7b9|F-|F-|Bb-7|Bb-7|Eb7|Eb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Ab^7|Ab7|Db^7|G7b9|Gh7|C7b9"
+        },
+        {
+          "Chords": "Db-7|Gb7|Bb-7|Eb7|Ab6|Ab6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-7|Eb7|Ab^7|F-7|Bb-7|Eb7|Ab^7|Ab^7|Bb-7|Eb7b9|Ab^7|Gh7,C7b9|F-,F-7/Eb|Dh7,G7b9|C^7|C7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-|F-|Gh7|C7b9|F-|F-|Bb-7|Bb-7|Eb7|Eb7/Db|Ch7|F7b9|Bb-7|Db-6|C-7|F7b9|B-7|E7|Bb-7|Eb7b9|Ab6|Ab6|Gh7|C7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

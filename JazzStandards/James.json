@@ -1,0 +1,53 @@
+{
+  "Title": "James",
+  "Composer": "Metheny Pat",
+  "Key": "D",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D#6,B/D#|G/D,A/C#|C6,Co7|G/B,G-/Bb|D/A|F^7/A|D/A|Gadd9,,G,A"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D^7,G^7|A/C#,B-7|G^7,F#-7|G^7,F#-7|D^7,G^7|C#h,F#7,B-7,|G^7,F#-7|G^7,F#-7"
+      },
+      "Endings": [
+        {
+          "Chords": "G^7,G/A|D,,G/A,A"
+        },
+        {
+          "Chords": "G^7,G/A|D"
+        }
+      ]
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A,F#7/A#|B-,A/C#|D,C#/F|F#-,E/G#|A,A/G|D/F#,B-7|E-7,A|G^7,A"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D^7,G^7|A/C#,B-7|G^7,F#-7|G^7,F#-7|D7,G7|C#h,F#7,B-7,|G^7,F#-7|G^7,F#-7|G^7,G/A|D,,G,A"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "G^,G/A|B-7,D7/A|G^,F#-|G^,F#-"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "G^7,G/A|D"
+      },
+      "Endings": []
+    }
+  ]
+}

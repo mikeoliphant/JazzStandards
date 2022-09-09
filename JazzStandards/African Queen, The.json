@@ -1,0 +1,28 @@
+{
+  "Title": "African Queen, The",
+  "Composer": "Silver Horace",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-9,Db9|C-9,Db9|C-9,Db9|C-9,Db9|C-9,Db9|C-9,Db9|C-9,Db9|C-9,Db9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-9,Db9|C-9,Db9|C-9,Db9|C-9,Db9|C-9,Db9|C-9,Db9|C-9,Db9|C-9,Db9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb7,A7|Ab7,G7|C-9,Db9|C-9,Db9|C-9,Db9|C-9,Db9"
+      },
+      "Endings": []
+    }
+  ]
+}

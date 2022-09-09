@@ -1,0 +1,28 @@
+{
+  "Title": "Conception",
+  "Composer": "Shearing George",
+  "Key": "Db",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ebh7|Ab7b9|Db^7,B-7|A^7,Ab^7|Ab-7,Db7|Gb7,F7|Bb7,A7|Ab7,G7|F#-7,B7|E^7,A^7|Eb-7,Ab7|Db^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F#-7|B7alt|E^7,F#-7|Ab-7,Db7|G-7,C7|F#-7,B7|E-7|A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ebh7|Ab7b9|Db^7,B-7|A^7,Ab^7|Ab-7,Db7|Gb7,F7|Bb7,A7|Ab7,G7|F#-7,B7|E^7,A^7|Eb-7,Ab7|Db^7"
+      },
+      "Endings": []
+    }
+  ]
+}

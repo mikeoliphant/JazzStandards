@@ -1,0 +1,21 @@
+{
+  "Title": "One I Love (Belongs To Somebody Else), The",
+  "Composer": "Jones Isham",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G6|G6,E-7|A7|A7|A-7,D7|A-7,D7|G^7|G^7|G^7|B-7,Bbo7|A-7|D7|E-7,A7|E-7,A7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G6|G6,E-7|A7|A7|A-7,D7|A-7,D7|B-7|E7b13|A-7|F7|B-7|E7b13|A-7|D7|G6|G6"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "This Can't Be Love",
+  "Composer": "Rodgers Richard",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7|Bb7|Bb7|F^7|D-7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7|Bb7|Bb7|A-7,D-7|G-7,C7|F6|F6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E-7|A7|D-7|D-7|Ah7|D7b9|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7|Bb7|Bb7|A-7,D-7|G-7,C7|F6|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

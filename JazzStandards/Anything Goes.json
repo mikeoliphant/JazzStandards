@@ -1,0 +1,42 @@
+{
+  "Title": "Anything Goes",
+  "Composer": "Porter Cole",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "v",
+      "MainSegment": {
+        "Chords": "C-|Ab|C-|C-|Db|Db|G7|G7|C7|C7|C7|F-|G7|C-|G,D7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6(C^7),(D-7)|(E-7)x,(D-7)|(C^7)x,(D-7)|C7(G-7),(C9)|F6|Bb9(D-7),(G9sus)"
+      },
+      "Endings": [
+        {
+          "Chords": "C6,A-7|D-7,G7"
+        },
+        {
+          "Chords": "C6|F#-7,B7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E^7,C#7b9|F#-7,B7|E7(C^9)|B7|E-7|A9(E-7/D)|D-9(C#h7)|G7(D-7),(G7)"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C6(C^7),(D-7)|(E-7)x,(D-7)|(C^7)x,(D-7)|C7(G-7),(C9)|F6,E-7|D-7(Bb9),G9sus|C6,A-7|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Gravy Waltz, The",
+  "Composer": "Brown Ray",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C|F|D-7/G,G7|C|C|F|D-7/G,G7|C"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F7|C/G,C7|F7|C/G,C7|F7|C/G,A7|D7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C|F|D-7/G,G7|C|C|F|D-7/G,G7|C"
+      },
+      "Endings": []
+    }
+  ]
+}

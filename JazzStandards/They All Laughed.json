@@ -1,0 +1,35 @@
+{
+  "Title": "They All Laughed",
+  "Composer": "Gershwin George",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,E-7|A-7,D7|A-7,D7|G^7,D7sus|G^7,E-7|A-7,D7|G6|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G^7,E-7|A-7,D7|G7,F#7b13|B-7,E7|D^7,B-7|E-7,A7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "G7|D-7,G7|Bh7|E7b13|A7|E-7,A7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "G^7,E-7|A-7,D7|B7b9,E7b13|C#h7,C-6|B-7,E7|A-7,D7|G6,E-7|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

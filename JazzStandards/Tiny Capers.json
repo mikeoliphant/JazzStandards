@@ -1,0 +1,35 @@
+{
+  "Title": "Tiny Capers",
+  "Composer": "Brown Clifford",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6,D7|G-7,Bb7|Eb^7,G7|C-7,C#o7|D-7,Eb7|D-7,G7"
+      },
+      "Endings": [
+        {
+          "Chords": "G-7,C7|C-7,F7"
+        },
+        {
+          "Chords": "C-7,F7|Bb7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb7b9|Eb7b9|Bb7#11|Bb7#11|Eb7b9|Eb-7,Ab7|D-7,G7|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6,D7|G-7,Bb7|Eb^7,G7|C-7,C#o7|D-7,Eb7|D-7,G7|C-7,F7|Bb6,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

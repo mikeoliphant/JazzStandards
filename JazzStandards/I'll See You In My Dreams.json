@@ -1,0 +1,28 @@
+{
+  "Title": "I'll See You In My Dreams",
+  "Composer": "Jones-Kahn",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6|Bb6|Bb-6|Bb-6|F6|E7|F6|F6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": ""
+      },
+      "Endings": [
+        {
+          "Chords": "D7|D7|D7|D7|G7|G7|G-7|C7"
+        },
+        {
+          "Chords": "Ah7,D7|Ah7,D7|A7|D-7|Bb6,Bo7|C7|F6|F6"
+        }
+      ]
+    }
+  ]
+}

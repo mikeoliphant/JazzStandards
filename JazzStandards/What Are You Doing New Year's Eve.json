@@ -1,0 +1,35 @@
+{
+  "Title": "What Are You Doing New Year's Eve?",
+  "Composer": "Loesser Frank",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Eb7|F^7,F7|Bb^7,Eb7|F^7,D-7|G7"
+      },
+      "Endings": [
+        {
+          "Chords": "C7,C7/Bb|A-7,D7,G-7,C7"
+        },
+        {
+          "Chords": "C7,C7b9|F6,E7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7|Bh7,E7b9|A-7|Bh7,Bb7|A-7|D7|G7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Eb7|F^7,F7|Bb^7,Eb7|F^7,D-7|G7|C7,C7b9|F6,C7sus"
+      },
+      "Endings": []
+    }
+  ]
+}

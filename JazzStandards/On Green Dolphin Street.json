@@ -1,0 +1,35 @@
+{
+  "Title": "On Green Dolphin Street",
+  "Composer": "Kaper Bronislau",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|Eb-7|Eb-7|F7/Eb|E^7/Eb|Eb^7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7|Bb7alt|Eb^7|Eb^7|Ab-7|Db7alt|Gb^7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|Eb-7|Eb-7|F7/Eb|E^7/Eb|Eb^7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7,F-7/Eb|Dh7,G7b9|C-7,C-7/Bb|Ah7,D7b9|G-7,C7|F-7,Bb7|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

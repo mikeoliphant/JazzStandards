@@ -1,0 +1,35 @@
+{
+  "Title": "Close Enough For Love",
+  "Composer": "Mandel-Williams",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7,D7#9#5|G7#9b5,C7b9|F-7,Bb7|Eb7,Ab7|Db^7,Bb-7|G7,C7|F7,Bb7|Eb7,Ab7|Db^7,G7|Gh7,C7b13"
+      },
+      "Endings": [
+        {
+          "Chords": "F-6,D7#9#5|G7b9,C7b9"
+        },
+        {
+          "Chords": "F-6|C-7,F7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-7,E7#11|Eb9sus,Eb7b9|Ab^7,F-7|Dh7,G7b9#5|E-7,A7|D-7,G7|C7,G7b9|Gh7,C7b13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7,D7#9#5|G7#9b5,C7b9|F-7,Bb7|Eb7,Ab7|Db^7,Bb-7|G7,C7|F7,Bb7|Eb7,Ab7|Db^7,G7|Gh7,C7b13|F-6|F-6"
+      },
+      "Endings": []
+    }
+  ]
+}

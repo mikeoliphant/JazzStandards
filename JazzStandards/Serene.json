@@ -1,0 +1,19 @@
+{
+  "Title": "Serene",
+  "Composer": "Dolphy Eric",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Eb^7|Ab7#11|Db7|Eb7|Ab7|D7b5|Eb^7|Db-7,Gb7|Fh7|Bb7b5,,B-7,E7|Ab7#11|Ab7#11"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Ab7#11,Gb^7|F7#9,A9|A9"
+      },
+      "Endings": []
+    }
+  ]
+}

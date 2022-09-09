@@ -1,0 +1,32 @@
+{
+  "Title": "Three Flowers",
+  "Composer": "Tyner McCoy",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Eb^7|Db7|Eb^7|Db7|Eb^7|Db7|A-7|D7"
+      },
+      "Endings": [
+        {
+          "Chords": "G/D|D-7/G|G/D|D-7/G|E^7|D7|E^7|F-7,Bb7"
+        },
+        {
+          "Chords": "G/D|D-7/G|G/D|D-7/G|E^7|D7|E^7|F-7,Bb7"
+        }
+      ]
+    },
+    {
+      "MainSegment": {
+        "Chords": "Eb^7|Db7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Eb^7"
+      },
+      "Endings": []
+    }
+  ]
+}

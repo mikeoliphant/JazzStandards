@@ -1,0 +1,35 @@
+{
+  "Title": "What A Little Moonlight Can Do",
+  "Composer": "Woods Harry",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G6|G6|B-7|E7|A-7|D7|A-7|D7|A-7|E7|A-7|D7|G6|G6|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|C^7|F9|F9|G6|A-7|B-7|E7|A9|A9|A9|A9|A-7|G#o7|A-7|Bbo7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "G6|G6|B-7|E7|A-7|D7|A-7|D7|A-7|A-7/G|F#h7|B7|E-7|Eb7|Dh7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "C^7|C^7|F9|F9|G6|A-7|B-7|E7|A-7|E7|A-7|D7|G6|G6|A-7|D7"
+      },
+      "Endings": []
+    }
+  ]
+}

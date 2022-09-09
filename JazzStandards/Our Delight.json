@@ -1,0 +1,35 @@
+{
+  "Title": "Our Delight",
+  "Composer": "Dameron Tad",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7|A7|Ab^7|F7|Bb7|Bb-7,Eb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Ab6|F7"
+        },
+        {
+          "Chords": "Ab6|Ab6,E-7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb-7|A-7,D7|Db^7|Db^7|Db-7,Gb7|C-7,F7|B-7,E7|Bb-7,Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7|A7|Ab^7|F7|Bb7|Bb-7,Eb7|Ab6|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

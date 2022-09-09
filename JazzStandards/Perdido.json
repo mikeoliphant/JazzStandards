@@ -1,0 +1,35 @@
+{
+  "Title": "Perdido",
+  "Composer": "Tizol Juan",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb6|D-7,G7|C-7|F7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb6|D-7,G7"
+        },
+        {
+          "Chords": "Bb6|Bb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D7|D7|G7|G7|C7|C7|F7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb6|D-7,G7|C-7|F7|Bb6|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

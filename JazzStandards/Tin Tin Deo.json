@@ -1,0 +1,35 @@
+{
+  "Title": "Tin Tin Deo",
+  "Composer": "Gillespie Dizzy",
+  "Key": "F-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-6,Eb-6|Db^7,C7#5|F-6,D7#9|Gh7,Gb7|F-6,Eb-6|Db^7,C7#5|F-7,Bb7|Eb7,D7#9b5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C7#9|C7#9|F-6|F-6|C7#9|C7#9|F-6|F-6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Bb-7|Bb-7,Eb7b9|Ab^7,Db7|C-7,F7b9|Bb-7|Bb-7,Eb7b9|Ab^7,Dh7|Gb7b9,Dh7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C7#9|C7#9|F-6|F-6|C7#9|C7#9|F-6|F-6"
+      },
+      "Endings": []
+    }
+  ]
+}

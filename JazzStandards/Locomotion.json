@@ -1,0 +1,34 @@
+{
+  "Title": "Locomotion",
+  "Composer": "Coltrane John",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7|Bb7|Bb7|Bb7|Eb7|Eb7|Bb7|Bb7|C-7|F7|Bb7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab7|Ab7|G7|G7|Gb7|Gb7|F7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7|Bb7|Bb7|Bb7|Eb7|Eb7|Bb7|Bb7|C-7|F7|Bb7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Bb7b5|Bb7b5|Ab7b5|Ab7b5|Gb7b5|Gb7b5|D7b5|D7b5|C7b5|C7b5|B7/F|B7/F|B7/F|B7/F"
+      },
+      "Endings": []
+    }
+  ]
+}

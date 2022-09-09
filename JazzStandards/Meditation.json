@@ -1,0 +1,27 @@
+{
+  "Title": "Meditation",
+  "Composer": "Jobim Antonio-Carlos",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C6|C6|B7sus|B7|C6|C6|E-7|A7b13|D-7|D-7|F-6|(Bb7)x|E-7|A7b13|D-7|G7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7|F^7|F-6|(Bb7)x|E-7|Ebo7|D-7|G7#5"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "E-7,A7b13|D-7,G7|C6|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

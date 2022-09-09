@@ -1,0 +1,35 @@
+{
+  "Title": "Baubles, Bangles and Beads",
+  "Composer": "Borodin-Wright-Forrest",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-7|Eb7|C-7|F-7|Bb-7|Eb7|Ab^7|Ab^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|G7|E-7|A-7|D-7|G7|C^7|C^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F#-7|B7|E^7|E^7|Bb-7|Eb7|C-7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-7|Eb7|C-7|F7|Bb-7|Eb7|Gb7|F7|Bb-7|Eb7|Ab^7|Ab^7"
+      },
+      "Endings": []
+    }
+  ]
+}

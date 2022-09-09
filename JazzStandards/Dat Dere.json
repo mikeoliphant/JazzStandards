@@ -1,0 +1,35 @@
+{
+  "Title": "Dat Dere",
+  "Composer": "Timmons Bobby",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7,C-7/Bb|Ah7,Ab^7|Ah7,D7#9|Dh7,G7b9|C-7,C-7/Bb|Ah7,Ab^7"
+      },
+      "Endings": [
+        {
+          "Chords": "Dh7,G7b13|C-7(F-6),G7b13(C-7)"
+        },
+        {
+          "Chords": "Dh7,G7b13|C-7(F-6),(C-7)"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Dh,G7,C-7,C-/Bb|Ah,D7,G-7,|Ah7,D7#9|Dh7,G7b9|Dh,G7,C-7,C-/Bb|Ah,D7,G-7,|Dh7,G7b13|C-7(F-6),G7b13(C-7)"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7,C-7/Bb|Ah7,Ab^7|Ah7,D7#9|Dh7,G7b9|C-7,C-7/Bb|Ah7,Ab^7|Dh7,G7b13|C-7(F-6),G7b13(C-7)"
+      },
+      "Endings": []
+    }
+  ]
+}

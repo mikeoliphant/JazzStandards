@@ -1,0 +1,21 @@
+{
+  "Title": "Toys",
+  "Composer": "Hancock Herbie",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7(F7)|Bb7(F7)|F7|F7|E7#9|Db|C-7|C-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb7|Eb7|D-|Bb7|D-|Bb7(D-)|D-|D-"
+      },
+      "Endings": []
+    }
+  ]
+}

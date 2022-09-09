@@ -1,0 +1,35 @@
+{
+  "Title": "Strike Up The Band",
+  "Composer": "Gershwin George",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|Eo7|Eo7|F-7|Bb7|Eb^7(Bb-7)|Bb-7(Eb7),Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7|Ab^7|Ao7|Ao7|Bb-7|Eb7|Ab^7,Ab^7/G|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|Dh7|G7b9|C-7|F7|F-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|Gh7|C7b9|F-7|Bb7|Eb^7|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

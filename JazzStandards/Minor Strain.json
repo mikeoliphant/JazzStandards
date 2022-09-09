@@ -1,0 +1,27 @@
+{
+  "Title": "Minor Strain",
+  "Composer": "Timmons Bobby",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-11|D-11|D-11|D-11"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "C-11|C-11|C-11|C-11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|G-7|Bb-7|Eb7|A-7|A-7,A-7,D7|G/D,A-7/D|Bbo/D,B-7/D"
+      },
+      "Endings": []
+    }
+  ]
+}

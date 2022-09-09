@@ -1,0 +1,35 @@
+{
+  "Title": "My Little Brown Book",
+  "Composer": "Strayhorn Billy",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6,F7#5|Bb7|Eb^7|Eb-6,Ab7|Bb,Bb+|C-7,F7"
+      },
+      "Endings": [
+        {
+          "Chords": "D-7,Db7|C-7,F7#5"
+        },
+        {
+          "Chords": "D-7,Db7|Gb^7,Ab7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Db^7,Bb7b9|Eb-7,Ab7b9|Db^7/F,Eo7|Eb-7,Ab7#5|Db^7,Bb7b9|Eb-7,Ab7b9|Db^7,Gh7|Gb7#11,F7sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Bb6,F7#5|Bb7|Eb^7|Eb-6,Ab7|Bb,Bb+|C-7,F7|Bb^7,,C#-7,F#7|B^7|Ch7,F7|Bb^7"
+      },
+      "Endings": []
+    }
+  ]
+}

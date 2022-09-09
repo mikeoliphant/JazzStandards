@@ -1,0 +1,20 @@
+{
+  "Title": "West Coast Blues",
+  "Composer": "Montgomery Wes",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7|Ab7|Bb7|B-7,E7|Eb7|Eb7|Bb7|Bb7|F7|Eb7|Bb7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Bb7|Ab7|Bb7|B-7,E7|Eb7|Eb-7,Ab7|D-7,G7|C#-7,F#7|C-7|C-7,F7|Bb^7,Db7|Gb^7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

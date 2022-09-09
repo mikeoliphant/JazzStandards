@@ -1,0 +1,48 @@
+{
+  "Title": "Everybody's Song But My Own",
+  "Composer": "Wheeler Kenny",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-9/Bb|G7b13/B|C-11|Eb^7/Bb|Ah7|D7#9"
+      },
+      "Endings": [
+        {
+          "Chords": "G-11|B^7/Bb"
+        },
+        {
+          "Chords": "G-11,Bb^7/F|Eh7,A7#9#5"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D^9|E-7/A|D^9|E-7/A|D^9|C#h7,F#7b9|B-11|B-9/A|G#h7|C#7b9|F#^7#11|G-11/C|F^9|F#-11/B"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-9/Bb|G7b13/B|C-11|Eb^7/Bb|Ah7|D7#9|G-11,Bb^7/F|Eh7,A7#9#5|D-11|Db^7#11|C-11|F#-9,B13#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Bb^9|B^7/Bb|Bb^9|B^7/Bb"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "E^7#11|Eb-11"
+      },
+      "Endings": []
+    }
+  ]
+}

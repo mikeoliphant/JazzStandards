@@ -1,0 +1,19 @@
+{
+  "Title": "Pink Panther, The",
+  "Composer": "Mancini Henry",
+  "Key": "E-",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "E-|E-|C7#11|C7#11|E-|E-|F7#11|F7#11"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "E-|E-|C7#11|C7#11|E-|C7#11,B7#9|E-|E-"
+      },
+      "Endings": []
+    }
+  ]
+}

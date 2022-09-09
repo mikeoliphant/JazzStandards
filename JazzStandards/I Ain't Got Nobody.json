@@ -1,0 +1,35 @@
+{
+  "Title": "I Ain't Got Nobody",
+  "Composer": "Graham-Williams",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G7|G7,F#7,F7,E7|A7|A7|G/D,E-|A-7,D7|G6,E-7|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G7|G7,F#7,F7,E7|A7|A7|A7|A7|D7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G7|G7|C6|C6|E7|E7|A7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G7|G7,F#7,F7,E7|A7|A7|G/D,E-|A-7,D7|G6|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Butterfly Dreams",
+  "Composer": "Clarke Stanley",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "B^7|Ab-7|Gb-9|B9|A-7|D7|Ab^7|B7b9b5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|Ab^7|F^7|E-9|E-9|E-9|E-9|Eb-7|Eb-7|D^7|D^7|B^7|B^7|B^7|B^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7|F-7|F-7|F-7|Db-7|Db-7|Db-7|Db-7"
+      },
+      "Endings": []
+    }
+  ]
+}

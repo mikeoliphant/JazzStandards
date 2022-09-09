@@ -1,0 +1,35 @@
+{
+  "Title": "Lamp Is Low, The",
+  "Composer": "DeRose-Shefter",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7(G13sus)|G7|D-7|G7|C6|F7|E-7|A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7(G13sus)|G7|D-7|G7|C6|F7|C6|C6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|C7|G-7|C7|F^7|F^7|Bb7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "D-7(G13sus)|G7|D-7|G7|E-7|A7b13|Dh7|G7b9|C6|E-7,A7"
+      },
+      "Endings": []
+    }
+  ]
+}

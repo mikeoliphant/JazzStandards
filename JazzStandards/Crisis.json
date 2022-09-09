@@ -1,0 +1,42 @@
+{
+  "Title": "Crisis",
+  "Composer": "Hubbard Freddie",
+  "Key": "B",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "B7sus|B7sus|B7sus|B7sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "B7sus|B7sus|Db7/B|Db7/B|C^7/B|C^7/B|B7|B7|Bb7|Bb7|A7|F#7#9|B-|F#7#9|B-"
+      },
+      "Endings": [
+        {
+          "Chords": "F#7#9"
+        },
+        {
+          "Chords": "B-"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G7|C#h7,F#7#9|B-7,E7|A-7,D7|Ab-7|Db7|Eb-7,D7|C#h7,F#7#9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "B-|F#7#9"
+      },
+      "Endings": []
+    }
+  ]
+}

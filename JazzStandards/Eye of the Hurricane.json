@@ -1,0 +1,21 @@
+{
+  "Title": "Eye of the Hurricane",
+  "Composer": "Hancock Herbie",
+  "Key": "F-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-6,Bb6|Eb7sus,Ab7sus|Db^7,C7|Gb-7,Bb-|Eb7#9/F|Eb7#9/F|Eb7#9/F|Eb7#9/F|F-7|F-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-6,Bb6|Eb7sus,Ab7sus|Db^7,C7|A^7#11,C^7|Eb7#9/F|Eb7#9/F|Eb7#9/F|Eb7#9/F|F-7|F-7"
+      },
+      "Endings": []
+    }
+  ]
+}

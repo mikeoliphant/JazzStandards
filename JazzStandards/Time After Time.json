@@ -1,0 +1,21 @@
+{
+  "Title": "Time After Time",
+  "Composer": "Styne Jule",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,A-7|D-7,G7|C^7,A-7|D-7,G7|C^7|C^7|Bh7|E7b9|A-,A-/G|F#h7,B7b9|E-7|A7b9|D-7|Eh7,A7b9|Ab7#11|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7,A-7|D-7,G7|C^7,A-7|D-7,G7|C^7|G-7,C7|F^7|F-6,Bb7|C6|F#h7,F-6|E-7,A-7|D7,F-6|E-7,A-7|D-7,G7|C6,A-7|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

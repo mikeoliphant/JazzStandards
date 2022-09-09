@@ -1,0 +1,28 @@
+{
+  "Title": "What A Wonderful World",
+  "Composer": "Weiss-Thiele",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6,A-7|Bb^7,A-7|G-7,F^7|A7b9,D-7|Db7|G-7,C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F^7,F6|G-7,C7"
+        },
+        {
+          "Chords": "F6,Bb7|F6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7,C7|F^7|G-7,C7|F^7|D-7,A-7|D-7,A-7|D-7,D7b9|G-7,F#o,G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "Day By Day",
+  "Composer": "Cahn-Stordahl-Weston",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|(D7)x|(D7)x|D7|G^7|C7|B-7|E9#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7|B7|E-7|A7|E-7|A7|A-7|B-7,E9#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|(D7)x|(D7)x|D7|G^7|C7|Bh7|E7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7|C-7,F7|G^7,F7#11|E7|A-7|D7|G^7|B-7,E9#5"
+      },
+      "Endings": []
+    }
+  ]
+}

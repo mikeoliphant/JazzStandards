@@ -1,0 +1,35 @@
+{
+  "Title": "I Hear A Rhapsody",
+  "Composer": "Fragos-Baker-Gasparre",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7,(Gb7#11)|F-7,Bb7|Eb^7,Ab7|Gh7,C7b9|F-7(Fh7),Ab-7|B-7(Bb7b9),Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb^7|Dh7,G9#5"
+        },
+        {
+          "Chords": "Eb^7|Ah7,D7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|Ah7,D7b9|G-7|C-7,F7|Bb^7|F-7(Ab7)|Dh7,G7b9|G9#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7,(Gb7#11)|F-7,Bb7|Eb^7,Ab7|Gh7,C7b9|F-7(Fh7),Ab-7|B-7(Bb7b9),Bb7|Eb^7|Dh7,G9#5"
+      },
+      "Endings": []
+    }
+  ]
+}

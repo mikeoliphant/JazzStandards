@@ -1,0 +1,21 @@
+{
+  "Title": "Oliloqui Valley",
+  "Composer": "Hancock Herbie",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F7sus|F7sus|F7sus|F7sus|Eb7sus|Eb7sus|Eb7sus|Eb7sus"
+      },
+      "Endings": [
+        {
+          "Chords": "E-^7,(E-7)|E-^7,(E-7)|E-^7,(E-7)|E-^7,(E-7)"
+        },
+        {
+          "Chords": "E-7|F#-7/E|E-7|F#-7/E|E-7|F#-7/E|E-7|G-7,Gb7"
+        }
+      ]
+    }
+  ]
+}

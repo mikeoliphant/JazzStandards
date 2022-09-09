@@ -1,0 +1,35 @@
+{
+  "Title": "Meaning Of The Blues, The",
+  "Composer": "Worth-Troup",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-,D-#5|D-6,D7#9|G-7,G-7/F|Eh7,A7b9|D-,D-#5|D-6,D7#9|G-7|Bb-6,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7,D-7|G-7,C7|F^7|Eh7,A7b9|D-7,G7|D-7,G7|G-7,Bb7|A7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-,D-#5|D-6,D7#9|G-7,G-7/F|Eh7,A7b9|D-,D-#5|D-6,D7#9|G-7|Bb-6,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C-7|F7sus,F7|Bb^7|Bb-6(A7#9),Eb7|D-7,G7|D-7,G7|G-7,,Bb7,A7|D-"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Title": "Light Blue",
+  "Composer": "Monk Thelonious",
+  "Key": "C",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "F^7,,G7,C7|F^7,,F7,Bb7|C^7|D9,G7#11|F^7,,F7#11,Gb7|F^7,,F#-7,F-7|C^7|D9,G7#11,Db^7#11,"
+      },
+      "Endings": []
+    }
+  ]
+}

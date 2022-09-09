@@ -1,0 +1,21 @@
+{
+  "Title": "I'll Be Seeing You",
+  "Composer": "Fain Sammy",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|G7b13|F-7(F-7),C7b13|F-7(C7b13),C7b13|F-7|Bb7|Eb^7|Dh7,G7b9|C-7|C-7|F-7|F-7|F-7|Bb7#5|Eb^7|Bb7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb^7|G7b13|F-7(F-7),C7b13|F-7(C7b13),C7b13|F-7|Bb7|Gh7(Bb-7)|C7b9(Gh7),(C7b9)|Ab^7(F-7)|G7b9|C-7|F7|F-7|Ab-6,Bb7b9|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

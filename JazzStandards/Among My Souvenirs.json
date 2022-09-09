@@ -1,0 +1,35 @@
+{
+  "Title": "Among My Souvenirs",
+  "Composer": "Nicholls Horatio",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,C7b9|F-7,Bb7|F-7,Bb7|Eb^7,Ab7|G-7,Gb7|F-7|Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb^7"
+        },
+        {
+          "Chords": "Eb^7|Eb7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7|F-7,Bb7|Eb^7|C-7|F-7|Bb7|G7,C-7|F7,Bb7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,C7b9|F-7,Bb7|F-7,Bb7|Eb^7,Ab7|G-7,Gb7|F-7|Bb7|Eb6"
+      },
+      "Endings": []
+    }
+  ]
+}

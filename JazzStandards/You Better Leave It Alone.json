@@ -1,0 +1,20 @@
+{
+  "Title": "You Better Leave It Alone",
+  "Composer": "Jordan Clifford",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Bb13|Bb13|Bb13|Bb13|Eb13|Eb13|Eb13|Eb7|Bb13|Bb13|Ab13|G7#5|C-9|F13"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb13|F13"
+        },
+        {
+          "Chords": "Bb7|Bb7"
+        }
+      ]
+    }
+  ]
+}

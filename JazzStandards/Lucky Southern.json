@@ -1,0 +1,42 @@
+{
+  "Title": "Lucky Southern",
+  "Composer": "Jarrett Keith",
+  "Key": "D",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "D^7|D^7#5|D6|D^7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D^7|D^7|E7|E7|G^7|Bb7,A7|D^7|D^7,Eb^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D^7|D^7|E7|E7|G^7|Bb7,A7|D^7|D^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F#-7|F#-7|E-7|E-7|F#-7|F#-7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "G^7|G-7|D/F#|Fo7|E-7|Bb7,A7|D^7|D^7,Eb^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

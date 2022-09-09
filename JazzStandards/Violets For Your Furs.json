@@ -1,0 +1,35 @@
+{
+  "Title": "Violets For Your Furs",
+  "Composer": "Adair-Dennis",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,C7|F^7|Bb-7,Eb7|F^7,D7b9|G-7,C7|F^7|A-7,D7b9|G-7,D7b9#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7,C7|F^7,D7b9|G-7,C7|F^7,D7b9|G-7,C7|F^7,D7|G7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,C7|F^7|Bb-7,Eb7|F^7,D7b9|G-7,C7|F^7|A-7,D7b9|G-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Bb^7|Eb7|F^7,Eb7|D7|Db7,C7#5|F6,D7|G-7,C7|F6,D7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

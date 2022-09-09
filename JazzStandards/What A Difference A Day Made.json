@@ -1,0 +1,21 @@
+{
+  "Title": "What A Difference A Day Made",
+  "Composer": "Grever Maria",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|C7|F^7,Bb7|A-7,D7#9|G-7|C7|F^7,C7|F^7|Eh7|A7b9|D-|D-|D-7,G7|D-7,G7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|C7|F^7,Bb7|A-7,D7#9|G-7|C7|F7|C-7,F7|Bb^7|Eb7|F^7|Abo7|G-7|C7|F6|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

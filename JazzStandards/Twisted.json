@@ -1,0 +1,21 @@
+{
+  "Title": "Twisted",
+  "Composer": "Gray Wardell",
+  "Key": "Bb-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "Bb7,Ab7|Ab7,Bb7|Bb7,Ab7|Ab7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7|Eb7|Eb7|F-7,Bb7|Eb7|Eb7|Bb7|D-7,G-7|C-7|F7|Bb7,G-7|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Yes And No",
+  "Composer": "Shorter Wayne",
+  "Key": "D",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D7sus|D7sus|D7sus|D7sus|D^7|D^7|D^7|D^7|A-7,D7|G^7,F7|Bb^7|Bb^7|E-7|E-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ah7|Ah7|D7b9|D7b9|G-7|G-7|C7|C7|F-7|F-7|Bb7|Bb7|Eb^7|Eb^7|A-7|D7"
+      },
+      "Endings": []
+    }
+  ]
+}

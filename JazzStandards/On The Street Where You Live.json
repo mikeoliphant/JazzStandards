@@ -1,0 +1,35 @@
+{
+  "Title": "On The Street Where You Live",
+  "Composer": "Loewe Frederick",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb^7|C-7,F7|Bb^7|C-7,F7|Bb^7|Dbo7|C-7|F7|C-7|Ab7#11|Bb6|G-6|C-7|F7"
+      },
+      "Endings": [
+        {
+          "Chords": "D-7,G7|C-7,F7"
+        },
+        {
+          "Chords": "Bb6|Bb6"
+        }
+      ]
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|D7|Eb^7|Eb^7|Eb-6|Ab7|Bb6|Bb6|Gb7,Bb/F|Eh7|A7sus|A7|D^,A7/C#|C7|C-7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|C-7,F7|Bb^7|C-7,F7|Bb^7|Dbo7|C-7|F7|C-7|Ab7#11|Bb6|G-6|C-7|F7|Bb6|Bb6"
+      },
+      "Endings": []
+    }
+  ]
+}

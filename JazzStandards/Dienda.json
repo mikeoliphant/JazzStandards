@@ -1,0 +1,41 @@
+{
+  "Title": "Dienda",
+  "Composer": "Kirkland Kenny",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "G-11,Fadd9/A|Gb^7#11|G-11,Fadd9/A|F/Db|F/Db"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F/G|F/Db,Bb-/Db|D-9|G13#11|Gb^9#11|F-11|Cadd9/E|F/Eb|D-11|Bb^7/D|A9sus|F-9/Bb,Bb/Gb|Bb/Gb|F-9,F-9/Eb|Dh7|E/C,C6|C7alt"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-9|Db13#11|D-9|D-9/C|Gb/Bb,Bb-|F-11/Ab|G-11|Gb^7#11|Bb^7#5/A|Bb^7#11/D|C/Ab|Db^7|G-11,Fadd9/A|Gb^7#11|G-11,Fadd9/A|F/Db|F/Db"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "G-11,Fadd9/A|Gb^7#11|G-11,Fadd9/A|F/Db"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F/Db"
+      },
+      "Endings": []
+    }
+  ]
+}

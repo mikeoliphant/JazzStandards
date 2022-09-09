@@ -1,0 +1,42 @@
+{
+  "Title": "Wait Till You See Her",
+  "Composer": "Rodgers Richard",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7|Bb7|Eb^7|C-7|F-7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb7|G-7|C7"
+        },
+        {
+          "Chords": "D7b9|G-7|G-7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb^7|G-7|C-7|G7b13|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F-7|Bb7|Eb6|G-7/D|C-7|C-7/Bb|Ah7|Abo7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "Eb/G|Gbo7|Bb7/F|Eo7|F-7|Bb7|Eb6|Eb6"
+      },
+      "Endings": []
+    }
+  ]
+}

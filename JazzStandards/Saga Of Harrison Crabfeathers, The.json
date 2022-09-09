@@ -1,0 +1,35 @@
+{
+  "Title": "Saga Of Harrison Crabfeathers, The",
+  "Composer": "Kuhn Steve",
+  "Key": "E-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-7|E-7|E-7|E-7|C^7#11|C^7#11|C^7#11|C^7#11|A-7|A-7|A-7|A-7|E-7|E-7|E-7|E-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|D-7|D-7|D-7|Bb^7#11|Bb^7#11|Bb^7#11|Bb^7#11|G-7|G-7|G-7|G-7|D-7|D-7|D-7|D-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Ab^7#11|Ab^7#11|Ab^7#11|Ab^7#11|Ab^7#11|Ab^7#11|Ab^7#11|Ab^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "C-7|C-7|C-7|C-7|Ab^7#11|Ab^7#11|Ab^7#11|Ab^7#11|F-7|F-7|F-7|F-7|C-7|C-7|C-7|C-7"
+      },
+      "Endings": []
+    }
+  ]
+}

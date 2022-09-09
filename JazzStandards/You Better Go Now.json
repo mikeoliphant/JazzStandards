@@ -1,0 +1,28 @@
+{
+  "Title": "You Better Go Now",
+  "Composer": "Reichner-Graham",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,Bb7#5|Eb^7,Eo7|F-7,Bb7|F-7,Bb7|Eb^7,Bb7#5|Eb^7,Eo7|F-7,Bb7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb^7,Eo7|F-7,Bb7|Eb,F-7,G-7,Ab|F-7,Bb7|Eb^7,Eo7|F-7,Bb7|Eb^7,F7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Eb^7,Bb7#5|Eb^7,Eo7|F-7,Bb7|F-7,Bb7|Eb^7,C7|F-7,Bb7|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

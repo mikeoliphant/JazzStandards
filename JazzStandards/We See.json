@@ -1,0 +1,28 @@
+{
+  "Title": "We See",
+  "Composer": "Monk Thelonious",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7,Ab7|Gb7|C-7|F7|F-7,Bb7b9|Eb^7,Ab7|C7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|F7|C-7|F7|C-7|F7|C-7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7,Ab7|Gb7|C-7|F7|F-7,Bb7b9|Eb^7,Ab7|C7|F7,Bb^7"
+      },
+      "Endings": []
+    }
+  ]
+}

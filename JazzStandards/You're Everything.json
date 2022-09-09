@@ -1,0 +1,35 @@
+{
+  "Title": "You're Everything",
+  "Composer": "Corea Chick",
+  "Key": "A",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A^7|Ab-6|G^7|F#7b9|E-7|G^7#11|G#7sus|G-7|F#-7|F-7|Bb9|E-7|A7|D^7|D-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A^7|Ab-6|G^7|F#7b9|B-|Eb^7/Bb|A^7#5|G#7|G13|F#7#9#5|F9|E7b9|A^7|E-7|A^7|F^7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "E^7|D#7|G#-|C#-7|G#-|G7#9|C^7|B7#9#5|E-7|A7|D^7|D-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A^7|Ab-6|G^7|F#7b9|B-|Eb^7/Bb|A^7#5|G#7|G13|F#7#9#5|F9|E7b9|A^7|E-7|A^7|E-7"
+      },
+      "Endings": []
+    }
+  ]
+}

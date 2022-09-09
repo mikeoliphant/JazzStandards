@@ -1,0 +1,28 @@
+{
+  "Title": "Maiden Voyage",
+  "Composer": "Hancock Herbie",
+  "Key": "D",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D9sus|D9sus|D9sus|D9sus|F9sus|F9sus|F9sus|F9sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb9sus|Eb9sus|Eb9sus|Eb9sus|C#-9|C#-9|C#-9|C#-9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D9sus|D9sus|D9sus|D9sus|F9sus|F9sus|F9sus|F9sus"
+      },
+      "Endings": []
+    }
+  ]
+}

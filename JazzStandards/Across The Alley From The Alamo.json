@@ -1,0 +1,35 @@
+{
+  "Title": "Across The Alley From The Alamo",
+  "Composer": "Greene Joe",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7|F^7|F^7|C7|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "G-7,C7|F^7"
+        },
+        {
+          "Chords": "G-7,C7|F^7,F7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb^7|F^7,F7|Bb^7,Bb-7|F^7|A7|D-7|G7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7|F^7|F^7|C7|C7|G-7,C7|F^7"
+      },
+      "Endings": []
+    }
+  ]
+}

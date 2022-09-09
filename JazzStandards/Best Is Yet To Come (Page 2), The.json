@@ -1,0 +1,35 @@
+{
+  "Title": "Best Is Yet To Come (Page 2), The",
+  "Composer": "Coleman Cy",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F-,Db7/F|F-6,Db7/F|F-,Db7/F|F-6,Eb7|Ab7,D7#11|Db7,Eb7b9|Ab13|G7b9b13,C7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F-6|Db9|F-6|Db9|F-6|Db9|Bb7sus|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "Eb-7,F-7|Gb6,Ab7|Db6,Eb-7|Eo7,Db6/F|Eb-7,F-7|Gb6,Ab7|Db6|E13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A^7,A7|A6,,A+,A|F#7|F#7|B7|E7|A6|A6"
+      },
+      "Endings": []
+    }
+  ]
+}

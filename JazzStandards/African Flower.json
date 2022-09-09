@@ -1,0 +1,35 @@
+{
+  "Title": "African Flower",
+  "Composer": "Ellington Duke",
+  "Key": "Eb-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb-7|Eb-7|Eb-7|Eb-7|Ab-7|Gb-7|Eb-7|Eb-7|Bbh7|Bbh7|Eb-7|Eb-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb-7|Eb-7|Eb-7|Eb-7|Ab-7|Gb-7|Eb-7|Eb-7|Bb-7|Bb-7|Eb-7|Eb-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Gb^7|Gb^7|Cb7|Cb7|Gb^7|Gb^7|Gb7#11|Gb7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Ab7|Ab-7|Gb-7|Eb-7|D-7|Bb7b5|Eb-7|Eb-7"
+      },
+      "Endings": []
+    }
+  ]
+}

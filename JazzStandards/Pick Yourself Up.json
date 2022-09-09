@@ -1,0 +1,35 @@
+{
+  "Title": "Pick Yourself Up",
+  "Composer": "Kern Jerome",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,C7|F^7,Bb^7|Eh7,A7b9|D-7,G7|C7sus,C7|A-7,D7|G-7,C7|F6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7,D7|G^7,C^7|F#h7,B7b9|E-7,A7|D7sus,D7|B-7,E7|A-7,D7|G6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Ab^7|Ab^7|Eb-7|Ab7|C^7|C^7|A-7,D7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,C7|F^7,Bb^7|Eh7,A7b9|D-7,G7|C7sus,C7|A-7,D7|G-7,C7|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

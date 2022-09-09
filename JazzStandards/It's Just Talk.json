@@ -1,0 +1,35 @@
+{
+  "Title": "It's Just Talk",
+  "Composer": "Metheny Pat",
+  "Key": "C#-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "C#-9|C#-9|C9#11|C9#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C#-9|C#-9|C9#11|C9#11|C#-9|C#-9|C9#11|C9#11|F#-7|F#-7|Gadd9|G/A,,A/B,C#-9|C#-9|C#-9"
+      },
+      "Endings": [
+        {
+          "Chords": "C9#11|C9#11"
+        },
+        {
+          "Chords": "C#-9|C#-9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F#-9|E/G#,A^7|C/D|C/D|G^9,Bb9|Eb^9,A^7/B|E69|E69|G^7/A|D^9|A^7/B|E^9|B^7/C#|F#^9|F#-9|A^7/B"
+      },
+      "Endings": []
+    }
+  ]
+}

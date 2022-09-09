@@ -1,0 +1,35 @@
+{
+  "Title": "Hungaria",
+  "Composer": "Reinhardt Django",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G69|G69|Ab69|Ab69|G69|G69|E7|E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A7|A7|D7|D7|G/B|Bbo7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G69|G69|Ab69|Ab69|G69|G69|E7|E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "A-7|C-6|G/B|Bbo7|A-7|D7|G69|G69"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "If I Knew Then (What I Know Now)",
+  "Composer": "Jurgens-Howard",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7|Bb7|F-7|Bb7|Eb^7|F-7,Bb7|Eb^7|C7|F-7|Bb7|F-7|Bb7|Eb^7|F-7,Bb7|Eb^7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7|Bb7|F-7|Bb7|Bb-7|Eb7|Ab^7|Ab^7|Ab^7|Db7#11|Eb^7|F7|F-7|Bb7|Eb6|C7"
+      },
+      "Endings": []
+    }
+  ]
+}

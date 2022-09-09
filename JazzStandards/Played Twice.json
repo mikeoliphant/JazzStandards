@@ -1,0 +1,28 @@
+{
+  "Title": "Played Twice",
+  "Composer": "Monk Thelonious",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|Db7|Db7|A7|C^7|Db7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F7sus|F7sus|F7sus|F7sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C^7|Db7|Db13,C13|A7,D^7"
+      },
+      "Endings": []
+    }
+  ]
+}

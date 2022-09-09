@@ -1,0 +1,35 @@
+{
+  "Title": "Sno' Peas",
+  "Composer": "Markowitz Phil",
+  "Key": "Eb-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "Eb7#9|Ab-7|Bb7#9|Eb-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb7#9|Ab-7|Db7|C-^7,C-7|E-7|Ab-7|B-7|Eb-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D7#9|Db9sus|G-^7|B-^7|C-^7|E-7|A-7|Ab-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb7#9|Ab-7|Db7|C-^7,C-7|E-7|Ab-7|B-7|Eb-7"
+      },
+      "Endings": []
+    }
+  ]
+}

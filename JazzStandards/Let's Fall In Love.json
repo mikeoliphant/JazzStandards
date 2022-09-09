@@ -1,0 +1,34 @@
+{
+  "Title": "Let's Fall In Love",
+  "Composer": "Arlen Harold",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C6,A-7|D-7,G7|C6,A-7|D-7,G7(F-6)|E-7,A-7|D-7,G7"
+      },
+      "Endings": [
+        {
+          "Chords": "E7,A7|D7,G7"
+        },
+        {
+          "Chords": "Bh7,E7|Bh7,E7"
+        }
+      ]
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-,A-^7|A-7|D7,A-7|D7,D#o7|E-7,A-7|D-7,G7|E-7,A7b9|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "C6,A-7|D-7,G7|C6,A-7|D-7,G7(F-6)|E-7,A-7|D-7,G7|C6,A-7|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

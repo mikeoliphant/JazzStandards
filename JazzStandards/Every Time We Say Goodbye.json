@@ -1,0 +1,35 @@
+{
+  "Title": "Every Time We Say Goodbye",
+  "Composer": "Porter Cole",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,F-7|G-7,Ab^7|G-7,C7|F-7,Bb7|G-7,Gb7|B^7,E^7#11|Bb-7,Eb7|Ab-7,Db7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb^7/G,Gbo7|F-7,Bb7|Bb-7,Eb7|Ab^7|Ab-7,Db7|G-7,C7|Gb7#11|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,F-7|G-7,Ab^7|G-7,C7|F-7,Bb7|G-7,Gb7|B^7,E^7#11|Bb-7,Eb7|Ab-7,Db7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "G-7,Gbo7|F-7,Bb7|Bb-7,Eb7|Ab^7,Ab-6|G7,C7|F-7,Bb7|Eb6,Eb6/Bb|Eb6,Eb6/Bb"
+      },
+      "Endings": []
+    }
+  ]
+}

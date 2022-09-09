@@ -1,0 +1,25 @@
+{
+  "Title": "Hideaway",
+  "Composer": "Sanborn David",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Ab7sus,Ab7|Ab7sus,Ab7|Gb7sus,Gb7|Gb7sus,Gb7|Ab7sus,Ab7|Ab7sus,Ab7|Gb7sus,Gb7|Gb7,Gb7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Ab7sus|Ab7,B7|Db7|E7,Eb7|Ab7sus|Ab7,B7|Db7|Eb7,D7|Db7|Db7,Db7,E7|Ab7sus,Ab7|Ab7,Ab7,Db7/G,Ab7/D|Db7,C7|B7,Bb7|E7,,F#7,Db7/G|Ab7sus|Ab7|Db7|E7,Eb7|Ab7sus|Ab7|Db7|Eb7,D7|Db7|Db7,E7|Ab7sus|Ab7,,Db7/G,Ab7/D|Db7,C7|B7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "E9|E9,E9,E6|E9|E9"
+      },
+      "Endings": []
+    }
+  ]
+}

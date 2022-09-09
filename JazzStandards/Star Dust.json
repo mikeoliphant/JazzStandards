@@ -1,0 +1,28 @@
+{
+  "Title": "Star Dust",
+  "Composer": "Carmichael Hoagy",
+  "Key": "Db",
+  "Sections": [
+    {
+      "Label": "v",
+      "MainSegment": {
+        "Chords": "Db^7|Gb7#11|F7b9|Bb7|Eb-7,Ab7|F-7,Bb-7|G-7,C7|Eb-7,Ab7|Db^7|Gb7#11|F7b9|Bb7|Eb-7,Ab7|F-7,Bb-7|Eb-7,Ab7|Db^7,Db7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Gb^7|Gb^7|Gb-^7|F#-7,B7|Db^7|F-7,Bb7|Eb-7,Bb7|Eb-7"
+      },
+      "Endings": [
+        {
+          "Chords": "Ab7|Eb-7,Ab7|Db^7,,Eb-7,Eo|F-7,Bb-7|Eb7|Bb-7,Eb7|Ab7,Eb-7|Ab7,Db7"
+        },
+        {
+          "Chords": "F#-7|B7|Db^7,Bb-7|F-7,Bb7|Eb-7|Ab7|Db^7|Ab-7,Db7"
+        }
+      ]
+    }
+  ]
+}

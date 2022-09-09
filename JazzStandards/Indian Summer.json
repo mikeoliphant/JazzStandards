@@ -1,0 +1,35 @@
+{
+  "Title": "Indian Summer",
+  "Composer": "Victor-Aldubin-Herbert ",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G^7|D7#5|G^7|D7#5|G^7,C7#11|B-7,Bbo7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|F#h7,B7b9|E-7|E-7|A7|A7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "G^7|D7#5|G^7|D7#5|G^7,C7#11|B-7,Bbo7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|B-7,E-7|Eb7|Bb-7,Eb7|B-7,Bb7|A-7,D7|G6|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

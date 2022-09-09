@@ -1,0 +1,35 @@
+{
+  "Title": "Say It (Over And Over Again)",
+  "Composer": "Loesser Frank",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,C7|F-7,Bb7|Eb6,C7#9|F-7,,Dh,G7|C-7,F7|F-7,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb^7,C7|F-7,Bb7"
+        },
+        {
+          "Chords": "Eb6|D-7,G7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|Dh7,G7|E-7,A7|D-7,G7|C^7|A-7,D7|G-7,C7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,C7|F-7,Bb7|Eb6,C7#9|F-7,,Dh,G7|C-7,F7|F-7,Bb7|Eb^7|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

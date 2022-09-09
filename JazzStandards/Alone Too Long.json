@@ -1,0 +1,35 @@
+{
+  "Title": "Alone Too Long",
+  "Composer": "Schwartz Arthur",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G6|G6,G6,G#o7|A-7,D7|A-7,D7|A-7|D7"
+      },
+      "Endings": [
+        {
+          "Chords": "G6,E-7|A-7,D7"
+        },
+        {
+          "Chords": "G6|F#h7,B7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E-,E-/D|E-/C#,E-/C#,C7,B7|E-6|E-6|E-,E-/D|A7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G6|G6,G6,G#o7|A-7,D7|A-7,D7|A-7|D7|G6,E-7|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "Title": "Silver's Serenade",
+  "Composer": "Silver Horace",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-9|E-9|Bb-9|Bb-9|A-9|A-9|Eb-9|Eb-9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7|A-7|C-7|C-7,C-7,B7|Bb^7,C-7|D-7,Eb^7|A-7|D7#11"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D7#11|G69|G^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

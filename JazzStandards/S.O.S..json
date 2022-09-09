@@ -1,0 +1,42 @@
+{
+  "Title": "S.O.S.",
+  "Composer": "Montgomery Wes",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|Bb-7,Eb7|Ab^7|Dh7,G7#5|C-7,Eb7|Ab^7,G7#5|C^7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|Bb-7,Eb7|Ab^7|Dh7,G7#5|C-7,Eb7|Ab^7,G7#5|C^7|C^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "G-7|C7|F-7|Bb7|Bb7b5|A7b9|Ab7b5|G7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|Bb-7,Eb7|Ab^7|Dh7,G7#5|C-7,Eb7|Ab^7,G7#5|C^7|G7b5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "Bb7#9|Eb^7|G7#9|C^7,,Bb-7,Eb7|Ab^7|Ab^7|G7b5|G7b5"
+      },
+      "Endings": []
+    }
+  ]
+}

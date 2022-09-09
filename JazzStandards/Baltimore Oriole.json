@@ -1,0 +1,21 @@
+{
+  "Title": "Baltimore Oriole",
+  "Composer": "Carmichael Hoagy",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,G-7/F|C9/E,C-6/Eb|G-7|D-7,G7b9|C-7|F7,Ab7|G-7|C9|C-7|Ah7,D7#9|G-7|G-7,C9|Ah7|Eb7|D7b9|Ah7,D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7,G-7/F|C9/E,C-6/Eb|G-7|D-7,G7b9|C-7|F7,Ab7|G-7|C9|C-7|Ah7,D7#9|G-7|G-7,C9|Ah7|Eb7,D7b9|G-7,G-7/F|Eh7(Eb7),Eb7(D7b13)|G-7,G-7/F|Eh7(Eb7),Eb7(D7b13)|G-7|Ah7,D7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

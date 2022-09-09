@@ -1,0 +1,28 @@
+{
+  "Title": "I Got The Sun In The Morning",
+  "Composer": "Berlin Irving",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C7b5/Gb,F6|C7b5/Gb,F6|C7b5/Gb,F6|F6,F7|Bb^7,Eb9|G-7,F6|Bb^7,Eb9|G-7,F6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E-7|A7|A-7|D7|D-7|G7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C7b5/Gb,F6|C7b5/Gb,F6|C7b5/Gb,F6|F6,F7|Bb^7,Eb9|G-7,F6|Bb^7,Eb9|G-7,F6|Bb^7,A7b9#5|Abo7,G-7|G-7,C7b9|F6,,G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

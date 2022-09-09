@@ -1,0 +1,42 @@
+{
+  "Title": "Dolphin Dance",
+  "Composer": "Hancock Herbie",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "Eb^7|Db^7/Eb|Eb^7|Dh7,G7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|Ab^7#11|C-7|A-7,D7|G^7|Ab-7|F-7|F-7,F-7,G7#5|C-7|C-7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G^7|G7sus|A/G|Eb^7#11/G|F7sus|D/F|F7sus|E-7,A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Eb7|A-7,D7|B-7|E7,D-7|C#-7|F#7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "D^7/E|C^7/E|D^7/E|C^7/E|Db^7/Eb|Bb13b9/Eb|Ab^7#5/Eb|G7#5"
+      },
+      "Endings": []
+    }
+  ]
+}

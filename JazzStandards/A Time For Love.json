@@ -1,0 +1,35 @@
+{
+  "Title": "A Time For Love",
+  "Composer": "Mandel Johnny",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Eb7/F|F6|G7|G-7|G-7/F|E-7,A7|Eh7/A,A7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|Eb7/Db|F7/C|G7|G-7|G-7/F|E-7,A7|Eh7/A,A7b13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "D-7,A7|D-7,G7|C6,E7b13|A-7,A7b13|D-7,C-6|Bh7,E7|C#-7,F#-7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "F^7|Eh7,A7b9|D-7|G7|G-7|G-7/F|E-7,A7|Eh7,A7b9|D-7|G7|G-7|C7|F6|C7sus"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "You're My Everything",
+  "Composer": "Warren Harry",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|G-7,C7|F#-7,B7|E-7,A7|D-7|D-7|G7|F-^7|E-7|Eb-7,Ab7|D-7,D-7/C|Bh7,E7|A-7|D7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|F#7#11|F7|E-7,A7|D-7|D-7/C|Bh7|E7b9|A-7,Ab7|G-7,C7|F^7|Bb7|E-7,Eb-7|D-7,G7|Ab^7|Ab^7"
+      },
+      "Endings": []
+    }
+  ]
+}

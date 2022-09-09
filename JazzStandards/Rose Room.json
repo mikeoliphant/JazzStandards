@@ -1,0 +1,35 @@
+{
+  "Title": "Rose Room",
+  "Composer": "Hickman Art",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7|Eb7|Ab6|Ab6|Eb-7|Ab7|Db6|Db6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Db-7|Gb7|Ab^7|F7|Bb7|Bb7|Bb-7|Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7|Eb7|Ab6|Ab6|Eb-7|Ab7|Db6|Db6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Db-7|Gb7|Ab^7|F7|Bb7|Eb7|Ab6,G7b9|Gb7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

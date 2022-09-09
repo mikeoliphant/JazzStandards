@@ -1,0 +1,28 @@
+{
+  "Title": "Raincheck",
+  "Composer": "Strayhorn Billy",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,G-7|G#o7,F/A|Bb6,A-7|G7,C7|F^7,G-7|G#o7,F/A|Bb6,F6|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": ""
+      },
+      "Endings": [
+        {
+          "Chords": "F^7,G-7|G#o7,F/A|Bb6,A-7|B-7,E7|C#-7,F#-7|B-7,E7|Eb7,D7|Db7,C7"
+        },
+        {
+          "Chords": "F^7|C-7,F7|Bb^7|Bb-6|F^7,G-7|G#o7,F/A|Bb6,F/A|Gb7,F6"
+        }
+      ]
+    }
+  ]
+}

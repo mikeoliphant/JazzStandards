@@ -1,0 +1,35 @@
+{
+  "Title": "Alfie",
+  "Composer": "Bacharach Burt",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|F7sus|Bb^7|D-7,G7|C-7|D-7,G-7|C-7,F7sus|Bbo7"
+      },
+      "Endings": [
+        {
+          "Chords": "F7sus|F7,F7#5"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": ""
+      },
+      "Endings": [
+        {
+          "Chords": "A-7|Bb-/C,C7|A-7|C7sus|A-7|Bb-/C,C7|F7sus|F6,F7"
+        }
+      ]
+    },
+    {
+      "MainSegment": {
+        "Chords": "Bb^7|F7sus|Eh7,Eb7|D-7,G-7|Eh7,Eb7|D-7,G-7|C7#11|C-7,F7sus|Bbo7|F7sus|Bo7|C-9|Bo7|Bb^7"
+      },
+      "Endings": []
+    }
+  ]
+}

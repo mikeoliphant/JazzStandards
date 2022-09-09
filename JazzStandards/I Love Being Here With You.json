@@ -1,0 +1,35 @@
+{
+  "Title": "I Love Being Here With You",
+  "Composer": "Bill Schluger, Peggy Lee",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb|F-7,Bb7|Eb7|Eo7|Bb,Ab7|G7|C-7(C7),F7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb,F7"
+        },
+        {
+          "Chords": "Bb"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D7|D7|G7|G7|C7|C7|F7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Bb|F-7,Bb7|Eb7|Eo7|Bb,Ab7|G7|C-7(C7),F7|Bb"
+      },
+      "Endings": []
+    }
+  ]
+}

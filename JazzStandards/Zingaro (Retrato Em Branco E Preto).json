@@ -1,0 +1,34 @@
+{
+  "Title": "Zingaro (Retrato Em Branco E Preto)",
+  "Composer": "Jobim Antonio-Carlos",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|G-7|D7b9/F#|D7b9/F#|F-6|F-6,F-6,E^7|Eb^7|Eb^7|C-7|D7b9|Bb^7|Bb^7|A13#9|A13#9|D^7|Ab7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|G-7|D7b9/F#|D7b9/F#|F-6|F-6,F-6,E^7|Eb^7|Eb^7|C-7|C#o7|G-/D|Eb^7|C-7|Eb-7,D7|G-7|Eb-7,Eb-6"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "C-7|C#o7|G-/D|Eb^7|C-7|Eb-7,D7"
+      },
+      "Endings": [
+        {
+          "Chords": "G7b13|G7b13"
+        },
+        {
+          "Chords": "G-7|Eb-7,Eb-6"
+        }
+      ]
+    }
+  ]
+}

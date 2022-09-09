@@ -1,0 +1,28 @@
+{
+  "Title": "Infant Eyes",
+  "Composer": "Shorter Wayne",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|F-7|Eb^7|A13b9|Gb^7|F7sus|Eb-7|Bb7sus|Bb7alt"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|E^7/Eb|Eb^7#11|E^7|B^7|Bb7sus|Ab-7|Eb7sus|D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|F-7|Eb^7|A13b9|Gb^7|F7sus|Eb-7|Bb7sus|Bb7sus"
+      },
+      "Endings": []
+    }
+  ]
+}

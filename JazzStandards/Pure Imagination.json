@@ -1,0 +1,35 @@
+{
+  "Title": "Pure Imagination",
+  "Composer": "Newley Anthony",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7|Bb9sus|Eb^7,,F-7,F#o|G-7,C7#9|F-7|Bb9sus"
+      },
+      "Endings": [
+        {
+          "Chords": "Ebo7,Eb^7|G-7,C7#9"
+        },
+        {
+          "Chords": "G^7|G^7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7|G-7,C7b9|F-7,Bb9sus|Eb^7|Ah7,D7b13|G-7|C7,F7|F-7|Bb7sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7|Bb9sus|Eb^7,,F-7,F#o|G-7,C7#9|F-7|Bb9sus|G^7|Db7,D7|Eb69|Eb69"
+      },
+      "Endings": []
+    }
+  ]
+}

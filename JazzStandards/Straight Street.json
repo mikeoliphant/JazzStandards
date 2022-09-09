@@ -1,0 +1,27 @@
+{
+  "Title": "Straight Street",
+  "Composer": "Coltrane John",
+  "Key": "Eb-",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "B-7,E7|A-7,D7|G-7,C7|F-7,Bb7|Eb-7|E7|Gb7|D7|F-7|Bb7|Eb-7|Eb-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Db-7|Gb7|Eb-7|Ab7|E-7|A7|D^7|C7#11|B-|C#7|F#-7,B7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "B-7,E7|A-7,D7|G-7,C7|F-7,Bb7|Eb-7|E7|Gb7|D7|F-7|Bb7|Eb-7|Eb-7"
+      },
+      "Endings": []
+    }
+  ]
+}

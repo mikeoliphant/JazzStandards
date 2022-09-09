@@ -1,0 +1,35 @@
+{
+  "Title": "Falling In Love Again",
+  "Composer": "Hollander Frederick",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,C7|F^7,Dh7|C^7,Eh7/Bb|A7|D-7|G7|C6"
+      },
+      "Endings": [
+        {
+          "Chords": "D-7,G7"
+        },
+        {
+          "Chords": "F#h7,B7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E7|Bh7,E7|A-7|A-7|D7|A-7,D7|D-7|G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,C7|F^7,Dh7|C^7,Eh7/Bb|A7|D-7|G7|C6|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

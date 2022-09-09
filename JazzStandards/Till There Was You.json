@@ -1,0 +1,35 @@
+{
+  "Title": "Till There Was You",
+  "Composer": "Wilson Meredith",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eo7|F-7|Ab-7,Db7|G-7,Gbo7|F-7,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "G-7,Gb7|F-7,Bb7"
+        },
+        {
+          "Chords": "Eb6,Ab-6|Bb-7,Eb7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7|Ao7|Eb^7|C7|F-7,G-7|Ah7|F-7/Bb|Bb7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Eo7|F-7|Ab-7,Db9|G-7,Gbo7|F-7,Bb7|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "Grand Central",
+  "Composer": "Coltrane John",
+  "Key": "Bb-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7|Bb-7,Eb7|Ab-7,Db7|F#-7,B7|Bb-7|B7#11"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb-7|B7#11"
+        },
+        {
+          "Chords": "Bb-7|Bb-7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F#-7,B7|F#-7,B7|F#-7,B7|F#-7,B7|F#-7,B7|F#-7,B7|Bb-7,E7|A^7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7|Bb-7,Eb7|Ab-7,Db7|F#-7,B7|Bb-7|B7#11|Bb-7|B7#11|Bb-7|B7#11|Bb-7|Bb-7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Gloria's Step",
+  "Composer": "LaFaro Scott",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Eb^7,D^7|Db^7|C7#9|F-7|F^7|Eb^7,D^7|Db^7|C7#9|F-7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "E-7|F^7|A-7|Eh7|Gh7|Dh7|Fh7|Bbh7|Eb7#9#5|Eb7#9#5"
+      },
+      "Endings": []
+    }
+  ]
+}

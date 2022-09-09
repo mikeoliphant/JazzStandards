@@ -1,0 +1,28 @@
+{
+  "Title": "Duke, The",
+  "Composer": "Brubeck Dave",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,F^7|E-7/G,A-7,B7,|E-7,A-7|D-7,,F-7,Bb7|Eb^7,Db^7|C-7,B-7|Bb-7,Eb7,Ab^7,|D7,Db7,C^7,"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7,E7|D7,C^7|Bb-7,Ab^7|G7b9,F-7|Dh,G7,C-7,|Ch,F7,Bb-7,|Ab/C,Bb-7,Ab6,Gh|F-7,Ebsus,Db7#11,"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,F^7|E-7/G,A-7,B7,|E-7,A-7|D-7,,F-7,Bb7|Eb^7,Db^7|C-7,B-7|Bb-7,Eb7,Ab^7,|D7,Db7,C^7,"
+      },
+      "Endings": []
+    }
+  ]
+}

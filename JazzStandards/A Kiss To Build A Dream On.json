@@ -1,0 +1,35 @@
+{
+  "Title": "A Kiss To Build A Dream On",
+  "Composer": "Kalmar-Ruby-Hammerstein",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,D-7|E-7,Ebo7|D-7,A7b9|D-7,G7|D-7,A7b9|D-7,G7"
+      },
+      "Endings": [
+        {
+          "Chords": "C6|D7,G7"
+        },
+        {
+          "Chords": "C6|C6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7,Bb7|G-7,C7|F-7,Bb7|Eb^7|Dh7,G7|C-7,C-7/Bb|A-7,D7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,D-7|E-7,Ebo7|D-7,A7b9|D-7,G7|D-7,A7b9|D-7,G7|C6,A-7|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

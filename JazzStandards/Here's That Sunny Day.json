@@ -1,0 +1,48 @@
+{
+  "Title": "Here's That Sunny Day",
+  "Composer": "Kessel Barney",
+  "Key": "A",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "A/E|A/E|D/E|D/E"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A^7|A^7|D^7|D^7|A^7|A^7|C^7|C^7|F^7|F^7|Bb^7|Bb^7"
+      },
+      "Endings": [
+        {
+          "Chords": "B-7|E7,C-7,F7,|Bb^7|Bb^7,E7b9"
+        },
+        {
+          "Chords": "B-7|E7|E-7|A7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|G7|C^7|F^7|Bb7|Bb7|Bh7|E7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A^7|A^7|D^7|D^7|A^7|A^7|C^7|C^7|F^7|F^7|Bb^7|Bb^7|B-7|E7|C#-7,F#7|B-7,E7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "B-7|E7|C-7|F7|B-7|E7|C#-7|C7|B-7|E7|C#-|C7|B-7|E7|A^7|A^7"
+      },
+      "Endings": []
+    }
+  ]
+}

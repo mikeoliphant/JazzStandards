@@ -1,0 +1,35 @@
+{
+  "Title": "I See Your Face Before Me",
+  "Composer": "Schwartz Arthur",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,F-7|G-7,F-7|Eb^7,C7|F-7,Bb7|F-,F-^7|F-7,Bb7|F-7,Bb7sus|Eb^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7,C7b9|F-7,Bb7|G-7,C7b9|F-7,Bb7|Ah7,D7b9|G-7,C7b9|F-7|Bb7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7,F-7|G-7,F-7|Eb^7,C7|F-7,Bb7|F-,F-^7|F-7,Bb7|F-7,Bb7sus|Eb^7,,Bb-7,Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Ab^7,Bb7/Ab|Eb^7|Bb-7,Eb7|Ab^7,Ab-6|G-7,C7|F-7,Bb7|Eb6|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

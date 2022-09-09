@@ -1,0 +1,35 @@
+{
+  "Title": "My Old Flame",
+  "Composer": "Johnson-Coslow",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Ah7,D7b9|G-7|Bb-7,Eb7|F^7,,Bb-7,Eb7|Ab^7,Db7"
+      },
+      "Endings": [
+        {
+          "Chords": "G-7|C7"
+        },
+        {
+          "Chords": "G-7,C7|F^7,,Bb-7,Eb7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7,F-7|Bb-7,Eb7|Gb7,F7|Bb7|Bb-7,Eb7|Gh,C7,F-7,|D-7,G7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Ah7,D7b9|G-7|Bb-7,Eb7|F^7,,Bb-7,Eb7|Ab^7,Db7|G-7,C7|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

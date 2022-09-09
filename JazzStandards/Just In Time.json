@@ -1,0 +1,21 @@
+{
+  "Title": "Just In Time",
+  "Composer": "Styne Jule",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|Ah7|D7b9|G7|G7|C7|C7|F7|F7|Bb7|Bb7|Eb^7|Eb^7|Ab^7|Ah7,D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|G-/F#|G-/F|C7,C#o7|Bb6|Bb6|Ab7|G7|C7|F7|D-7|G-7|C7|C-7,F7|Bb6|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

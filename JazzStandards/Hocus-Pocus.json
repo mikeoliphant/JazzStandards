@@ -1,0 +1,35 @@
+{
+  "Title": "Hocus-Pocus",
+  "Composer": "Morgan Lee",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|G-7,C7|F^7|Bh7,E7b9|A-7,Ab7|G-7,Gb7"
+      },
+      "Endings": [
+        {
+          "Chords": "F^7,Ab7|Db^7,Gb7"
+        },
+        {
+          "Chords": "F^7|B7#11"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb^7,G-7|C-7,F7|Bb^7|Ah7,D7b9|G-7|Ah7,D7b9|G7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|G-7,C7|F^7|Bh7,E7b9|A-7,Ab7|G-7,Gb7|F^7,Ab7|Db^7,Gb7"
+      },
+      "Endings": []
+    }
+  ]
+}

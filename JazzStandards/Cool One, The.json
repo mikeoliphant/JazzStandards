@@ -1,0 +1,28 @@
+{
+  "Title": "Cool One, The",
+  "Composer": "Golson Benny",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "B-7|E7|B-7|E7|A-7|D7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G^7|G^7|Bh7|E7b9|C#h7|Ah7,D7#9|G^7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "B-7|E7|B-7|E7|A-7|D7|A-7|D7"
+      },
+      "Endings": []
+    }
+  ]
+}

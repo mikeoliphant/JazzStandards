@@ -1,0 +1,28 @@
+{
+  "Title": "Second Star To The Right, The",
+  "Composer": "Fain Sammy",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb|G7|C-|G-|Ab,Bb7|Eb,C7|F-7,Bb7|Eb"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab|Bb-7|Ab|Bb-7,Eb7|Ab|G7|C-|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Eb|G7|C-|G-|Ab,Bb7|Eb,C7|F-7,Bb7|Eb,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

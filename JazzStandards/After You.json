@@ -1,0 +1,28 @@
+{
+  "Title": "After You",
+  "Composer": "Porter Cole",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|G7b9|C^7,G7#5|C^7,E7#5|A-7|D7|D-7|G7b9|C^7|G7b9|C^7,G7#5|C^7,E7#5|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G^7|D7b9|G-7|C7|F^7,C7b9|F6|F-7|Bb7|Dh7|G7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C^7|G7b9|C^7,A7|D-7,F-6|E-7,A-7|D7,G7|C6|C6"
+      },
+      "Endings": []
+    }
+  ]
+}

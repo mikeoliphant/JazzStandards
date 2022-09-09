@@ -1,0 +1,35 @@
+{
+  "Title": "Sweet Sue, Just You",
+  "Composer": "Harris-Young",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|D7|A-7|D7|G6,G#o7|A-7,D7"
+      },
+      "Endings": [
+        {
+          "Chords": "G6|Bh7,E7b9"
+        },
+        {
+          "Chords": "G6|G6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|G7|Bh7|E7b9|A-,A-/G#|A-/G,D7/F#|F7|Bh7,E7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|D7|A-7|D7|G6|C7|G6|Bh7,E7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

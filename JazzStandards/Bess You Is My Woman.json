@@ -1,0 +1,41 @@
+{
+  "Title": "Bess You Is My Woman",
+  "Composer": "Gershwin George",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6,G-7|C-7,F7#9|Bb^7,Bb7|Eb^7,Ab7|G-7,G-7/F|Eh7,Eb7|D-7,Ab7|Db^7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb6,G-7|C-7,F7#9|Bb^7,G-7/F|Eh7,A7"
+      },
+      "Endings": [
+        {
+          "Chords": "D6|D-7,G7|D^7|G#h7,C#7b9|F#6|B7,C#7#5|F#6,D#-7|Ch7,F7b9"
+        },
+        {
+          "Chords": "D6,A7|D6,A7|B-b6,C#h7|B-7,Bb7"
+        }
+      ]
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "D6/A|A7sus,A7#5|D6/A|A7sus,A7#5|D6,D9/F#|G^9,C7|D6/A,G7/B,D7/C,G7/B|D6/A,Abo,E-/G,D/F#|Bb7#5,Bb7#5/D|B7,B7#5,Eh,A7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D6,Abh7|A7/G|F#-7,D7|G^7,Bb-6|D6/A,D7/C|G^7,E-7|A7/D,A7#5|D6"
+      },
+      "Endings": []
+    }
+  ]
+}

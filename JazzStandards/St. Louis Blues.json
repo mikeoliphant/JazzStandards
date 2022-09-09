@@ -1,0 +1,13 @@
+{
+  "Title": "St. Louis Blues",
+  "Composer": "Handy W.C.",
+  "Key": "G",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "G7|C7|G7|G7|C7|C7|G7|G7|D7|C7|G7|D7"
+      },
+      "Endings": []
+    }
+  ]
+}

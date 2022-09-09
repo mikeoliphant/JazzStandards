@@ -1,0 +1,28 @@
+{
+  "Title": "Popsicle Toes",
+  "Composer": "Franks Michael",
+  "Key": "A-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-,A-7/G|F#h7,F7#11|A-,A-/G|F#h7,F7#11|A-,A-7/G|F#h7,F7#11|E7#9|E7#9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A7|A7|D7|D7|A7|B7|E7#9|E7#9|A7|A7|D7|D7|A7|E7|D7|A7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "A-7|D7|G^7|G^7|G-7|C7|F^7|F^7|C-7|F7|Bb^7|Bb^7|Bb-7|Eb7|Ab-7|Db7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "All At Once You Love Her",
+  "Composer": "Rodgers-Hammerstein",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7,F^7,D-7|G-7|C7|G-7|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "Fo7|F6,C7"
+        },
+        {
+          "Chords": "A7|D-7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|F^7|D-7|G7sus|G7sus|G7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F^7|F^7,F^7,D-7|G-7|C7|G-7|C7|C-7|F7|Bb^7|G-7,C7|F^7|Bb7|F^7|C7|F6|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "Days Of Wine And Roses",
+  "Composer": "Mancini Henry",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Eb7#11|A-7(D7)|D7b13|G-7|G-7|Eb7#11|Eb7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7|D-7|G-7|G-7/F|Eh7,A7b9|D-7,G7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Eb7#11|A-7(D7)|D7b13|G-7|G-7|Eb9|Eb9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "A-7|D-7,D-7/C|Bh7|E7b9|A-7,D-7|G-7,C7|F6|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

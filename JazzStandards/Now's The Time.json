@@ -1,0 +1,13 @@
+{
+  "Title": "Now's The Time",
+  "Composer": "Parker Charlie",
+  "Key": "F",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "F7|Bb7|F7|C-7,F7|Bb7|Bo7|F7|A-7,D7|G-7|C7|F7,D7|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

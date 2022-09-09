@@ -1,0 +1,28 @@
+{
+  "Title": "No Moon At All",
+  "Composer": "Mann David",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-6|A7b9/C#|D7/C|G6/B|Eh7/Bb|D-/A,,Bb7,A7|D-6|Bb7,A7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D7|D7|G7|G7|C7|C7|F^7|Eh7,A7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-6|A7b9/C#|D7/C|G6/B|Eh7/Bb|D-/A,,Bb7,A7|D-6|Bb7,A7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

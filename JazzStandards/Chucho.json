@@ -1,0 +1,21 @@
+{
+  "Title": "Chucho",
+  "Composer": "D'Rivera Paquito",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "D-|Eh7,A7b9|D-|Eh7,A7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-|Eh7,A7b9|D-|D7#9|G-,G-7/F|Eh7,A7b9|D-,Db-|C-7,F7|Bb7|Eh7,A7b9|D-|A7#9"
+      },
+      "Endings": []
+    }
+  ]
+}

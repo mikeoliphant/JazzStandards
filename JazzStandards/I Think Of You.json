@@ -1,0 +1,35 @@
+{
+  "Title": "I Think Of You",
+  "Composer": "Elliot-Marcotte",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab|Go7/A|Ab|Abo7,Go7/Ab|Ab6|F7b9|Bb-7|Eb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Ab^7|Gh7/Ab,Go7/Ab"
+        },
+        {
+          "Chords": "Ab6|Ab6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Db-,Ab7b9|Db-,Ab7b9|Db-,Db-^7|Db-6,Db-b6|Ab^7,F7b9#5|B-7,E7|Bb-7|Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab|Go7/A|Ab|Abo7,Go7/Ab|Ab6|F7b9|Bb-7|Eb7|Ab^7|Gh7/Ab,Go7/Ab"
+      },
+      "Endings": []
+    }
+  ]
+}

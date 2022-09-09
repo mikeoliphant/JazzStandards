@@ -1,0 +1,21 @@
+{
+  "Title": "Flamenco Sketches",
+  "Composer": "Davis-Evans",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "C^7|C^7|C^7|C^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|C^7|C^7|C^7|Ab7sus|Ab7sus|Ab7sus|Ab7sus|Bb^7|Bb^7|Bb^7|Bb^7|D,Eb^7/D|D,Eb^7/D|D,Eb^7/D|D,Eb^7/D|D,Eb^7/D|D,Eb^7/D|D,Eb^7/D|D,Eb^7/D|G-7|G-7|G-7|G-7"
+      },
+      "Endings": []
+    }
+  ]
+}

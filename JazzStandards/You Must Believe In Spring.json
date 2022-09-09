@@ -1,0 +1,28 @@
+{
+  "Title": "You Must Believe In Spring",
+  "Composer": "Legrand Michel",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C#h7,F#7b9|F#7b9/B,B-7|E-7,A7|A7b9/D,D^7|G#h7,C#7b9|F#h7,B7b9|E-7,A7|D^7,,G#7#5(C#h7),(F#7)"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C#h7,F#7b9|F#7b9/B,B-7|E-7,A7|A7b9/D,D^7|G#h7,C#7b9|Gh7,C7b9|F-7,Bb7|Eb^7,,A7#5(Dh7),(G7)"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Dh7,G7b9|G7b9/C,C-7|F-7,Bb7|Bb7b9/Eb,Eb^7|Ah7,D7b9|Gh7,C7b9|F-7,Bb7|Eb^7,Ab^7#11|Dh7,G7b9|C-6"
+      },
+      "Endings": []
+    }
+  ]
+}

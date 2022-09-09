@@ -1,0 +1,35 @@
+{
+  "Title": "Desafinado",
+  "Composer": "Jobim Antonio-Carlos",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7|G7#11|G7#11|G-7|C7|Ah7|D7b9|G-7|A7b9|D7|D7b9|G7b9|G7b9|Gb^7|Gb^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7|G7#11|G7#11|G-7|C7|Ah7|D7b9|G-7|Bb-6|F^7|E7#9|A^7|Bbo7|B-7|E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A^7|Bbo7|B-7|E7|A^7|F#-7|B-7|E7|C^7|C#o7|D-7|G7|G-7|Eb-6|G7|C7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7|G7#11|G7#11|G-7|C7|Ah7|D7b9|G-7|Bb-6|F^7|D-7|G7|G7|Eb7|Eb7|G7|G-7,C7|F6|C7"
+      },
+      "Endings": []
+    }
+  ]
+}

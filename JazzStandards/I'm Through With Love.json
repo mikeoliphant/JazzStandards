@@ -1,0 +1,35 @@
+{
+  "Title": "I'm Through With Love",
+  "Composer": "Kahn-Malneck-Livingston",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,Abo7|G-7,C7|C-7,F7|Bb^7,Eb7|A-7,D7b9|G-7,D7b9|G-7,C7b9"
+      },
+      "Endings": [
+        {
+          "Chords": "A-7,D7,G-7,C7"
+        },
+        {
+          "Chords": "F6,E7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-,A-b6|A-6,A-b6|A-,A-b6|A-6,D7|C6,A-7|D-7,G7|G-7,D7b9|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,Abo7|G-7,C7|C-7,F7|Bb^7,Eb7|A-7,D7b9|G-7,D7b9|G-7,C7b9|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

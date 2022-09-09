@@ -1,0 +1,27 @@
+{
+  "Title": "Blues March",
+  "Composer": "Golson Benny",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7|Eb7|Bb7|Bb7|Eb7,Ab7|Db7,Gb7|Gh7,Ab7|A7,Bb7|Ch7|F7|Bb7,Db7|Gb7,B7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb7|Eb7|Bb7|Bb7|Eb7,E7|Eb7,Eo7|Bb7/F,Eb7|D-7,G7|C-7|F7|Bb7,G7|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Bb7,Db7|Gb7,B7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "Title": "Celia",
+  "Composer": "Powell Bud",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "Bb^7|B7|Bb^7|B7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Ch7|D-7|Eb-7,Ab7|D-7,Db-7|C-7,B7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb^7|Ch7,F7"
+        },
+        {
+          "Chords": "Bb^7|Bb^7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ah7|D7b9|G-7|G-7|C7|C7|Ch7|F7b5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Ch7|D-7|Eb-7,Ab7|D-7,Db-7|C-7,B7|Bb^7|Bb^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Eb6|Eb-7,Ab7|D-7|G7|C-7|B7|Bb^7|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

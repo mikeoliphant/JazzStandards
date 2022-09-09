@@ -1,0 +1,35 @@
+{
+  "Title": "Down For Double",
+  "Composer": "Green Freddie",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6,G7|C7,F7|Bb6,G7|C7,F7|Bb6,G7|C7,F7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb6,G-7|C-7,F7"
+        },
+        {
+          "Chords": "Bb6,C-7|Dbo7,Bb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb7|Bb7|Eb6|Eb6|C7|C7|F7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb6,G7|C7,F7|Bb6,G7|C7,F7|Bb6,G7|C7,F7|Bb6,(C-7)|(Dbo7)x,(Bb6)"
+      },
+      "Endings": []
+    }
+  ]
+}

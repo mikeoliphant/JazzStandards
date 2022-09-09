@@ -1,0 +1,21 @@
+{
+  "Title": "Tune Up",
+  "Composer": "Davis Miles",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-7|A7|D^7|D^7|D-7|G7|C^7|C^7|C-7|F7|Bb^7|G-7"
+      },
+      "Endings": [
+        {
+          "Chords": "E-7|F7|Bb^7|A7"
+        },
+        {
+          "Chords": "E-7|A7|D^7|D^7"
+        }
+      ]
+    }
+  ]
+}

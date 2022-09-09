@@ -1,0 +1,28 @@
+{
+  "Title": "Duke Ellington's Sound Of Love",
+  "Composer": "Mingus Charles",
+  "Key": "Db",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D7#9|Db^9|Ab13b9|Db^9|F7#9#5|Bb7b9#5|Ab7b9#5|Db^7|F7#11|Eb-9|Ab13b9|E,Eb6,D^7,Ab7#11|Db^9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F#h7,F#o7|E^7,E6|Eh7,A7#11|D^7|D-7,G7|C^7,,G7/B,A-7/Bb|A13#11,,Bb-7,Eb13|Ab^7,F7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Bb7b9#11,Eb9#11|Ab^7,D9|Db^9|Gb13#11|F-11|Bb7#11|Ebh7|Ab13b9|E,Eb6,D^7,Ab7b9#11|Db^9|D13#11"
+      },
+      "Endings": []
+    }
+  ]
+}

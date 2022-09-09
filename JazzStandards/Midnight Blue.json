@@ -1,0 +1,48 @@
+{
+  "Title": "Midnight Blue",
+  "Composer": "Burrell Kenny",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "F-7,G-7|Ab^7,G-7|F-7,G-7|Ab^7,G-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F-7,G-7|Ab^7,G-7|F-7,G-7|Ab^7,G-7|F-7,G-7|Ab^7,G-7|Gh7,C7#9|F-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Gh7|C7b9|F-7|Bb7|Bb-7|Ab-7|C7#9,F-|F-,F-,C7#9,"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F-7,G-7|Ab^7,G-7|F-7,G-7|Ab^7,G-7|F-7,G-7|Ab^7,G-7|F-7,G-7|Ab^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "Gh7|C7b9|F-7|F-7|Bb-7|Bb-7|Db7|C7#9"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "F-7,G-7|Ab^7,G-7|F-7,G-7|Ab^7,G-7"
+      },
+      "Endings": []
+    }
+  ]
+}

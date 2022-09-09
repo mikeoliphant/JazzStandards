@@ -1,0 +1,41 @@
+{
+  "Title": "Katrina Ballerina",
+  "Composer": "Shaw Woody",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|F7|Eb^7|F7|Ab^7#11|Gb^7#11"
+      },
+      "Endings": [
+        {
+          "Chords": "Gb-7,Ab-7,D7#9,|D7#9"
+        },
+        {
+          "Chords": "Ah7,D7#9|G-7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7|Bb7|Ab^7|Bb7|Ab^7|Bb7|Ab^7|Bb7|A^7|B7|A^7|B7|D-11,C-11|C-11,Bb-11|Bb-11,Ab-11|D7#9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|F7|Eb^7|F7|Ab^7#11|Gb^7#11|Ah7,D7#9|G-7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Bb7#11|Bb7#11|Bb7#11|Bb7#11|Bb7#11|Bb7#11|Bb7#11|D7#9"
+      },
+      "Endings": []
+    }
+  ]
+}

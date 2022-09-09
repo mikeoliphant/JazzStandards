@@ -1,0 +1,28 @@
+{
+  "Title": "Autumn Leaves",
+  "Composer": "Kosma Joseph",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb^7|Eb^7|Ah7|D7b13|G-6|G-6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ah7|D7b13|G-6|G-6|C-7|F7|Bb^7|Eb^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Ah7|D7b13|G-7,Gb7|F-7,E7|Ah7|D7b13|G-6|G-6"
+      },
+      "Endings": []
+    }
+  ]
+}

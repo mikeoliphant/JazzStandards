@@ -1,0 +1,28 @@
+{
+  "Title": "Green Chimneys",
+  "Composer": "Monk Thelonious",
+  "Key": "G#-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab-|Ab-|Ab-|Ab-|Ab-|Ab-|Ab-|Ab-"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F#7|F#7,B7|F#7|F#7,B7|F#7|F#7,B7|F#7|F#7,B7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab-|Ab-|Ab-|Ab-|Ab-|Ab-|Ab-|Ab-"
+      },
+      "Endings": []
+    }
+  ]
+}

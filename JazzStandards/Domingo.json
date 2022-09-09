@@ -1,0 +1,28 @@
+{
+  "Title": "Domingo",
+  "Composer": "Golson Benny",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-|C-|G7/B|G7/B|Bb-6|Bb-6|F/A|Ab-6|C-|C-|D7|Dh7,G7b9"
+      },
+      "Endings": [
+        {
+          "Chords": "C-|Eb7|Ab7|G7b9"
+        },
+        {
+          "Chords": "C-|D-7|Eb-7|E-7,A7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7|Bb7|Eb^7|Ab^7|Ah7|D7b9|G-7,Ab7|Dh7,G7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

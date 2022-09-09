@@ -1,0 +1,21 @@
+{
+  "Title": "My Buddy",
+  "Composer": "Donaldson Walter",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|G#o7|A-7|D7|G6|Bbo7|A-7|D7|G6|G6,G7/F|E7|E7|A-7"
+      },
+      "Endings": [
+        {
+          "Chords": "A7|A-7|D7"
+        },
+        {
+          "Chords": "D7|G6|G6"
+        }
+      ]
+    }
+  ]
+}

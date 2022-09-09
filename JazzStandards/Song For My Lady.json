@@ -1,0 +1,27 @@
+{
+  "Title": "Song For My Lady",
+  "Composer": "Tyner McCoy",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "D-7|G7|G-7/Bb|F/C"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-7|G7|G-7/Bb|F/C|D-7|G7|G-7/Bb|F/C|D-7|G7|G-7/Bb|F/C|Db-7|Db-7|Db-7|Db-7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "F^7/C|F^7/C|F^7/C|F^7/C|F^7/C|F^7/C|F^7/C|F^7/C"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Out Of This World",
+  "Composer": "Arlen Harold",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-/Eb|Eb-7|Eb7|Eb-7|Bb-/Eb|Eb-7|Eb7sus|Eb7|Eb-7|Eb-6|Ab-7|Ab7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb6|Eo7|F-7|Bb7#5"
+        },
+        {
+          "Chords": "Eb6|Eb6|Eb6|Dh7,G7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-6|C-6|C-6|C-6|C-6|Co7|Ab7#11|G7|C-|C-b6|C-6|Ab7|C-6|Ab7|G7|G7|C7|F7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

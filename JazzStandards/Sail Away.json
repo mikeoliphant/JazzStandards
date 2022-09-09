@@ -1,0 +1,35 @@
+{
+  "Title": "Sail Away",
+  "Composer": "Harrell Tom",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-7|A7alt|D-11|G7b9sus|Fo7/C|A-7|D/F#|G7b9sus|E-7|Bb-7,Eb9|D-11|G7b9sus|Fo7/C|A-7|F-11|Bb7b9sus|G-7|C7b9b5|F-11|Bb7b9sus|Abo7/Eb|C-7|A-11|D7b9b5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G^7/D|D-7|A/C#|A/B,B7|E^7#5|A^7|D#-11|G#sus,Bsus|Eb9sus|Eb7b9b5|E9sus|E9sus,E7|A^7|F#-7|C^/D,Bb^/C|Ab^/Bb,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "E-7|A7alt|D-11|G7b9sus|C69|A-7|F#-7|B7#9#5|Cadd9/Bb|A7alt|D-11|Gsus,G7|C^7/G|G13sus|C^7/G|G13sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7/G|G13sus|C^7/G|G13sus|F,D/F#|E-/G,E/G#|F/A,Bb^|G/B|C-9"
+      },
+      "Endings": []
+    }
+  ]
+}

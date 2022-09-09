@@ -1,0 +1,35 @@
+{
+  "Title": "Moments To Remember",
+  "Composer": "Allen Robert",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,G6|G^7,G6|G,G7#5|C,A-|D7|D7"
+      },
+      "Endings": [
+        {
+          "Chords": "Go7,G|Go7,G"
+        },
+        {
+          "Chords": "C-,G|D-,G7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C|G|D7|G,G7|C|G,E-|A7|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,G6|G^7,G6|G,G7#5|C,A-|D7|D7|C-,G|C-,G"
+      },
+      "Endings": []
+    }
+  ]
+}

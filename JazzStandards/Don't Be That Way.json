@@ -1,0 +1,35 @@
+{
+  "Title": "Don't Be That Way",
+  "Composer": "Sampson Edgar",
+  "Key": "Db",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Db6,Bb-7|Eb-7,Ab7#5|Db6,Bb-7|Eb-7,Ab7#5|F-7,Bb7|Eb-7,Ab9#5"
+      },
+      "Endings": [
+        {
+          "Chords": "Db6,Bb-7|Eb-7,Ab7#5"
+        },
+        {
+          "Chords": "Db6,Gb-6|Db6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C9|C9|F9|F9|Bb9|Bb9|Eb9|Ab7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Db6,Bb-7|Eb-7,Ab7#5|Db6,Bb-7|Eb-7,Ab7#5|F-7,Bb7|Eb-7,Ab7#5|Db6,Bb-7|Eb-7,Ab7#5"
+      },
+      "Endings": []
+    }
+  ]
+}

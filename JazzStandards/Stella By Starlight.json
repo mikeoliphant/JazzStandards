@@ -1,0 +1,28 @@
+{
+  "Title": "Stella By Starlight",
+  "Composer": "Young Victor",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eh7|A7b9|C-7|F7|F-7|Bb7|Eb^7|Ab7|Bb^7|Eh7,A7b9|D-7|Bb-7,Eb7|F^7|Eh7(G-7),(C7)|Eb^7#11(Ah7)|D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G7b13|G7b13|C-7|C-7|Ab7#11|Ab7#11|Bb^7|Bb^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Eh7|A7b9|Dh7|G7b9|Ch7|F7b9|Bb^7|Bb^7"
+      },
+      "Endings": []
+    }
+  ]
+}

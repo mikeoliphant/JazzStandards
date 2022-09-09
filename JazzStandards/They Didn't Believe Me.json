@@ -1,0 +1,21 @@
+{
+  "Title": "They Didn't Believe Me",
+  "Composer": "Kern Jerome",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|D7|G^7|B-7,E7|A-7|D7|G^7|E-7|A-7|D7|B-7|E-7|B-7|C#h7,F#7b13|B-7|E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7|D7|G^7|E-7|A-7|D7|G^7,F7#11|E7|A-7|D7|G^7,A-7|B-7,E7|A-7|D7|G6|G6"
+      },
+      "Endings": []
+    }
+  ]
+}

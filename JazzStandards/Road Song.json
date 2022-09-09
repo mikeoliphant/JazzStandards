@@ -1,0 +1,28 @@
+{
+  "Title": "Road Song",
+  "Composer": "Montgomery Wes",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|G-7|Ah7|D7b9|G-7,G-7/F|Eb^7|Eh7,C-7|D7#9,G-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|F7|Bb^7|B-7,E7|Bb-7|Eb7|Ab^7|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7|G-7|Ah7|D7b9|G-7,G-7/F|Eb^7|Eh7,C-7|D7#9,G-7"
+      },
+      "Endings": []
+    }
+  ]
+}

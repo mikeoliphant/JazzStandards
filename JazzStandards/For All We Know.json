@@ -1,0 +1,20 @@
+{
+  "Title": "For All We Know",
+  "Composer": "Coots Fred",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb6|F7|F-7|F-7,Bb7|Eb^7,Ab^7|Gh7,C7b13|F-7|Ab-7,Db7|Eb^7|Gbo7|F-7|Bb7|C-7|F7|F-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Eb6|F7|F-7|F-7,Bb7|Eb^7,Ab^7|Gh7,C7b13|F-7|Ab-7,Db7|Eb^7|A-7,D7|G7,Db7#11|C7sus,C7|F-7,B7#11|Bb7sus,Bb7|Eb6,C-7|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

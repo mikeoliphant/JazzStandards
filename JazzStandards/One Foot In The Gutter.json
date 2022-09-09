@@ -1,0 +1,35 @@
+{
+  "Title": "One Foot In The Gutter",
+  "Composer": "Terry Clark",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F7|F7|Bb7|Bo|F"
+      },
+      "Endings": [
+        {
+          "Chords": "Ah7,D7b13|G7|C7"
+        },
+        {
+          "Chords": "G-7,C7|F,Bb|F"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C7|C7|F,G-7|F7|Bb6|Bo7,E7|A-7,D7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F7|F7|Bb7|Bo7|F,D7|G-7,C7|F,Bb|F,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

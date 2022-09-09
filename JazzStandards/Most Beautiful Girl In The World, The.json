@@ -1,0 +1,32 @@
+{
+  "Title": "Most Beautiful Girl In The World, The",
+  "Composer": "Rodgers-Hart",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|F^7|Fo7|Fo7|F^7|Fo7|F^7|Abo7|G-7|C7|G-6|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F^7|A-7|G-7|C7"
+        },
+        {
+          "Chords": "C-7|C-7|Ah7|D7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|G7|G-7|C7|D-7|G7|G-7|C7|A-7|D7|D-7|G7|G-7|C7|G-7|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "C-7|C-7|Ah7|D7|D-7|G7|G-7|G-7/C|F6|D-7|G-7|C7"
+        }
+      ]
+    }
+  ]
+}

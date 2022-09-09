@@ -1,0 +1,35 @@
+{
+  "Title": "September In The Rain",
+  "Composer": "Warren Harry",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Bb-7,Eb7|Ab^7|Ab^7|Db7|F-7,Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb6,C7|F-7,Bb7"
+        },
+        {
+          "Chords": "Eb6|Eb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb-7,Eb7|Bb-7,Eb7|Ab^7|Ab^7|C-7,F7|C-7,F7|F-7|Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb^7|Bb-7,Eb7|Ab^7|Ab^7|Db7|F-7,Bb7|Eb6,C7|F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

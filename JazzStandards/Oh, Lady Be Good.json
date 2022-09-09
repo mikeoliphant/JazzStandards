@@ -1,0 +1,35 @@
+{
+  "Title": "Oh, Lady Be Good",
+  "Composer": "Gershwin George",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|C7|G^7,C7|B-7,E7|A-7|D7"
+      },
+      "Endings": [
+        {
+          "Chords": "G6,E-7|A-7,D7"
+        },
+        {
+          "Chords": "G6|D-7,G7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|C#o7|G^7|F#h7,B7b9|E-7|A7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|C7|G^7,C7|B-7,E7|A-7|D7|G6,E-7|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Walk Tall",
+  "Composer": "Adderley Cannonball",
+  "Key": "C",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "G7,C7|G7,C7|G7,C7|G7,C7|G7,C7|G7,C7|G7,C7|G7,C7|B-7|E-7|D7sus|A-7,B-7,C^7,|B-7|E-7|A-7|D7sus|D7sus|D7sus"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "G7,C7|G7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Title": "Moontrane, The",
+  "Composer": "Shaw Woody",
+  "Key": "D",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "D^7|D^7|D^7|D^7|G^7#11|F^7#11|Eb^7#11|Db7#9#5|Bb^7#11|Bb^7#11|Bb^7#11|Bb^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|A-7|A-7|C-7,D-7|Eb7#9,F-7|D^7#11"
+      },
+      "Endings": [
+        {
+          "Chords": "C-7,F7"
+        },
+        {
+          "Chords": "F-7,Bb7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb^7|Eb^7|Eb^7|Ah7,D7b9|G-7,F-7|Bb-7,Ab-7|C#-7,B-7|B-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|A-7|A-7|C-7,D-7|Eb7#9,F-7|D^7#11|D^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

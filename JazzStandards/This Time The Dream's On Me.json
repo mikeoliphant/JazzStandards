@@ -1,0 +1,35 @@
+{
+  "Title": "This Time The Dream's On Me",
+  "Composer": "Arlen Harold",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|E7b13|A-7|C-7,F7|B-7,E7|A-7,D7"
+      },
+      "Endings": [
+        {
+          "Chords": "B-7,E7|A-7,D7"
+        },
+        {
+          "Chords": "G6|G6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F#-7|B7|B-7|E7|E-7|A7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|E7b13|A-7|C-7,F7|B-7,E7|A-7,D7|G6,E-7|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "You're My Thrill",
+  "Composer": "Gorney Jay",
+  "Key": "A",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E7|Bh7|E7|Bh7,E7|Eh7|A7b9|D7,Bb7|A-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eh7,A7b9|Eh7,A7b9|D-7|D-7|F#h7,B7|F#h7,B7|E^7|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "E7|Bh7|E7|Bh7,E7|Eh7|A7b9|D7,Bb7|A-7,F7|A-7|D7,D-7|A6|A6"
+      },
+      "Endings": []
+    }
+  ]
+}

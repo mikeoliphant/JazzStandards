@@ -1,0 +1,35 @@
+{
+  "Title": "My Baby Just Cares For Me",
+  "Composer": "Donaldson Walter",
+  "Key": "A",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A^7|B-7,E7|A^7|B-7,E7|A^7|B-7,E7|B-7|E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G#h7|C#7b9|F#-7|F#-7|B7|B7|B-7|E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "A^7|B-7,E7|A^7|B-7,E7|A^7|B-7,E7|D^7|D^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "D^7|E7/G#|A^7,G7|F#7|B-7|E7|A6|A6"
+      },
+      "Endings": []
+    }
+  ]
+}

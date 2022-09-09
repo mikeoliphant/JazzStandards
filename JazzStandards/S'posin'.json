@@ -1,0 +1,35 @@
+{
+  "Title": "S'posin'",
+  "Composer": "Denniker Paul",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|C-7|F7|Bb^7|Bb^7|C-7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb^7|Ah7,D7#9|G-7|G-7|C7|C7|C-7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|C-7|F7|Bb^7|F-7,Bb7|Eb6|Ab7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "G-7|Eh7,Eb7|D7|G-7|Bb^7,G7#9|C-7,F7|Bb6|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

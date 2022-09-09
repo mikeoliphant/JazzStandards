@@ -1,0 +1,35 @@
+{
+  "Title": "In Pursuit Of The 27th Man",
+  "Composer": "Silver Horace",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "C7b9sus|C7b9sus|C7b9sus|C7b9sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C7b9sus|C7b9sus|C7b9sus|C7b9sus|C7b9sus|C7b9sus|C7b9sus|C7b9sus"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Gb7|G7#9|C-7|C-7|Gb7|G7#9|Ab7|G7#9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C7b9sus|C7b9sus|C7b9sus|C7b9sus|C7b9sus|C7b9sus|C7b9sus|C7b9sus"
+      },
+      "Endings": []
+    }
+  ]
+}

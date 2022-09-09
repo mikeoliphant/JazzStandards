@@ -1,0 +1,21 @@
+{
+  "Title": "Sometime Ago",
+  "Composer": "Mikanovich Sergio",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7|G7sus|C^7|G7sus|C^7|G7sus|Eh7|A7"
+      },
+      "Endings": [
+        {
+          "Chords": "D-7|G7|E7|A-7|D7|D7|Eb-7,Ab7|D-7,G7"
+        },
+        {
+          "Chords": "D-7|G7|E-7|A7b13|D-7|G7|Bb7|A7|D-7|G7|C6|G7"
+        }
+      ]
+    }
+  ]
+}

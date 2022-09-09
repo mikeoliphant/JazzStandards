@@ -1,0 +1,32 @@
+{
+  "Title": "Lover, Come Back To Me",
+  "Composer": "Romberg Sigmund",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb6|Eb6|Dh7|G7b9|C-7|C-7|F7|F#o7|Eb6/G|C-7|F7|Bb7|Eb6,Eb6/G"
+      },
+      "Endings": [
+        {
+          "Chords": "Ab6,Ao7|Eb6/Bb,C-7|F-7,Bb7"
+        },
+        {
+          "Chords": "Ab6,Ao7|Eb6/Bb|Dh7,G7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|C-7|Dh7,G7b9|C-7|Dh7|G7b9|Ab7|G7b9|C-7|C-7|Dh7,G7b9|C-7|F7|F7|F-7|Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "Ab6,Ao7|Eb6,C-7|F-7,Bb7"
+        }
+      ]
+    }
+  ]
+}

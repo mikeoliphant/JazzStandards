@@ -1,0 +1,35 @@
+{
+  "Title": "Broadway",
+  "Composer": "William-Henri-Woode",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|Eb7|Eb7|C-7|F7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb^7,G7|C-7,F7"
+        },
+        {
+          "Chords": "Bb6|Bb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7|Bb7|Eb^7|Eb^7|Eb-7|Ab7|Db^7|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|Eb7|Eb7|C-7|F7|Bb6|Bb6"
+      },
+      "Endings": []
+    }
+  ]
+}

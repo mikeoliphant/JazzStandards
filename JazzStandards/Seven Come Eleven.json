@@ -1,0 +1,28 @@
+{
+  "Title": "Seven Come Eleven",
+  "Composer": "Goodman-Christian",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab6(Ab),(F-7)|(Bb-7)x,(Eb7)|(C-7)x,(F7)|(Bb-7)x,(Eb7)|(Ab)x,(Ab7/C)|(Db)x,(Do7)|(Bb-7/Eb)x,(Eb7)|(Ab)x"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G7|G7|C7|C7|F7|F7|Bb7|Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab6(Ab),(F-7)|(Bb-7)x,(Eb7)|(C-7)x,(F7)|(Bb-7)x,(Eb7)|(Ab)x,(Ab7/C)|(Db)x,(Do7)|(Bb-7/Eb)x,(Eb7)|(Ab)x"
+      },
+      "Endings": []
+    }
+  ]
+}

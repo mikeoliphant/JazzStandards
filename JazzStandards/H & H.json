@@ -1,0 +1,33 @@
+{
+  "Title": "H & H",
+  "Composer": "Metheny Pat",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "B,E|A,Ab|Db,G|Csus,C,D,|E,,A,D|D,D,G|F#,B|C,F|C,G|D,G|Ab,Eb|D,A|D,A|F#"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "B7|E7|B7|F#-7,B7|E7|Fo7|B7|D#-7,G#7|C#-7|F#7|B7,G#7|C#-7,F#7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D,A|D,A"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "D"
+      },
+      "Endings": []
+    }
+  ]
+}

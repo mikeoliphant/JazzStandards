@@ -1,0 +1,35 @@
+{
+  "Title": "Man I Love, The",
+  "Composer": "Gershwin George",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb6|Eb-7|Gh7|C7b9|Fh7|Bb7"
+      },
+      "Endings": [
+        {
+          "Chords": "G7,C7|F7,Bb7"
+        },
+        {
+          "Chords": "Eb6,Ab7|Eb6,,D7,G7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-6,Ah7|D7b13,G7b9|C-6|G7b9|C-6,Ah7|D7b13,G7b9|C-7,Gb7|F-7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb6|Eb-7|Gh7|C7b9|Fh7|Bb7|Eb6,Ab7|Eb6,,F-7,Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

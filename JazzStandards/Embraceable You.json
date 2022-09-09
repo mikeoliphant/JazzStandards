@@ -1,0 +1,35 @@
+{
+  "Title": "Embraceable You",
+  "Composer": "Gershwin George",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|Bbo7|A-7|D7|A-7|C-6|G^7|F#h7,B7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E-,E-/D|C#h7,F#7#5|B-7|E-7,A7|D^7,B-7|E-7,A7|A-7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7|Bbo7|A-7|D7|A-7|C-6|G^7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C^7|F#h7,B7b9|E-7,E-7/D|C#h7,C-6|B-7,E7|Ah7,D7b9|G^7|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Idle Moments",
+  "Composer": "Green Grant",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "C-,C-^7|C-7,C-6|C-,C-^7|C-7,C-6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-,C-^7|C-7,C-6|Dh7|G7b9|C-,C-^7|C-7,C-6|Dh7|G7b9|C-7|F-6|G7b9|Ab^7|F-6,G7b9|Ab7#11|Dh7,G7b9|C-,G7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

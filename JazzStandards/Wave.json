@@ -1,0 +1,28 @@
+{
+  "Title": "Wave",
+  "Composer": "Jobim Antonio-Carlos",
+  "Key": "D",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D^7|Bbo7|A-7|D7b9|G^7|G-6|F#13,F#7b13|B9,B7b9|E9|Bb7,A7|D-7,G7|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7/Bb|C7/Bb|F^7/A|F^7/A|F-7/Ab|Bb7/Ab|Eb^7/G|A7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D^7|Bbo7|A-7|D7b9|G^7|G-6|F#13,F#7b13|B9,B7b9|E9|Bb7,A7|D-7,G7|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "Better Git It In Your Soul",
+  "Composer": "Mingus Charles",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F7|Bb7|F7|Bb7|F7|Bb7|G-7|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F7,C7|G-7,C7"
+        },
+        {
+          "Chords": "F7,C7|F7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb7|F7|Bb7|F7|Bb7|A-7,D7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F7|Bb7|F7|Bb7|F7|Bb7|G-7|C7|F7,C7|F7"
+      },
+      "Endings": []
+    }
+  ]
+}

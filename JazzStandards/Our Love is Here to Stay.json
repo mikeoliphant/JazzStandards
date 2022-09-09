@@ -1,0 +1,35 @@
+{
+  "Title": "Our Love is Here to Stay",
+  "Composer": "Gershwin George",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G7|G-7,C7|F6,Bb7|A-7,D7|G7|G-7,C7|Eb7,D7|B-7,E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "A-7,D7|G-7,C7|F^7,Bb^7|Eh7,A7|D-7|G7|G-7|C7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G7|G-7,C7|F6,Bb7|A-7,D7|G7|G-7,C7|Eb7,D7|B-7,E7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "A-7,D7|G-7,C7|Eb7,D7|G-7,G#o7|A-7,D7|G-7,C7|F6|D7"
+      },
+      "Endings": []
+    }
+  ]
+}

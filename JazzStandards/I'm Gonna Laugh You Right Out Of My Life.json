@@ -1,0 +1,42 @@
+{
+  "Title": "I'm Gonna Laugh You Right Out Of My Life",
+  "Composer": "Coleman Cy",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Abo7|G-7|C7sus,Bo7|A-7|Ab7|D^7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Abo7|G-7|C7sus,Bbo7|A-7|C-7,F7b9|Bb^7|Eh7,A7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-7|G7sus,G7b9|C^7,D-7|Eh7,A7b9|D-7|G7sus,G7|G-7,A-7|Bb6,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Abo7|G-7|C7sus,Bbo7|A-7|C-7,F7b9|Bb^7,Bb6|Eh7,A7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "D-7,W/C|Bh7,Bb-6|F6/A|A-7,D7b9|G-7|C7sus,C7|F6|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

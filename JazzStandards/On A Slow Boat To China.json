@@ -1,0 +1,35 @@
+{
+  "Title": "On A Slow Boat To China",
+  "Composer": "Loesser Frank",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|G7/B|C-7|A7/C#|Bb^7/D|D7b9|Eb^7|Dh7,G7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|A7|Bb^7|G7|C7|C7|C-7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|G7/B|C-7|A7/C#|Bb^7/D|D7b9|Eb^7|Dh7,G7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C-7|Ab7#11|Bb^7|G7b13|C7|C-7,F7|Bb6|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "Folks Who Live On The Hill, The",
+  "Composer": "Kern Jerome",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,C#o7|D-7,G7|E-7,Ebo7|D-7,A-7/C|G7/B,A-7|D-7,G7|E7,A7|D-7,G7|E-7,A7|D-7,G7"
+      },
+      "Endings": [
+        {
+          "Chords": "C6,A-7|D-7,G7"
+        },
+        {
+          "Chords": "C6|F#h7,B7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E-7|F#h7,B7b9|E-,E-^7/D#|E-7/D,,A7/C#,D7|G6,G7/F|E-7,A7,D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,C#o7|D-7,G7|E-7,Ebo7|D-7,A-7/C|G7/B,A-7|D-7,G7|E7,A7|D-7,G7|E-7,A7|D-7,G7|Eh7,A7b9|D-7,G7|C6,A-7|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

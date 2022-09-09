@@ -1,0 +1,28 @@
+{
+  "Title": "Punjab",
+  "Composer": "Henderson Joe",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "G^,A^,B^7,|C^7#11|G^,A^,B^7,|C^7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D^13|D^13,D^13,Bb13b9|B^7|G13,Ab^7|Fh9|Bb7|E^9#11,Eb7b9|E^9#11,Eb7b9|E^9#11,Eb7b9|E^9#11,Eb7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7|G13|Gb13,B^7|E9,F9|F9sus|F9sus|G^7,A^7|B^7,C^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

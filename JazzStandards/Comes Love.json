@@ -1,0 +1,35 @@
+{
+  "Title": "Comes Love",
+  "Composer": "Brown-Stept-Tobias",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-6|G-6|D7b13|D7b13|Ah7|D7b9|G-6"
+      },
+      "Endings": [
+        {
+          "Chords": "Ah7,D7b9"
+        },
+        {
+          "Chords": "Eb7,D7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G7b13|G7b13|C-7,G7b9|C-7|F7|F7|Bb6|D7b13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-6|G-6|D7b13|D7b13|Ah7|D7b9|G-6|Ah7,D7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

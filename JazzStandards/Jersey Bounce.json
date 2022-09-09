@@ -1,0 +1,35 @@
+{
+  "Title": "Jersey Bounce",
+  "Composer": "Plater-Bradshaw-Johnson",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6|F6|G7|G7|G-7|C7"
+      },
+      "Endings": [
+        {
+          "Chords": "F6,Abo7|G-7,C7"
+        },
+        {
+          "Chords": "F6,Db7|F6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F7|F7|Eb7|Eb7|Db7|Db7|C7|C7#5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6|F6|G7|G7|G-7|C7|F6,Db7|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

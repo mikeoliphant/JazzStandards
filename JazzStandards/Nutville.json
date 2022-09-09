@@ -1,0 +1,28 @@
+{
+  "Title": "Nutville",
+  "Composer": "Silver Horace",
+  "Key": "C-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|C-7|C-7|C-7|C-7|C-7|C-7|C-7|F-7|F-7|F-7|Db7|C-7|C-7|C-7|C-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab7|G7|Gb7|F7|Ab7|G7b13|C-7|C-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C-7|Bb-|Ab-7|G7#9|C-7"
+      },
+      "Endings": []
+    }
+  ]
+}

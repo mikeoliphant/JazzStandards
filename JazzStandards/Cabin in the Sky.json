@@ -1,0 +1,42 @@
+{
+  "Title": "Cabin in the Sky",
+  "Composer": "Duke Vernon",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,G#o7|A-7,Bbo7|Bh7|Bb9#11|A-,A-^7|A-7,Ao7"
+      },
+      "Endings": [
+        {
+          "Chords": "B-7,Bb7|A-7,Ab7"
+        },
+        {
+          "Chords": "G^7,Ah7|G6,C^7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F#-7,F13|E-6,C#h7|F#-7,B9|E^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "E-,E-^7|E-7,A7|D7,C^7|B-7,A-7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,G#o7|A-7,Bbo7|Bh7|Bb9#11|A-,A-^7|A-7,Ab7|G6|G6"
+      },
+      "Endings": []
+    }
+  ]
+}

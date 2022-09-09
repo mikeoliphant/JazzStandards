@@ -1,0 +1,28 @@
+{
+  "Title": "Heat Wave",
+  "Composer": "Berlin Irving",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,A-7|B-7,A-7|G^7,A-7|B-7,A-7|G^7,G7|C^7,F7|E-7,A7|D7,G6,G6,G6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7,A-7|D-7,G7|C6,A-7|D-7,G7|C6,A-7|D7|G6|D7sus,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,A-7|B-7,A-7|G^7,A-7|B-7,A-7|G^7,G7|C^7,F7|E-7,A7|D7,G6,G6,G6"
+      },
+      "Endings": []
+    }
+  ]
+}

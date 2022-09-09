@@ -1,0 +1,14 @@
+{
+  "Title": "Yesterdays",
+  "Composer": "Kern Jerome",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-|Eh7,A7b9|D-|Eh7,A7b9|D-,D-^7/C#|D-7/C|Bh7|E7|A7#5|D9|G13|C9|F13|Bb^7|Eh7|A7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

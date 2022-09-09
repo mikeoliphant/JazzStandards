@@ -1,0 +1,20 @@
+{
+  "Title": "Falling In Love With Love",
+  "Composer": "Rodgers Richard",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Bb^7|Bb^7|Bb^7|Bb^7|C-7|C-7|F7|F7|C-7|C-7|F7|F7|Bb^7|Bb^7|Bb^7|Bb^7|Bb^7|Bb^7|Bb^7|Bb^7"
+      },
+      "Endings": [
+        {
+          "Chords": "Ah7|Ah7|D7b9|D7b9|G-7|G-7|C7|C7|C-7|C-7|F7|F7"
+        },
+        {
+          "Chords": "Ab7#11|Ab7#11|G7b9|G7b9|C-7|Bo7|C-7|F7|Bb^7|G-7|C-7|F7"
+        }
+      ]
+    }
+  ]
+}

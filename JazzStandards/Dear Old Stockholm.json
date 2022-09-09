@@ -1,0 +1,28 @@
+{
+  "Title": "Dear Old Stockholm",
+  "Composer": "Traditional",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "D-|Eh7,A7b9|G-7,C7|F^7|Eh7,A7b9|D-|Eh7|A7b9|D-7|D-6|D-7|D-6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F^7|G-7,C7|F^7|Eh7,A7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "D-|Eh7,A7b9|G-7,C7|F^7|Eh7,A7b9|D-|C7sus|C7sus|C7sus|C7sus|C7sus|C7sus|C7sus,A7b9|D-|D-"
+      },
+      "Endings": []
+    }
+  ]
+}

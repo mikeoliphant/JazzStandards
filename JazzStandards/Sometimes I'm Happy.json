@@ -1,0 +1,35 @@
+{
+  "Title": "Sometimes I'm Happy",
+  "Composer": "Youmans Vincent",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6,D7|G-7,C7|A-7,D7|G-7,C7|F6,D7|G-7,C7|A-7,D7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F6|C-7,F7|Bb^7|Eb7|F^7|A-7,D7|G-7|C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F6,D7|G-7,C7|A-7,D7|G-7,C7|F6,D7|G-7,C7|A-7,D7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F6|C-7,F7|Bb^7|Eb7|F6/C,D7|G-7,C7|F6|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

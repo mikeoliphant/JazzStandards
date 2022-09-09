@@ -1,0 +1,35 @@
+{
+  "Title": "Toy Tune",
+  "Composer": "Shorter Wayne",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-9,A-9,C-7,B-7|B-7|Db/A|Bb-7,B^7|Gb^9,E-69|D^9,G-9|F^9"
+      },
+      "Endings": [
+        {
+          "Chords": "E7alt"
+        },
+        {
+          "Chords": "Gb13"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-9,Eb-9|Dh9,G7#9#5|Co^7|B7alt"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-9,A-9,C-7,B-7|B-7|Db/A|Bb-7,B^7|Gb^9,E-69|D^9,G-9|F^9|E7alt"
+      },
+      "Endings": []
+    }
+  ]
+}

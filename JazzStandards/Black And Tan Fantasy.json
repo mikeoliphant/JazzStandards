@@ -1,0 +1,28 @@
+{
+  "Title": "Black And Tan Fantasy",
+  "Composer": "Ellington-Miley",
+  "Key": "Bb-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-|Bb-|Bb-|Bb-|Eb-6|Eb-6|Bb-|Bb-|F7b9|F7b9|Bb-,Eb-6|Bb-"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Gb7|Gb7|Bb6|D-7,Dbo7|Eb,Eb-/F|D-7,G7,C-7,F7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bb,G+,C7,F7|Bb7,Eb7,Ab7,Db7"
+        },
+        {
+          "Chords": "Bb6|Bb6"
+        }
+      ]
+    }
+  ]
+}

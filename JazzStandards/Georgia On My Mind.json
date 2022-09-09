@@ -1,0 +1,35 @@
+{
+  "Title": "Georgia On My Mind",
+  "Composer": "Carmichael Hoagy",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Eh7,A7b9|D-,D-/C|G/B,,Bb-7,Eb7|A-7,D7|G-7,C7"
+      },
+      "Endings": [
+        {
+          "Chords": "A-7,D7|G-7,C7#5"
+        },
+        {
+          "Chords": "F6|Eh7,A7b9"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "D-,A7b9(G-6)|D-,Bb7|D-,A7b9(G-6)|D-,G7/B|D-,A7b9(G-6)|D-,,Bh,E7|A-7,D7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|Eh7,A7b9|D-,D-/C|G/B,,Bb-7,Eb7|A-7,D7|G-7,C7|F6|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

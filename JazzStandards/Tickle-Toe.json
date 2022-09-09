@@ -1,0 +1,35 @@
+{
+  "Title": "Tickle-Toe",
+  "Composer": "Young Lester",
+  "Key": "Db",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-7,F7|Bb-7,F7|Bb-7|Bb7|Eb-7,Bb7|Eb-7,Bb7|Eb-7|Ab-7,Db7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Gb7|B7|Db^7|F-7,Bb7|Eb7|Bb-7,Eb7|Ab7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb-7,F7|Bb-7,F7|Bb-7|Bb7|Eb-7,Bb7|Eb-7,Bb7|Eb-7|Ab-7,Db7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Gb7|B7|Db^7|Bb7|Eb7|Ab7|Db^7|Ch7,F7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

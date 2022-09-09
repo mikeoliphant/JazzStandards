@@ -1,0 +1,21 @@
+{
+  "Title": "Nothing Personal",
+  "Composer": "Grolnick Don",
+  "Key": "G-",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "G-|G-|G-|G-"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-|G-|G-|G-|G-|G-|G-|G-|C7(C-7)|C7(C-7)|C7(C-7)|C7(C-7)|G-|G-|G-|F7,E7|Eb7|Eb7|D7|D7|G-|G-|G-|G-"
+      },
+      "Endings": []
+    }
+  ]
+}

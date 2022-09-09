@@ -1,0 +1,34 @@
+{
+  "Title": "Crepuscule With Nellie",
+  "Composer": "Monk Thelonious",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7|Eb7|Ab7,Db7|Gb7|C-7,F7b9|B-7,E7,Bb-7,Eb7|Abadd9|Gb7#11"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab-7,Ab6|B-7,,Bb-7,Eb7|Ab/Eb,Bb-/Eb,C-/Eb,Db/Eb|Eb7sus,Eb7|F-7,C-7,Bb-7,Eb7|Ab-,Ab6,Db^,|D^,Eb^,Eb7,Gb|G,Ab,A,Bb"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb7|Eb7|Ab7,Db7|Gb7|C-7,F7b9|B-7,E7,Bb-7,Eb7|Abadd9|Gb7#11"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Ab-6,Ab6|A,Bb|B,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "It Don't Mean A Thing",
+  "Composer": "Ellington Duke",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-(G-),G-/F#|G-/F(G-^7),C7/E|Eb7(G-7),D7|G-"
+      },
+      "Endings": [
+        {
+          "Chords": "C7|C#o7|Bb6/D|D7b5"
+        },
+        {
+          "Chords": "C7|F7|Bb6|Bb6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7|Bb7|Eb6|Eb6|G-7|C7|F7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-(G-),G-/F#|G-/F(G-^7),C7/E|Eb7(G-7),D7|G-|C7|C#o7|Bb6|Bb6"
+      },
+      "Endings": []
+    }
+  ]
+}

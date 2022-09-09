@@ -1,0 +1,27 @@
+{
+  "Title": "I Guess I'll Have To Change My Plan",
+  "Composer": "Schwartz Arthur",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7,G7|C^7,G7|C^7,A-7|D-7,G7|D-7,G7|E-7,A-7|D13|D-7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "C^7,G7|C^7|G-7,C7|F^7"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "F6,F-6|E-7,Ebo7|E-7,Ebo7|D-7,G7|C^7,G7|Bb7,A7|D7,G7|C6,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "Glory Of Love, The",
+  "Composer": "Hill Billy",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,E-7|A-7,D7|G^7,G7|C^7,C-6|B-7,E-7|A-7,D7"
+      },
+      "Endings": [
+        {
+          "Chords": "G6,E-7|A-7,D7"
+        },
+        {
+          "Chords": "G6|D-7,G7"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|C^7|G^7,Go7|G^7,G7|C-7|C-7|A7|D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G^7,E-7|A-7,D7|G^7,G7|C^7,C-6|B-7,E-7|A-7,D7|G6|A-7,D7"
+      },
+      "Endings": []
+    }
+  ]
+}

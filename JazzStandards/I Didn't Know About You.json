@@ -1,0 +1,35 @@
+{
+  "Title": "I Didn't Know About You",
+  "Composer": "Ellington Duke",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,C7|F^7,F6|Bb7,A7|Eb9,D7b9|G7#11|G-7,C7"
+      },
+      "Endings": [
+        {
+          "Chords": "A-7|Eb7,D7b9"
+        },
+        {
+          "Chords": "F6|F6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7,F7|C-7,F7|Bb^7|Eb7#11|Bb-7,Eb7|Bb-7,Eb7|Ab^7|A-7,D7b5"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "G-7,C7|F^7,F6|Bb7,A7|Eb9,D7b9|G7#11|G-7,C7|F6,G-7|A-7,D7b9"
+      },
+      "Endings": []
+    }
+  ]
+}

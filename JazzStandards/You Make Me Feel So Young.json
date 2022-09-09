@@ -1,0 +1,28 @@
+{
+  "Title": "You Make Me Feel So Young",
+  "Composer": "Myrow Josef",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7,Bo7(G7b9#5)|C-7,F7(C#o7)|Bb^7(D-7),Bo7(G7#5)|F-7/C(Gb9),F7|Bb^7,Bb7(E7b5)|Eb^7,Eb6(Eo7)|D-7(Bb6/F),Dbo7(G7#5)|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F-7|Bb7|F-7|Bb7|Ah7,D7b9|G-7|C-7|F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Bb^7,Bo7(G7b9#5)|C-7,F7(C#o7)|Bb^7(D-7),Bo7(G7#5)|F-7/C(Gb9),F7|Bb7|Eb^7,Eb-6(Ab9)|D-7(D-7),G7|C-7(G7b9),F7|D-7(C-7),G7|C-7(F7),F7|D7#5(Bb9),Ab7#11|G7b9|C-7|F7sus,F7|Bb6,G-7|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

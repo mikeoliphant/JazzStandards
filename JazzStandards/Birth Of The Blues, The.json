@@ -1,0 +1,35 @@
+{
+  "Title": "Birth Of The Blues, The",
+  "Composer": "Henderson Ray",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,C#o7|D-7,G7|C^7,E7|F^7,F#o7|G7|D-7,G7"
+      },
+      "Endings": [
+        {
+          "Chords": "C6,Ebo7|D-7,Db7"
+        },
+        {
+          "Chords": "C6,F7|C6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "E7|E7|E7|E7|A7|A7|D7|D-7,Db7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "C^7,C#o7|D-7,G7|C^7,E7|F^7,F#o7|G7|D-7,G7|C6,Ebo7|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

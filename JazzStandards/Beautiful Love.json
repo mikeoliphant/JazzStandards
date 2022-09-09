@@ -1,0 +1,21 @@
+{
+  "Title": "Beautiful Love",
+  "Composer": "Young Victor",
+  "Key": "D-",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eh7|A7b9|D-|(D7)x|G-7|C7|F^7|Eh7,A7b9"
+      },
+      "Endings": [
+        {
+          "Chords": "D-|G-7|Bb7|A7b9|D-|G7#11|Eh7|A7b9"
+        },
+        {
+          "Chords": "D-|G-7|Bb7|A7b9|D-,B7|Bb7#11,A7b9|D-|D-"
+        }
+      ]
+    }
+  ]
+}

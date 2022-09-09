@@ -1,0 +1,35 @@
+{
+  "Title": "Spring Is Here",
+  "Composer": "Rodgers Richard",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Abo7|Ab6|Abo7|Ab6|Ch7,F7b9|Bb-7|C-7,F7|Bb-7,Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7|F-7|Bb-7|C7b13|F-6|F-6|Bb7|Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Abo7|Ab6|Abo7|Ab6|Ch7,F7b9|Bb-7|C-7,F7|Bb-7,Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Ab^7|F-7|B-7,E7|Bb-7,Eb7|C-7,F7|Bb-7,Eb7|C-7,F7|Dh7,Db-6|C-7,F7|Bb-7,Eb7|Ab6,Db^7|Ab6,,Bb-7,Eb7"
+      },
+      "Endings": []
+    }
+  ]
+}

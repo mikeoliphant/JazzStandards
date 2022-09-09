@@ -1,0 +1,28 @@
+{
+  "Title": "Remember",
+  "Composer": "Berlin Irving",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Eb7|D-7|G7|G-7|C7b9|F^7|C-7,F7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bb^7|C-7,F7|Bb^7|Eb7|F^7|F^7|Eh7|A7b13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Bb^7|Eb7|D-7|G7|G-7|C7b9|F^7|C-7,F7"
+      },
+      "Endings": []
+    }
+  ]
+}

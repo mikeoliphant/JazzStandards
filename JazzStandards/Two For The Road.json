@@ -1,0 +1,34 @@
+{
+  "Title": "Two For The Road",
+  "Composer": "Mancini Henry",
+  "Key": "G",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "F#h7|B7b9|E-7,E-7/D|C^7,C^7/B|A-7|D7sus,D7b9|Co7/G,G^7|F#-7,B7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "E-7,B7b13|E-7,A7b9|D-7,A7b13|D-7,G7b9|Eh7,A7b9|Dh7,G7b9|C^7,C^7/B|A-7,A-7/G"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "D",
+      "MainSegment": {
+        "Chords": "F#h7|B7b9|E-7,E-7/D|C^7,C^7/B|A-7|D7sus,D7b9|Co7/G,G^7|G7/F"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "E-7,E-7/D|C#h7,C-6|B-7,E-7/D|C^7|B-7,Bb7|A-7,D13b9|G6|D-7,G7"
+      },
+      "Endings": []
+    }
+  ]
+}

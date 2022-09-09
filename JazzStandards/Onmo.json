@@ -1,0 +1,14 @@
+{
+  "Title": "Onmo",
+  "Composer": "Wheeler Kenny",
+  "Key": "Db",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Db^7|Db^7|Ab^7#11/G|Ab^7#11/G|C-|C-|A7alt|Ab^7#11|F/G|F#7alt|B-|D/A|G^7#11|E-|C^7#11|Ab7alt"
+      },
+      "Endings": []
+    }
+  ]
+}

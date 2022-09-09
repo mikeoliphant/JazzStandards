@@ -1,0 +1,20 @@
+{
+  "Title": "So Tender",
+  "Composer": "Jarrett Keith",
+  "Key": "A",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "A^7|F#-7|G#-7|G-7|F#-7|B7|E^7|C7#5|F7b9#5|Bb-7|Eb7b9|Ab^7|Ch7|F7b9|Bb^7#5|Bb^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eh7|A7b13|D-7|D-7/C|Bb-7,Eb7|A7b13,D-7|B-7|Bb^7|A^7|F#-7|B-7,E7|C#-7,F#7b9|B13sus,B13|B-7,E7|A^7|B^7#11"
+      },
+      "Endings": []
+    }
+  ]
+}

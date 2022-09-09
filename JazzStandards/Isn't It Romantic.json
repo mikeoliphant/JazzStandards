@@ -1,0 +1,35 @@
+{
+  "Title": "Isn't It Romantic?",
+  "Composer": "Rodgers Richard",
+  "Key": "Eb",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb6,C-7|F-7,Bb7|Eb^7,Eo7|F-7,Bb7|Eb6/G,C7|F-7,Bb7|Eb^7|Bb-7,Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab^7|Bb7,G7|C-,G7/B|Bb-7,Eb7|Ab^7,C7/G|F-,,Dh,G7|C-,F7|Bb7alt,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Eb6,C-7|F-7,Bb7|Eb^7,Eo7|F-7,Bb7|Eb6/G,C7|F-7,Bb7|Eb^7|Bb-7,Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "F-,F-/Eb|Dh7,G7b9|C-,C-/Bb|C-/A,Ab-6|G-7,Gb7|F-7,Bb7|Eb6,Ab-6|Eb6"
+      },
+      "Endings": []
+    }
+  ]
+}

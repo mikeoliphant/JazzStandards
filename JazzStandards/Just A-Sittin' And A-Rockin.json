@@ -1,0 +1,28 @@
+{
+  "Title": "Just A-Sittin' And A-Rockin",
+  "Composer": "Ellington-Strayhorn-Gaines",
+  "Key": "Ab",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab,Ab7/C|Db,Ab6|Db,Ab/C|Bb-7,Eb7,Ab6,|Db,Ab/C|Db,Do7|Db,Do7,Ab/Eb,F-7|Bb-7,Eb7,Ab6,"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-,C-#5|C-6,C-b6|C-,C-#5|D-7,G7|C,C+|C6,C#o7|D-7,G7|Bb-7,Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ab,Ab7/C|Db,Ab6|Db,Ab/C|Bb-7,Eb7,Ab6,|Db,Ab/C|Db,Do7|Db,Do7,Ab/Eb,F-7|Bb-7,Eb7,Ab6,"
+      },
+      "Endings": []
+    }
+  ]
+}

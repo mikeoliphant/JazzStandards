@@ -1,0 +1,45 @@
+{
+  "Title": "Look Of Love, The",
+  "Composer": "Bacharach Burt",
+  "Key": "Bb",
+  "Sections": [
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "G-7|G-6|G-b6|G-6|Bb^7|Bb^7|D7sus|D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "G-7|G7sus,G7|Eb^7|Eb-6|Bb^7|F-7,Bb7|Eb^7|Eb^7|D7sus|D7b9"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Bb^7/F|C-7/F|Bb^7/F|C-7/F,C-7/F|Bb^7/F|C-7/F|C-7/F"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "F6|E/F|Eb/F|D/F|Bb2/F|Db6/F|Eb^7/F|Eb^7/F|Bb^7/F|Bb-7/F"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "F7b9sus"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Bb^7"
+      },
+      "Endings": []
+    }
+  ]
+}

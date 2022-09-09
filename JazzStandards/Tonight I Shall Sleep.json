@@ -1,0 +1,35 @@
+{
+  "Title": "Tonight I Shall Sleep",
+  "Composer": "Ellington-Mercer",
+  "Key": "Db",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Db^7|Ch7,F7b9|Bb-7,Bb-7/Ab|Gh7,Gb7#11|Fh7,Bb7b9|Fh7,Bb7b9|Eb7|Eb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Eb-7|Ab7|Db^7,Ab7|Db^,Gb7,F-7,E7|Eb7|Bb-7,Eb7|E-7,A7|Eb-7,Ab7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Db^7|Ch7,F7b9|Bb-7,Bb-7/Ab|Gh7,Gb7#11|Fh7,Bb7b9|Fh7,Bb7b9|Eb7,A7|Ab7,G7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "Gb^7|Ebh7,A7|Ab7sus,Bb-7|Eb7,A7|Ab7sus,Bb-7|Eb-7,Ab7|Db^7,Bb-7|Eb-7,Ab7"
+      },
+      "Endings": []
+    }
+  ]
+}

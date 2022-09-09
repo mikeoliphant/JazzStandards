@@ -1,0 +1,13 @@
+{
+  "Title": "Half Nelson",
+  "Composer": "Davis Miles",
+  "Key": "C",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "C^7|C^7|F-7|Bb7|C^7|C^7|B-7,E7|Bb-7,Eb7|Ab^7|Ab^7|A-7|D7|D-7|G7|C^7,Eb^7|Ab^7,Db^7"
+      },
+      "Endings": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Forest Flower",
+  "Composer": "Lloyd Charles",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A^7|A^7|G^7|G^7|C^7|C^7|Bb^7|Bb^7|Db-7|Dh7,G7b9|C^7|C^7|C-7|B7#9|Bb^7|Bb^7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C-7|Bb7|Eb^7|Eb^7|Bb7|Ab7#11|Gb^7|Gb^7|Gb-7|A-7|C-7|Eb-7|C6|C6"
+      },
+      "Endings": []
+    }
+  ]
+}

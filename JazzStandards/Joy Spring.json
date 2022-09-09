@@ -1,0 +1,35 @@
+{
+  "Title": "Joy Spring",
+  "Composer": "Brown Clifford",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|G-7,C7|F^7|Bb-7,Eb7|A-7,Ab7|G-7,C7|F^7|Ab-7,Db7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Gb^7|Ab-7,Db7|Gb^7|B-7,E7|Bb-7,A7|Ab-7,Db7|Gb^7|A-7,D7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "C",
+      "MainSegment": {
+        "Chords": "G^7|G-7,C7|F^7|F-7,Bb7|Eb^7|Ab-7,Db7|Gb^7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7|G-7,C7|F^7|Bb-7,Eb7|A-7,Ab7|G-7,C7|F^7|G-7,C7"
+      },
+      "Endings": []
+    }
+  ]
+}

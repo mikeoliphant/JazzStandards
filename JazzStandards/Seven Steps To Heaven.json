@@ -1,0 +1,35 @@
+{
+  "Title": "Seven Steps To Heaven",
+  "Composer": "Feldman Victor",
+  "Key": "F",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "F13|Eb13|F13|Eb13|F13|Eb13|F13|F13"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,Bb7|Eh7,A7|D-7,Ab7|G7|G-7|C7|Eb6,E6|F6"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "C^7|D-7|E-7|F-7,Bb7|Eb^7|Ab-7,Db7|Gb^7|G-7,C7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "F^7,Bb7|Eh7,A7|D-7,Ab7|G7|G-7|C7|Eb6,E6|F6"
+      },
+      "Endings": []
+    }
+  ]
+}

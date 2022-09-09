@@ -1,0 +1,35 @@
+{
+  "Title": "Black And Blue",
+  "Composer": "Waller Fats",
+  "Key": "C",
+  "Sections": [
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|D-7|A-7|D7,Db7|C6,A7|D-7,G7"
+      },
+      "Endings": [
+        {
+          "Chords": "C^7|Bh7,E7b9"
+        },
+        {
+          "Chords": "C6,F7|C6"
+        }
+      ]
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Ab7|Ab7|C6,D-7|E-7,C6|Ab7|Ab7|C6,F7|Bh7,E7b9"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "A-7|D-7|A-7|D7,Db7|C6,A7|D-7,G7|C6,F7|C6,,(Bh7),(E7)"
+      },
+      "Endings": []
+    }
+  ]
+}

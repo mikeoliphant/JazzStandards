@@ -1,0 +1,19 @@
+{
+  "Title": "Mc Jolt",
+  "Composer": "Beirach Richie",
+  "Key": "Eb-",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "E-7|E-7|Eb-7|Eb-7|B^7#11|Bb-11|D7sus|D7#9|G-7|A7b9b13|D-7|F7sus|Ab-11|Bb7b9b13|Eb-7|Gb7sus"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Ab-11|Bb7b9b13|Eb-7|Gb7sus"
+      },
+      "Endings": []
+    }
+  ]
+}
