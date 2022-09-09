@@ -1,5 +1,5 @@
 # JazzStandards
-This repository contains chord data for a large number of jazz standard (currently pulled from the iReal Pro database: https://www.irealpro.com/main-playlists).
+This repository contains chord data for a large number of jazz standards (currently pulled from the iReal Pro database: https://www.irealpro.com/main-playlists).
 
 The goal of the data format is to be consise, easily human-readable (and editable), and easy to parse.
 
