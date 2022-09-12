@@ -6,28 +6,28 @@
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "C^7|Db7#11|G-7,C7|F-7,Bb7|E-7,Ebo7|D-7,G7"
+        "Chords": "Cmaj7|Db7#11|Gm7,C7|Fm7,Bb7|Em7,Eb07|Dm7,G7"
       },
       "Endings": [
         {
-          "Chords": "E7,A7|D-7,G7"
+          "Chords": "E7,A7|Dm7,G7"
         },
         {
-          "Chords": "C^7|Eh7,A7b9"
+          "Chords": "Cmaj7|Em7b5,A7b9"
         }
       ]
     },
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "D-7|G7#5|C^7,G7|C^7,A-7|F#h7|B7b9|E-7,A7|D-7,G7#5"
+        "Chords": "Dm7|G7#5|Cmaj7,G7|Cmaj7,Am7|F#m7b5|B7b9|Em7,A7|Dm7,G7#5"
       },
       "Endings": []
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "C^7|Db7#11|G-7,C7|F-7,Bb7|E-7,Ebo7|D-7,G7|C^7,A-7|D-7,G7"
+        "Chords": "Cmaj7|Db7#11|Gm7,C7|Fm7,Bb7|Em7,Eb07|Dm7,G7|Cmaj7,Am7|Dm7,G7"
       },
       "Endings": []
     }

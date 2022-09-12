@@ -7,13 +7,13 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "A-|A-|A-|A-|A-|A-|E7|A-|A-|A-|A-|A-|A-|A-|E7|A-"
+        "Chords": "Am|Am|Am|Am|Am|Am|E7|Am|Am|Am|Am|Am|Am|Am|E7|Am"
       },
       "Endings": []
     },
     {
       "MainSegment": {
-        "Chords": "E7|A-|E7|A-|E7|A-|E7|A-"
+        "Chords": "E7|Am|E7|Am|E7|Am|E7|Am"
       },
       "Endings": []
     }

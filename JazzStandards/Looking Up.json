@@ -6,17 +6,17 @@
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "A^7|A7|D^7|G7|A^7|A7|D^7|C#7|F#-7|B7|E^7|C#7|D#-7|D#-7|G#7|G#7"
+        "Chords": "Amaj7|A7|Dmaj7|G7|Amaj7|A7|Dmaj7|C#7|F#m7|B7|Emaj7|C#7|D#m7|D#m7|G#7|G#7"
       },
       "Endings": [
         {
-          "Chords": "C#-7|C#-7/B|A^7|B7|C#-7|G7#11|F#7|G#7"
+          "Chords": "C#m7|C#m7/B|Amaj7|B7|C#m7|G7#11|F#7|G#7"
         },
         {
-          "Chords": "C#-7|C#7/B|A#h7|D#7|G#7|A7|G#7|D7"
+          "Chords": "C#m7|C#7/B|A#m7b5|D#7|G#7|A7|G#7|D7"
         },
         {
-          "Chords": "C#-7|C#-7/B|A^7|B7|E|A/E|E|D/E"
+          "Chords": "C#m7|C#m7/B|Amaj7|B7|E|A/E|E|D/E"
         }
       ]
     }

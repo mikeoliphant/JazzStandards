@@ -7,7 +7,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C^7|Db7|Db7|A7|C^7|Db7|G-7|C7"
+        "Chords": "Cmaj7|Db7|Db7|A7|Cmaj7|Db7|Gm7|C7"
       },
       "Endings": []
     },
@@ -21,7 +21,7 @@
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "C^7|Db7|Db13,C13|A7,D^7"
+        "Chords": "Cmaj7|Db7|Db13,C13|A7,Dmaj7"
       },
       "Endings": []
     }

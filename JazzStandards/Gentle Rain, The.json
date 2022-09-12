@@ -7,14 +7,14 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "A-6|A-6|E7b9/G#(Bh7)|E7b9/G#(E7b9)|G-6(A-7),(D7)|C7(G-7),(C7)|F6|F6|F#h7|B7b9|Eh7|A7b9|Dh7|Bh7,E7b9"
+        "Chords": "Am6|Am6|E7b9/G#(Bm7b5)|E7b9/G#(E7b9)|Gm6(Am7),(D7)|C7(Gm7),(C7)|F6|F6|F#m7b5|B7b9|Em7b5|A7b9|Dm7b5|Bm7b5,E7b9"
       },
       "Endings": [
         {
-          "Chords": "A-6|Bb7#11"
+          "Chords": "Am6|Bb7#11"
         },
         {
-          "Chords": "A-7,D7|G-7,C7|F6|C7|F6|E-7|A-6|Bb7#11"
+          "Chords": "Am7,D7|Gm7,C7|F6|C7|F6|Em7|Am6|Bb7#11"
         }
       ]
     }

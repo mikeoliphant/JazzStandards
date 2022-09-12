@@ -6,7 +6,7 @@
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "C-7,F7|D/Bb,Bb^7|Ah7,D7b9|G-7,C7|B^7,F#^7/A#|G#-7,B^7/F#|Gb^9#11,Gb7sus|F-11,Dh7,G7b9,"
+        "Chords": "Cm7,F7|D/Bb,Bbmaj7|Am7b5,D7b9|Gm7,C7|Bmaj7,F#maj7/A#|G#m7,Bmaj7/F#|Gbmaj9#11,Gb7sus|Fm11,Dm7b5,G7b9,"
       },
       "Endings": []
     }

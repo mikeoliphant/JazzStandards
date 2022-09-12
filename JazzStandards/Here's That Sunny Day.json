@@ -14,34 +14,34 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "A^7|A^7|D^7|D^7|A^7|A^7|C^7|C^7|F^7|F^7|Bb^7|Bb^7"
+        "Chords": "Amaj7|Amaj7|Dmaj7|Dmaj7|Amaj7|Amaj7|Cmaj7|Cmaj7|Fmaj7|Fmaj7|Bbmaj7|Bbmaj7"
       },
       "Endings": [
         {
-          "Chords": "B-7|E7,C-7,F7,|Bb^7|Bb^7,E7b9"
+          "Chords": "Bm7|E7,Cm7,F7,|Bbmaj7|Bbmaj7,E7b9"
         },
         {
-          "Chords": "B-7|E7|E-7|A7"
+          "Chords": "Bm7|E7|Em7|A7"
         }
       ]
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "D-7|G7|C^7|F^7|Bb7|Bb7|Bh7|E7#5"
+        "Chords": "Dm7|G7|Cmaj7|Fmaj7|Bb7|Bb7|Bm7b5|E7#5"
       },
       "Endings": []
     },
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "A^7|A^7|D^7|D^7|A^7|A^7|C^7|C^7|F^7|F^7|Bb^7|Bb^7|B-7|E7|C#-7,F#7|B-7,E7"
+        "Chords": "Amaj7|Amaj7|Dmaj7|Dmaj7|Amaj7|Amaj7|Cmaj7|Cmaj7|Fmaj7|Fmaj7|Bbmaj7|Bbmaj7|Bm7|E7|C#m7,F#7|Bm7,E7"
       },
       "Endings": []
     },
     {
       "MainSegment": {
-        "Chords": "B-7|E7|C-7|F7|B-7|E7|C#-7|C7|B-7|E7|C#-|C7|B-7|E7|A^7|A^7"
+        "Chords": "Bm7|E7|Cm7|F7|Bm7|E7|C#m7|C7|Bm7|E7|C#m|C7|Bm7|E7|Amaj7|Amaj7"
       },
       "Endings": []
     }

@@ -20,20 +20,20 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "C-7,,(Db9),(C-7)|C-7,,(Db9),(C-7)|Db^7,Db9|C-7|C-7|C-7|Db^7,Db9|C-7"
+        "Chords": "Cm7,,(Db9),(Cm7)|Cm7,,(Db9),(Cm7)|Dbmaj7,Db9|Cm7|Cm7|Cm7|Dbmaj7,Db9|Cm7"
       },
       "Endings": []
     },
     {
       "MainSegment": {
-        "Chords": "Ab^7,Ab7(Ab^7)|G-7,C7(G-7)|Ab^7|G-7,C-7(G-7)|Db^7|C-7,Ab7|D7#9,G7#5|C-7"
+        "Chords": "Abmaj7,Ab7(Abmaj7)|Gm7,C7(Gm7)|Abmaj7|Gm7,Cm7(Gm7)|Dbmaj7|Cm7,Ab7|D7#9,G7#5|Cm7"
       },
       "Endings": []
     },
     {
       "Label": "i",
       "MainSegment": {
-        "Chords": "C-7,Ab^9|Db^7,G7#5"
+        "Chords": "Cm7,Abmaj9|Dbmaj7,G7#5"
       },
       "Endings": []
     }

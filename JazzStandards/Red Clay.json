@@ -6,13 +6,13 @@
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "C#-11|B-11|D7sus,E7sus|F#7sus,G#7sus"
+        "Chords": "C#m11|Bm11|D7sus,E7sus|F#7sus,G#7sus"
       },
       "Endings": []
     },
     {
       "MainSegment": {
-        "Chords": "C#-7|B-7,E7|A^7|D#h7,G#7b9"
+        "Chords": "C#m7|Bm7,E7|Amaj7|D#m7b5,G#7b9"
       },
       "Endings": []
     }

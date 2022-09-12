@@ -6,33 +6,33 @@
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "E-7|A/E|E-7|A/E"
+        "Chords": "Em7|A/E|Em7|A/E"
       },
       "Endings": []
     },
     {
       "Label": "i",
       "MainSegment": {
-        "Chords": "E-7|A/E|E-7|A/E"
+        "Chords": "Em7|A/E|Em7|A/E"
       },
       "Endings": []
     },
     {
       "MainSegment": {
-        "Chords": "A-7|G-7|F#h7|F13"
+        "Chords": "Am7|Gm7|F#m7b5|F13"
       },
       "Endings": []
     },
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "E-7|A7|E-7|A7|A-7|G-7|F#h7|B7b9"
+        "Chords": "Em7|A7|Em7|A7|Am7|Gm7|F#m7b5|B7b9"
       },
       "Endings": []
     },
     {
       "MainSegment": {
-        "Chords": "F^7"
+        "Chords": "Fmaj7"
       },
       "Endings": []
     }

@@ -7,27 +7,27 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "G7|C7|F^7|F^7|Ah7|D7|G7|C7"
+        "Chords": "G7|C7|Fmaj7|Fmaj7|Am7b5|D7|G7|C7"
       },
       "Endings": []
     },
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F6,F7/A|Bb6,C7|F6|Eh7,A7|D-7,D-7/C|Bh7,E7|A^7|G-7,C7"
+        "Chords": "F6,F7/A|Bb6,C7|F6|Em7b5,A7|Dm7,Dm7/C|Bm7b5,E7|Amaj7|Gm7,C7"
       },
       "Endings": []
     },
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "G7|C7|F^7|F^7|Ah7|D7|G7|C7"
+        "Chords": "G7|C7|Fmaj7|Fmaj7|Am7b5|D7|G7|C7"
       },
       "Endings": []
     },
     {
       "MainSegment": {
-        "Chords": "F6,F7/A|Bb6,Bo7|F6/C,Bb7|Ah7,D7|G-7|C7|F6|Ah7,D7"
+        "Chords": "F6,F7/A|Bb6,B07|F6/C,Bb7|Am7b5,D7|Gm7|C7|F6|Am7b5,D7"
       },
       "Endings": []
     }

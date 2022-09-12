@@ -7,11 +7,11 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "G^7|G#o7|A-7|D7|G6|Bbo7|A-7|D7|G6|G6,G7/F|E7|E7|A-7"
+        "Chords": "Gmaj7|G#07|Am7|D7|G6|Bb07|Am7|D7|G6|G6,G7/F|E7|E7|Am7"
       },
       "Endings": [
         {
-          "Chords": "A7|A-7|D7"
+          "Chords": "A7|Am7|D7"
         },
         {
           "Chords": "D7|G6|G6"

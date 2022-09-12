@@ -7,20 +7,20 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C|C|A-|A-|C^7/G|Abo7|D-7|G7|D-|D-aug|D-6|D-aug|D-/G|G7|E-7,Ebo7|D-7,G7"
+        "Chords": "C|C|Am|Am|Cmaj7/G|Ab07|Dm7|G7|Dm|Dmaug|Dm6|Dmaug|Dm/G|G7|Em7,Eb07|Dm7,G7"
       },
       "Endings": []
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "C|C|A-|A-|G-7|C7|F|E7|A-|E-|A-|E-|D7|G7|C6,Ebo7|D-7,G7"
+        "Chords": "C|C|Am|Am|Gm7|C7|F|E7|Am|Em|Am|Em|D7|G7|C6,Eb07|Dm7,G7"
       },
       "Endings": []
     },
     {
       "MainSegment": {
-        "Chords": "D7|G7|D7|G7|C,C/E,F,F#o|C/G,G7,C6,"
+        "Chords": "D7|G7|D7|G7|C,C/E,F,F#0|C/G,G7,C6,"
       },
       "Endings": []
     }

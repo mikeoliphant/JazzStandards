@@ -7,11 +7,11 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Dh7,Db-7|C-7,B-7|Bb-7,Eb7|C-7,B-7|Dh7,Db-7|C-7,B-7|Bb-7,Eb7"
+        "Chords": "Dm7b5,Dbm7|Cm7,Bm7|Bbm7,Eb7|Cm7,Bm7|Dm7b5,Dbm7|Cm7,Bm7|Bbm7,Eb7"
       },
       "Endings": [
         {
-          "Chords": "Ab6,Ab6,Bb-7,Ab7"
+          "Chords": "Ab6,Ab6,Bbm7,Ab7"
         },
         {
           "Chords": "Ab6"
@@ -21,14 +21,14 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Eb-7,Ab7|Db^7,Do7|Eb-7,Ab7|Db^7|F-7,Bb7|Eb^7,Eo7|F-7,E7|Eb7"
+        "Chords": "Ebm7,Ab7|Dbmaj7,D07|Ebm7,Ab7|Dbmaj7|Fm7,Bb7|Ebmaj7,E07|Fm7,E7|Eb7"
       },
       "Endings": []
     },
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Dh7,Db-7|C-7,B-7|Bb-7,Eb7|C-7,B-7|Dh7,D-7|C-7,B-7|Bb-7,Eb7|Ab6"
+        "Chords": "Dm7b5,Dbm7|Cm7,Bm7|Bbm7,Eb7|Cm7,Bm7|Dm7b5,Dm7|Cm7,Bm7|Bbm7,Eb7|Ab6"
       },
       "Endings": []
     }

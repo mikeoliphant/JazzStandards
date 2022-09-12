@@ -6,13 +6,13 @@
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "F,A7|D7|G-7,D7b9|G-7,D7,G-7,G-7|Bb7,Bo7|F7,Eb7,D7,D7|G7|Db7#5,C7"
+        "Chords": "F,A7|D7|Gm7,D7b9|Gm7,D7,Gm7,Gm7|Bb7,B07|F7,Eb7,D7,D7|G7|Db7#5,C7"
       },
       "Endings": []
     },
     {
       "MainSegment": {
-        "Chords": "F,A7|D7|G-7,D7b9|G-7,D7,G-7,G-7|Bb7,Bo7|F7,Eb7,D7,D7|G7|Db7,C7,F6,C7"
+        "Chords": "F,A7|D7|Gm7,D7b9|Gm7,D7,Gm7,Gm7|Bb7,B07|F7,Eb7,D7,D7|G7|Db7,C7,F6,C7"
       },
       "Endings": []
     }

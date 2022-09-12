@@ -7,7 +7,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Db^7|D^7/Db|E-9|F^7#11/E|Db^7|D^7|A13#11|D7b9|Ab-7|G-7|D/Eb(Eb-7)|A-7/D(A-7)|C-7|G-^7/A(C-7)|A7sus(E-9)|G/Ab"
+        "Chords": "Dbmaj7|Dmaj7/Db|Em9|Fmaj7#11/E|Dbmaj7|Dmaj7|A13#11|D7b9|Abm7|Gm7|D/Eb(Ebm7)|Am7/D(Am7)|Cm7|Gm/maj7/A(Cm7)|A7sus(Em9)|G/Ab"
       },
       "Endings": []
     }

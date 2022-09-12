@@ -6,21 +6,21 @@
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "G,D/F#,E-,A7|D,D,A-7,D7|G,D/F#,E-,A7sus|D,D,A-,|Db/B,Db/B,Bb13b9,"
+        "Chords": "G,D/F#,Em,A7|D,D,Am7,D7|G,D/F#,Em,A7sus|D,D,Am,|Db/B,Db/B,Bb13b9,"
       },
       "Endings": []
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Eb-7,Eb-7,C#-7,F#7|Ch7,Ch7,B^7,Db/B|Gb/Bb,Eb-7,D13,Db13|C13b9,F-7|Fh7,Bb7#5"
+        "Chords": "Ebm7,Ebm7,C#m7,F#7|Cm7b5,Cm7b5,Bmaj7,Db/B|Gb/Bb,Ebm7,D13,Db13|C13b9,Fm7|Fm7b5,Bb7#5"
       },
       "Endings": []
     },
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "Eb^7,Eb^7,Bb/D,Bb/D|Ab/C,Ab/C,Ab-/B,Ab-/B|Eb/Bb,Eb/Bb,Eb/Bb,Eb/Bb|Ab/Bb,Ab/Bb,Ah7,D7"
+        "Chords": "Ebmaj7,Ebmaj7,Bb/D,Bb/D|Ab/C,Ab/C,Abm/B,Abm/B|Eb/Bb,Eb/Bb,Eb/Bb,Eb/Bb|Ab/Bb,Ab/Bb,Am7b5,D7"
       },
       "Endings": []
     },

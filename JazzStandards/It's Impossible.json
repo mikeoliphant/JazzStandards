@@ -6,14 +6,14 @@
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "G,G6|G^7,G6|F#h7|B7|E-7|D-7,G7sus|Bh7|E7"
+        "Chords": "G,G6|Gmaj7,G6|F#m7b5|B7|Em7|Dm7,G7sus|Bm7b5|E7"
       },
       "Endings": [
         {
-          "Chords": "A-7|F9|G^7|E7|A-7|A7|D7|A-7,D7"
+          "Chords": "Am7|F9|Gmaj7|E7|Am7|A7|D7|Am7,D7"
         },
         {
-          "Chords": "A-7|F9|G^7|E7|A-7|D9|G6|A-7,D7"
+          "Chords": "Am7|F9|Gmaj7|E7|Am7|D9|G6|Am7,D7"
         }
       ]
     }

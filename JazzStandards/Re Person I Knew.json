@@ -7,7 +7,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C69|Caug|F#aug/C|Bb^7/C|F-7/C|F-7/C|C-9|C-9|F-^7/C|C-11|F-7/C|Bb^7#5/C|F-^7/C|Bb^7/C|F-7/C|Db/C"
+        "Chords": "C69|Caug|F#aug/C|Bbmaj7/C|Fm7/C|Fm7/C|Cm9|Cm9|Fm/maj7/C|Cm11|Fm7/C|Bbmaj7#5/C|Fm/maj7/C|Bbmaj7/C|Fm7/C|Db/C"
       },
       "Endings": []
     }

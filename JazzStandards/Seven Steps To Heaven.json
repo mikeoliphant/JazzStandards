@@ -14,21 +14,21 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F^7,Bb7|Eh7,A7|D-7,Ab7|G7|G-7|C7|Eb6,E6|F6"
+        "Chords": "Fmaj7,Bb7|Em7b5,A7|Dm7,Ab7|G7|Gm7|C7|Eb6,E6|F6"
       },
       "Endings": []
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "C^7|D-7|E-7|F-7,Bb7|Eb^7|Ab-7,Db7|Gb^7|G-7,C7"
+        "Chords": "Cmaj7|Dm7|Em7|Fm7,Bb7|Ebmaj7|Abm7,Db7|Gbmaj7|Gm7,C7"
       },
       "Endings": []
     },
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F^7,Bb7|Eh7,A7|D-7,Ab7|G7|G-7|C7|Eb6,E6|F6"
+        "Chords": "Fmaj7,Bb7|Em7b5,A7|Dm7,Ab7|G7|Gm7|C7|Eb6,E6|F6"
       },
       "Endings": []
     }

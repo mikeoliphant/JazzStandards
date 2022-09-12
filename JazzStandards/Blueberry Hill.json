@@ -14,14 +14,14 @@
           "Chords": "Eb|Eb7"
         },
         {
-          "Chords": "Eb,Ab-6|Eb,Bb7"
+          "Chords": "Eb,Abm6|Eb,Bb7"
         }
       ]
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Eb,C-|F-7,Bb7|Eb,Bb7|Eb,D7b9|G-|Ah7,D7|G|Bb7,Eb7"
+        "Chords": "Eb,Cm|Fm7,Bb7|Eb,Bb7|Eb,D7b9|Gm|Am7b5,D7|G|Bb7,Eb7"
       },
       "Endings": []
     },

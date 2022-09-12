@@ -7,7 +7,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "D9|F-6|D9|F-6|C|C7,B7,Bb7,A7"
+        "Chords": "D9|Fm6|D9|Fm6|C|C7,B7,Bb7,A7"
       },
       "Endings": [
         {
@@ -28,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "D9|F-6|D9|F-6|C|C7,B7,Bb7,A7|D9|G7,C6"
+        "Chords": "D9|Fm6|D9|Fm6|C|C7,B7,Bb7,A7|D9|G7,C6"
       },
       "Endings": []
     }

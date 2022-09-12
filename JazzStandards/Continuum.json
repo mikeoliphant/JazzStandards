@@ -7,14 +7,14 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "E^7|E^7|E^7|E^7|E^7"
+        "Chords": "Emaj7|Emaj7|Emaj7|Emaj7|Emaj7"
       },
       "Endings": [
         {
-          "Chords": "A^7|A^7|E^7"
+          "Chords": "Amaj7|Amaj7|Emaj7"
         },
         {
-          "Chords": "Bb-7|A-7|Eo7,E^7|E^7|Eb7sus|D7sus|E^7|B-7/E,A-7/E|E^7"
+          "Chords": "Bbm7|Am7|E07,Emaj7|Emaj7|Eb7sus|D7sus|Emaj7|Bm7/E,Am7/E|Emaj7"
         }
       ]
     }
