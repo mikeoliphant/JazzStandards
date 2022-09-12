@@ -1,0 +1,41 @@
+{
+  "Title": "Captain Marvel",
+  "Composer": "Corea Chick",
+  "Key": "C",
+  "Rhythm": "Samba",
+  "Sections": [
+    {
+      "MainSegment": {
+        "Chords": "Em7|Em7|Bm7|Bm7|F#m7|F#m7|Bbm7|Bbm7/Ab|Gm7b5|C7b9|Dbmaj7|Gbmaj7#11|Cm7/F|F7|Bbmaj7|Bbmaj7|Ebmaj7#11|Ebmaj7#11|Bbmaj7/D|Db7|Cm7|F7,F#0|Gm7|Gm7|Abmaj7|Abmaj7|Dm7|Ebmaj7|Em7b5|Ebmaj7|Dm7|Db7#11|Cm7|Cm7/F"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Gm,F|Eb,F|Gm7,F"
+      },
+      "Endings": [
+        {
+          "Chords": "Eb,F"
+        },
+        {
+          "Chords": "Eb"
+        }
+      ]
+    },
+    {
+      "MainSegment": {
+        "Chords": "Gm7|Gm7|Fm/maj7/G|Fm/maj7/G|Dm7/G|Dm7/G|Fmaj7|Fmaj7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ebmaj7|Ebmaj7,Em|Em|Em,Cm7/F|Cm7/F|Cm7/F||,,F,Gm"
+      },
+      "Endings": []
+    }
+  ]
+}

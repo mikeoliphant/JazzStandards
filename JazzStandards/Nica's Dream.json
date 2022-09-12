@@ -21,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Bbm/maj7|Abm/maj7|Gb7|C7#5#9|F7#5|F7#5|Bbm/maj7"
+        "Chords": "Bbm/maj7|Abm/maj7|Gb7|C7#5#9|F7#5|F7#5|Bbm/maj7,|"
       },
       "Endings": []
     }

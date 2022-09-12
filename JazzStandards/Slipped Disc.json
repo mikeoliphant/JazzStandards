@@ -33,13 +33,13 @@
       "Endings": []
     },
     {
-      "Label": "C",
       "MainSegment": {
-        "Chords": ""
+        "Chords": "|"
       },
       "Endings": []
     },
     {
+      "Label": "C",
       "MainSegment": {
         "Chords": "Db,D07|Ab/Eb,Ab7|Db,D07|Ab/Eb,Ab7|Db,D07|Ab/Eb,F7"
       },

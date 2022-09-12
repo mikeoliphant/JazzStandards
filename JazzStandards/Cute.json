@@ -1,0 +1,36 @@
+{
+  "Title": "Cute",
+  "Composer": "Hefti Neal",
+  "Key": "F",
+  "Rhythm": "Medium Swing",
+  "Sections": [
+    {
+      "Label": "i",
+      "MainSegment": {
+        "Chords": "Bb6,,Am7,Ab7|Gm7,,C7,F6|||Bb6,,Am7,Ab7|Gm7,,C7,F7|||Bb6,Am7,Gm7,Bbm||F,Bb6,A7,Dm7|"
+      },
+      "Endings": [
+        {
+          "Chords": "Dm6,,Dm/C,Bm7b5|Bm7,,E7,A||"
+        },
+        {
+          "Chords": "Bb6,,Am7,Ab7|Gm7,,C7,F6||"
+        }
+      ]
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Gm7|C7|Am7|D7|Gm7|C7|Cm7|F7|Bbmaj7|Eb7|Am7|Dm7"
+      },
+      "Endings": [
+        {
+          "Chords": "Bm7b5|E7b9|Amaj7|Am7b5,Ab7"
+        },
+        {
+          "Chords": "Gm7|C7sus,C7b9|Fmaj7,Gm7|Am7,D7b9"
+        }
+      ]
+    }
+  ]
+}

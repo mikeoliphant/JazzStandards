@@ -2855,7 +2855,7 @@
       {
         "Label": "i",
         "MainSegment": {
-          "Chords": "E7#11,Eb7|Db7#11|Gb/C,F7#5|Bbm7|E7#11,Eb7|Db7#11|Gb/C,F7#5|Bbm7|Gb13|Bbm7|Gb13"
+          "Chords": "|E7#11,Eb7|Db7#11|Gb/C,F7#5|Bbm7|E7#11,Eb7|Db7#11|Gb/C,F7#5|Bbm7|Gb13|Bbm7|Gb13"
         },
         "Endings": []
       },
@@ -6428,7 +6428,7 @@
       {
         "Label": "B",
         "MainSegment": {
-          "Chords": "Bb7|A7#5#9|Abmaj7/Bb|Abmaj7#5/Bb|Abmaj7/Bb|Bb13|Eb13sus|Eb13sus|Eb7#5#9|Eb7#5#9|Ab13sus|Ab13sus,Ab13sus,Ab13sus/C,C7/E|Fm7|Fm7,Am7"
+          "Chords": ",Bb7||||Abmaj7/Bb|Abmaj7#5/Bb|Abmaj7/Bb|Bb13|Eb13sus|Eb13sus|Eb7#5#9|Eb7#5#9|Ab13sus|Ab13sus,Ab13sus,Ab13sus/C,C7/E|,Fm7|Fm7,Am7"
         },
         "Endings": []
       },
@@ -6975,6 +6975,47 @@
       {
         "MainSegment": {
           "Chords": "Fm11|Fm11|Fm11|Fm11|Db7#11|Db7#11|Db7#11|Db7#11|Dm11|Dm11|Dm11|Dm11|Fm11|Fm11|Fm11|Fm11"
+        },
+        "Endings": []
+      }
+    ]
+  },
+  {
+    "Title": "Captain Marvel",
+    "Composer": "Corea Chick",
+    "Key": "C",
+    "Rhythm": "Samba",
+    "Sections": [
+      {
+        "MainSegment": {
+          "Chords": "Em7|Em7|Bm7|Bm7|F#m7|F#m7|Bbm7|Bbm7/Ab|Gm7b5|C7b9|Dbmaj7|Gbmaj7#11|Cm7/F|F7|Bbmaj7|Bbmaj7|Ebmaj7#11|Ebmaj7#11|Bbmaj7/D|Db7|Cm7|F7,F#0|Gm7|Gm7|Abmaj7|Abmaj7|Dm7|Ebmaj7|Em7b5|Ebmaj7|Dm7|Db7#11|Cm7|Cm7/F"
+        },
+        "Endings": []
+      },
+      {
+        "Label": "B",
+        "MainSegment": {
+          "Chords": "Gm,F|Eb,F|Gm7,F"
+        },
+        "Endings": [
+          {
+            "Chords": "Eb,F"
+          },
+          {
+            "Chords": "Eb"
+          }
+        ]
+      },
+      {
+        "MainSegment": {
+          "Chords": "Gm7|Gm7|Fm/maj7/G|Fm/maj7/G|Dm7/G|Dm7/G|Fmaj7|Fmaj7"
+        },
+        "Endings": []
+      },
+      {
+        "Label": "A",
+        "MainSegment": {
+          "Chords": "Ebmaj7|Ebmaj7,Em|Em|Em,Cm7/F|Cm7/F|Cm7/F||,,F,Gm"
         },
         "Endings": []
       }
@@ -7706,7 +7747,7 @@
     "Sections": [
       {
         "MainSegment": {
-          "Chords": "F7|Bb7|F7|Bb7|F7|Bb7|F7|Bb7|Dbmaj7|Ebadd9,F7"
+          "Chords": "F7|Bb7|F7|Bb7|F7|Bb7|F7|Bb7|Dbmaj7|Ebadd9,F7||"
         },
         "Endings": []
       }
@@ -8602,6 +8643,42 @@
           "Chords": "Am7|Em7|Fmaj7#11|Bm7|Bbmaj7#11|Am9|Bm,C,D7,E7|Am7|Bbmaj7#11"
         },
         "Endings": []
+      }
+    ]
+  },
+  {
+    "Title": "Cute",
+    "Composer": "Hefti Neal",
+    "Key": "F",
+    "Rhythm": "Medium Swing",
+    "Sections": [
+      {
+        "Label": "i",
+        "MainSegment": {
+          "Chords": "Bb6,,Am7,Ab7|Gm7,,C7,F6|||Bb6,,Am7,Ab7|Gm7,,C7,F7|||Bb6,Am7,Gm7,Bbm||F,Bb6,A7,Dm7|"
+        },
+        "Endings": [
+          {
+            "Chords": "Dm6,,Dm/C,Bm7b5|Bm7,,E7,A||"
+          },
+          {
+            "Chords": "Bb6,,Am7,Ab7|Gm7,,C7,F6||"
+          }
+        ]
+      },
+      {
+        "Label": "A",
+        "MainSegment": {
+          "Chords": "Gm7|C7|Am7|D7|Gm7|C7|Cm7|F7|Bbmaj7|Eb7|Am7|Dm7"
+        },
+        "Endings": [
+          {
+            "Chords": "Bm7b5|E7b9|Amaj7|Am7b5,Ab7"
+          },
+          {
+            "Chords": "Gm7|C7sus,C7b9|Fmaj7,Gm7|Am7,D7b9"
+          }
+        ]
       }
     ]
   },
@@ -11854,14 +11931,14 @@
       {
         "Label": "A",
         "MainSegment": {
-          "Chords": "Fm6,Bb6|Eb7sus,Ab7sus|Dbmaj7,C7|Gbm7,Bbm|Eb7#9/F|Eb7#9/F|Eb7#9/F|Eb7#9/F|Fm7|Fm7"
+          "Chords": "Fm6,Bb6|Eb7sus,Ab7sus|Dbmaj7,C7||Gbm7,Bbm||Eb7#9/F|Eb7#9/F|Eb7#9/F|Eb7#9/F||Fm7|Fm7"
         },
         "Endings": []
       },
       {
         "Label": "B",
         "MainSegment": {
-          "Chords": "Fm6,Bb6|Eb7sus,Ab7sus|Dbmaj7,C7|Amaj7#11,Cmaj7|Eb7#9/F|Eb7#9/F|Eb7#9/F|Eb7#9/F|Fm7|Fm7"
+          "Chords": "Fm6,Bb6|Eb7sus,Ab7sus|Dbmaj7,C7||Amaj7#11,Cmaj7||Eb7#9/F|Eb7#9/F|Eb7#9/F|Eb7#9/F|||Fm7|Fm7"
         },
         "Endings": []
       }
@@ -14034,7 +14111,7 @@
       {
         "Label": "B",
         "MainSegment": {
-          "Chords": "Ebm7|Ab7|Dbmaj7|Bbm7|Ebm7|Ab7|Cm11"
+          "Chords": "Ebm7|Ab7|Dbmaj7|Bbm7|Ebm7|Ab7|Cm11|"
         },
         "Endings": []
       },
@@ -15154,7 +15231,7 @@
             "Chords": "Ab7#5#9"
           },
           {
-            "Chords": "Gbm7/Ab,Db7#9"
+            "Chords": "Gbm7/Ab,Db7#9||"
           }
         ]
       },
@@ -19604,7 +19681,7 @@
     "Sections": [
       {
         "MainSegment": {
-          "Chords": "Fm6|Fm6|Fm6|F,F,F7b9|Bbm7|Bbm7|Fm6|Fm6|Db7|C7b9|Fm6|Gm7b5,C7b9"
+          "Chords": "Fm6|Fm6|Fm6|Fm6,Fm6,F7b9|Bbm7|Bbm7|Fm6|Fm6|Db7|C7b9|Fm6|Gm7b5,C7b9"
         },
         "Endings": []
       }
@@ -19619,7 +19696,7 @@
       {
         "Label": "A",
         "MainSegment": {
-          "Chords": "Cm7|Cm7|Cm7|Cm7|Cm7|Bmaj7#11|Bmaj7#11|Bmaj7#11|Bmaj7#11|Bmaj7#11|Bmaj7#11|Bb7sus|Bb7sus|Bb7sus|Bb7sus|A7sus,,F#7sus,Eb7sus|C7sus,,A7sus,F#7sus|F7sus|F7sus|F7sus|F7sus"
+          "Chords": "Cm7,||Cm7|Cm7|Cm7|Cm7|Bmaj7#11|Bmaj7#11|Bmaj7#11|Bmaj7#11|Bmaj7#11|Bmaj7#11|Bb7sus|Bb7sus|Bb7sus|Bb7sus|A7sus,,F#7sus,Eb7sus|C7sus,,A7sus,F#7sus|F7sus|F7sus|F7sus|F7sus"
         },
         "Endings": []
       },
@@ -19831,7 +19908,7 @@
       },
       {
         "MainSegment": {
-          "Chords": "Ab7sus,Bb7sus|Bb7"
+          "Chords": "Ab7sus,Bb7sus|Bb7,"
         },
         "Endings": []
       }
@@ -25748,7 +25825,7 @@
             "Chords": "Gm7,C7|Abm7,Db7|Gb6|Fm7,Bb7"
           },
           {
-            "Chords": "Gm7,C7|Fm7,Bb7|Eb6/Bb|Fm7/Bb|Gm7/Bb|Fm7/Bb|Eb6/Bb,Fm7/Bb|Gm7/Bb,Fm7/Bb|Eb6"
+            "Chords": "Gm7,C7|Fm7,Bb7|Eb6/Bb|Fm7/Bb|Gm7/Bb|Fm7/Bb|Eb6/Bb,Fm7/Bb|Gm7/Bb,Fm7/Bb|Eb6,|"
           }
         ]
       }
@@ -27700,7 +27777,7 @@
       {
         "Label": "A",
         "MainSegment": {
-          "Chords": "Bbm/maj7|Abm/maj7|Gb7|C7#5#9|F7#5|F7#5|Bbm/maj7"
+          "Chords": "Bbm/maj7|Abm/maj7|Gb7|C7#5#9|F7#5|F7#5|Bbm/maj7,|"
         },
         "Endings": []
       }
@@ -30720,7 +30797,7 @@
       {
         "Label": "A",
         "MainSegment": {
-          "Chords": "Dmaj13|Dmaj13,Dmaj13,Bb13b9|Bmaj7|G13,Abmaj7|Fm7b9|Bb7|Emaj9#11|Emaj9#11|Emaj9#11|E,E,Eb7b9"
+          "Chords": "Dmaj13|Dmaj13,Dmaj13,Bb13b9|Bmaj7|G13,Abmaj7|Fm7b9|Bb7|Emaj9#11|Emaj9#11|Emaj9#11|Emaj9#11,Emaj9#11,Eb7b9"
         },
         "Endings": []
       },
@@ -32892,7 +32969,7 @@
     "Sections": [
       {
         "MainSegment": {
-          "Chords": "D7,Eb7|D7,Eb7|D7,Eb7|D7,Eb7|D7,Eb7|D7,Eb7|D7,Eb7|D7,Eb7|G7,Ab7|G7,Ab7|G7,Ab7|G7,Ab7|D7,Eb7|D7,Eb7|D7,Eb7|Gm7b5,C7b9|Fm7,Bb7|Fm7,Bb7|Fm7,Bb7|Fm7,Bb7|D7,Eb7|D7,Eb7|Eb7"
+          "Chords": ",Eb7|,Eb7|,Eb7|,Eb7|,Eb7|,Eb7|,Eb7|,Eb7|,Ab7|,Ab7|,Ab7|,Ab7|,Eb7|,Eb7|,Eb7|,C7b9|,Bb7|,Bb7|,Bb7|,Bb7|,Eb7|,Eb7|Eb7,|"
         },
         "Endings": []
       }
@@ -33175,13 +33252,13 @@
         "Endings": []
       },
       {
-        "Label": "C",
         "MainSegment": {
-          "Chords": ""
+          "Chords": "|"
         },
         "Endings": []
       },
       {
+        "Label": "C",
         "MainSegment": {
           "Chords": "Db,D07|Ab/Eb,Ab7|Db,D07|Ab/Eb,Ab7|Db,D07|Ab/Eb,F7"
         },
