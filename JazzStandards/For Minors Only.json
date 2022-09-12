@@ -2,6 +2,7 @@
   "Title": "For Minors Only",
   "Composer": "Heath Jimmy",
   "Key": "C-",
+  "Rhythm": "Up Tempo Swing",
   "Sections": [
     {
       "MainSegment": {
@@ -16,10 +17,10 @@
       },
       "Endings": [
         {
-          "Chords": "C-7,W/Bb|Ab7,G7b13|C-7|G7#11"
+          "Chords": "C-7,C-7/Bb|Ab7,G7b13|C-7|G7#11"
         },
         {
-          "Chords": "C-7,W/Bb|Ab7,G7b13|C-7|(Dh7)x,(G7)"
+          "Chords": "C-7,C-7/Bb|Ab7,G7b13|C-7|C-7(Dh7),(G7)"
         }
       ]
     }

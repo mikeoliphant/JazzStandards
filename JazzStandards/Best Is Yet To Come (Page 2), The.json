@@ -2,6 +2,7 @@
   "Title": "Best Is Yet To Come (Page 2), The",
   "Composer": "Coleman Cy",
   "Key": "Ab",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "C",
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "A^7,A7|A6,,A+,A|F#7|F#7|B7|E7|A6|A6"
+        "Chords": "A^7,A7|A6,,Aaug,A|F#7|F#7|B7|E7|A6|A6"
       },
       "Endings": []
     }

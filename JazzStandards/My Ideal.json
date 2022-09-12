@@ -2,6 +2,7 @@
   "Title": "My Ideal",
   "Composer": "Whiting Richard",
   "Key": "Eb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Eb6,C9#5|F-7|Db7,C9#5|F7|F-7,Ab-6|Eb^,Ab7,G-7,C7|B7,Bb7|Eb6"
+        "Chords": "Eb6,C9#5|F-7|Db7,C9#5|F7|F-7,Ab-6|Eb,Ab7,G-7,C7|B7,Bb7|Eb6"
       },
       "Endings": []
     }

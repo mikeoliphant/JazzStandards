@@ -2,6 +2,7 @@
   "Title": "Bernie's Tune",
   "Composer": "Miller Bernie",
   "Key": "D-",
+  "Rhythm": "Medium Up Swing",
   "Sections": [
     {
       "Label": "A",
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "D-7|D-7|Bb7#11|Bb7#11|Eh7|A7b9|D-7|(Eh7)x,(A7b9)"
+        "Chords": "D-7|D-7|Bb7#11|Bb7#11|Eh7|A7b9|D-7|D-7(Eh7),(A7b9)"
       },
       "Endings": []
     }

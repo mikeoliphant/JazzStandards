@@ -2,11 +2,12 @@
   "Title": "Lady Sings The Blues",
   "Composer": "Nichols-Holiday",
   "Key": "F-",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F-|F-#5|F-6|F-7|F^7|Bb^7|F^7,Eb7,D7,|G-7,C7b9"
+        "Chords": "F-|F-aug|F-6|F-7|F^7|Bb^7|F^7,Eb7,D7,|G-7,C7b9"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F-|F-#5|F-6|F-7|F^7|Bb^7|F^7,Eb7,D7,|G-7,C7b9"
+        "Chords": "F-|F-aug|F-6|F-7|F^7|Bb^7|F^7,Eb7,D7,|G-7,C7b9"
       },
       "Endings": []
     },

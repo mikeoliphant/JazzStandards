@@ -2,6 +2,7 @@
   "Title": "Down For Double",
   "Composer": "Green Freddie",
   "Key": "Bb",
+  "Rhythm": "Medium Up Swing",
   "Sections": [
     {
       "Label": "A",
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Bb6,G7|C7,F7|Bb6,G7|C7,F7|Bb6,G7|C7,F7|Bb6,(C-7)|(Dbo7)x,(Bb6)"
+        "Chords": "Bb6,G7|C7,F7|Bb6,G7|C7,F7|Bb6,G7|C7,F7|Bb6,(C-7)|Bb6(Dbo7),(Bb6)"
       },
       "Endings": []
     }

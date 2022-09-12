@@ -2,24 +2,25 @@
   "Title": "Bat, The",
   "Composer": "Metheny Pat",
   "Key": "G",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "G,D/F#,E-,A7|D,D,A-7,D7|G,D/F#,E-,A7sus|D,D,A-,|Db/Cb,Db/Cb,Bb13b9,"
+        "Chords": "G,D/F#,E-,A7|D,D,A-7,D7|G,D/F#,E-,A7sus|D,D,A-,|Db/B,Db/B,Bb13b9,"
       },
       "Endings": []
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Eb-7,Eb-7,C#-7,F#7|Ch7,Ch7,Cb^7,Db/Cb|Gb/Bb,Eb-7,D13,Db13|C13b9,F-7|Fh7,Bb7#5"
+        "Chords": "Eb-7,Eb-7,C#-7,F#7|Ch7,Ch7,B^7,Db/B|Gb/Bb,Eb-7,D13,Db13|C13b9,F-7|Fh7,Bb7#5"
       },
       "Endings": []
     },
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "Eb^7,Eb^7,Bb/D,Bb/D|Ab/C,Ab/C,Ab-/Cb,Ab-/Cb|Eb/Bb,Eb/Bb,Eb/Bb,Eb/Bb|Ab/Bb,Ab/Bb,Ah7,D7"
+        "Chords": "Eb^7,Eb^7,Bb/D,Bb/D|Ab/C,Ab/C,Ab-/B,Ab-/B|Eb/Bb,Eb/Bb,Eb/Bb,Eb/Bb|Ab/Bb,Ab/Bb,Ah7,D7"
       },
       "Endings": []
     },

@@ -2,6 +2,7 @@
   "Title": "Ballade",
   "Composer": "Parker Charlie",
   "Key": "F",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "C-7,F7|Bb^7|Bb-7,Eb7|F^7,,Eh,A7|D-7|D-7,G7|G-7,D7#9|G-7,C7#9"
+        "Chords": "C-7,F7|Bb^7|Bb-7,Eb7|F^7,,Eh7,A7|D-7|D-7,G7|G-7,D7#9|G-7,C7#9"
       },
       "Endings": []
     },

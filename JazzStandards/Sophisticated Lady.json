@@ -2,6 +2,7 @@
   "Title": "Sophisticated Lady",
   "Composer": "Ellington Duke",
   "Key": "Ab",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "B",
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "G^7,E-7|A-7,D7|B-7,E7b9|A-7,D7b9|G^7,E-7|A-7,D7|G^7,C-7|Bb-7,,Ch,F7"
+        "Chords": "G^7,E-7|A-7,D7|B-7,E7b9|A-7,D7b9|G^7,E-7|A-7,D7|G^7,C-7|Bb-7,,Ch7,F7"
       },
       "Endings": []
     },

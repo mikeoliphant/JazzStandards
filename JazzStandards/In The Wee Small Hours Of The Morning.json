@@ -2,18 +2,19 @@
   "Title": "In The Wee Small Hours Of The Morning",
   "Composer": "Mann-Hilliard",
   "Key": "C",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C^7,C7|C6,C+|C^7,C+|D-7,G7|D-7,G7|Eh7,A7|F#h7,B7|E-7,A7,D-7,G7"
+        "Chords": "C^7,C7|C6,Caug|C^7,Caug|D-7,G7|D-7,G7|Eh7,A7|F#h7,B7|E-7,A7,D-7,G7"
       },
       "Endings": []
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "C^7,C7|C6,C+|C^7,Eh7|A7|D-7,D#o7|E-7,A7|D-7|Ab7#11,G7|C6|D-7,G7"
+        "Chords": "C^7,C7|C6,Caug|C^7,Eh7|A7|D-7,D#o7|E-7,A7|D-7|Ab7#11,G7|C6|D-7,G7"
       },
       "Endings": []
     }

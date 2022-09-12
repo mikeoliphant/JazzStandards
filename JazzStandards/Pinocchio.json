@@ -2,10 +2,11 @@
   "Title": "Pinocchio",
   "Composer": "Shorter Wayne",
   "Key": "Eb-",
+  "Rhythm": "Up Tempo Swing",
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "Gb^7#11|Gb^7#11,Gb^7#11,A-9|Db-69(E^7#11)|Db-69(E^7#11),Db-69(E^7#11),A-9|D^7#5|B-^7|G-^7|G-^7|G-6(Bb^7#11)|Eb^7,B-9|Gb^7#11|Gb^7#11|C#-9|E-9|Eb^7#5(B7alt)|F#13|F#-9|F#-9"
+        "Chords": "Gb^7#11|Gb^7#11,Gb^7#11,A-9|Db-69(E^7#11)|Db-69,Db-69,A-9|D^7#5|B-^7|G-^7|G-^7|G-6(Bb^7#11)|Eb^7,B-9|Gb^7#11|Gb^7#11|C#-9|E-9|Eb^7#5(B7alt)|F#13|F#-9|F#-9"
       },
       "Endings": []
     }

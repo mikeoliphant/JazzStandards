@@ -2,11 +2,12 @@
   "Title": "Tones For Joan's Bones",
   "Composer": "Corea Chick",
   "Key": "D",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "i",
       "MainSegment": {
-        "Chords": "E-7|E-7|E-7|E-7|Eh7|Eh7|Eh7|Eh,Eb7"
+        "Chords": "E-7|E-7|E-7|E-7|Eh7|Eh7|Eh7|Eh7,Eb7"
       },
       "Endings": []
     },

@@ -2,11 +2,12 @@
   "Title": "Simone",
   "Composer": "Foster Frank",
   "Key": "D-",
+  "Rhythm": "Waltz",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "D-7|A7sus|D-7|Eb7#11|D-7|A7sus|D7sus|Ab7|G-7|A-7|Bb-7|Eb7|D-7|E-7|F^7|F#-7|F-7|Bb7|E-7|A7b9b5|D-7|A7sus|D-7|Eb^7#11"
+        "Chords": "D-7|A7sus|D-7|Eb7#11|D-7|A7sus|D7sus|Ab7|G-7|A-7|Bb-7|Eb7|D-7|E-7|F^7|F#-7|F-7|Bb7|E-7|A7b5b9|D-7|A7sus|D-7|Eb^7#11"
       },
       "Endings": []
     }

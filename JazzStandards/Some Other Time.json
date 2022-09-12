@@ -2,11 +2,12 @@
   "Title": "Some Other Time",
   "Composer": "Bernstein Leonard",
   "Key": "C",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C^7,G7sus|C^7,G7sus|C^7,G7sus|C^,C^/G,F#h,F-7|E-7,A7|D-7,G7sus"
+        "Chords": "C^7,G7sus|C^7,G7sus|C^7,G7sus|C,C/G,F#h7,F-7|E-7,A7|D-7,G7sus"
       },
       "Endings": [
         {
@@ -20,14 +21,14 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Ab^7,Eb7|Ab^7,Eb7|Ab^7,Eb7|Ab^7,Eb7|Ab^7,G7b13|C^,E-7,A-7,A7|Ab7#11|D-7,G7"
+        "Chords": "Ab^7,Eb7|Ab^7,Eb7|Ab^7,Eb7|Ab^7,Eb7|Ab^7,G7b13|C,E-7,A-7,A7|Ab7#11|D-7,G7"
       },
       "Endings": []
     },
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C^7,G7sus|C^7,G7sus|C^7,G7sus|C^,C^/G,F#h,F-7|E-7,A7|D-7,G7sus|C^7,G7sus|C^7,G7sus"
+        "Chords": "C^7,G7sus|C^7,G7sus|C^7,G7sus|C,C/G,F#h7,F-7|E-7,A7|D-7,G7sus|C^7,G7sus|C^7,G7sus"
       },
       "Endings": []
     }

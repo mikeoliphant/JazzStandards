@@ -2,6 +2,7 @@
   "Title": "Look Of Love, The",
   "Composer": "Bacharach Burt",
   "Key": "Bb",
+  "Rhythm": "Bossa Nova",
   "Sections": [
     {
       "Label": "B",
@@ -25,7 +26,7 @@
     },
     {
       "MainSegment": {
-        "Chords": "F6|E/F|Eb/F|D/F|Bb2/F|Db6/F|Eb^7/F|Eb^7/F|Bb^7/F|Bb-7/F"
+        "Chords": "F6|E/F|Eb/F|D/F|Bb/F|Db6/F|Eb^7/F|Eb^7/F|Bb^7/F|Bb-7/F"
       },
       "Endings": []
     },

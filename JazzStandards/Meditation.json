@@ -2,18 +2,19 @@
   "Title": "Meditation",
   "Composer": "Jobim Antonio-Carlos",
   "Key": "C",
+  "Rhythm": "Bossa Nova",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C6|C6|B7sus|B7|C6|C6|E-7|A7b13|D-7|D-7|F-6|(Bb7)x|E-7|A7b13|D-7|G7#5"
+        "Chords": "C6|C6|B7sus|B7|C6|C6|E-7|A7b13|D-7|D-7|F-6|F-6(Bb7)|E-7|A7b13|D-7|G7#5"
       },
       "Endings": []
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "F^7|F^7|F-6|(Bb7)x|E-7|Ebo7|D-7|G7#5"
+        "Chords": "F^7|F^7|F-6|F-6(Bb7)|E-7|Ebo7|D-7|G7#5"
       },
       "Endings": []
     },

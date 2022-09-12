@@ -2,6 +2,7 @@
   "Title": "One By One",
   "Composer": "Shorter Wayne",
   "Key": "G-",
+  "Rhythm": "Medium Up Swing",
   "Sections": [
     {
       "Label": "i",
@@ -13,7 +14,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Ah7,D7b13|G-7,,(F-7),(Bb7)|C-7(Eb),(C-7)F7(F7)|Bb^7|A7#9,Ab7|G-7,Bb7/F|Eh7,D7b13|G-7"
+        "Chords": "Ah7,D7b13|G-7,,(F-7),(Bb7)|C-7(Eb),F7(C-7)|Bb^7|A7#9,Ab7|G-7,Bb7/F|Eh7,D7b13|G-7"
       },
       "Endings": []
     },
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Ah7,D7b13|G-7,,(F-7),(Bb7)|C-7(Eb),(C-7)F7(F7)|Bb^7|A7#9,Ab7|G-7,Bb7/F|Eh7,D7b13|G-7"
+        "Chords": "Ah7,D7b13|G-7,,(F-7),(Bb7)|C-7(Eb),F7(C-7)|Bb^7|A7#9,Ab7|G-7,Bb7/F|Eh7,D7b13|G-7"
       },
       "Endings": []
     }

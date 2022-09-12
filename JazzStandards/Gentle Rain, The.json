@@ -2,11 +2,12 @@
   "Title": "Gentle Rain, The",
   "Composer": "Bonfa Luiz",
   "Key": "A-",
+  "Rhythm": "Bossa Nova",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "A-6|A-6|E7b9/G#(Bh7)|(E7b9)x|G-6(A-7),(D7)|C7(G-7),(C7)|F6|F6|F#h7|B7b9|Eh7|A7b9|Dh7|Bh7,E7b9"
+        "Chords": "A-6|A-6|E7b9/G#(Bh7)|E7b9/G#(E7b9)|G-6(A-7),(D7)|C7(G-7),(C7)|F6|F6|F#h7|B7b9|Eh7|A7b9|Dh7|Bh7,E7b9"
       },
       "Endings": [
         {

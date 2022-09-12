@@ -2,11 +2,12 @@
   "Title": "Room 608",
   "Composer": "Silver Horace",
   "Key": "Bb",
+  "Rhythm": "Medium Up Swing",
   "Sections": [
     {
       "Label": "i",
       "MainSegment": {
-        "Chords": "C-7/F|D-7/F|C-7/F|F7#9#11|D7#9#11,Db7#9#11|C7#9#11|F6|F7#9#5"
+        "Chords": "C-7/F|D-7/F|C-7/F|F7#9#11|D7#9#11,Db7#9#11|C7#9#11|F6|F7#5#9"
       },
       "Endings": []
     },

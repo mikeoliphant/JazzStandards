@@ -2,6 +2,7 @@
   "Title": "Gloria's Step",
   "Composer": "LaFaro Scott",
   "Key": "F",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -12,7 +13,7 @@
     },
     {
       "MainSegment": {
-        "Chords": "E-7|F^7|A-7|Eh7|Gh7|Dh7|Fh7|Bbh7|Eb7#9#5|Eb7#9#5"
+        "Chords": "E-7|F^7|A-7|Eh7|Gh7|Dh7|Fh7|Bbh7|Eb7#5#9|Eb7#5#9"
       },
       "Endings": []
     }

@@ -2,11 +2,12 @@
   "Title": "Isn't It A Pity",
   "Composer": "Gershwin George",
   "Key": "C",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C^7,A-7|F#h7,B7b9|E-7,A7|D-7,G7|C^7,,G-7,C7|F^,E-7,D-7,G7"
+        "Chords": "C^7,A-7|F#h7,B7b9|E-7,A7|D-7,G7|C^7,,G-7,C7|F,E-7,D-7,G7"
       },
       "Endings": [
         {
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C^7,A-7|F#h7,B7b9|E-7,A7|D-7,G7|C^7,,G-7,C7|F^,E-7,D-7,G7|C6|D-7,G7"
+        "Chords": "C^7,A-7|F#h7,B7b9|E-7,A7|D-7,G7|C^7,,G-7,C7|F,E-7,D-7,G7|C6|D-7,G7"
       },
       "Endings": []
     }

@@ -2,11 +2,12 @@
   "Title": "A Nightingale Sang In Berkeley Square",
   "Composer": "Sherwin Manning",
   "Key": "Eb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Eb^7,C-7|G-7,,Bb-7,Eb7|Ab^7,,Dh,G7|C-,Ab-6|Eb^7/Bb,F-7|Eb^7/G,,Ab-7,Db7|Eb^7,C-7|F-7,Bb7"
+        "Chords": "Eb^7,C-7|G-7,,Bb-7,Eb7|Ab^7,,Dh7,G7|C-,Ab-6|Eb^7/Bb,F-7|Eb^7/G,,Ab-7,Db7|Eb^7,C-7|F-7,Bb7"
       },
       "Endings": [
         {
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Eb^7,C-7|G-7,,Bb-7,Eb7|Ab^7,,Dh,G7|C-,Ab-6|Eb^7/Bb,F-7|Eb^7/G,,Ab-7,Db7|Eb^7,C-7|F-7,Bb7|Eb^7,C-7|F-7,Bb7"
+        "Chords": "Eb^7,C-7|G-7,,Bb-7,Eb7|Ab^7,,Dh7,G7|C-,Ab-6|Eb^7/Bb,F-7|Eb^7/G,,Ab-7,Db7|Eb^7,C-7|F-7,Bb7|Eb^7,C-7|F-7,Bb7"
       },
       "Endings": []
     }

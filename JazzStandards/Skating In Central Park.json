@@ -2,6 +2,7 @@
   "Title": "Skating In Central Park",
   "Composer": "Lewis John",
   "Key": "C",
+  "Rhythm": "Waltz",
   "Sections": [
     {
       "Label": "A",
@@ -33,7 +34,7 @@
     },
     {
       "MainSegment": {
-        "Chords": "C^7/G|C7b9/Gb|F^7|Cadd9/E|D-9|G7|E-7|A-7|D7|F#o7|C/G|C+/G#|A-7,G6|F-7,Eb^7|Db^7#11|Db^7#11|C^7#5|Db/C|Bb/C|B/C,C|C^9"
+        "Chords": "C^7/G|C7b9/Gb|F^7|Cadd9/E|D-9|G7|E-7|A-7|D7|F#o7|C/G|Caug/G#|A-7,G6|F-7,Eb^7|Db^7#11|Db^7#11|C^7#5|Db/C|Bb/C|B/C,C|C^9"
       },
       "Endings": []
     }

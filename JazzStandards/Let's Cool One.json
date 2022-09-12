@@ -2,11 +2,12 @@
   "Title": "Let's Cool One",
   "Composer": "Monk Thelonious",
   "Key": "Eb",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Eb^7|F-7,Bb7|Eb^,D7,Db7,G7|C7b9#11|F7|Bb7|Eb6|(F-7)x,(Bb7)"
+        "Chords": "Eb^7|F-7,Bb7|Eb,D7,Db7,G7|C7b9#11|F7|Bb7|Eb6|Eb6(F-7),(Bb7)"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Eb^7|F-7,Bb7|Eb^,D7,Db7,G7|C7b9#11|F7|Bb7|Eb6|(F-7)x,(Bb7)"
+        "Chords": "Eb^7|F-7,Bb7|Eb,D7,Db7,G7|C7b9#11|F7|Bb7|Eb6|Eb6(F-7),(Bb7)"
       },
       "Endings": []
     }

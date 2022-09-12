@@ -2,6 +2,7 @@
   "Title": "Brother Can You Spare A Dime",
   "Composer": "Yarburg-Gorney",
   "Key": "C-",
+  "Rhythm": "Slow Swing",
   "Sections": [
     {
       "Label": "v",
@@ -24,7 +25,7 @@
       },
       "Endings": [
         {
-          "Chords": "C-,Dh,G7,"
+          "Chords": "C-,Dh7,G7,"
         },
         {
           "Chords": "C-"

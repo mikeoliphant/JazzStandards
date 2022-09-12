@@ -2,6 +2,7 @@
   "Title": "Orange Colored Sky",
   "Composer": "DeLugg-Stein",
   "Key": "Bb",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Eb^7|Bb7#9#5|Ah7,D7b9|G-|G-,G-b6|G-6,G-7|F7|C-7,F7"
+        "Chords": "Eb^7|Bb7#5#9|Ah7,D7b9|G-|G-,G-b6|G-6,G-7|F7|C-7,F7"
       },
       "Endings": []
     },

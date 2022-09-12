@@ -2,6 +2,7 @@
   "Title": "Tonight I Shall Sleep",
   "Composer": "Ellington-Mercer",
   "Key": "Db",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Eb-7|Ab7|Db^7,Ab7|Db^,Gb7,F-7,E7|Eb7|Bb-7,Eb7|E-7,A7|Eb-7,Ab7"
+        "Chords": "Eb-7|Ab7|Db^7,Ab7|Db,Gb7,F-7,E7|Eb7|Bb-7,Eb7|E-7,A7|Eb-7,Ab7"
       },
       "Endings": []
     },

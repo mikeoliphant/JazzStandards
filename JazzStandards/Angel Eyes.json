@@ -2,11 +2,12 @@
   "Title": "Angel Eyes",
   "Composer": "Dennis Matt",
   "Key": "C-",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C-,,D7,Db7(G7)|C-,Ab7|C-,Ah7|Dh7,G7b9|C-,,D7,Db7(G7)|C-,A7alt|Ab7,G7b9|C-,,(Dh),(G7)"
+        "Chords": "C-,,D7,Db7(G7)|C-,Ab7|C-,Ah7|Dh7,G7b9|C-,,D7,Db7(G7)|C-,A7alt|Ab7,G7b9|C-,,(Dh7),(G7)"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C-,,D7,Db7(G7)|C-,Ab7|C-,Ah7|Dh7,G7b9|C-,,D7,Db7(G7)|C-,A7alt|Ab7,G7b9|C-,,(Dh),(G7)"
+        "Chords": "C-,,D7,Db7(G7)|C-,Ab7|C-,Ah7|Dh7,G7b9|C-,,D7,Db7(G7)|C-,A7alt|Ab7,G7b9|C-,,(Dh7),(G7)"
       },
       "Endings": []
     }

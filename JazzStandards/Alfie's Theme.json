@@ -2,11 +2,12 @@
   "Title": "Alfie's Theme",
   "Composer": "Rollins Sonny",
   "Key": "Bb-",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Bb-7,Bb-7/Ab|Gh7,Gb^7|Bb-7/F,Gh7|Ch7,F7b9|Bb-7,Bb-7/Ab|Gh7,Eo7|Bb-7/F,Gh7|Ch,F7,Bb-7,"
+        "Chords": "Bb-7,Bb-7/Ab|Gh7,Gb^7|Bb-7/F,Gh7|Ch7,F7b9|Bb-7,Bb-7/Ab|Gh7,Eo7|Bb-7/F,Gh7|Ch7,F7,Bb-7,"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Bb-7,Bb-7/Ab|Gh7,Gb^7|Bb-7/F,Gh7|Ch7,F7b9|Bb-7,Bb-7/Ab|Gh7,Eo7|Bb-7/F,Gh7|Ch,F7,Bb-7,"
+        "Chords": "Bb-7,Bb-7/Ab|Gh7,Gb^7|Bb-7/F,Gh7|Ch7,F7b9|Bb-7,Bb-7/Ab|Gh7,Eo7|Bb-7/F,Gh7|Ch7,F7,Bb-7,"
       },
       "Endings": []
     }

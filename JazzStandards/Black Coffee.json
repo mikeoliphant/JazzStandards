@@ -2,11 +2,12 @@
   "Title": "Black Coffee",
   "Composer": "Burke-Webster",
   "Key": "C",
+  "Rhythm": "Slow Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C7#9,Db7#9|C7#9,Db7#9|C7#9,Db7#9|C7#9,Db7#9|F7|F7|C7#9,Db7#9|C7#9,A7b9b5|D-7|G7sus"
+        "Chords": "C7#9,Db7#9|C7#9,Db7#9|C7#9,Db7#9|C7#9,Db7#9|F7|F7|C7#9,Db7#9|C7#9,A7b5b9|D-7|G7sus"
       },
       "Endings": [
         {
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C7#9,Db7#9|C7#9,Db7#9|C7#9,Db7#9|C7#9,Db7#9|F7|F7|C7#9,Db7#9|C7#9,A7b9b5|D-7|G7sus|C7#9,Db7#9|C7#9,Db7#9"
+        "Chords": "C7#9,Db7#9|C7#9,Db7#9|C7#9,Db7#9|C7#9,Db7#9|F7|F7|C7#9,Db7#9|C7#9,A7b5b9|D-7|G7sus|C7#9,Db7#9|C7#9,Db7#9"
       },
       "Endings": []
     }

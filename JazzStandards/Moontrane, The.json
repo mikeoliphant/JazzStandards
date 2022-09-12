@@ -2,11 +2,12 @@
   "Title": "Moontrane, The",
   "Composer": "Shaw Woody",
   "Key": "D",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "i",
       "MainSegment": {
-        "Chords": "D^7|D^7|D^7|D^7|G^7#11|F^7#11|Eb^7#11|Db7#9#5|Bb^7#11|Bb^7#11|Bb^7#11|Bb^7#11"
+        "Chords": "D^7|D^7|D^7|D^7|G^7#11|F^7#11|Eb^7#11|Db7#5#9|Bb^7#11|Bb^7#11|Bb^7#11|Bb^7#11"
       },
       "Endings": []
     },

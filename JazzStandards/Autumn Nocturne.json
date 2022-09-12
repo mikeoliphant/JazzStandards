@@ -2,6 +2,7 @@
   "Title": "Autumn Nocturne",
   "Composer": "Gannon-Myrow",
   "Key": "C",
+  "Rhythm": "Slow Swing",
   "Sections": [
     {
       "Label": "A",
@@ -13,14 +14,14 @@
           "Chords": "D-7,G13(G7#5)|Bb9,A7|D9,G7#5"
         },
         {
-          "Chords": "Bb9,A7#5|D9,G7#5|C6,F#h,B7,"
+          "Chords": "Bb9,A7#5|D9,G7#5|C6,F#h7,B7,"
         }
       ]
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "E^7,F9|E^7,F9|E^7,F9|E^7,A-7,D7,|G^7,Ab9|G^7,Ab9|G^7,Eb7(Bb-7)D7(Ah7)|D-9,G7#5"
+        "Chords": "E^7,F9|E^7,F9|E^7,F9|E^7,A-7,D7,|G^7,Ab9|G^7,Ab9|G^7,Eb7(Bb-7)|D-9,G7#5"
       },
       "Endings": []
     },

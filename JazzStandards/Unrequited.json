@@ -2,6 +2,7 @@
   "Title": "Unrequited",
   "Composer": "Mehldau Brad",
   "Key": "C",
+  "Rhythm": "Even 8ths",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "E/C|C6|B7susadd3|E/B|E7/Bb|Eb7|Ab-9"
+        "Chords": "E/C|C6|B7sus|E/B|E7/Bb|Eb7|Ab-9"
       },
       "Endings": []
     }

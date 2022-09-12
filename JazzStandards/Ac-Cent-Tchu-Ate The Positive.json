@@ -2,11 +2,12 @@
   "Title": "Ac-Cent-Tchu-Ate The Positive",
   "Composer": "Arlen Harold",
   "Key": "F",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F,F+|F6,F^7|G-7|C7|F,F+|F6,F^7|G-7,C7|F6,C7"
+        "Chords": "F,Faug|F6,F^7|G-7|C7|F,Faug|F6,F^7|G-7,C7|F6,C7"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F,F+|F6,F^7|G-7|C7|F,F+|F6,F^7|G-7,C7|F6,C7"
+        "Chords": "F,Faug|F6,F^7|G-7|C7|F,Faug|F6,F^7|G-7,C7|F6,C7"
       },
       "Endings": []
     }

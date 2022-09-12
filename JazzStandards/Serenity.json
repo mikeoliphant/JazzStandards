@@ -2,10 +2,11 @@
   "Title": "Serenity",
   "Composer": "Henderson Joe",
   "Key": "Eb",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "Dh7|G7b13|Ab^7#11,Gb^7#11|E-7,A7|F-7,Bb7|Eb^7,,Dh,G7|C-7,C-7/Bb|Ab-7,Db7|G7,Gb7|F7|E^7#11|F-7,Bb7#5|Eb^7|Dh7,G7b13"
+        "Chords": "Dh7|G7b13|Ab^7#11,Gb^7#11|E-7,A7|F-7,Bb7|Eb^7,,Dh7,G7|C-7,C-7/Bb|Ab-7,Db7|G7,Gb7|F7|E^7#11|F-7,Bb7#5|Eb^7|Dh7,G7b13"
       },
       "Endings": []
     }

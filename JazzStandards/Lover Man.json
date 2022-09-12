@@ -2,6 +2,7 @@
   "Title": "Lover Man",
   "Composer": "Davis-Ramirez-Sherman",
   "Key": "F",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -10,7 +11,7 @@
       },
       "Endings": [
         {
-          "Chords": "F^7,,Eh,A7"
+          "Chords": "F^7,,Eh7,A7"
         },
         {
           "Chords": "F^7,E7b9"

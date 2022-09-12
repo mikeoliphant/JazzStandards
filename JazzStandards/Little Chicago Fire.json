@@ -2,6 +2,7 @@
   "Title": "Little Chicago Fire",
   "Composer": "Foster Frank",
   "Key": "Bb",
+  "Rhythm": "Up Tempo Swing",
   "Sections": [
     {
       "Label": "A",
@@ -10,7 +11,7 @@
       },
       "Endings": [
         {
-          "Chords": "C-7,F7#9#5"
+          "Chords": "C-7,F7#5#9"
         },
         {
           "Chords": "C-7,F9,Bb69,"

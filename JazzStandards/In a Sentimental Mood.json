@@ -2,15 +2,16 @@
   "Title": "In a Sentimental Mood",
   "Composer": "Ellington Duke",
   "Key": "D-",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "D-,D-^7|D-7,D-6|G-,G-^7|G-7,,Eh,A7|D-|D7|G-7,C7b9"
+        "Chords": "D-,D-^7|D-7,D-6|G-,G-^7|G-7,,Eh7,A7|D-|D7|G-7,C7b9"
       },
       "Endings": [
         {
-          "Chords": "F^7,,Eh,A7"
+          "Chords": "F^7,,Eh7,A7"
         },
         {
           "Chords": "F6,Eb-7,Ab7,"
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "D-,D-^7|D-7,D-6|G-,G-^7|G-7,,Eh,A7|D-|D7|G-7,C7b9|F6,,Eh,A7"
+        "Chords": "D-,D-^7|D-7,D-6|G-,G-^7|G-7,,Eh7,A7|D-|D7|G-7,C7b9|F6,,Eh7,A7"
       },
       "Endings": []
     }

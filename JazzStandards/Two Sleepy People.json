@@ -2,6 +2,7 @@
   "Title": "Two Sleepy People",
   "Composer": "Carmichael Hoagy",
   "Key": "Eb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
           "Chords": "Eb^7,F7|F-7,Bb7"
         },
         {
-          "Chords": "Eb^,C7,F7,Bb7|Eb6,Ab7"
+          "Chords": "Eb,C7,F7,Bb7|Eb6,Ab7"
         }
       ]
     },
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Eb6,Gbo7|F-7,Bb7|Eb6,C7|F-7,Bb7|G-7,C7|F-7,Ab6|Eb^,C7,F7,Bb7|Eb6,Bb7"
+        "Chords": "Eb6,Gbo7|F-7,Bb7|Eb6,C7|F-7,Bb7|G-7,C7|F-7,Ab6|Eb,C7,F7,Bb7|Eb6,Bb7"
       },
       "Endings": []
     }

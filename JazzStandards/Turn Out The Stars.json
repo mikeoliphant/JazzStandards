@@ -2,11 +2,12 @@
   "Title": "Turn Out The Stars",
   "Composer": "Evans Bill",
   "Key": "A-",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Bh7,E13|A-,A7#5|D-7,G7b9|C^7,A-7|F-7,Bb7|Eb^7,C-7|A-7,D7|G^7,E-7|C#-7,F#7|B^7,G#-7|C#-7|Bbh7,Eb7|Ab-7|Fh7,Bb7#9#5|Eb-7,Eb-7/Db|B^7,Eb-7/Bb"
+        "Chords": "Bh7,E13|A-,A7#5|D-7,G7b9|C^7,A-7|F-7,Bb7|Eb^7,C-7|A-7,D7|G^7,E-7|C#-7,F#7|B^7,G#-7|C#-7|Bbh7,Eb7|Ab-7|Fh7,Bb7#5#9|Eb-7,Eb-7/Db|B^7,Eb-7/Bb"
       },
       "Endings": []
     },
@@ -19,7 +20,7 @@
     },
     {
       "MainSegment": {
-        "Chords": "B7#5|E-7,Bb7#11|A7#5|D-7,Ab7#11|G7#5|C-7,Eb9|Ab^7,C7b9|F-9|Dh7,G7#9#5|C-7,Eb7sus|Ab^7,G7b9|C^7,F#7#11|Bh7,E13|A-|Ab7sus,Ab13b9|C#-7,F#7"
+        "Chords": "B7#5|E-7,Bb7#11|A7#5|D-7,Ab7#11|G7#5|C-7,Eb9|Ab^7,C7b9|F-9|Dh7,G7#5#9|C-7,Eb7sus|Ab^7,G7b9|C^7,F#7#11|Bh7,E13|A-|Ab7sus,Ab13b9|C#-7,F#7"
       },
       "Endings": []
     }

@@ -2,11 +2,12 @@
   "Title": "A Flower Is A Lovesome Thing",
   "Composer": "Strayhorn Billy",
   "Key": "Db",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "B7#11|B7#11|B7#11|B7#11|Bb7b13,Eb7|Ab7b13,Db7|D^7(F#-7),,Eb7,D^|Db6"
+        "Chords": "B7#11|B7#11|B7#11|B7#11|Bb7b13,Eb7|Ab7b13,Db7|D^7(F#-7),,Eb7,D|Db6"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "B7#11|B7#11|B7#11|B7#11|Bb7b13,Eb7|Ab7b13,Db7|D^7(F#-7),,Eb7,D^|Db6"
+        "Chords": "B7#11|B7#11|B7#11|B7#11|Bb7b13,Eb7|Ab7b13,Db7|D^7(F#-7),,Eb7,D|Db6"
       },
       "Endings": []
     }

@@ -2,10 +2,11 @@
   "Title": "Make Someone Happy",
   "Composer": "Styne Jule",
   "Key": "Eb",
+  "Rhythm": "Slow Swing",
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "Eb,Eb+|Eb6|Eb,Eb+|Eb6|Bb-7|Eb7|Bb-7|Eb7|Ab,Ab+|Ab6|Ab-7(Fh7)|Db7(Bb7)"
+        "Chords": "Eb,Ebaug|Eb6|Eb,Ebaug|Eb6|Bb-7|Eb7|Bb-7|Eb7|Ab,Abaug|Ab6|Ab-7(Fh7)|Db7(Bb7)"
       },
       "Endings": [
         {

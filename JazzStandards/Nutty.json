@@ -2,6 +2,7 @@
   "Title": "Nutty",
   "Composer": "Monk Thelonious",
   "Key": "Bb",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Bb^7,Bo7|C-7,C#o7|Bb^7/D,,C-7,F7|F7|Bb^7,Bo7|C-7,F7|Bb^7,,F7,Bb^|Bb^7"
+        "Chords": "Bb^7,Bo7|C-7,C#o7|Bb^7/D,,C-7,F7|F7|Bb^7,Bo7|C-7,F7|Bb^7,,F7,Bb|Bb^7"
       },
       "Endings": []
     }

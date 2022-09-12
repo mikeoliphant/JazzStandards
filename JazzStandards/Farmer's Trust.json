@@ -2,11 +2,12 @@
   "Title": "Farmer's Trust",
   "Composer": "Metheny Pat",
   "Key": "C",
+  "Rhythm": "Waltz",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "G^7|B-7,G/B,G/B,|C#-7,F#7b9,F#7b9,|F#7b9/B,,B-,B-|A-7,D7sus,D7,|F/G,G,F/G,|Cadd9|Gsus,G,G7,|Csus,C,C,|E-7,,C/E,C/E|Ab,Bb,Bb,|Db/Eb,,Eb,Db/Eb|Abadd9|G7#9#5|Gb69|Gh7/C,,C7b9,C7b9"
+        "Chords": "G^7|B-7,G/B,G/B,|C#-7,F#7b9,F#7b9,|F#7b9/B,,B-,B-|A-7,D7sus,D7,|F/G,G,F/G,|Cadd9|Gsus,G,G7,|Csus,C,C,|E-7,,C/E,C/E|Ab,Bb,Bb,|Db/Eb,,Eb,Db/Eb|Abadd9|G7#5#9|Gb69|Gh7/C,,C7b9,C7b9"
       },
       "Endings": []
     },

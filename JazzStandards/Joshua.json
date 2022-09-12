@@ -2,6 +2,7 @@
   "Title": "Joshua",
   "Composer": "Feldman Victor",
   "Key": "D-",
+  "Rhythm": "Up Tempo Swing",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "F^7|F-7,Bb7#9#5|Eb^7|Eb-7,Ab7#9#5|Db^7|G7#9#5|C-7,Bb-7|E7#9#5,A7b9#5"
+        "Chords": "F^7|F-7,Bb7#5#9|Eb^7|Eb-7,Ab7#5#9|Db^7|G7#5#9|C-7,Bb-7|E7#5#9,A7b9#5"
       },
       "Endings": []
     },

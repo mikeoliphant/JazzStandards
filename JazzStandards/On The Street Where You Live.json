@@ -2,6 +2,7 @@
   "Title": "On The Street Where You Live",
   "Composer": "Loewe Frederick",
   "Key": "Bb",
+  "Rhythm": "Medium Up Swing",
   "Sections": [
     {
       "Label": "B",
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "A-7|D7|Eb^7|Eb^7|Eb-6|Ab7|Bb6|Bb6|Gb7,Bb/F|Eh7|A7sus|A7|D^,A7/C#|C7|C-7|F7"
+        "Chords": "A-7|D7|Eb^7|Eb^7|Eb-6|Ab7|Bb6|Bb6|Gb7,Bb/F|Eh7|A7sus|A7|D,A7/C#|C7|C-7|F7"
       },
       "Endings": []
     },

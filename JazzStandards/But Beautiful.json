@@ -2,6 +2,7 @@
   "Title": "But Beautiful",
   "Composer": "Van-Heusen Jimmy",
   "Key": "G",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -27,7 +28,7 @@
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "D7,D7/C|B-7,E-7|A-7,,F#h,B7|E-7,F7|B-7,E7|A-7,D7|G6,E-7|A-7,D7"
+        "Chords": "D7,D7/C|B-7,E-7|A-7,,F#h7,B7|E-7,F7|B-7,E7|A-7,D7|G6,E-7|A-7,D7"
       },
       "Endings": []
     }

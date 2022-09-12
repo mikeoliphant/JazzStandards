@@ -2,11 +2,12 @@
   "Title": "In Her Family",
   "Composer": "Metheny Pat",
   "Key": "E",
+  "Rhythm": "Even 8ths",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "G#-9|D^7/F#|E^9#11|D#-7|C#-7,E^9|F#2,E^9|C#-7,G#-9|F#/A#,Aadd9|E/G#,Bb^7#11/F|E,Bb^7#11/D|E,Bb^7#11|E"
+        "Chords": "G#-9|D^7/F#|E^9#11|D#-7|C#-7,E^9|F#,E^9|C#-7,G#-9|F#/A#,Aadd9|E/G#,Bb^7#11/F|E,Bb^7#11/D|E,Bb^7#11|E"
       },
       "Endings": []
     },

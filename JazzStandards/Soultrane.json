@@ -2,6 +2,7 @@
   "Title": "Soultrane",
   "Composer": "Dameron Tadd",
   "Key": "Eb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
           "Chords": "G-,F#7,F-,E7"
         },
         {
-          "Chords": "Eb6,,Ah,D7"
+          "Chords": "Eb6,,Ah7,D7"
         }
       ]
     },

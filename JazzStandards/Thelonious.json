@@ -2,11 +2,12 @@
   "Title": "Thelonious",
   "Composer": "Monk Thelonious",
   "Key": "Bb",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Bb,Ab7|Gb7,F7sus|E7b5,Eb7|D7#5,Db7|C7sus,F7sus|Gb,Cb7b9b5"
+        "Chords": "Bb,Ab7|Gb7,F7sus|E7b5,Eb7|D7#5,Db7|C7sus,F7sus|Gb,B7b5b9"
       },
       "Endings": [
         {
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Bb,Ab7|Gb7,F7sus|E7b5,Eb7|D7#5,Db7|C7sus,F7sus|Gb,Cb7b9b5|Bb7,Eb7|Gb7,F7|C-11,F7|Bb^7"
+        "Chords": "Bb,Ab7|Gb7,F7sus|E7b5,Eb7|D7#5,Db7|C7sus,F7sus|Gb,B7b5b9|Bb7,Eb7|Gb7,F7|C-11,F7|Bb^7"
       },
       "Endings": []
     }

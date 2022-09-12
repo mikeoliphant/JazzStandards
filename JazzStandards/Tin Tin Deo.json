@@ -2,11 +2,12 @@
   "Title": "Tin Tin Deo",
   "Composer": "Gillespie Dizzy",
   "Key": "F-",
+  "Rhythm": "Latin",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F-6,Eb-6|Db^7,C7#5|F-6,D7#9|Gh7,Gb7|F-6,Eb-6|Db^7,C7#5|F-7,Bb7|Eb7,D7#9b5"
+        "Chords": "F-6,Eb-6|Db^7,C7#5|F-6,D7#9|Gh7,Gb7|F-6,Eb-6|Db^7,C7#5|F-7,Bb7|Eb7,D7b5#9"
       },
       "Endings": []
     },

@@ -2,18 +2,19 @@
   "Title": "Punjab",
   "Composer": "Henderson Joe",
   "Key": "C",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "i",
       "MainSegment": {
-        "Chords": "G^,A^,B^7,|C^7#11|G^,A^,B^7,|C^7#11"
+        "Chords": "G,A,B^7,|C^7#11|G,A,B^7,|C^7#11"
       },
       "Endings": []
     },
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "D^13|D^13,D^13,Bb13b9|B^7|G13,Ab^7|Fh9|Bb7|E^9#11,Eb7b9|E^9#11,Eb7b9|E^9#11,Eb7b9|E^9#11,Eb7b9"
+        "Chords": "D^13|D^13,D^13,Bb13b9|B^7|G13,Ab^7|F-7b9|Bb7|E^9#11|E^9#11|E^9#11|E^9#11,E^9#11,Eb7b9"
       },
       "Endings": []
     },

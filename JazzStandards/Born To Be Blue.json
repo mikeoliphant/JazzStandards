@@ -2,6 +2,7 @@
   "Title": "Born To Be Blue",
   "Composer": "Wells-Torme",
   "Key": "C",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -10,7 +11,7 @@
       },
       "Endings": [
         {
-          "Chords": "F-7,D7#9#5|Dh7,G7"
+          "Chords": "F-7,D7#5#9|Dh7,G7"
         },
         {
           "Chords": "F-7,,Ab7,G7|C6"
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Ab-7,Db7|Ab-7,Db7|Ab-7,Db7|Gb^7|C#-7,F#7|B^7,G#-7|F-7,Bb7|Eb^7,,Dh,G7"
+        "Chords": "Ab-7,Db7|Ab-7,Db7|Ab-7,Db7|Gb^7|C#-7,F#7|B^7,G#-7|F-7,Bb7|Eb^7,,Dh7,G7"
       },
       "Endings": []
     },

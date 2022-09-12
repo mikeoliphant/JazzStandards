@@ -2,6 +2,7 @@
   "Title": "Girl From Ipanema, The",
   "Composer": "Jobim Antonio-Carlos",
   "Key": "F",
+  "Rhythm": "Bossa Nova",
   "Sections": [
     {
       "Label": "B",
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F#^7|F#^7|B7|B7|F#-7|F#-7|D7|D7|G-7|G-7|Eb7|Eb7|A-7|D7b9b5|G-7|C7b9b5"
+        "Chords": "F#^7|F#^7|B7|B7|F#-7|F#-7|D7|D7|G-7|G-7|Eb7|Eb7|A-7|D7b5b9|G-7|C7b5b9"
       },
       "Endings": []
     },

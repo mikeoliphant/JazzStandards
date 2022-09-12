@@ -2,6 +2,7 @@
   "Title": "My Ship",
   "Composer": "Weill Kurt",
   "Key": "F",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -20,14 +21,14 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "G-7,C7|G-7,C7|G-7,Bb-6|F^7,,Bh,E7|A-7,D-7|A-7,D-7|A-7,D7|G-7,C7"
+        "Chords": "G-7,C7|G-7,C7|G-7,Bb-6|F^7,,Bh7,E7|A-7,D-7|A-7,D-7|A-7,D7|G-7,C7"
       },
       "Endings": []
     },
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "F^7,D7|G7,C7|F^7,D7|Bh7,Bb7|A-7,D7|G-7,A7|D-7,C7|F^,F#o,G-7,C7|F^7,D-7|Bb^7,Eb7|A-7,Ab7|G-7,C7|F6|G-7,C7"
+        "Chords": "F^7,D7|G7,C7|F^7,D7|Bh7,Bb7|A-7,D7|G-7,A7|D-7,C7|F,F#o,G-7,C7|F^7,D-7|Bb^7,Eb7|A-7,Ab7|G-7,C7|F6|G-7,C7"
       },
       "Endings": []
     }

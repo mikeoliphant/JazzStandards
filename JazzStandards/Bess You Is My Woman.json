@@ -2,6 +2,7 @@
   "Title": "Bess You Is My Woman",
   "Composer": "Gershwin George",
   "Key": "Bb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -27,7 +28,7 @@
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "D6/A|A7sus,A7#5|D6/A|A7sus,A7#5|D6,D9/F#|G^9,C7|D6/A,G7/B,D7/C,G7/B|D6/A,Abo,E-/G,D/F#|Bb7#5,Bb7#5/D|B7,B7#5,Eh,A7"
+        "Chords": "D6/A|A7sus,A7#5|D6/A|A7sus,A7#5|D6,D9/F#|G^9,C7|D6/A,G7/B,D7/C,G7/B|D6/A,Abo,E-/G,D/F#|Bb7#5,Bb7#5/D|B7,B7#5,Eh7,A7"
       },
       "Endings": []
     },

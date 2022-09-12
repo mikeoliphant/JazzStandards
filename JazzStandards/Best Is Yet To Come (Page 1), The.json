@@ -2,25 +2,26 @@
   "Title": "Best Is Yet To Come (Page 1), The",
   "Composer": "Coleman Cy",
   "Key": "Ab",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Ab^7,Ab7|Ab6,,Ab+,Ab|Ab^7,Ab7|Ab6,,Ab+,Ab|Ab^7,Ab7|Ab6,,Ab+,Ab|F7|F7|Bb-7|Eb7|Ab6|Dh7,G7"
+        "Chords": "Ab^7,Ab7|Ab6,,Abaug,Ab|Ab^7,Ab7|Ab6,,Abaug,Ab|Ab^7,Ab7|Ab6,,Abaug,Ab|F7|F7|Bb-7|Eb7|Ab6|Dh7,G7"
       },
       "Endings": []
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "C^7,C7|C6,,C+,C|C^7,C7|C6,,C+,C|C^7,C7|C6,,C+,C|A7|A7|D-7,G7|D-7,G7|C6,D-7|D#o7,C6/E|D-7,G7|D-7,G7|C6|Bb-7,Eb7"
+        "Chords": "C^7,C7|C6,,Caug,C|C^7,C7|C6,,Caug,C|C^7,C7|C6,,Caug,C|A7|A7|D-7,G7|D-7,G7|C6,D-7|D#o7,C6/E|D-7,G7|D-7,G7|C6|Bb-7,Eb7"
       },
       "Endings": []
     },
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Ab^7,Ab7|Ab6,,Ab+,Ab|F7|F7|Bb7|Eb7|Ab6"
+        "Chords": "Ab^7,Ab7|Ab6,,Abaug,Ab|F7|F7|Bb7|Eb7|Ab6"
       },
       "Endings": [
         {

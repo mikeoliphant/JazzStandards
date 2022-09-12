@@ -2,6 +2,7 @@
   "Title": "I Will Wait For You",
   "Composer": "Legrand Michel",
   "Key": "F",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
           "Chords": "D-|Eh7,A7b9"
         },
         {
-          "Chords": "N2D-|N2D-"
+          "Chords": "D-|D-"
         }
       ]
     }

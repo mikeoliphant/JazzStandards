@@ -2,11 +2,12 @@
   "Title": "Meaning Of The Blues, The",
   "Composer": "Worth-Troup",
   "Key": "D-",
+  "Rhythm": "Even 8ths",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "D-,D-#5|D-6,D7#9|G-7,G-7/F|Eh7,A7b9|D-,D-#5|D-6,D7#9|G-7|Bb-6,C7"
+        "Chords": "D-,D-aug|D-6,D7#9|G-7,G-7/F|Eh7,A7b9|D-,D-aug|D-6,D7#9|G-7|Bb-6,C7"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "D-,D-#5|D-6,D7#9|G-7,G-7/F|Eh7,A7b9|D-,D-#5|D-6,D7#9|G-7|Bb-6,C7"
+        "Chords": "D-,D-aug|D-6,D7#9|G-7,G-7/F|Eh7,A7b9|D-,D-aug|D-6,D7#9|G-7|Bb-6,C7"
       },
       "Endings": []
     },

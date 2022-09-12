@@ -2,6 +2,7 @@
   "Title": "Gallop's Gallop",
   "Composer": "Monk Thelonious",
   "Key": "Ab",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "D7sus,D7|Bb-7,Eb7|Ab^7,Bb7|Bb-7,Eb7|Bbh7,Eb7|Ab^7,Ch7|B7,E^,A7,|Ab^7"
+        "Chords": "D7sus,D7|Bb-7,Eb7|Ab^7,Bb7|Bb-7,Eb7|Bbh7,Eb7|Ab^7,Ch7|B7,E,A7,|Ab^7"
       },
       "Endings": []
     }

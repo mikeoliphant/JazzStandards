@@ -2,11 +2,12 @@
   "Title": "Butterfly Dreams",
   "Composer": "Clarke Stanley",
   "Key": "C",
+  "Rhythm": "Waltz",
   "Sections": [
     {
       "Label": "i",
       "MainSegment": {
-        "Chords": "B^7|Ab-7|Gb-9|B9|A-7|D7|Ab^7|B7b9b5"
+        "Chords": "B^7|Ab-7|Gb-9|B9|A-7|D7|Ab^7|B7b5b9"
       },
       "Endings": []
     },

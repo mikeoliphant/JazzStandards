@@ -2,11 +2,12 @@
   "Title": "Poor Butterfly",
   "Composer": "Hubbell Raymon",
   "Key": "Ab",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Bb-7|Eb7sus,Eb7b9|Abo7|Ab^7|C7#9#5|C7#9#5|F7|C-7,F7"
+        "Chords": "Bb-7|Eb7sus,Eb7b9|Abo7|Ab^7|C7#5#9|C7#5#9|F7|C-7,F7"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Bb-7|Eb7sus,Eb7b9|Abo7|Ab^7|C7#9#5|C7#9#5|F7|C-7,F7"
+        "Chords": "Bb-7|Eb7sus,Eb7b9|Abo7|Ab^7|C7#5#9|C7#5#9|F7|C-7,F7"
       },
       "Endings": []
     },

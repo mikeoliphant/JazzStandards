@@ -2,11 +2,12 @@
   "Title": "Balance, The",
   "Composer": "Holland Dave",
   "Key": "G-",
+  "Rhythm": "Even 16ths",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "G-7|E-11,F-7|G-7|E-11,F-7|Ah7,D7b9|F-7,Eh,A7,|D-11,Db^7#11|D-11,Db^7#11"
+        "Chords": "G-7|E-11,F-7|G-7|E-11,F-7|Ah7,D7b9|F-7,Eh7,A7,|D-11,Db^7#11|D-11,Db^7#11"
       },
       "Endings": []
     }

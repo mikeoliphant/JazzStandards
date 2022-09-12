@@ -2,6 +2,7 @@
   "Title": "You Go To My Head",
   "Composer": "Coots Fred",
   "Key": "Eb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -34,7 +35,7 @@
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "Ab^7|Db7|Eb^7,Bb6/D|C-7,W/Bb,Ah,D7|G-7,C7|F-7,Bb7|Eb^7,C-7|F-7,Bb7"
+        "Chords": "Ab^7|Db7|Eb^7,Bb6/D|C-7,C-7/Bb,Ah7,D7|G-7,C7|F-7,Bb7|Eb^7,C-7|F-7,Bb7"
       },
       "Endings": []
     }

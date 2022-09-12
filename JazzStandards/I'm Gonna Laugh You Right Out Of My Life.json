@@ -2,6 +2,7 @@
   "Title": "I'm Gonna Laugh You Right Out Of My Life",
   "Composer": "Coleman Cy",
   "Key": "F",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -34,7 +35,7 @@
     {
       "Label": "D",
       "MainSegment": {
-        "Chords": "D-7,W/C|Bh7,Bb-6|F6/A|A-7,D7b9|G-7|C7sus,C7|F6|G-7,C7"
+        "Chords": "D-7,D-7/C|Bh7,Bb-6|F6/A|A-7,D7b9|G-7|C7sus,C7|F6|G-7,C7"
       },
       "Endings": []
     }

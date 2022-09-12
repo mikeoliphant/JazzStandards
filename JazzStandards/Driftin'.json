@@ -2,6 +2,7 @@
   "Title": "Driftin'",
   "Composer": "Hancock Herbie",
   "Key": "Eb",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Ab7|Ab7|Eb7,(G7)|Eb7,(G7)|C-7(C-7),C-^7|C-7(F7),F7|F-7|Bb7"
+        "Chords": "Ab7|Ab7|Eb7|Eb7,(G7)|C-7(C-7),C-^7|C-7(F7),F7|F-7|Bb7"
       },
       "Endings": []
     },

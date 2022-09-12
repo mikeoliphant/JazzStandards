@@ -2,6 +2,7 @@
   "Title": "People Will Say We're In Love",
   "Composer": "Rodgers Richard",
   "Key": "C",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -27,7 +28,7 @@
     {
       "Label": "D",
       "MainSegment": {
-        "Chords": "C6|A-7|D7|D7|D-7|Db7|C6|(D-7)x,(G7)"
+        "Chords": "C6|A-7|D7|D7|D-7|Db7|C6|C6(D-7),(G7)"
       },
       "Endings": []
     }

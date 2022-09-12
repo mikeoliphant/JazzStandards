@@ -2,25 +2,26 @@
   "Title": "Save Your Love For Me",
   "Composer": "Johnson Buddy",
   "Key": "D",
+  "Rhythm": "Slow Swing",
   "Sections": [
     {
       "Label": "i",
       "MainSegment": {
-        "Chords": "D6,A-7|D6,B7#9#5"
+        "Chords": "D6,A-7|D6,B7#5#9"
       },
       "Endings": []
     },
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "E-7,D/F#|G^7,A7sus|G-7,G7sus|Bb^7,Eb7#11|E-7|E-7,A13b9|D,A-7|D6,B7#9#5"
+        "Chords": "E-7,D/F#|G^7,A7sus|G-7,G7sus|Bb^7,Eb7#11|E-7|E-7,A13b9|D,A-7|D6,B7#5#9"
       },
       "Endings": []
     },
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "E-7|E-7|G-7|C7#11|E-7|E-7,A13b9|D6,A7#9#5|D6"
+        "Chords": "E-7|E-7|G-7|C7#11|E-7|E-7,A13b9|D6,A7#5#9|D6"
       },
       "Endings": []
     },
@@ -34,7 +35,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "E-7|E-7|G-7|C7#11|E-7|E-7|C7#11|B7#9#5|E-7|G-7,C7#11|E-7,A7#9#5|D6,A-7|D6,A-7"
+        "Chords": "E-7|E-7|G-7|C7#11|E-7|E-7|C7#11|B7#5#9|E-7|G-7,C7#11|E-7,A7#5#9|D6,A-7|D6,A-7"
       },
       "Endings": []
     }

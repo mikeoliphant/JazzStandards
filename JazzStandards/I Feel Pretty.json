@@ -2,15 +2,16 @@
   "Title": "I Feel Pretty",
   "Composer": "Bernstein-Sondheim",
   "Key": "C",
+  "Rhythm": "Waltz",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F|C+|F|C+|F,C+|F/A|G-7|C7|D-|D-/C|G-7|C,C7"
+        "Chords": "F|Caug|F|Caug|F,Caug|F/A|G-7|C7|D-|D-/C|G-7|C,C7"
       },
       "Endings": [
         {
-          "Chords": "F|F,,Eb/G,C/E|F,,Eb/G,F/A|C+"
+          "Chords": "F|F,,Eb/G,C/E|F,,Eb/G,F/A|Caug"
         },
         {
           "Chords": "F|F,,Eb/G,C/E|F,,Eb/G,F/A|F/A"
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Bb|Bb,,F7/C,F/A|Bb,F7,Bb/D,|Bb/D,F|Bb|Bb,,F7,Bb/D|F|F|A-/E|E7|A-|F-6/Ab|C7/G|C7/G,,G-7/C,G-7|C7,,Bb/D,C9/E|C9/E,C+"
+        "Chords": "Bb|Bb,,F7/C,F/A|Bb,F7,Bb/D,|Bb/D,F|Bb|Bb,,F7,Bb/D|F|F|A-/E|E7|A-|F-6/Ab|C7/G|C7/G,,G-7/C,G-7|C7,,Bb/D,C9/E|C9/E,Caug"
       },
       "Endings": []
     },

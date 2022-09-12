@@ -2,11 +2,12 @@
   "Title": "For Once In My Life",
   "Composer": "Murden Orlando",
   "Key": "Bb",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Bb,Bb+|Bb6,Bo7|C-,G7|C-,G7|C-,C-b6|C-6,F7|Bb6,F7|Bb6,D7"
+        "Chords": "Bb,Bbaug|Bb6,Bo7|C-,G7|C-,G7|C-,C-b6|C-6,F7|Bb6,F7|Bb6,D7"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "Bb,Bb+|Bb6,Bo7|C-,G7|C-,G7|C-,C-b6|C-6,F7|Bb6,F7|Bb6,D7"
+        "Chords": "Bb,Bbaug|Bb6,Bo7|C-,G7|C-,G7|C-,C-b6|C-6,F7|Bb6,F7|Bb6,D7"
       },
       "Endings": []
     },

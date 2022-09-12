@@ -2,6 +2,7 @@
   "Title": "I Concentrate On You",
   "Composer": "Porter Cole",
   "Key": "Eb",
+  "Rhythm": "Up Tempo Swing",
   "Sections": [
     {
       "Label": "A",
@@ -13,14 +14,14 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Eb^7|Eb^7|Ab7#11|Ab7#11|Eb-7|Db-7,Gb7|Cb^7|Cb^7|Ab-7|Db7|Gb^7|C7|F7|Bb7|Eb6|Eb6,Eb7"
+        "Chords": "Eb^7|Eb^7|Ab7#11|Ab7#11|Eb-7|Db-7,Gb7|B^7|B^7|Ab-7|Db7|Gb^7|C7|F7|Bb7|Eb6|Eb6,Eb7"
       },
       "Endings": []
     },
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "Ab^7|Ab-6|Eb^7|Eb^,C7|F-7|Bb7|Eb^7|Eb^,Eb7|Ab^7|Db7|Gb^7|Gb^7|Ch7|F7|Bb7|Bb7"
+        "Chords": "Ab^7|Ab-6|Eb^7|Eb,C7|F-7|Bb7|Eb^7|Eb,Eb7|Ab^7|Db7|Gb^7|Gb^7|Ch7|F7|Bb7|Bb7"
       },
       "Endings": []
     },

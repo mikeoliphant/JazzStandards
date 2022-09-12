@@ -2,10 +2,11 @@
   "Title": "Nacada",
   "Composer": "Metheny Pat",
   "Key": "G",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "G^9,E-9|Eb^7#11,B7#9#5|E-9,A13|Ab^9,Db9#11,Ch7,F7#9"
+        "Chords": "G^9,E-9|Eb^7#11,B7#5#9|E-9,A13|Ab^9,Db9#11,Ch7,F7#9"
       },
       "Endings": []
     },

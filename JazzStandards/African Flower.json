@@ -2,6 +2,7 @@
   "Title": "African Flower",
   "Composer": "Ellington Duke",
   "Key": "Eb-",
+  "Rhythm": "Latin",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Gb^7|Gb^7|Cb7|Cb7|Gb^7|Gb^7|Gb7#11|Gb7#11"
+        "Chords": "Gb^7|Gb^7|B7|B7|Gb^7|Gb^7|Gb7#11|Gb7#11"
       },
       "Endings": []
     },

@@ -2,11 +2,12 @@
   "Title": "If I Could Be With You",
   "Composer": "Johnson James",
   "Key": "Eb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "v",
       "MainSegment": {
-        "Chords": "Eb^7,Eo7|F-7,Bb7|Eb^7,Eo7|F-7,Bb7|Eb6|Eb6,Eb6,C7|F7|Bb7|Bb^,G7,C7,F7|Bb6|F7|Bb7"
+        "Chords": "Eb^7,Eo7|F-7,Bb7|Eb^7,Eo7|F-7,Bb7|Eb6|Eb6,Eb6,C7|F7|Bb7|Bb,G7,C7,F7|Bb6|F7|Bb7"
       },
       "Endings": []
     },

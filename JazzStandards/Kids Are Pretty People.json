@@ -2,6 +2,7 @@
   "Title": "Kids Are Pretty People",
   "Composer": "Jones Thad",
   "Key": "D-",
+  "Rhythm": "Slow Swing",
   "Sections": [
     {
       "Label": "A",
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "D-7,A7#9|D-7,,C-7,F7|Bb7,A7#9|D-7,G7|C7,F7|Bb7,Eb7|Eh7,A7#9|D-7,,Eh,A7"
+        "Chords": "D-7,A7#9|D-7,,C-7,F7|Bb7,A7#9|D-7,G7|C7,F7|Bb7,Eb7|Eh7,A7#9|D-7,,Eh7,A7"
       },
       "Endings": []
     }

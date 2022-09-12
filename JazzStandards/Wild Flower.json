@@ -2,11 +2,12 @@
   "Title": "Wild Flower",
   "Composer": "Shorter Wayne",
   "Key": "Bb",
+  "Rhythm": "Waltz",
   "Sections": [
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Bb^7|Ab-7,A7#9#5|D7b9sus|D7b9sus|Bb^7|Ab-7,A7#9|D7#9|D7#9|G7b9sus|C-7,F13|Bb^7#5|Ab^7#11|G-11|C13b9|F-9|E7#9"
+        "Chords": "Bb^7|Ab-7,A7#5#9|D7b9sus|D7b9sus|Bb^7|Ab-7,A7#9|D7#9|D7#9|G7b9sus|C-7,F13|Bb^7#5|Ab^7#11|G-11|C13b9|F-9|E7#9"
       },
       "Endings": []
     },

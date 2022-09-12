@@ -2,18 +2,19 @@
   "Title": "Goodbye Pork Pie Hat",
   "Composer": "Mingus Charles",
   "Key": "Eb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "i",
       "MainSegment": {
-        "Chords": "Eb7#9,B13|E^9,A7#11|Db9sus,B13|Db9sus,Eb7|Ab-7,B13|Fh7,Bb7#9#5|C13#11,F13|B7,E^7|A13,Ab7|Bb7,Db7|Eb7#9,B7|E^7#11,A9#11"
+        "Chords": "Eb7#9,B13|E^9,A7#11|Db9sus,B13|Db9sus,Eb7|Ab-7,B13|Fh7,Bb7#5#9|C13#11,F13|B7,E^7|A13,Ab7|Bb7,Db7|Eb7#9,B7|E^7#11,A9#11"
       },
       "Endings": []
     },
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Eb-^7,Ab-7|Eb-^7,Ab-7|Eb-^7,Ab-7|Eb-^7,A7#5|Ab-,Ab-6|B7,Bb7b13|Eb-^7,Ab7|Eb-^7,Ab7|Ch7,F7#9#5|F#-7,,B-7,Bb7|Eb-^7,Ab7|Eb-^7,Ab7"
+        "Chords": "Eb-^7,Ab-7|Eb-^7,Ab-7|Eb-^7,Ab-7|Eb-^7,A7#5|Ab-,Ab-6|B7,Bb7b13|Eb-^7,Ab7|Eb-^7,Ab7|Ch7,F7#5#9|F#-7,,B-7,Bb7|Eb-^7,Ab7|Eb-^7,Ab7"
       },
       "Endings": []
     },

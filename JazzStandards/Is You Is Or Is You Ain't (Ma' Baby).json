@@ -2,6 +2,7 @@
   "Title": "Is You Is Or Is You Ain't (Ma' Baby)",
   "Composer": "Austin-Jordan",
   "Key": "Ab",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "Db7|Do7|Ab^7/Eb,Ab^7|Eb-7,Ab7|Db7|Gb7|C-7,F7|Bb-7,,Gh,C7"
+        "Chords": "Db7|Do7|Ab^7/Eb,Ab^7|Eb-7,Ab7|Db7|Gb7|C-7,F7|Bb-7,,Gh7,C7"
       },
       "Endings": []
     },

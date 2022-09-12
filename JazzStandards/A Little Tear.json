@@ -2,11 +2,12 @@
   "Title": "A Little Tear",
   "Composer": "Deodato-Valle",
   "Key": "Db",
+  "Rhythm": "Bossa Nova",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Eb9|Eb-7|Db^7|Db^7|Eb-7|Eb-7|Db^7|Bb7b9b5|Eb9|Eb-7|Db^7|Db^7|Eb-7|Eb-7|Db^7|Db^7"
+        "Chords": "Eb9|Eb-7|Db^7|Db^7|Eb-7|Eb-7|Db^7|Bb7b5b9|Eb9|Eb-7|Db^7|Db^7|Eb-7|Eb-7|Db^7|Db^7"
       },
       "Endings": []
     },

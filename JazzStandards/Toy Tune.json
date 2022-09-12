@@ -2,6 +2,7 @@
   "Title": "Toy Tune",
   "Composer": "Shorter Wayne",
   "Key": "F",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "F-9,Eb-9|Dh9,G7#9#5|Co^7|B7alt"
+        "Chords": "F-9,Eb-9|D-7b9,G7#5#9|Co|B7alt"
       },
       "Endings": []
     },

@@ -2,6 +2,7 @@
   "Title": "Early Autumn",
   "Composer": "Burns-Herman",
   "Key": "C",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "B",
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "D-7,G7|C^7/E,Ebo7|D-7,G7|C^7|C-7,F7|Bb^7,Eb7|D^,Db7,C7,B7|Bb7,A^,Ab7,G7"
+        "Chords": "D-7,G7|C^7/E,Ebo7|D-7,G7|C^7|C-7,F7|Bb^7,Eb7|D,Db7,C7,B7|Bb7,A,Ab7,G7"
       },
       "Endings": []
     },

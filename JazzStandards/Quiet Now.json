@@ -2,6 +2,7 @@
   "Title": "Quiet Now",
   "Composer": "Zeitlin Denny",
   "Key": "C",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "A-7,F^7|E7,A-7|D-7,G7,C^7,|Bb7#11,A7#5|Dh7/Ab,,G7,E7|A-7,D7#11|E-7,A-7,D-7,Gsus|E-7,A-7,F^,Bb^|E-7,Eb^,Ab^,Db^|C^9,,(Bh),(E7)"
+        "Chords": "A-7,F^7|E7,A-7|D-7,G7,C^7,|Bb7#11,A7#5|Dh7/Ab,,G7,E7|A-7,D7#11|E-7,A-7,D-7,Gsus|E-7,A-7,F,Bb|E-7,Eb,Ab,Db|C^9,,(Bh7),(E7)"
       },
       "Endings": []
     }

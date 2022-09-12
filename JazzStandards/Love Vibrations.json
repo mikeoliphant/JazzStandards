@@ -2,6 +2,7 @@
   "Title": "Love Vibrations",
   "Composer": "Silver Horace",
   "Key": "Eb",
+  "Rhythm": "Bossa Nova",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "G-|G-#5|G-6|G-7,C7|F-7|G-7,C7|F-7|Bb7"
+        "Chords": "G-|G-aug|G-6|G-7,C7|F-7|G-7,C7|F-7|Bb7"
       },
       "Endings": []
     },

@@ -2,11 +2,12 @@
   "Title": "Bolivia",
   "Composer": "Walton Cedar",
   "Key": "D",
+  "Rhythm": "Up Tempo Swing",
   "Sections": [
     {
       "Label": "i",
       "MainSegment": {
-        "Chords": "G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)"
+        "Chords": "G7|G7|G7|G7|G7|G7|G7|G7,(E)"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)|G7,(E^)"
+        "Chords": "G7|G7|G7|G7|G7|G7|G7|G7,(E)"
       },
       "Endings": []
     }

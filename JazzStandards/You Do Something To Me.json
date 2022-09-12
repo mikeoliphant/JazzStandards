@@ -2,18 +2,19 @@
   "Title": "You Do Something To Me",
   "Composer": "Porter Cole",
   "Key": "Eb",
+  "Rhythm": "Medium Up Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Eb6|D7(Bb7#5)|Eb6|(F-7)x,(Bb7)|Eb6|G-7(Eb6),C7b9(Eo7)|F-7|Bb7|F-7|C7b9(Eo7)|F-7|C7b9|F7|F7|F-7|Bb7"
+        "Chords": "Eb6|D7(Bb7#5)|Eb6|Eb6(F-7),(Bb7)|Eb6|G-7(Eb6),C7b9(Eo7)|F-7|Bb7|F-7|C7b9(Eo7)|F-7|C7b9|F7|F7|F-7|Bb7"
       },
       "Endings": []
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "G-7|Gbo7|F-7|Eo7|F#-7,(B6/D#)B7|F-7,(Bb7/D)Bb7|F#-7,(Ab6/C)B7|F-7,Bb7"
+        "Chords": "G-7|Gbo7|F-7|Eo7|F#-7,B7(B6/D#)|F-7,Bb7(Bb7/D)|F#-7,B7(Ab6/C)|F-7,Bb7"
       },
       "Endings": []
     },

@@ -2,11 +2,12 @@
   "Title": "Cheese Cake",
   "Composer": "Gordon Dexter",
   "Key": "C-",
+  "Rhythm": "Medium Up Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C-69|Dh7,G7b13|C-69,(C7b9)|C-69,(C7b9)|F-69|Gh7,C7b13|F-69|F-69|Dh7|G7b13|F-7|Bb7|Eb-7,Ab7|Dh7,G7b13"
+        "Chords": "C-69|Dh7,G7b13|C-69|C-69,(C7b9)|F-69|Gh7,C7b13|F-69|F-69|Dh7|G7b13|F-7|Bb7|Eb-7,Ab7|Dh7,G7b13"
       },
       "Endings": [
         {

@@ -2,11 +2,12 @@
   "Title": "Blue And Sentimental",
   "Composer": "Livingstone-David-Basie",
   "Key": "Eb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Eb^,Db7,C9,Gb9|F9,Bb13|F9,Bb13|G-7,C7,F-7,Bb7|Eb^,Db7,C9,Gb9|F9,Bb13|F9,Bb13|Eb9,,Bb-7,Eb9"
+        "Chords": "Eb,Db7,C9,Gb9|F9,Bb13|F9,Bb13|G-7,C7,F-7,Bb7|Eb,Db7,C9,Gb9|F9,Bb13|F9,Bb13|Eb9,,Bb-7,Eb9"
       },
       "Endings": []
     },
@@ -19,7 +20,7 @@
     },
     {
       "MainSegment": {
-        "Chords": "Eb^,Db7,C9,Gb9|F9,Bb13|F9,Bb13|Eb9,D9,Db9,C9|F9,Bb13|Eb6,,F-7,Bb7"
+        "Chords": "Eb,Db7,C9,Gb9|F9,Bb13|F9,Bb13|Eb9,D9,Db9,C9|F9,Bb13|Eb6,,F-7,Bb7"
       },
       "Endings": []
     }

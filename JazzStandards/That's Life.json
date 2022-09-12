@@ -2,6 +2,7 @@
   "Title": "That's Life",
   "Composer": "Kay-Gordon",
   "Key": "G",
+  "Rhythm": "Slow Swing",
   "Sections": [
     {
       "Label": "A",
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "G^7|F#-7,B7|E-7|A7|G^7,,Fh,B7|E-7|A7b9,D7b13|G6"
+        "Chords": "G^7|F#-7,B7|E-7|A7|G^7,,Fh7,B7|E-7|A7b9,D7b13|G6"
       },
       "Endings": []
     }

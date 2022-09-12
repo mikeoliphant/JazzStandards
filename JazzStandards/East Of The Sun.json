@@ -2,11 +2,12 @@
   "Title": "East Of The Sun",
   "Composer": "Bowman Brooks",
   "Key": "G",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "G^7|(C7)x|B-7|E7|A-7|A-7|C-7|F7"
+        "Chords": "G^7|G^7(C7)|B-7|E7|A-7|A-7|C-7|F7"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "G^7|(C7)x|B-7|E7|A-7|A-7|C-7|F7"
+        "Chords": "G^7|G^7(C7)|B-7|E7|A-7|A-7|C-7|F7"
       },
       "Endings": []
     },

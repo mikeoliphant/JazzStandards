@@ -2,6 +2,7 @@
   "Title": "Yesterday's Gardenias",
   "Composer": "Mysels Robertson",
   "Key": "Bb",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -33,7 +34,7 @@
     },
     {
       "MainSegment": {
-        "Chords": "Bb^"
+        "Chords": "Bb"
       },
       "Endings": []
     }

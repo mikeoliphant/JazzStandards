@@ -2,6 +2,7 @@
   "Title": "Cry Me A River",
   "Composer": "Hamilton Arthur",
   "Key": "Eb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
           "Chords": "Eb6,G7b13"
         },
         {
-          "Chords": "Eb6,,Ah,D7"
+          "Chords": "Eb6,,Ah7,D7"
         }
       ]
     },

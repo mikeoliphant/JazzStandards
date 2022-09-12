@@ -2,6 +2,7 @@
   "Title": "Georgia On My Mind",
   "Composer": "Carmichael Hoagy",
   "Key": "F",
+  "Rhythm": "Slow Swing",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "D-,A7b9(G-6)|D-,Bb7|D-,A7b9(G-6)|D-,G7/B|D-,A7b9(G-6)|D-,,Bh,E7|A-7,D7|G-7,C7"
+        "Chords": "D-,A7b9(G-6)|D-,Bb7|D-,A7b9(G-6)|D-,G7/B|D-,A7b9(G-6)|D-,,Bh7,E7|A-7,D7|G-7,C7"
       },
       "Endings": []
     },

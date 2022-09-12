@@ -2,10 +2,11 @@
   "Title": "Someone To Watch Over Me",
   "Composer": "Gershwin George",
   "Key": "Eb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "Eb^7,Eb7|Ab^7,Abo7|Eb^7/G,Gbo7|Bb7/F,Eo7|F-7,Go(G-7)Ab6(C7)|Ah7(F-7),Bb7"
+        "Chords": "Eb^7,Eb7|Ab^7,Abo7|Eb^7/G,Gbo7|Bb7/F,Eo7|F-7,Go(G-7)|Ah7(F-7),Bb7"
       },
       "Endings": [
         {
@@ -26,7 +27,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Eb^7,Eb7|Ab^7,Abo7|Eb^7/G,Gbo7|Bb7/F,Eo7|F-7,Go(G-7)Ab6(C7)|Ah7(F-7),Bb7|Eb6|F-7,Bb7"
+        "Chords": "Eb^7,Eb7|Ab^7,Abo7|Eb^7/G,Gbo7|Bb7/F,Eo7|F-7,Go(G-7)|Ah7(F-7),Bb7|Eb6|F-7,Bb7"
       },
       "Endings": []
     }

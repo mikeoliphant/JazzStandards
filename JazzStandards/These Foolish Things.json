@@ -2,6 +2,7 @@
   "Title": "These Foolish Things",
   "Composer": "Strachey-Link",
   "Key": "Eb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
           "Chords": "F7|F-7,Bb7"
         },
         {
-          "Chords": "F7,Bb7|Eb6,,Ah,D7"
+          "Chords": "F7,Bb7|Eb6,,Ah7,D7"
         }
       ]
     },

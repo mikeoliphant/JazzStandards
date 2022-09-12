@@ -2,6 +2,7 @@
   "Title": "They Can't Take That Away From Me",
   "Composer": "Gershwin George",
   "Key": "Eb",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
           "Chords": "Ab^7,,G-7,C7|F-7,Bb7sus"
         },
         {
-          "Chords": "Ab^7,Bb7|Eb6,,Ah,D7"
+          "Chords": "Ab^7,Bb7|Eb6,,Ah7,D7"
         }
       ]
     },

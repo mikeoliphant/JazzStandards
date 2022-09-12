@@ -2,6 +2,7 @@
   "Title": "Better Days Ahead",
   "Composer": "Metheny Pat",
   "Key": "C",
+  "Rhythm": "Samba",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Fh7,Bb7b9|Eb-7,Ab7|Ab-7,Db7b9|Gb^7,C13|B^7,Bb-7|Eb-7,Db-7|Ch7|Db/Cb"
+        "Chords": "Fh7,Bb7b9|Eb-7,Ab7|Ab-7,Db7b9|Gb^7,C13|B^7,Bb-7|Eb-7,Db-7|Ch7|Db/B"
       },
       "Endings": []
     },

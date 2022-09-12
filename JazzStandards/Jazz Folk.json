@@ -2,6 +2,7 @@
   "Title": "Jazz Folk",
   "Composer": "Abercrombie John",
   "Key": "C",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
           "Chords": "Db^7|Bb-7|Eb-7,Ab7|D-7,G7"
         },
         {
-          "Chords": "Db^7|Bb-7|A-7|B7#9#5"
+          "Chords": "Db^7|Bb-7|A-7|B7#5#9"
         }
       ]
     },

@@ -2,11 +2,12 @@
   "Title": "Warm Valley",
   "Composer": "Ellington Duke",
   "Key": "Bb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Bb^7|E7|Eb7,,Eh,A7|D7|Dh7,G7b9|Ch7"
+        "Chords": "Bb^7|E7|Eb7,,Eh7,A7|D7|Dh7,G7b9|Ch7"
       },
       "Endings": [
         {
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Bb^7|E7|Eb7,,Eh,A7|D7|Dh7,G7b9|Ch7|Bb^7,F7sus|Bb^7,F7"
+        "Chords": "Bb^7|E7|Eb7,,Eh7,A7|D7|Dh7,G7b9|Ch7|Bb^7,F7sus|Bb^7,F7"
       },
       "Endings": []
     }

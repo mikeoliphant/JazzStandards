@@ -2,11 +2,12 @@
   "Title": "Ol' Man River",
   "Composer": "Kern Jerome",
   "Key": "Eb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Eb^7,F-7|G-7,F-7|Eb^7,F-7|Eb^,Ab^,G-7,C7|F-7,Bb7|F-7,Bb7"
+        "Chords": "Eb^7,F-7|G-7,F-7|Eb^7,F-7|Eb,Ab,G-7,C7|F-7,Bb7|F-7,Bb7"
       },
       "Endings": [
         {

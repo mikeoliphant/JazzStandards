@@ -2,6 +2,7 @@
   "Title": "Round Midnight",
   "Composer": "Monk Thelonious",
   "Key": "Eb-",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "i",
@@ -17,23 +18,23 @@
       },
       "Endings": [
         {
-          "Chords": "Ch,B7#11|Bb7"
+          "Chords": "Ch7,B7#11|Bb7"
         },
         {
-          "Chords": "Ch,B7,Bb7sus,|Eb6"
+          "Chords": "Ch7,B7,Bb7sus,|Eb6"
         }
       ]
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Ch7,B7#11|Bb7#11|Ch7,B7#11|Bb7#11|Ab-7,,F-7,Bb7|Ch7,F7|Db9(Bb-7),,(Eb7)B9(Ab-7),(Db7)|Ab-7(F#-7),,(B7)sF-7,Bb7"
+        "Chords": "Ch7,B7#11|Bb7#11|Ch7,B7#11|Bb7#11|Ab-7,,F-7,Bb7|Ch7,F7|Db9(Bb-7),,B9(Eb7),(Db7)|Ab-7(F#-7),,F-7(B7),Bb7"
       },
       "Endings": []
     },
     {
       "MainSegment": {
-        "Chords": "Ch7,F7|Ch7,F7|F#-7,B7|F#-7,B7|B-7,E7|F-7,Bb7|Eb,Ab,Db,Gb|Bb7b9b5,(Eb7)|Eb^7#11"
+        "Chords": "Ch7,F7|Ch7,F7|F#-7,B7|F#-7,B7|B-7,E7|F-7,Bb7|Eb,Ab,Db,Gb|Bb7b5b9,(Eb7)|Eb^7#11"
       },
       "Endings": []
     }

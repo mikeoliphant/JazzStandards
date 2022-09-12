@@ -2,6 +2,7 @@
   "Title": "Some Other Spring",
   "Composer": "Herzog-Kitchings",
   "Key": "C",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "B-7,Bb-7|A-7,D7|B-7,Bbo7|A-7,D7|E-7,A7#5|D^,C7,B7,|Bb7,A7,A7,A7|D7,G7#5"
+        "Chords": "B-7,Bb-7|A-7,D7|B-7,Bbo7|A-7,D7|E-7,A7#5|D,C7,B7,|Bb7,A7,A7,A7|D7,G7#5"
       },
       "Endings": []
     },

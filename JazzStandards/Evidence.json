@@ -2,25 +2,26 @@
   "Title": "Evidence",
   "Composer": "Monk Thelonious",
   "Key": "Eb",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Eb^7|G-7,C7b9b5|F-7|Bb7b9b5|A7|Ab-7,Db7|F-7|F7#9#11"
+        "Chords": "Eb^7|G-7,C7b5b9|F-7|Bb7b5b9|A7|Ab-7,Db7|F-7|F7#9#11"
       },
       "Endings": []
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Bb-7|Eb7#11|Ab^7|Db7|C-7|G7#11|F13#11|Bb7b9b5"
+        "Chords": "Bb-7|Eb7#11|Ab^7|Db7|C-7|G7#11|F13#11|Bb7b5b9"
       },
       "Endings": []
     },
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Eb^7|G-7,C7b9b5|F-7|Bb7b9b5|A7|Ab-7,Db7|F-7|F7#9#11"
+        "Chords": "Eb^7|G-7,C7b5b9|F-7|Bb7b5b9|A7|Ab-7,Db7|F-7|F7#9#11"
       },
       "Endings": []
     }

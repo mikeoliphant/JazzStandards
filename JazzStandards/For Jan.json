@@ -2,10 +2,11 @@
   "Title": "For Jan",
   "Composer": "Wheeler Kenny",
   "Key": "A",
+  "Rhythm": "Waltz",
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "Bb^7#11|E7alt|A7b9b13|D-9|E7b9b13|E7b9b13|A-7|F^7#11|Bb^7#11|E7alt|A7b9b13|Ab7#5|C/G|E7b13/G#|A-7|B7#9#5|E-11|D-11|C-11|Bb^7#11|E7alt|E7alt|A^7|A^7"
+        "Chords": "Bb^7#11|E7alt|A7b9b13|D-9|E7b9b13|E7b9b13|A-7|F^7#11|Bb^7#11|E7alt|A7b9b13|Ab7#5|C/G|E7b13/G#|A-7|B7#5#9|E-11|D-11|C-11|Bb^7#11|E7alt|E7alt|A^7|A^7"
       },
       "Endings": []
     }

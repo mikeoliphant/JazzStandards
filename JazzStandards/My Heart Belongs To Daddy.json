@@ -2,6 +2,7 @@
   "Title": "My Heart Belongs To Daddy",
   "Composer": "Porter Cole",
   "Key": "C-",
+  "Rhythm": "Medium Up Swing",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "C^7|C^7|C7|F^7|F-6|C6|Dh7,G7b13|C-6,,Dh,G7"
+        "Chords": "C^7|C^7|C7|F^7|F-6|C6|Dh7,G7b13|C-6,,Dh7,G7"
       },
       "Endings": []
     }

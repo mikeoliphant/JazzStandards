@@ -2,11 +2,12 @@
   "Title": "Ballad For Very Tired And Very Sad Lotus Eaters",
   "Composer": "Strayhorn Billy",
   "Key": "Ab",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Bbh9,Eb13b9|Abo7,Ab^7|Bb-7,Eb13|Eb-7,D9#11|Db^7|Bb9,E7"
+        "Chords": "Bb-7b9,Eb13b9|Abo7,Ab^7|Bb-7,Eb13|Eb-7,D9#11|Db^7|Bb9,E7"
       },
       "Endings": [
         {
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Bbh9,Eb13b9|Abo7,Ab^7|Bb-7,Eb13|Eb-7,Ab7b9|Db^7|Bb9,E7|Bb-7,Eb7sus|Ab69,Eb7sus"
+        "Chords": "Bb-7b9,Eb13b9|Abo7,Ab^7|Bb-7,Eb13|Eb-7,Ab7b9|Db^7|Bb9,E7|Bb-7,Eb7sus|Ab69,Eb7sus"
       },
       "Endings": []
     }

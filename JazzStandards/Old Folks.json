@@ -2,6 +2,7 @@
   "Title": "Old Folks",
   "Composer": "Robison Willard",
   "Key": "F",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "F^7,C7#5|C-7,F7|Bb^7|Eb7|F^7,,Eh,A7|D-7|G7|G-7,C7,F-7,Bb7"
+        "Chords": "F^7,C7#5|C-7,F7|Bb^7|Eb7|F^7,,Eh7,A7|D-7|G7|G-7,C7,F-7,Bb7"
       },
       "Endings": []
     },

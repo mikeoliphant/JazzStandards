@@ -2,11 +2,12 @@
   "Title": "Airegin",
   "Composer": "Rollins Sonny",
   "Key": "F-",
+  "Rhythm": "Up Tempo Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F-|C7#9b5|F-|F7|Bb-|F7#9b5|Bb-|Bb-"
+        "Chords": "F-|C7b5#9|F-|F7|Bb-|F7b5#9|Bb-|Bb-"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F-|C7#9b5|F-|F7|Bb-|F7#9b5|Bb-|Bb-"
+        "Chords": "F-|C7b5#9|F-|F7|Bb-|F7b5#9|Bb-|Bb-"
       },
       "Endings": []
     },

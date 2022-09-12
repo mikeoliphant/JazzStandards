@@ -2,6 +2,7 @@
   "Title": "All God's Chillun Got Rhythm",
   "Composer": "Kahn-Kaper",
   "Key": "F",
+  "Rhythm": "Medium Up Swing",
   "Sections": [
     {
       "Label": "A",
@@ -27,7 +28,7 @@
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "Bh7,E7|A-7,D7|G-7,C7|Eb7,D7|G-7|C7|F6,(D7)|(G-7)x,(C7)"
+        "Chords": "Bh7,E7|A-7,D7|G-7,C7|Eb7,D7|G-7|C7|F6,(D7)|F6(G-7),(C7)"
       },
       "Endings": []
     }

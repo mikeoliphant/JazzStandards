@@ -2,10 +2,11 @@
   "Title": "Radio",
   "Composer": "Swallow Steve",
   "Key": "F",
+  "Rhythm": "Medium Up Swing",
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "F^7,E7#9|A-7|D9#11|D-9,B7#5|E-7,A7|F#h7|B7#5|E-7|C9|D^7,F#7|B-7,E7|E-7,F#7|B-7,E7|Bb7#11|Eb9|Ab9|G7#5|F#7#11|B9|E9sus|Eb7#9#5|Ab-9|E9|Ab-9,E9|Dh7,G7|C-7,D7#5|G-7,C7"
+        "Chords": "F^7,E7#9|A-7|D9#11|D-9,B7#5|E-7,A7|F#h7|B7#5|E-7|C9|D^7,F#7|B-7,E7|E-7,F#7|B-7,E7|Bb7#11|Eb9|Ab9|G7#5|F#7#11|B9|E9sus|Eb7#5#9|Ab-9|E9|Ab-9,E9|Dh7,G7|C-7,D7#5|G-7,C7"
       },
       "Endings": []
     },

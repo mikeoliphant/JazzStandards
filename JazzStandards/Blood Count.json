@@ -2,11 +2,12 @@
   "Title": "Blood Count",
   "Composer": "Strayhorn Billy",
   "Key": "D",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F7#11|Bb7#9|Eb7#9#11|Bb-7,Eb7|D-|D-#5|D-6|A-7,D7"
+        "Chords": "F7#11|Bb7#9|Eb7#9#11|Bb-7,Eb7|D-|D-aug|D-6|A-7,D7"
       },
       "Endings": []
     },

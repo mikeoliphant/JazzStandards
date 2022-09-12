@@ -2,6 +2,7 @@
   "Title": "When The Sun Comes Out",
   "Composer": "Arlen Harold",
   "Key": "G",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "G^7,C7#11|B-7,E-7|D-7|Bh7,E7b9|A-7|D7,,Bh,E7|A-7,D7|A-7,D7"
+        "Chords": "G^7,C7#11|B-7,E-7|D-7|Bh7,E7b9|A-7|D7,,Bh7,E7|A-7,D7|A-7,D7"
       },
       "Endings": []
     },

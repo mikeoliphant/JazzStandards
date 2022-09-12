@@ -2,11 +2,12 @@
   "Title": "Hello Dolly",
   "Composer": "Herman Jerry",
   "Key": "C",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C|C|A-|A-|C^7/G|Abo7|D-7|G7|D-|D-#5|D-6|D-#5|D-/G|G7|E-7,Ebo7|D-7,G7"
+        "Chords": "C|C|A-|A-|C^7/G|Abo7|D-7|G7|D-|D-aug|D-6|D-aug|D-/G|G7|E-7,Ebo7|D-7,G7"
       },
       "Endings": []
     },

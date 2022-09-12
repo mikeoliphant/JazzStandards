@@ -2,10 +2,11 @@
   "Title": "Midnight Mood",
   "Composer": "Zawinul Joe",
   "Key": "Db",
+  "Rhythm": "Waltz",
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "Db^7|Ebh7/Db|Db^7|Ebh7/Db|Db^7|Ebh7/Db|Db^7|G7b9b5|Gb^7|C7#9|F-7|Bb-7|Eb-7|Eb-7/Ab|Ab-7/Db|Ab-7/Db,,G7b9b5,G7b9b5|Gb^7|C7#9|F-7|Bb7#9|Eb-7|Ab7|Db^7|Ebh7/Db"
+        "Chords": "Db^7|Ebh7/Db|Db^7|Ebh7/Db|Db^7|Ebh7/Db|Db^7|G7b5b9|Gb^7|C7#9|F-7|Bb-7|Eb-7|Eb-7/Ab|Ab-7/Db|Ab-7/Db,,G7b5b9,G7b5b9|Gb^7|C7#9|F-7|Bb7#9|Eb-7|Ab7|Db^7|Ebh7/Db"
       },
       "Endings": []
     }

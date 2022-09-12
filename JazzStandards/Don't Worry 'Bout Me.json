@@ -2,11 +2,12 @@
   "Title": "Don't Worry 'Bout Me",
   "Composer": "Bloom Rube",
   "Key": "Ab",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Bb-7|Eb7|Ab^7|Ab^7|Bb-7|Eb7|Ab6|C-7,Bo7|Bb-7|Db-6|Gb9|Gb9,,Gh,C7|F-7|Bb7|Bb-7|Eb7"
+        "Chords": "Bb-7|Eb7|Ab^7|Ab^7|Bb-7|Eb7|Ab6|C-7,Bo7|Bb-7|Db-6|Gb9|Gb9,,Gh7,C7|F-7|Bb7|Bb-7|Eb7"
       },
       "Endings": []
     },

@@ -2,6 +2,7 @@
   "Title": "Too Young To Go Steady",
   "Composer": "McHugh Jimmy",
   "Key": "F",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -10,7 +11,7 @@
       },
       "Endings": [
         {
-          "Chords": "G-7,,Eh,A7|D-7,G7|G-7,C7"
+          "Chords": "G-7,,Eh7,A7|D-7,G7|G-7,C7"
         },
         {
           "Chords": "G-7,C7|F6|Bh7,E7b9"

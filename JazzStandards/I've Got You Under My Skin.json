@@ -2,6 +2,7 @@
   "Title": "I've Got You Under My Skin",
   "Composer": "Porter Cole",
   "Key": "Eb",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -27,7 +28,7 @@
     {
       "Label": "D",
       "MainSegment": {
-        "Chords": "C-7|F-7,Bb7|Eb^7|C-7|F-7|Bb7|Eb^7|Bb-7,Eb7|Ab^7|Db7|Eb^7|Gh,C7|F-7|Bb7|Eb^7|Eb^7"
+        "Chords": "C-7|F-7,Bb7|Eb^7|C-7|F-7|Bb7|Eb^7|Bb-7,Eb7|Ab^7|Db7|Eb^7|Gh7,C7|F-7|Bb7|Eb^7|Eb^7"
       },
       "Endings": []
     }

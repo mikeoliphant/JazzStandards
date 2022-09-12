@@ -2,6 +2,7 @@
   "Title": "Lakes",
   "Composer": "Metheny Pat",
   "Key": "D",
+  "Rhythm": "Even 8ths",
   "Sections": [
     {
       "Label": "i",
@@ -27,7 +28,7 @@
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "E-9,F#-7|F#/G|E7#9/G#,Eb/A|D/A#|C/B,Bb/C|A7/C#,,D9,D/Eb|E-9,,F#-7,G^|A7sus"
+        "Chords": "E-9,F#-7|F#/G|E7#9/G#,Eb/A|D/A#|C/B,Bb/C|A7/C#,,D9,D/Eb|E-9,,F#-7,G|A7sus"
       },
       "Endings": []
     },

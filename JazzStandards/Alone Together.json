@@ -2,6 +2,7 @@
   "Title": "Alone Together",
   "Composer": "Schwartz Arthur",
   "Key": "D-",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -10,7 +11,7 @@
       },
       "Endings": [
         {
-          "Chords": "D^7|(Eh7)x,(A7b9)"
+          "Chords": "D^7|D^7(Eh7),(A7b9)"
         },
         {
           "Chords": "D^7|D^7"

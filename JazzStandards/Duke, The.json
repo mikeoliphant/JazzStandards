@@ -2,6 +2,7 @@
   "Title": "Duke, The",
   "Composer": "Brubeck Dave",
   "Key": "C",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "F^7,E7|D7,C^7|Bb-7,Ab^7|G7b9,F-7|Dh,G7,C-7,|Ch,F7,Bb-7,|Ab/C,Bb-7,Ab6,Gh|F-7,Ebsus,Db7#11,"
+        "Chords": "F^7,E7|D7,C^7|Bb-7,Ab^7|G7b9,F-7|Dh7,G7,C-7,|Ch7,F7,Bb-7,|Ab/C,Bb-7,Ab6,Gh7|F-7,Ebsus,Db7#11,"
       },
       "Endings": []
     },

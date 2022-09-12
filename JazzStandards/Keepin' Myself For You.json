@@ -2,6 +2,7 @@
   "Title": "Keepin' Myself For You",
   "Composer": "Youmans Vincent",
   "Key": "Eb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "E^7,C#-7|F#-7,B7|E^7/G#,,C#-7,C#-/B|Bb7|Eb^7,,C-7,C-/Bb|Ah,D7,G-7,Gb7|F-7|E7"
+        "Chords": "E^7,C#-7|F#-7,B7|E^7/G#,,C#-7,C#-/B|Bb7|Eb^7,,C-7,C-/Bb|Ah7,D7,G-7,Gb7|F-7|E7"
       },
       "Endings": []
     },

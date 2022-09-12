@@ -2,6 +2,7 @@
   "Title": "Let's Get Away From It All",
   "Composer": "Dennis-Adair",
   "Key": "Eb",
+  "Rhythm": "Medium Up Swing",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Ab^7,Ah,D7,|G-7,C7|F-7,Bb7|Eb^7|Bb^7,Bo7|C-7,F7|Bb7|F-7,Bb7"
+        "Chords": "Ab^7,Ah7,D7,|G-7,C7|F-7,Bb7|Eb^7|Bb^7,Bo7|C-7,F7|Bb7|F-7,Bb7"
       },
       "Endings": []
     },

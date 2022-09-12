@@ -2,17 +2,18 @@
   "Title": "Gentle Wind And Falling Tear",
   "Composer": "Burton Gary",
   "Key": "Ab",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "F-7,C7#9|F-7,B13|D^7,F^7|Eb^7,,Eh,A7|D-7,C7|F^7,,F13,A7|Ab6,G7|Gb^7#11,F-7"
+        "Chords": "F-7,C7#9|F-7,B13|D^7,F^7|Eb^7,,Eh7,A7|D-7,C7|F^7,,F13,A7|Ab6,G7|Gb^7#11,F-7"
       },
       "Endings": [
         {
           "Chords": "Bb-7,Ab^7|Gb^7,F-7|Bb-7,Gb6|Eb-7,C-7|Db^7,B7#11|Bb-7,Eb7|Ab-7,Db7|Gh7,C7#9"
         },
         {
-          "Chords": "Bb-7,Eb-6|Ab7,Db^7|Gh7,C7#9|Ch7,F7b9|Bb-7,,Gh,C7|F^7,B7#11|D^7#11,F^7#11|E^7"
+          "Chords": "Bb-7,Eb-6|Ab7,Db^7|Gh7,C7#9|Ch7,F7b9|Bb-7,,Gh7,C7|F^7,B7#11|D^7#11,F^7#11|E^7"
         }
       ]
     }

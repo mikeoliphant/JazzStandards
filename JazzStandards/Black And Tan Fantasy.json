@@ -2,6 +2,7 @@
   "Title": "Black And Tan Fantasy",
   "Composer": "Ellington-Miley",
   "Key": "Bb-",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -17,7 +18,7 @@
       },
       "Endings": [
         {
-          "Chords": "Bb,G+,C7,F7|Bb7,Eb7,Ab7,Db7"
+          "Chords": "Bb,Gaug,C7,F7|Bb7,Eb7,Ab7,Db7"
         },
         {
           "Chords": "Bb6|Bb6"

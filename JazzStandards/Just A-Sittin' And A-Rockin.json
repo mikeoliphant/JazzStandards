@@ -2,6 +2,7 @@
   "Title": "Just A-Sittin' And A-Rockin",
   "Composer": "Ellington-Strayhorn-Gaines",
   "Key": "Ab",
+  "Rhythm": "Slow Swing",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "C-,C-#5|C-6,C-b6|C-,C-#5|D-7,G7|C,C+|C6,C#o7|D-7,G7|Bb-7,Eb7"
+        "Chords": "C-,C-aug|C-6,C-b6|C-,C-aug|D-7,G7|C,Caug|C6,C#o7|D-7,G7|Bb-7,Eb7"
       },
       "Endings": []
     },

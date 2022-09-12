@@ -2,6 +2,7 @@
   "Title": "My One And Only Love",
   "Composer": "Wood-Mellin",
   "Key": "C",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
           "Chords": "E-7,A7,D-7,G7"
         },
         {
-          "Chords": "C6,,F#h,B7"
+          "Chords": "C6,,F#h7,B7"
         }
       ]
     },

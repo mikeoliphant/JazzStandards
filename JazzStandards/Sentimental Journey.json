@@ -2,11 +2,12 @@
   "Title": "Sentimental Journey",
   "Composer": "Brown-Green-Homer",
   "Key": "C",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C6,(A7)|C6,(A7)|C6,(A7)|D7,G7|C6,C7|F7,F#o7(Bb7)|C6,A7|D7,G7,C6,"
+        "Chords": "C6|C6|C6,(A7)|D7,G7|C6,C7|F7,F#o7(Bb7)|C6,A7|D7,G7,C6,"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C6,(A7)|C6,(A7)|C6,(A7)|D7,G7|C6,C7|F7,F#o7(Bb7)|C6,A7|D7,G7,C6,"
+        "Chords": "C6|C6|C6,(A7)|D7,G7|C6,C7|F7,F#o7(Bb7)|C6,A7|D7,G7,C6,"
       },
       "Endings": []
     }

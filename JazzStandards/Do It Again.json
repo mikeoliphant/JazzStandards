@@ -2,11 +2,12 @@
   "Title": "Do It Again",
   "Composer": "Sylva Gershwin-De",
   "Key": "F",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F6|F6|F6|F6|F6,F+|F,D-|G7|G7"
+        "Chords": "F6|F6|F6|F6|F6,Faug|F,D-|G7|G7"
       },
       "Endings": []
     },

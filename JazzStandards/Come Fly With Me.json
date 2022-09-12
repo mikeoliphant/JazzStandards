@@ -2,6 +2,7 @@
   "Title": "Come Fly With Me",
   "Composer": "Van-Heusen Jimmy",
   "Key": "C",
+  "Rhythm": "Medium Up Swing",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Ab|Ab+|Db^7|Db6|Bb-7|Eb7|Ab6|Bb-7,Eb7sus|Ab,Ab+|Ab6|G^7|G^7,G^7,E-7|A-7|D7|G7,G7sus|G7,G7b9"
+        "Chords": "Ab|Abaug|Db^7|Db6|Bb-7|Eb7|Ab6|Bb-7,Eb7sus|Ab,Abaug|Ab6|G^7|G^7,G^7,E-7|A-7|D7|G7,G7sus|G7,G7b9"
       },
       "Endings": [
         {

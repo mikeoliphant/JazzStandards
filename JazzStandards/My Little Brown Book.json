@@ -2,11 +2,12 @@
   "Title": "My Little Brown Book",
   "Composer": "Strayhorn Billy",
   "Key": "Bb",
+  "Rhythm": "Slow Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Bb6,F7#5|Bb7|Eb^7|Eb-6,Ab7|Bb,Bb+|C-7,F7"
+        "Chords": "Bb6,F7#5|Bb7|Eb^7|Eb-6,Ab7|Bb,Bbaug|C-7,F7"
       },
       "Endings": [
         {
@@ -27,7 +28,7 @@
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "Bb6,F7#5|Bb7|Eb^7|Eb-6,Ab7|Bb,Bb+|C-7,F7|Bb^7,,C#-7,F#7|B^7|Ch7,F7|Bb^7"
+        "Chords": "Bb6,F7#5|Bb7|Eb^7|Eb-6,Ab7|Bb,Bbaug|C-7,F7|Bb^7,,C#-7,F#7|B^7|Ch7,F7|Bb^7"
       },
       "Endings": []
     }

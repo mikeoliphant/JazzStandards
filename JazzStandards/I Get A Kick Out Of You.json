@@ -2,6 +2,7 @@
   "Title": "I Get A Kick Out Of You",
   "Composer": "Porter Cole",
   "Key": "Eb",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -10,7 +11,7 @@
       },
       "Endings": [
         {
-          "Chords": "1Eb6|G-7,C7b9"
+          "Chords": "Eb6|G-7,C7b9"
         },
         {
           "Chords": "Eb6|Eb6"

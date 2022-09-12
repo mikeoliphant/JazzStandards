@@ -2,6 +2,7 @@
   "Title": "James",
   "Composer": "Metheny Pat",
   "Key": "D",
+  "Rhythm": "Bossa Nova",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "D^7,G^7|A/C#,B-7|G^7,F#-7|G^7,F#-7|D^7,G^7|C#h,F#7,B-7,|G^7,F#-7|G^7,F#-7"
+        "Chords": "D^7,G^7|A/C#,B-7|G^7,F#-7|G^7,F#-7|D^7,G^7|C#h7,F#7,B-7,|G^7,F#-7|G^7,F#-7"
       },
       "Endings": [
         {
@@ -33,13 +34,13 @@
     },
     {
       "MainSegment": {
-        "Chords": "D^7,G^7|A/C#,B-7|G^7,F#-7|G^7,F#-7|D7,G7|C#h,F#7,B-7,|G^7,F#-7|G^7,F#-7|G^7,G/A|D,,G,A"
+        "Chords": "D^7,G^7|A/C#,B-7|G^7,F#-7|G^7,F#-7|D7,G7|C#h7,F#7,B-7,|G^7,F#-7|G^7,F#-7|G^7,G/A|D,,G,A"
       },
       "Endings": []
     },
     {
       "MainSegment": {
-        "Chords": "G^,G/A|B-7,D7/A|G^,F#-|G^,F#-"
+        "Chords": "G,G/A|B-7,D7/A|G,F#-|G,F#-"
       },
       "Endings": []
     },

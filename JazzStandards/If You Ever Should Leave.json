@@ -2,10 +2,11 @@
   "Title": "If You Ever Should Leave",
   "Composer": "Cahn-Chaplin",
   "Key": "C",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "C|C|A7|A7|D7|D7|G7|G7|C7|C7|F|F|D7|D7|G7|G7|C|C|A7|A7|D7|G7|C,(A7)|(D-7)x,(G7)"
+        "Chords": "C|C|A7|A7|D7|D7|G7|G7|C7|C7|F|F|D7|D7|G7|G7|C|C|A7|A7|D7|G7|C,(A7)|C(D-7),(G7)"
       },
       "Endings": []
     }

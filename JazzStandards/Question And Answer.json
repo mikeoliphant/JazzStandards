@@ -2,11 +2,12 @@
   "Title": "Question And Answer",
   "Composer": "Metheny Pat",
   "Key": "D-",
+  "Rhythm": "Waltz",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "D-|D-b6|D-6|D-7|G-7|A-7|Bb^7|C7sus|D-|D-b6|D-6|C-7,F7|B7#9#5|Bb7#11|A7#9#5|D-"
+        "Chords": "D-|D-b6|D-6|D-7|G-7|A-7|Bb^7|C7sus|D-|D-b6|D-6|C-7,F7|B7#5#9|Bb7#11|A7#5#9|D-"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "D-|D-b6|D-6|D-7|G-7|A-7|Bb^7|C7sus|D-|D-b6|D-6|C-7,F7|B7#9#5|Bb7#11|A7#9#5|D-"
+        "Chords": "D-|D-b6|D-6|D-7|G-7|A-7|Bb^7|C7sus|D-|D-b6|D-6|C-7,F7|B7#5#9|Bb7#11|A7#5#9|D-"
       },
       "Endings": []
     }

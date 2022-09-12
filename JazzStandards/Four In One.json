@@ -2,11 +2,12 @@
   "Title": "Four In One",
   "Composer": "Monk Thelonious",
   "Key": "Eb",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Eb6|G7|C7|C7|F7|Bb7|Eb6|(F-7)x,(Bb7)"
+        "Chords": "Eb6|G7|C7|C7|F7|Bb7|Eb6|Eb6(F-7),(Bb7)"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Eb6|G7|C7|C7|F7|Bb7|Eb6|(F-7)x,(Bb7)"
+        "Chords": "Eb6|G7|C7|C7|F7|Bb7|Eb6|Eb6(F-7),(Bb7)"
       },
       "Endings": []
     }

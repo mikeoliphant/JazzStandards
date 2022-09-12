@@ -2,6 +2,7 @@
   "Title": "I Loves You Porgy",
   "Composer": "Gershwin George",
   "Key": "F",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
           "Chords": "F6,C7sus"
         },
         {
-          "Chords": "F6,,Bh,E7"
+          "Chords": "F6,,Bh7,E7"
         }
       ]
     },

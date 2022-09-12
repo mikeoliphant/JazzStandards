@@ -2,6 +2,7 @@
   "Title": "Stars Fell On Alabama",
   "Composer": "Perkins Frank",
   "Key": "C",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "D-7,G7|E-7,A7|D-7,G7|C6,A7|D-7,D-/C,Bh,E7|A-7,A-7/G|F#-7,B7|E^7,,D-7,G7"
+        "Chords": "D-7,G7|E-7,A7|D-7,G7|C6,A7|D-7,D-/C,Bh7,E7|A-7,A-7/G|F#-7,B7|E^7,,D-7,G7"
       },
       "Endings": []
     },

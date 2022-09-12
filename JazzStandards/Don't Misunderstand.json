@@ -2,6 +2,7 @@
   "Title": "Don't Misunderstand",
   "Composer": "Parks Gordon",
   "Key": "F",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
           "Chords": "A-7,D7|G7,C7"
         },
         {
-          "Chords": "F6,Bb7|F6,,Ah,D7"
+          "Chords": "F6,Bb7|F6,,Ah7,D7"
         }
       ]
     },

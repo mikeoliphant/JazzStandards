@@ -2,6 +2,7 @@
   "Title": "Lonely Dreams",
   "Composer": "Gibbs Terry",
   "Key": "Bb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "A-7,,Bh,E7|A-7,,Bh,E7|A-7,,Bh,E7|C-7,F7|Bb^7,Bo7|C-7,F7|Bb^7|Ah7,Ab7b5"
+        "Chords": "A-7,,Bh7,E7|A-7,,Bh7,E7|A-7,,Bh7,E7|C-7,F7|Bb^7,Bo7|C-7,F7|Bb^7|Ah7,Ab7b5"
       },
       "Endings": []
     },

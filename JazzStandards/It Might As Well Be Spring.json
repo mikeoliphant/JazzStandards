@@ -2,6 +2,7 @@
   "Title": "It Might As Well Be Spring",
   "Composer": "Rodgers Richard",
   "Key": "G",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "C^7|A-7|D-7|G7|D-7|G7|C^7|Bh,E7|A-7|A-7/G|F#h7|B7b9|E-7|A7|A-7|D7"
+        "Chords": "C^7|A-7|D-7|G7|D-7|G7|C^7|Bh7,E7|A-7|A-7/G|F#h7|B7b9|E-7|A7|A-7|D7"
       },
       "Endings": [
         {

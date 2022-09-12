@@ -2,11 +2,12 @@
   "Title": "So Many Stars",
   "Composer": "Mendez Sergio",
   "Key": "F",
+  "Rhythm": "Bossa Nova",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "G-7|C7|C-7|F7|Bb^7|Eb7|A-,A-#5|A-6,A-7|A-^7,A-7|D7b9|G-7|C7"
+        "Chords": "G-7|C7|C-7|F7|Bb^7|Eb7|A-,A-aug|A-6,A-7|A-^7,A-7|D7b9|G-7|C7"
       },
       "Endings": [
         {

@@ -2,6 +2,7 @@
   "Title": "Heaven",
   "Composer": "Ellington Duke",
   "Key": "Bb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "F-7|Bb7|Eb^7|Eb^7|Eh7|A7|D-7|C7,Cb7"
+        "Chords": "F-7|Bb7|Eb^7|Eb^7|Eh7|A7|D-7|C7,B7"
       },
       "Endings": []
     },

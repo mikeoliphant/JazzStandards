@@ -2,6 +2,7 @@
   "Title": "When You're Smilin'",
   "Composer": "Shay - Fisher - Goodwin",
   "Key": "Bb",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "MainSegment": {
@@ -19,7 +20,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Bb6|Bb6|Ab7#11|G7|C-7|F7|Bb6|(C-7)x,(F7)"
+        "Chords": "Bb6|Bb6|Ab7#11|G7|C-7|F7|Bb6|Bb6(C-7),(F7)"
       },
       "Endings": []
     }

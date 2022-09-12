@@ -2,6 +2,7 @@
   "Title": "Old Cape Cod",
   "Composer": "Rothrock-Vakus-Jeffrey",
   "Key": "Eb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Ab^7,Bb7|G-7,C7b9|F-7,Bb7|Eb^7,Eb7|Ab^7,Ao7|Eb^,Db6,C7,|F-7,F7|Bb7,Bb7#5"
+        "Chords": "Ab^7,Bb7|G-7,C7b9|F-7,Bb7|Eb^7,Eb7|Ab^7,Ao7|Eb,Db6,C7,|F-7,F7|Bb7,Bb7#5"
       },
       "Endings": []
     },

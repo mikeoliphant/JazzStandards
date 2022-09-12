@@ -2,6 +2,7 @@
   "Title": "Butterfly",
   "Composer": "Hancock Herbie",
   "Key": "F-",
+  "Rhythm": "Funk",
   "Sections": [
     {
       "Label": "i",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Bb7|A7#9#5|Ab^7/Bb|Ab^7#5/Bb|Ab^7/Bb|Bb13|Eb13sus|Eb13sus|Eb7#9#5|Eb7#9#5|Ab13sus|Ab13sus,Ab13sus,W/C,C7/E|F-7|F-7,A-7"
+        "Chords": "Bb7|A7#5#9|Ab^7/Bb|Ab^7#5/Bb|Ab^7/Bb|Bb13|Eb13sus|Eb13sus|Eb7#5#9|Eb7#5#9|Ab13sus|Ab13sus,Ab13sus,Ab13sus/C,C7/E|F-7|F-7,A-7"
       },
       "Endings": []
     },

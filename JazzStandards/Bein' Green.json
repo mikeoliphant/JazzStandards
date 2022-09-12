@@ -2,6 +2,7 @@
   "Title": "Bein' Green",
   "Composer": "Raposo Joe",
   "Key": "Bb",
+  "Rhythm": "Even 8ths",
   "Sections": [
     {
       "Label": "A",
@@ -10,7 +11,7 @@
       },
       "Endings": [
         {
-          "Chords": "Bb^,Ab/Eb,Gb/Db,F7/C"
+          "Chords": "Bb,Ab/Eb,Gb/Db,F7/C"
         },
         {
           "Chords": "Bb6"

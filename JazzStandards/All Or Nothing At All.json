@@ -2,11 +2,12 @@
   "Title": "All Or Nothing At All",
   "Composer": "Altman Arthur",
   "Key": "A-",
+  "Rhythm": "Medium Up Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "A-|A-^7|A-7|A-6|A-|(G-7)x,(C7)|Bb7|Bb7|G-7|(Eh7)x,(A7b9)|D-7|D#o7|D-7|Db7#11"
+        "Chords": "A-|A-^7|A-7|A-6|A-|A-(G-7),(C7)|Bb7|Bb7|G-7|G-7(Eh7),(A7b9)|D-7|D#o7|D-7|Db7#11"
       },
       "Endings": [
         {

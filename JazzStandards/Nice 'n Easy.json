@@ -2,11 +2,12 @@
   "Title": "Nice 'n Easy",
   "Composer": "Spence-Bergman-Keith",
   "Key": "C",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "C|C+|C6|C7|D-7|A7b13(Eh7),(A7#9)"
+        "Chords": "C|Caug|C6|C7|D-7|A7b13(Eh7),(A7#9)"
       },
       "Endings": [
         {
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C|C+|C6|C7|F^7|E7b9|A-7|D7,D#o7|E-7,A-7|D-7,G7|C6|D-7,G7"
+        "Chords": "C|Caug|C6|C7|F^7|E7b9|A-7|D7,D#o7|E-7,A-7|D-7,G7|C6|D-7,G7"
       },
       "Endings": []
     }

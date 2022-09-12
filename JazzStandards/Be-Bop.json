@@ -2,11 +2,12 @@
   "Title": "Be-Bop",
   "Composer": "Gillespie Dizzy",
   "Key": "F-",
+  "Rhythm": "Up Tempo Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F-,Gh7|F-/Ab,Bb-6|F-/C|Gh7,C7b9|F-,Gh7|F-/Ab,Bb-6|F-/C|Gh,C7,F-,"
+        "Chords": "F-,Gh7|F-/Ab,Bb-6|F-/C|Gh7,C7b9|F-,Gh7|F-/Ab,Bb-6|F-/C|Gh7,C7,F-,"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F-,Gh7|F-/Ab,Bb-6|F-/C|Gh7,C7b9|F-,Gh7|F-/Ab,Bb-6|F-/C|Gh,C7,F-,"
+        "Chords": "F-,Gh7|F-/Ab,Bb-6|F-/C|Gh7,C7b9|F-,Gh7|F-/Ab,Bb-6|F-/C|Gh7,C7,F-,"
       },
       "Endings": []
     }

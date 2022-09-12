@@ -2,11 +2,12 @@
   "Title": "Happy Talk",
   "Composer": "II Rodgers-Hammerstein",
   "Key": "F",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F6|F+|Bb6|G7|C7sus|G-7,C7|F6|F6,F7|Bb6|Eb7|F6|D7b13|D-7,G7|G-7,C7|F6|G-7,C7sus"
+        "Chords": "F6|Faug|Bb6|G7|C7sus|G-7,C7|F6|F6,F7|Bb6|Eb7|F6|D7b13|D-7,G7|G-7,C7|F6|G-7,C7sus"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F6|F+|Bb6|G7|C7sus|G-7,C7|F6|F6,F7|Bb6|Eb7|F6|D7b13|D-7,G7|G-7,C7|F6|G-7,C7sus"
+        "Chords": "F6|Faug|Bb6|G7|C7sus|G-7,C7|F6|F6,F7|Bb6|Eb7|F6|D7b13|D-7,G7|G-7,C7|F6|G-7,C7sus"
       },
       "Endings": []
     }

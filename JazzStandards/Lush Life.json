@@ -2,24 +2,25 @@
   "Title": "Lush Life",
   "Composer": "Strayhorn Billy",
   "Key": "Db",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "v",
       "MainSegment": {
-        "Chords": "Db6,Cb9|Db^7,Cb9|Db^7,Cb9|Db^,Eb-7,F-7,Gb-7|Ab-7,D13#11|F-7,D9#11"
+        "Chords": "Db6,B9|Db^7,B9|Db^7,B9|Db,Eb-7,F-7,Gb-7|Ab-7,D13#11|F-7,D9#11"
       },
       "Endings": [
         {
           "Chords": "Db-6,D13#11"
         },
         {
-          "Chords": "Db-6,,Gh,C7"
+          "Chords": "Db-6,,Gh7,C7"
         }
       ]
     },
     {
       "MainSegment": {
-        "Chords": "F-6|F-6|F-6|Gh,C7|F-6|F-6|F-6|Ab13|B9#11|Bb9|Eb-7|A7#11|Eb-7|D7#11"
+        "Chords": "F-6|F-6|F-6|Gh7,C7|F-6|F-6|F-6|Ab13|B9#11|Bb9|Eb-7|A7#11|Eb-7|D7#11"
       },
       "Endings": []
     },
@@ -33,7 +34,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Db^7,D7#11|Db^7,D7#11|Db6,,C7,B7|F-7,Bb7|F#-7,B7|A7#5,Ab7|Db^7,Gb7|F-7,Bb7|F#-7,B7|A7#5,Ab7|Ab7,A7,Bb7,B7|C7,D7,Db^,Ab7|Db^7,D7#11|Db^7,D7#11"
+        "Chords": "Db^7,D7#11|Db^7,D7#11|Db6,,C7,B7|F-7,Bb7|F#-7,B7|A7#5,Ab7|Db^7,Gb7|F-7,Bb7|F#-7,B7|A7#5,Ab7|Ab7,A7,Bb7,B7|C7,D7,Db,Ab7|Db^7,D7#11|Db^7,D7#11"
       },
       "Endings": []
     }

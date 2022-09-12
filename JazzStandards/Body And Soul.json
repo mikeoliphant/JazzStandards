@@ -2,6 +2,7 @@
   "Title": "Body And Soul",
   "Composer": "Green Johnny",
   "Key": "Db",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "B",
@@ -10,7 +11,7 @@
       },
       "Endings": [
         {
-          "Chords": "Db6,Gb7,Fh,Bb7"
+          "Chords": "Db6,Gb7,Fh7,Bb7"
         },
         {
           "Chords": "Db6,,E-7,A7"
@@ -26,7 +27,7 @@
     },
     {
       "MainSegment": {
-        "Chords": "Eb-7,Bb7b13|Eb-7,Ab7|Db^7,Gb7|F-7,Eo7|Eb-7,Eb-7/Db|Ch7,F7b9|Bb-7,,Eb-7,Ab7|Db6,Gb7,Fh,Bb7"
+        "Chords": "Eb-7,Bb7b13|Eb-7,Ab7|Db^7,Gb7|F-7,Eo7|Eb-7,Eb-7/Db|Ch7,F7b9|Bb-7,,Eb-7,Ab7|Db6,Gb7,Fh7,Bb7"
       },
       "Endings": []
     }

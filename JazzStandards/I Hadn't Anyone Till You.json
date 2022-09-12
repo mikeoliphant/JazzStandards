@@ -2,6 +2,7 @@
   "Title": "I Hadn't Anyone Till You",
   "Composer": "Noble Ray",
   "Key": "F",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "G-7,C7|G7,Eh,A7,|D-,D-^7|D-7,,D-6,Bb7|A^7,F#-7|B-7,E7|A7,D7|G7,C7"
+        "Chords": "G-7,C7|G7,Eh7,A7,|D-,D-^7|D-7,,D-6,Bb7|A^7,F#-7|B-7,E7|A7,D7|G7,C7"
       },
       "Endings": []
     },

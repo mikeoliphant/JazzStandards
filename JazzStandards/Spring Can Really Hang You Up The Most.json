@@ -2,6 +2,7 @@
   "Title": "Spring Can Really Hang You Up The Most",
   "Composer": "Wolf Tommy",
   "Key": "C",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -33,7 +34,7 @@
     },
     {
       "MainSegment": {
-        "Chords": "Eb-7,Ab7|D-7,G7|E-7,A7|D-7,C^7|D-7,C^7|Bh,E7,A-7,|D7|D-7,Bb7|E-7,A7|D-7,Db^7|C^7"
+        "Chords": "Eb-7,Ab7|D-7,G7|E-7,A7|D-7,C^7|D-7,C^7|Bh7,E7,A-7,|D7|D-7,Bb7|E-7,A7|D-7,Db^7|C^7"
       },
       "Endings": []
     }

@@ -2,6 +2,7 @@
   "Title": "Tis Autumn",
   "Composer": "Nemo Henry",
   "Key": "Eb",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Bb-7,Eb7|Bb-7,Eb7|Ab6,Eb7b9#5|Ab6|C-7,F7|C-7,F7|F-7,C7#9#5|F7,Bb7"
+        "Chords": "Bb-7,Eb7|Bb-7,Eb7|Ab6,Eb7b9#5|Ab6|C-7,F7|C-7,F7|F-7,C7#5#9|F7,Bb7"
       },
       "Endings": []
     },

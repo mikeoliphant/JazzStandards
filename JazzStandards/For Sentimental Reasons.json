@@ -2,6 +2,7 @@
   "Title": "For Sentimental Reasons",
   "Composer": "Best William",
   "Key": "F",
+  "Rhythm": "Slow Swing",
   "Sections": [
     {
       "Label": "A",
@@ -20,7 +21,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Bb^7,,Bh,E7|A-7,D7|G-7,C7|F^7|Eh7,A7b9|D-7|G7|G-7,C7"
+        "Chords": "Bb^7,,Bh7,E7|A-7,D7|G-7,C7|F^7|Eh7,A7b9|D-7|G7|G-7,C7"
       },
       "Endings": []
     },

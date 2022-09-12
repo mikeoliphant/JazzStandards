@@ -2,6 +2,7 @@
   "Title": "Dance Cadaverous",
   "Composer": "Shorter Wayne",
   "Key": "C",
+  "Rhythm": "Waltz",
   "Sections": [
     {
       "Label": "i",
@@ -13,7 +14,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "B-^7|B-^7|C-^7|C-^7|C#h7|C#h7|F#7b9|F#7b9|B-^7|B-^7|C-^7|C-^7|C#-7|C#-7|F#7sus|F#7|G^7|G^7|C13#11|C13#11|C7alt|C7alt/Ab|Ab-11|Ab-11|Fh7|Fh7|Bb7#9#5|Bb7#9#5|Bb-7|Bb-7|C#h7|F#7b9"
+        "Chords": "B-^7|B-^7|C-^7|C-^7|C#h7|C#h7|F#7b9|F#7b9|B-^7|B-^7|C-^7|C-^7|C#-7|C#-7|F#7sus|F#7|G^7|G^7|C13#11|C13#11|C7alt|C7alt/Ab|Ab-11|Ab-11|Fh7|Fh7|Bb7#5#9|Bb7#5#9|Bb-7|Bb-7|C#h7|F#7b9"
       },
       "Endings": []
     },

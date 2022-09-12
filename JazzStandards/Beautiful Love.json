@@ -2,11 +2,12 @@
   "Title": "Beautiful Love",
   "Composer": "Young Victor",
   "Key": "D-",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Eh7|A7b9|D-|(D7)x|G-7|C7|F^7|Eh7,A7b9"
+        "Chords": "Eh7|A7b9|D-|D-(D7)|G-7|C7|F^7|Eh7,A7b9"
       },
       "Endings": [
         {

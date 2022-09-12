@@ -2,11 +2,12 @@
   "Title": "Budo",
   "Composer": "Davis-Powell",
   "Key": "Ab",
+  "Rhythm": "Up Tempo Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Ab^7,(G7)|C-7,,(C7)F7,(F7)|Bb-7,Eb7|Ab^7,Ab7#5|Db7,Do7|Ch7/Eb,F7"
+        "Chords": "Ab^7,(G7)|C-7,,F7(C7),(F7)|Bb-7,Eb7|Ab^7,Ab7#5|Db7,Do7|Ch7/Eb,F7"
       },
       "Endings": [
         {
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Ab^7,(G7)|C-7,,(C7)F7,(F7)|Bb-7,Eb7|Ab^7,Ab7#5|Db7,Do7|Ch7/Eb,F7|Bb-7,Eb7|Ab^7"
+        "Chords": "Ab^7,(G7)|C-7,,F7(C7),(F7)|Bb-7,Eb7|Ab^7,Ab7#5|Db7,Do7|Ch7/Eb,F7|Bb-7,Eb7|Ab^7"
       },
       "Endings": []
     }

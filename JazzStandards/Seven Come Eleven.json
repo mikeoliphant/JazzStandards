@@ -2,11 +2,12 @@
   "Title": "Seven Come Eleven",
   "Composer": "Goodman-Christian",
   "Key": "Ab",
+  "Rhythm": "Medium Up Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Ab6(Ab),(F-7)|(Bb-7)x,(Eb7)|(C-7)x,(F7)|(Bb-7)x,(Eb7)|(Ab)x,(Ab7/C)|(Db)x,(Do7)|(Bb-7/Eb)x,(Eb7)|(Ab)x"
+        "Chords": "Ab6(Ab),(F-7)|Ab6(Bb-7),(Eb7)|Ab6(C-7),(F7)|Ab6(Bb-7),(Eb7)|Ab6(Ab),(Ab7/C)|Ab6(Db),(Do7)|Ab6(Bb-7/Eb),(Eb7)|Ab6(Ab)"
       },
       "Endings": []
     },
@@ -20,7 +21,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Ab6(Ab),(F-7)|(Bb-7)x,(Eb7)|(C-7)x,(F7)|(Bb-7)x,(Eb7)|(Ab)x,(Ab7/C)|(Db)x,(Do7)|(Bb-7/Eb)x,(Eb7)|(Ab)x"
+        "Chords": "Ab6(Ab),(F-7)|Ab6(Bb-7),(Eb7)|Ab6(C-7),(F7)|Ab6(Bb-7),(Eb7)|Ab6(Ab),(Ab7/C)|Ab6(Db),(Do7)|Ab6(Bb-7/Eb),(Eb7)|Ab6(Ab)"
       },
       "Endings": []
     }

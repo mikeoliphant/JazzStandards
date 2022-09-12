@@ -2,11 +2,12 @@
   "Title": "It Never Entered My Mind",
   "Composer": "Rodgers Richard",
   "Key": "F",
+  "Rhythm": "Ballad",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F,F+|F6,F+|F^7,,G-7(A-7),(Ab7)|A-7(G-7),G-7(C7)|F^7,Bb7|F^7/A,D7"
+        "Chords": "F,Faug|F6,Faug|F^7,,G-7(A-7),(Ab7)|A-7(G-7),G-7(C7)|F^7,Bb7|F^7/A,D7"
       },
       "Endings": [
         {
@@ -27,7 +28,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "F^7,F+|F6,F+|F^7,,G-7(A-7),(Ab7)|A-7(G-7),G-7(C7)|F^7,Bb7|Ah7,D7b9|G-7,C7|A-7,D7|G-7,C7|F6,,G-7,C7"
+        "Chords": "F^7,Faug|F6,Faug|F^7,,G-7(A-7),(Ab7)|A-7(G-7),G-7(C7)|F^7,Bb7|Ah7,D7b9|G-7,C7|A-7,D7|G-7,C7|F6,,G-7,C7"
       },
       "Endings": []
     }

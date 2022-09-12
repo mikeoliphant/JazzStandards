@@ -2,11 +2,12 @@
   "Title": "Re: Person I Knew",
   "Composer": "Evans Bill",
   "Key": "C",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C69|C+|F#+/C|Bb^7/C|F-7/C|F-7/C|C-9|C-9|F-^7/C|C-11|F-7/C|Bb^7#5/C|F-^7/C|Bb^7/C|F-7/C|Db/C"
+        "Chords": "C69|Caug|F#aug/C|Bb^7/C|F-7/C|F-7/C|C-9|C-9|F-^7/C|C-11|F-7/C|Bb^7#5/C|F-^7/C|Bb^7/C|F-7/C|Db/C"
       },
       "Endings": []
     }

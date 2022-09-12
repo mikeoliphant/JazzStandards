@@ -2,6 +2,7 @@
   "Title": "Beauty And The Beast",
   "Composer": "Shorter Wayne",
   "Key": "F",
+  "Rhythm": "Funk",
   "Sections": [
     {
       "Label": "i",
@@ -13,7 +14,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "A-7|B7#9#5,E7#9|A-7|G-7,C7#9|F-7|Eb-7,Ab13|Db^9|C7alt"
+        "Chords": "A-7|B7#5#9,E7#9|A-7|G-7,C7#9|F-7|Eb-7,Ab13|Db^9|C7alt"
       },
       "Endings": [
         {

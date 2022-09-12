@@ -2,6 +2,7 @@
   "Title": "Ugly Beauty",
   "Composer": "Monk Thelonious",
   "Key": "Db",
+  "Rhythm": "Waltz",
   "Sections": [
     {
       "Label": "A",
@@ -13,7 +14,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Ab-7|Db7b9|Bb7#9#5|F-7,Bb7#11|Ab9sus|Ab7#11|Ab-7|G7b5"
+        "Chords": "Ab-7|Db7b9|Bb7#5#9|F-7,Bb7#11|Ab9sus|Ab7#11|Ab-7|G7b5"
       },
       "Endings": []
     },
