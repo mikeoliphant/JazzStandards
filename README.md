@@ -12,32 +12,33 @@ Here is an example:
   "Title": "Alone Together",
   "Composer": "Schwartz Arthur",
   "Key": "D-",
+  "Rhythm": "Medium Swing",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "D-6|Eh7,A7b9|D-6|Eh7,A7b9|D-6|Ah7,D7b9|G-7|G-7|B-7,E7|G-7,C7|F^7|Eh7,A7b9"
+        "Chords": "Dm6|Em7b5,A7b9|Dm6|Em7b5,A7b9|Dm6|Am7b5,D7b9|Gm7|Gm7|Bm7,E7|Gm7,C7|Fmaj7|Em7b5,A7b9"
       },
       "Endings": [
         {
-          "Chords": "D^7|(Eh7)x,(A7b9)"
+          "Chords": "Dmaj7|D(Em7b5),(A7b9)"
         },
         {
-          "Chords": "D^7|D^7"
+          "Chords": "Dmaj7|Dmaj7"
         }
       ]
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Ah7|D7b9|G-6|G-6|Gh7|C7b9|F^7|Eh7,A7b9"
+        "Chords": "Am7b5|D7b9|Gm6|Gm6|Gm7b5|C7b9|Fmaj7|Em7b5,A7b9"
       },
       "Endings": []
     },
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "D-6|Eh7,A7b9|D-6|Eh7,A7b9|D-6,Bh7|Bb7,A7b9|D-6|Eh7,A7b9"
+        "Chords": "Dm6|Em7b5,A7b9|Dm6|Em7b5,A7b9|Dm6,Bm7b5|Bb7,A7b9|Dm6|Em7b5,A7b9"
       },
       "Endings": []
     }
