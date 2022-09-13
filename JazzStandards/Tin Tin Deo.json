@@ -13,6 +13,7 @@
     },
     {
       "Label": "B",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "C7#9|C7#9|Fm6|Fm6|C7#9|C7#9|Fm6|Fm6"
       },

@@ -79,6 +79,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C,Am7|Dm7,G7|C,Am7|Dm7,G7|C,Am7|Dm7,G7|C,G7|C"
         },
@@ -113,6 +114,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm7|Cm7|Abmaj7|Abmaj7"
         },
@@ -191,6 +193,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cmaj7|Gb7#11|Fmaj7|Em7b5,A7b9|Am7|D7|Dm7|G7"
         },
@@ -300,6 +303,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cmaj7(Am7)|Cmaj7(Am7)|Cmaj7|Cmaj7|Em7|B7b9|Em7,A7|Dm7,G7"
         },
@@ -372,6 +376,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "B7#11|B7#11|B7#11|B7#11|Bb7b13,Eb7|Ab7b13,Db7|Dmaj7(F#m7),,Eb7,D|Db6"
         },
@@ -566,6 +571,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Eb7|Dm6|Eb7|Dm6|Eb7|Dm6|Em7b5,A7b9|Dm"
         },
@@ -659,6 +665,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm7|Cm7|Cm7|Cm7|Dbmaj7#11|Dbmaj7#11|Ebmaj7#11,Emaj7#11|Dmaj7#11|Dbmaj7#11|Dbmaj7#11|Dbmaj7#11|Dbmaj7#11"
         },
@@ -990,6 +997,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "F,Faug|F6,Fmaj7|Gm7|C7|F,Faug|F6,Fmaj7|Gm7,C7|F6,C7"
         },
@@ -1089,6 +1097,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bm9|Bm9|Bm9|Bm9"
         },
@@ -1334,6 +1343,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dm7|E7#9,A7b13|Dm7|E7#9,A7b13|Dm7|Bbmaj7|Dm7|Dm7"
         },
@@ -1500,6 +1510,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C6,Am7|Dm7,G7|Em7,A7|Dm7,G7|C,C7/E|F,F#07|C/G|C"
         },
@@ -1643,6 +1654,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbm7,Bbm7/Ab|Gm7b5,Gbmaj7|Bbm7/F,Gm7b5|Cm7b5,F7b9|Bbm7,Bbm7/Ab|Gm7b5,E07|Bbm7/F,Gm7b5|Cm7b5,F7,Bbm7,"
         },
@@ -2506,6 +2518,7 @@
       },
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "G7b9sus|Ebmaj7/G"
         },
@@ -2525,6 +2538,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "G7b9sus|Ebmaj7/G"
         },
@@ -2547,12 +2561,14 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "D7|D7|D7|D7|D7|D7|Cmaj7|Cmaj7|D7|D7|E7|E7|E7|E7|Dmaj7#11|Dmaj7#11|E7|E7|Gb7|Gb7|Gbm7b5|E7|E7|E7b5|E7b5"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "D7|D7|D7|D7"
         },
@@ -2601,6 +2617,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm,,D7,Db7(G7)|Cm,Ab7|Cm,Am7b5|Dm7b5,G7b9|Cm,,D7,Db7(G7)|Cm,A7alt|Ab7,G7b9|Cm,,(Dm7b5),(G7)"
         },
@@ -2861,12 +2878,14 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbm7|Gb13|Bbm7|Gb13|Eb7|E7#11|Eb7|Gb13|Bbm7|Abm7,Db7|Eb7|Gb13|Bbm7|Gb13|Bbm7|B7#11"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbm7|Gb13"
         },
@@ -3126,6 +3145,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm7|F7|Bbmaj7|Ebmaj7|Am7b5|D7b13|Gm6|Gm6"
         },
@@ -3442,6 +3462,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "F|F|Gm7|C7|F|Bb7|G7,C7|F"
         },
@@ -3478,6 +3499,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb,Cm7,C#0,Bb/D|Bb,Cm7,C#0,Bb/D|Bb/D,Dbm7,Cm7,F7|Bb/D,Dbm7,Cm7,F7|Bb,Bb7/Ab|Eb6/G,Ebm6/Gb|Bb/F|F7"
         },
@@ -3512,6 +3534,7 @@
       },
       {
         "Label": "C",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ebmaj7,Ebmaj7,Bb/D,Bb/D|Ab/C,Ab/C,Abm/B,Abm/B|Eb/Bb,Eb/Bb,Eb/Bb,Eb/Bb|Ab/Bb,Ab/Bb,Am7b5,D7"
         },
@@ -3641,6 +3664,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm,Gm7b5|Fm/Ab,Bbm6|Fm/C|Gm7b5,C7b9|Fm,Gm7b5|Fm/Ab,Bbm6|Fm/C|Gm7b5,C7,Fm,"
         },
@@ -3727,6 +3751,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "F13|F13|F13|F13"
         },
@@ -3742,6 +3767,7 @@
     "Sections": [
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C|C6|Cmaj7|C6|C|C6,C#0|Dm7|G7|Dm7|Dm7|Dm7|Dm7|Dm7|G7|Cmaj7|C6"
         },
@@ -3835,6 +3861,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gbm6|Db/F|Gbm6|Db/F"
         },
@@ -3848,6 +3875,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gbm6|Db/F|Gbm6|Db/F"
         },
@@ -4615,6 +4643,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7,C7|F6|Fmaj7,,Em7b5,Eb7|D7,,Eb7,D7|G7,Gb7|F7,Bb7|Eb7,D7,Db7,C7|F6,F#07"
         },
@@ -4858,6 +4887,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dmaj7,F/D|E/D,Eb/D"
         },
@@ -5370,6 +5400,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "G7|C7|G7|G7|C7|C7|G7|G7|D7|Eb7,D7|G7,C7|G7"
         },
@@ -5405,6 +5436,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb7|Eb7|Bb7|Bb7|Eb7,Ab7|Db7,Gb7|Gm7b5,Ab7|A7,Bb7|Cm7b5|F7|Bb7,Db7|Gb7,B7"
         },
@@ -5412,12 +5444,14 @@
       },
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb7|Eb7|Bb7|Bb7|Eb7,E7|Eb7,E07|Bb7/F,Eb7|Dm7,G7|Cm7|F7|Bb7,G7|Cm7,F7"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb7,Db7|Gb7,B7"
         },
@@ -5519,6 +5553,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "G7|G7|G7|G7|G7|G7|G7|G7,(E)"
         },
@@ -5533,6 +5568,7 @@
       },
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "G7|G7|G7|G7|G7|G7|G7|G7,(E)"
         },
@@ -5548,6 +5584,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cmaj7|B7|E7b9|E7b9|F7#11,E7#11|Eb7#11,D7#11|Dbmaj7#11|Db7"
         },
@@ -5584,6 +5621,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7,Fmaj7|Gm7,C7|Fmaj7|Cm7,F7#5|Bbmaj7|Gm7/C|Gm7/C,C7sus|Fmaj7#11"
         },
@@ -5721,6 +5759,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbmaj7|Bbmaj7|B7#11|B7#11"
         },
@@ -5893,6 +5932,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Abm7|Ebm7|Abm7|Ebm7"
         },
@@ -5912,6 +5952,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Abm7|Ebm7|Abm7|Ebm7"
         },
@@ -6212,6 +6253,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fmaj7|Bm7b5,Bb7|Am7|D7b9|Gm7|Bbm7,Eb7|Dm7|G7,G#07|Am7,D7|Gm7,,Db7,C7|B7,,Bb7,A7|Ab7,Db,C7#5,"
         },
@@ -6290,6 +6332,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fmaj7,F#07|Gm7,C7b9|Am7,D7#9|Gm7,C7|F6,F7/A|Bbmaj7,B07|F6/C,,G7,C7|F6"
         },
@@ -6398,6 +6441,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gmaj7,G#07|Am7,Bb07|Bm7,G6|Dm7,G7|Cmaj7|C#m7,F#7|Cm7,F7|Bm7,E7|D7sus|D7sus|G6,Bb7|A7,Ab7"
         },
@@ -6413,6 +6457,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm7|Fm7,Am7|Fm7|Fm7,Am7"
         },
@@ -6420,6 +6465,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm11|Fm11,Am11|Fm11|Fm11,Dm11"
         },
@@ -6433,18 +6479,21 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm7|Fm7,Am7"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm11|Fm11|Fm11|Fm11"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb13|Bb13|Bb13|Bb13"
         },
@@ -6473,6 +6522,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cmaj7|Abmaj7|Fmaj7|Em9|Em9|Em9|Em9|Ebm7|Ebm7|Dmaj7|Dmaj7|Bmaj7|Bmaj7|Bmaj7|Bmaj7"
         },
@@ -6495,6 +6545,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Em7b5|Em7b5|A7b9|A7b9|Em7b5|Em7b5|A7b9|A7b9|Cm7|F7|Bbmaj7|Eb7|Gm7|C7|Fmaj7|Fmaj7"
         },
@@ -6617,6 +6668,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Db7|Ab6|Db7|Ab6|Gb7#11|Ab6|E7,B7#11|Db6,D6,Eb6,"
         },
@@ -6808,6 +6860,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gmaj7|Gmaj7|Gm7|C7|Fmaj7|Fmaj7|Fm7|Bb7|Ebmaj7|Cm7|Ebmaj7|Cm7|Ebmaj7|Cm7|Gmaj7|Gmaj7"
         },
@@ -7029,6 +7082,7 @@
     "Sections": [
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C7b9|C7b9|C7b9|C7b9|C7b9|C7b9|C7b9|C7b9|C7b9|C7b9|C7b9|C7b9|Fm|Fm|Fm|Fm"
         },
@@ -7050,6 +7104,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dm7|Dm7|Dm7|Dm7|Dm7|Dm7|Dm7|A7#9,Dm7"
         },
@@ -7079,6 +7134,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbmaj7|B7|Bbmaj7|B7"
         },
@@ -7186,6 +7242,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbm7|Eb7|Bbm7|Eb7"
         },
@@ -7193,6 +7250,7 @@
       },
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbm7|Eb7|Bbm7|Eb7"
         },
@@ -7280,6 +7338,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb6|Bb6|Eb7|Eb7|Bb6|Ebm7,Ab7|Cm7,F7|Bb6"
         },
@@ -7338,6 +7397,7 @@
       },
       {
         "Label": "C",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dm7,G7|C6,A7|Dm7,G7|C6,A7|Dm7,G7|C6,A7|Dm7,G7|C6"
         },
@@ -7509,6 +7569,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbm/maj7|Abm/maj7|Bbm/maj7,Abm/maj7|Bb7|Ebm7|Ab7|Db6|Db6,C7,B7,"
         },
@@ -7617,6 +7678,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb7,Eb7|Bb7,Eb7|Bb7,Eb7|Bb7,Eb7"
         },
@@ -7653,6 +7715,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dm|Em7b5,A7b9|Dm|Em7b5,A7b9"
         },
@@ -7746,6 +7809,7 @@
     "Rhythm": "Rock Pop",
     "Sections": [
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "F7|Bb7|F7|Bb7|F7|Bb7|F7|Bb7|Dbmaj7|Ebadd9,F7||"
         },
@@ -7852,6 +7916,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "F7|Eb7#11|F7,Gb7|G7|Cm7|F7|Bb,Eb6/Bb|Bb07,Bb6"
         },
@@ -7939,6 +8004,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Emaj7,G#7/D#|C#m7,B7|Bb7|Ebmaj7,,Ebm7,Ab7|Dbmaj7,F7/C|Bbm7,Ab7|G7|Cmaj7"
         },
@@ -7968,6 +8034,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ebm7b5|Ab7b9|Dbmaj7,Bm7|Amaj7,Abmaj7|Abm7,Db7|Gb7,F7|Bb7,A7|Ab7,G7|F#m7,B7|Emaj7,Amaj7|Ebm7,Ab7|Dbmaj7"
         },
@@ -7997,6 +8064,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dm,Dm,Dm,F,F|Bb,Bb,Bb,Eb,Eb"
         },
@@ -8011,6 +8079,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": ""
         },
@@ -8097,6 +8166,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bm7|E7|Bm7|E7|Am7|D7|Am7|D7"
         },
@@ -8347,12 +8417,14 @@
     "Sections": [
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ab|Bb|Eb(Cm)|Eb7(Cm)|Ab|Bb,G/B|Cm|Cm,Eb7/Bb|Ab|Bb,G/B|Cm|F7,F#07|Eb/G|Ab|Bb7,Eb|Eb"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ab|Fm7|Gm7|Cm7|G7b9|Ab|F7sus|F#07|Eb/Bb|Bb7sus|Dm11,G7|Cm,Eb7/Bb,Ab,|Eb/G|Ab|Bb7,Eb|Eb"
         },
@@ -8454,6 +8526,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbmaj7|Bbmaj7|Bb7|Ebmaj7|Ebmaj7|Ebmaj7|Bbmaj7|F7|Cm7,F7|Bb6,Ebmaj7|Bb6"
         },
@@ -8461,6 +8534,7 @@
       },
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb7|F7|Bb7|Bb7|Eb7|Eb7,E07|Bb7|G7|Cm7|F7|Bb7|Bb7"
         },
@@ -8476,6 +8550,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb7|Eb7|Ab7,Db7|Gb7|Cm7,F7b9|Bm7,E7,Bbm7,Eb7|Abadd9|Gb7#11"
         },
@@ -8511,6 +8586,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "B7sus|B7sus|B7sus|B7sus"
         },
@@ -8539,6 +8615,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bm|F#7#9"
         },
@@ -8554,6 +8631,7 @@
     "Sections": [
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm6|Gm6|Gb7#9|Bb13|Dm7|G7#11|Gb13|Gb13"
         },
@@ -8769,6 +8847,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fmaj7|Fm7(Bbm7),Bb7(Eb7)|Am7,Gm7|F#m7,B7|Fm7|Bb7|Am7,D7|Abm7,Db7|Gm7|Dbm7,Gb7|Fmaj7/C|Fmaj7/C|Fmaj7/C|Fmaj7/C"
         },
@@ -9140,6 +9219,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm7|F7|Bbmaj7|A7|F#m7|Bm7|Em7,A7|Dmaj7"
         },
@@ -9227,6 +9307,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dm|Em7b5,A7b9|Gm7,C7|Fmaj7|Em7b5,A7b9|Dm|Em7b5|A7b9|Dm7|Dm6|Dm7|Dm6"
         },
@@ -9400,6 +9481,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm7|Bb7|Ebmaj7|Ebmaj7|Fm7|Bb7|Ebmaj7|Ebmaj7|Ebmaj7,Ebmaj7/D|Cm7,Cm7/Bb|Am7b5|Abm/maj7|Gm7,C7|Fm7,Bb7|Eb6|Eb6"
         },
@@ -9687,6 +9769,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm11,Fadd9/A|Gbmaj7#11|Gm11,Fadd9/A|F/Db"
         },
@@ -9767,6 +9850,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ebmaj7|Dbmaj7|Ebmaj7|Dbmaj7|Cmaj7|Am9|Dm9|G13"
         },
@@ -9855,6 +9939,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm|Bbm|C7b9|Fm"
         },
@@ -9997,6 +10082,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dm7|Fm7,Bb7|Ebmaj7|Am7,D7|Gm7|Am7b5,D7#9|Dbmaj7|Dbmaj7"
         },
@@ -10011,6 +10097,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dm7|Fm7,Bb7|Ebmaj7|Am7,D7|Gm7|Am7b5,D7#9|Dbmaj7|Dbmaj7"
         },
@@ -10069,6 +10156,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "F#maj7|G7#11"
         },
@@ -10219,6 +10307,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dm|Em7b5,A7b9|Dm|Em7b5,A7b9|Eb7#11|Db7#11,,Gm7,C7|Fmaj7|Em7b5,A7b9"
         },
@@ -10370,6 +10459,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7,C7|F7sus,Bb"
         },
@@ -10384,12 +10474,14 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7|C7|F7|F7|Gm7|C7|F7,F7/Eb|Bb/D,F7/C"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbmaj7,Bb7|Ebmaj9,D9|Gm7,C7|F7sus,Bb|Bbmaj7,Bb7|Ebmaj9,D9|Gm7,C7|F7sus,Bb"
         },
@@ -10703,6 +10795,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "E7#5|E7#5|Amaj7|Amaj7|Dm7|G7|Cmaj7|C7|Fmaj7|Bb9|Em7|A7|Ebm7,Ab7|Dm7,G7|Cmaj7|Cmaj7"
         },
@@ -10801,6 +10894,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm7,Bb7|Eb7,C7"
         },
@@ -10845,6 +10939,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cmaj7,Fmaj7|Em7/G,Am7,B7,|Em7,Am7|Dm7,,Fm7,Bb7|Ebmaj7,Dbmaj7|Cm7,Bm7|Bbm7,Eb7,Abmaj7,|D7,Db7,Cmaj7,"
         },
@@ -11176,6 +11271,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb7#5#9,Eb7#9|Bb7#5#9,Eb7#9|Bb7#5#9,Eb7#9|Bb7#5#9,Eb7#9|B7#5#9,E7#9|B7#5#9,E7#9|B7#5#9,E7#9|B7#5#9,E7#9|Amaj7|Amaj7|D7#11|D7#11|Dbmaj7|Dm7,G7#5#9|Cmaj7|Cm7,F7#5#9|F#7#9,G7#9|E7#9,F7#9|D7,Eb7,C7,Db7|Bb7#9|Bb7#9,B7#9|Ab7#9,A7#9|F#7,G7,E7,F7|D7#9"
         },
@@ -11248,6 +11344,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "B7alt|B7alt|Em7|Em7|Cm7|Cm7|Gm7|Gm7"
         },
@@ -11456,6 +11553,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7,C7|Fmaj7|Fm7,Bb7|Ebmaj7|Ebm7,Ab7|Ebm7,Ab7|Dbmaj7,,Gm7,C7|Fmaj7"
         },
@@ -11592,6 +11690,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bm7|Bm7|Em7|F#7b9|Bm7|Bm7|Em7|A7|D7sus|D7|Gmaj7|Gmaj7|F#7|F#7#5"
         },
@@ -11714,6 +11813,7 @@
       },
       {
         "Label": "C",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbmaj9|Bmaj7/Bb|Bbmaj9|Bmaj7/Bb"
         },
@@ -11865,6 +11965,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ebmaj7|Gm7,C7b5b9|Fm7|Bb7b5b9|A7|Abm7,Db7|Fm7|F7#9#11"
         },
@@ -12065,6 +12166,7 @@
       },
       {
         "Label": "v",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Csus,,C,C|Abmaj7,,Bb/Ab,Bb/Ab|Csus,,C,C|C"
         },
@@ -12296,6 +12398,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm7|Bb7|Ebmaj7|Ebmaj7|Fm7|Bb7|Ebmaj7|Ebmaj7|Dm7|G7|Cmaj7|Cmaj7|Cm7|F7|Bbmaj7|Bbmaj7"
         },
@@ -12656,6 +12759,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbm7,Eb7|Am7,Dm7|Gm7b5,C7b9|Fmaj7,F7|Bbm7,Eb7|Am7,D7|Gm7,C7sus|F6"
         },
@@ -12820,6 +12924,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Amaj7|Amaj7|Gmaj7|Gmaj7|Cmaj7|Cmaj7|Bbmaj7|Bbmaj7|Dbm7|Dm7b5,G7b9|Cmaj7|Cmaj7|Cm7|B7#9|Bbmaj7|Bbmaj7"
         },
@@ -12950,6 +13055,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Eb6|G7|C7|C7|F7|Bb7|Eb6|Eb6(Fm7),(Bb7)"
         },
@@ -12993,6 +13099,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb7|Ab7|G7sus|C7|F7|F7|Cm7,F7|Bb6"
         },
@@ -13100,6 +13207,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbm7,Eb7|Bbm7,Eb7|Bbm7,Eb7|Bbm7,Eb7|Abmaj7|Bbm7,Eb7|Abmaj7|Abmaj7"
         },
@@ -13212,6 +13320,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm9|Bb13|Fm9|Bb13|Fm9|Bb13|Fm9(Db9)|C7#9|Fm9|Bb13|Fm9|Bb13|Fm9|Bb13|Fm9(Db9)|F(C7#9)"
         },
@@ -13291,6 +13400,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "D7sus,D7|Bbm7,Eb7|Abmaj7,Bb7|Bbm7,Eb7|Bbm7b5,Eb7|Abmaj7,Bbm7b5|Bm7,E7|Bbm7,Eb7"
         },
@@ -13320,6 +13430,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm7|Db7#11|Cm7|Db7#11"
         },
@@ -13492,6 +13603,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "G6|G6|G6|G6|G6|G6|G6|G6|Am7|D7|Am7|D7|Am7|D7|G6|G6"
         },
@@ -13800,6 +13912,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm,G7/D|Cm/Eb,Cm7|Am7b5,Ab7|Dm7b5,G7b9|Cm,D7|G7,Ab7|G7b9|Cm"
         },
@@ -13909,6 +14022,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm,Cmb6|Cm6,Cm7|Fmaj7,Bbmaj7|Am7b5,D7b9|Gm7,Bbm/maj7|Am7,Abm7|Gm7,C7#9|F6"
         },
@@ -13967,6 +14081,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Eb7#9,B13|Emaj9,A7#11|Db9sus,B13|Db9sus,Eb7|Abm7,B13|Fm7b5,Bb7#5#9|C13#11,F13|B7,Emaj7|A13,Ab7|Bb7,Db7|Eb7#9,B7|Emaj7#11,A9#11"
         },
@@ -13974,6 +14089,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ebm/maj7,Abm7|Ebm/maj7,Abm7|Ebm/maj7,Abm7|Ebm/maj7,A7#5|Abm,Abm6|B7,Bb7b13|Ebm/maj7,Ab7|Ebm/maj7,Ab7|Cm7b5,F7#5#9|F#m7,,Bm7,Bb7|Ebm/maj7,Ab7|Ebm/maj7,Ab7"
         },
@@ -14045,6 +14161,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C|F|Dm7/G,G7|C|C|F|Dm7/G,G7|C"
         },
@@ -14074,6 +14191,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Abm|Abm|Abm|Abm|Abm|Abm|Abm|Abm"
         },
@@ -14103,6 +14221,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "B9#11|B9#11|Cm11|Cm11|B9#11|B9#11|Cm11|Cm11|Am7b5|D7b9|Gm7|C7|Cm11|B7#9|Bbmaj7|Bbmaj7"
         },
@@ -14160,12 +14279,14 @@
       },
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "B7|E7|B7|F#m7,B7|E7|F07|B7|D#m7,G#7|C#m7|F#7|B7,G#7|C#m7,F#7"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "D,A|D,A"
         },
@@ -14237,6 +14358,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb,Bb/D|Eb,,E0,F7|Bb,Bb/D|Eb,,E0,F7|Bb|Bb7/D|Eb|E07|Bb,D7/A|Gm,Eb7|C7,F7sus|Bb"
         },
@@ -14387,6 +14509,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "F6|Faug|Bb6|G7|C7sus|Gm7,C7|F6|F6,F7|Bb6|Eb7|F6|D7b13|Dm7,G7|Gm7,C7|F6|Gm7,C7sus"
         },
@@ -14531,6 +14654,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Am7,D7|Am7,D7|Am7,D7|Am7,D7|Gmaj7,Gb7|F7,E7|A7,D7|G6"
         },
@@ -14596,6 +14720,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gmaj7,Am7|Bm7,Am7|Gmaj7,Am7|Bm7,Am7|Gmaj7,G7|Cmaj7,F7|Em7,A7|D7,G6,G6,G6"
         },
@@ -14625,6 +14750,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbmaj7|Bbmaj7|G7b5|G7b5|C7#11|C7#11|F7#5|F7#5"
         },
@@ -14790,6 +14916,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "A/E|A/E|D/E|D/E"
         },
@@ -14853,6 +14980,7 @@
       },
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Abmaj7|Dm7b5/Ab|Cmaj7|C7/Bb|Abmaj7|Dm7b5/Ab|C7sus|C7sus"
         },
@@ -14986,6 +15114,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "E9|E9,E9,E6|E9|E9"
         },
@@ -15166,6 +15295,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Eb|Eb|Eb|Eb"
         },
@@ -15236,6 +15366,7 @@
         ]
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dbmaj7|Em7,A7|Ebm7|Abm7,Db7|Dbm7|Ab7#5|G13|Gb13|Fm7|Bbm7|Ebm7|Ab7#5|Db7#9|Bb7b5#9|A7|Ab7#5#9"
         },
@@ -15258,6 +15389,7 @@
     "Sections": [
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7b5|C7b9|Fm/maj7|Fm/maj7|Dm7b5|G7b9|Cmaj7|Cmaj7"
         },
@@ -15895,6 +16027,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Em7,A7|Am7,D7|Gmaj7,Cmaj7|Bm7,Bb07|Am7|D7sus,D7|Gmaj7|Bm7b5,E7b9"
         },
@@ -16323,6 +16456,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C7b5/Gb,F6|C7b5/Gb,F6|C7b5/Gb,F6|F6,F7|Bbmaj7,Eb9|Gm7,F6|Bbmaj7,Eb9|Gm7,F6"
         },
@@ -16553,6 +16687,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Am7b5,D7#5|G9,C7|Am7b5,D7#5|G9,C7|F7,Bb6|F7,Bb6|C7,F|C7,F"
         },
@@ -16842,6 +16977,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "F6|F6|Db7|D7|Gm7|C7|F6|F6"
         },
@@ -17801,6 +17937,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "D7#9|Gm7|C#7#9|B6/C,C6|Am7|D7|Bm7|E7|C#m7|F#7|Bmaj7|G#m7|Em7|A7|Dmaj7|Dmaj7"
         },
@@ -17866,6 +18003,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "D7,G7|C6,A7|D7,G7|Ebm7,Ab7|D7,G7|C7,Bb7,A7,|D7,G7|C6"
         },
@@ -18797,6 +18935,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ebmaj7|Ebmaj7|Ebmaj7|Bbm7,Eb7|Dm7|Dm7|G7|G7|Cm7|Cm/maj7|Cm7|F7|Ebmaj7,Db7|C7b9|Fm7|Bb7"
         },
@@ -19242,6 +19381,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "G#m9|Dmaj7/F#|Emaj9#11|D#m7|C#m7,Emaj9|F#,Emaj9|C#m7,G#m9|F#/A#,Aadd9|E/G#,Bbmaj7#11/F|E,Bbmaj7#11/D|E,Bbmaj7#11|E"
         },
@@ -19306,6 +19446,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C7b9sus|C7b9sus|C7b9sus|C7b9sus"
         },
@@ -19313,6 +19454,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C7b9sus|C7b9sus|C7b9sus|C7b9sus|C7b9sus|C7b9sus|C7b9sus|C7b9sus"
         },
@@ -19494,6 +19636,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Am7b5,D7b9|Gm7,C7|Cm7,F7|Bb7,Ebmaj7|Abm7,Db7|Gbmaj7,Bmaj7|F7alt,B7|Bb7,Eb6"
         },
@@ -19565,6 +19708,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "F13|Eb13|F13"
         },
@@ -19695,6 +19839,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm7,||Cm7|Cm7|Cm7|Cm7|Bmaj7#11|Bmaj7#11|Bmaj7#11|Bmaj7#11|Bmaj7#11|Bmaj7#11|Bb7sus|Bb7sus|Bb7sus|Bb7sus|A7sus,,F#7sus,Eb7sus|C7sus,,A7sus,F#7sus|F7sus|F7sus|F7sus|F7sus"
         },
@@ -19708,6 +19853,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm7|Cm7|Cm7|Cm7|Cm7|Cm7|Bmaj7#11|Bmaj7#11|Bmaj7#11|Bmaj7#11|Bmaj7#11|Bmaj7#11|Bb7sus|Bb7sus|Bb7sus|Bb7sus|Bb7sus|Bb7sus|F7sus|F7sus|F7sus|F7sus|F7sus|F7sus"
         },
@@ -19822,6 +19968,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm7,Fm7/Eb|Db7,C7|Fm7,Fm7/Eb|Db7,C7|Bb7|Bb7|Eb7|Db7,C7"
         },
@@ -19894,6 +20041,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Eb6|Fm7,Bb7|Eb6|Fm7,Bb7|Dm7b5,G7|Cm7,F7|Fm7,Bb7|Eb6"
         },
@@ -19901,6 +20049,7 @@
       },
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ab7sus,Ab7|Ab7|F#m7,B7|F#m7,B7|Ab7sus,Ab7|Ab7|Fm7,Bb7|F#m7,B7"
         },
@@ -20030,6 +20179,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C7,A7|Eb7,D7|G7,C7|G7,C7|F7|Bb7|C7|A7sus|Ab7sus|Dm7,G7|C7,A7|Gb7,Eb7"
         },
@@ -20066,6 +20216,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7,C7|Gm7,C7|Gm7,C7|Gm7,C7|C7,Db7|C7,Db7|A7b9#5,D7#9|Gm7,C7"
         },
@@ -20330,6 +20481,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dbmaj7|Dbmaj7|Dbmaj7|G7b9|Cm7|Cm7|F7|F7|Bbm7|Bbm7|Eb7|Eb7|Abmaj7|Abmaj7|Ebm7|Ab7"
         },
@@ -20430,6 +20582,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C6|C6|C6|C6|Dm7|G7|C6|C6|C6|C6|C6|C6|Dm7|G7|C6|C6"
         },
@@ -20665,6 +20818,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C#m9|C#m9|C9#11|C9#11"
         },
@@ -20859,6 +21013,7 @@
     "Rhythm": "Even 8ths",
     "Sections": [
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gsus|Gsus"
         },
@@ -20886,6 +21041,7 @@
       },
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm7,Abmaj9|Dbmaj7,G7#5"
         },
@@ -20934,6 +21090,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "G,G/A|Bm7,D7/A|G,F#m|G,F#m"
         },
@@ -20988,6 +21145,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fmaj7,,Bbm7,Eb7|Abmaj7,Db7|Gm7,C7|Fmaj7,D7|Bbmaj7,B07|Fmaj7,D7b9|Gm7,C7|F6"
         },
@@ -21081,6 +21239,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm7,F7|Bb6,Gm7|Cm7,F7|Bb6,Gm7|Cm7,F7|Bb6,Gm7|Cm7,F7|Bb6"
         },
@@ -21246,6 +21405,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "D7,G7|Cm6|F7,Bb7|Ebmaj7|D7,G7|Cm6|Ab7|Ab7"
         },
@@ -21289,6 +21449,7 @@
       },
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fmaj7|Fm7,Bb7#5#9|Ebmaj7|Ebm7,Ab7#5#9|Dbmaj7|G7#5#9|Cm7,Bbm7|E7#5#9,A7b9#5"
         },
@@ -21395,6 +21556,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ab,Ab7/C|Db,Ab6|Db,Ab/C|Bbm7,Eb7,Ab6,|Db,Ab/C|Db,D07|Db,D07,Ab/Eb,Fm7|Bbm7,Eb7,Ab6,"
         },
@@ -21651,6 +21813,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Am6|Am6|Dm6|Dm6|Bm7b5|E7b9|Am6|Am6"
         },
@@ -21873,6 +22036,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "E|F|G,F|E"
         },
@@ -21880,18 +22044,21 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "E|F|G,F|E"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "E|F|G,F|E"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "E|F|G,F|E"
         },
@@ -21925,12 +22092,14 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "E|F|G,F"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Amaj7,Dmaj7/A|Amaj7,Dmaj7/A|Amaj7,Dmaj7/A|Amaj7,Dmaj7/A"
         },
@@ -22002,6 +22171,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gmaj7|Gmaj7|C7#11|C7#11"
         },
@@ -22067,6 +22237,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm|Fmaug|Fm6|Fm7|Fmaj7|Bbmaj7|Fmaj7,Eb7,D7,|Gm7,C7b9"
         },
@@ -22102,6 +22273,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "A7|A7|Am7|D7|G6|G6,G6,D7#5,|G6|G6"
         },
@@ -22131,6 +22303,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "D|A/D|G/D|A/D"
         },
@@ -22158,12 +22331,14 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "D|A/D|G/C|A/D"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dmaj7,C7sus|Fmaj7,Ab7sus|Dbmaj7,B7sus|Emaj7,D7sus|Gmaj7,F7sus|Bbmaj7,Db7sus|Gbmaj7,G7sus|Cmaj7,A7sus"
         },
@@ -22251,6 +22426,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gmaj7,C7|Bm7,E7b13|A7|Am7,D7#9|Dm7,G7|Am7b5,D7b9|Gmaj7,G#07|Am7,D7"
         },
@@ -22280,6 +22456,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ab6|Ab6|Ab6|Eb7|Bbm7|Eb7|Bbm7,Eb7|Ab6"
         },
@@ -22717,6 +22894,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "D9sus|D9sus|D9sus|D9sus|D9sus|D9sus,D9sus,F#7|F7,E7|Eb7,D7"
         },
@@ -22746,6 +22924,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ebmaj7|Fm7,Bb7|Eb,D7,Db7,G7|C7b9#11|F7|Bb7|Eb6|Eb6(Fm7),(Bb7)"
         },
@@ -23010,6 +23189,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cmaj7|G7sus|Cmaj7|D/C|Bm7,Em7|A7sus,A7|Dmaj7|G7|Fmaj7|G/F|Cmaj7|G7sus|Cmaj7|G7sus"
         },
@@ -23298,6 +23478,7 @@
     "Sections": [
       {
         "Label": "v",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7|C7#11|Fmaj7|Fmaj7|Gm7|C7|Fmaj7|Fmaj7"
         },
@@ -23311,6 +23492,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "F6,Dm7|Gm7,C7|F6|Cm7,F7|Bbmaj7|Bbm7,Eb7|F6,Dm7|Gm7,G#07|Am7,D7|Gm7,C7|F6|F6(Gm7),(C7)"
         },
@@ -23333,6 +23515,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm|Gm6|Eb7|D7b9|Gm|Gm6|Eb7|D7b9|Gm|Gmb6|Gm6|Gmb6|B7b5|E7|A7b5|D7b9"
         },
@@ -23340,12 +23523,14 @@
       },
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "D07/Db|D07/Db|D07/Db|D07/Db"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Eb07/D|Eb07/D|Eb07/D|Eb07/D"
         },
@@ -23440,6 +23625,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dm7|Dm7|Dm7|Dm7|Dm7|Dm7|Dm7|Dm7"
         },
@@ -23447,6 +23633,7 @@
       },
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ebmaj7|Ebmaj7|Ebmaj7|Ebmaj7|Dmaj7|Dmaj7|Dmaj7|Dmaj7"
         },
@@ -23454,6 +23641,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dm7|Dm7|Dm7|Dm7|Dm7|Dm7|Dm7|Dm7"
         },
@@ -23554,6 +23742,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb7|Bb7|Bb7|Bb7|Eb7|Eb7|Bb7|Bb7|Cm7|F7|Bb7|Bb7"
         },
@@ -23589,6 +23778,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbm7|Bbm7|Gbmaj7|Gbmaj7|Bbm7|Bbm7|Gbmaj7|Gbmaj7|Bbm7|Bbm7|Gbmaj7|Gbmaj7|F7#9|F7#9|Ab,Bbm7|Bbm7"
         },
@@ -23617,6 +23807,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbm7|Bbm7|Gbmaj7|Gbmaj7|Bbm7|Bbm7|Gbmaj7|Gbmaj7|Bbm7|Bbm7|Gbmaj7|Gbmaj7|F7#9|F7#9|Ab,Bbm7|Bbm7"
         },
@@ -23829,6 +24020,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "F7b9sus"
         },
@@ -23857,6 +24049,7 @@
       },
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ebmaj7|Cm7|Fm7,Bb7|Ebmaj7|Fm7,Bb7|Ebmaj7|Abmaj7,Am7b5|Bb7|Ebmaj7|Cm7|Fm7,Bb7|Ebmaj7|Ab6|Gm7,C7|Fm7,Bb7|Eb6"
         },
@@ -23959,6 +24152,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ebmaj7|Ebmaj7|Bbm7|Bbm7|Ebmaj7|Ebmaj7|Bbm7|Bbm7|Ebm7|Ab7|Dbmaj7|Gb7|Cm7b5|F7b13|Bbm6|Bbm6"
         },
@@ -24288,6 +24482,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dmaj7|Dmaj7#5|D6|Dmaj7#5"
         },
@@ -24439,6 +24634,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C7,F7|Bb7,Ebmaj7|C7,F7|Bb7,Eb7|Abmaj7,A07|Gm7,C7|F7,Bb7|Eb6"
         },
@@ -24575,6 +24771,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm11|Eb69|Fm11|Eb69"
         },
@@ -24618,6 +24815,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "D9sus|D9sus|D9sus|D9sus|F9sus|F9sus|F9sus|F9sus"
         },
@@ -24896,6 +25094,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb7|Bb7|Bb7|Bb7"
         },
@@ -24903,6 +25102,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb7|Bb7|Bb7|Bb7|Bb7|Bb7|Bb7,Ab7|Db7,,Gb7,F7"
         },
@@ -25064,6 +25264,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Am7|Gm7|F#m7b5|F13"
         },
@@ -25071,6 +25272,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Em7|A7|Em7|A7|Am7|Gm7|F#m7b5|B7b9"
         },
@@ -25091,12 +25293,14 @@
     "Rhythm": "Medium Up Swing",
     "Sections": [
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Em7|Em7|Ebm7|Ebm7|Bmaj7#11|Bbm11|D7sus|D7#9|Gm7|A7b9b13|Dm7|F7sus|Abm11|Bb7b9b13|Ebm7|Gb7sus"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Abm11|Bb7b9b13|Ebm7|Gb7sus"
         },
@@ -25184,6 +25388,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C6|C6|B7sus|B7|C6|C6|Em7|A7b13|Dm7|Dm7|Fm6|F(Bb7)|Em7|A7b13|Dm7|G7#5"
         },
@@ -25292,6 +25497,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm7,Gm7|Abmaj7,Gm7|Fm7,Gm7|Abmaj7,Gm7"
         },
@@ -25306,6 +25512,7 @@
       },
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7b5|C7b9|Fm7|Bb7|Bbm7|Abm7|C7#9,Fm|Fm,Fm,C7#9,"
         },
@@ -25320,12 +25527,14 @@
       },
       {
         "Label": "D",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7b5|C7b9|Fm7|Fm7|Bbm7|Bbm7|Db7|C7#9"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm7,Gm7|Abmaj7,Gm7|Fm7,Gm7|Abmaj7,Gm7"
         },
@@ -25505,6 +25714,7 @@
       },
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm7|F7|Bbmaj7,Eb7|Abm7,Db7|Cm7,C#m7|Bm7,E7|Cm7,F7|Bbmaj7"
         },
@@ -25569,6 +25779,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm9|Fmaj9|Fm9|Fmaj9"
         },
@@ -25690,12 +25901,14 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dm11|Dm11|Dm11|Dm11"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm11|Cm11|Cm11|Cm11"
         },
@@ -25904,6 +26117,7 @@
     "Sections": [
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cmaj7,F7|Bb7#11|Cmaj7,F7|Bb7#11|Cmaj7,F7|Bm7,Bb7#11|A7#11,Ab7#11|G7#11"
         },
@@ -26125,6 +26339,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Am7,Bm7/E|Am7,Bm7/E|Am7,Bm7/E|Am7,Bm7/E|Am7,Bm7/E|Am7,Bm7/E|Am7,Bm7/E|Am7,Bm7/E"
         },
@@ -26145,6 +26360,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Am7,Bm7/E|Am7,Bm7/E|Am7,Bm7/E|Am7,Bm7/E"
         },
@@ -26166,6 +26382,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cmaj7|F7#11|G6|A7|Am7|D7|G6,Eb7|Am7,Eb7,G6,"
         },
@@ -26231,6 +26448,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Eb6,Cm7|Fm7,Bb7|Eb6,Cm7|Db7|Fm7,Bb7sus|Eb6"
         },
@@ -26489,6 +26707,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Eb69|Ab69|Eb69|Dbmaj7|Bmaj7|Bb7|Eb69|Bb7#9"
         },
@@ -26609,6 +26828,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb6|Eb7|Bb6|B07|Cm7|F7|Bb6|Bb6"
         },
@@ -26710,6 +26930,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Em7|F#m7|Em7|F#m7|Cmaj7|Cmaj7|Cmaj7|Cmaj7|Am7|D7|Gmaj7|Cmaj7|Gmaj7|Cmaj7|F#m7b5|B7b9"
         },
@@ -26818,6 +27039,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm6|Cm6|Cm6|Fm6|G7b9|Dm7b5,G7b13|Dm7b5,G7b13|Cm6"
         },
@@ -26977,6 +27199,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm7,Bb7|Ebmaj7|Fm7,Bb7|Ebmaj7|Fm7,Bb7|Gm7,C7|Fm7,Bb7|Ebmaj7"
         },
@@ -27028,6 +27251,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Em9|Fmaj9/B|Em9|B13|E7#9|Am9|B7b9sus,B7#5#9|Em9|Fmaj9#11/B|Em9|B7#5#9"
         },
@@ -27288,6 +27512,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C|C|Dbmaj7|Dm7,G7sus"
         },
@@ -27315,6 +27540,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C|C|Dbmaj7|Dm7,G7sus"
         },
@@ -27385,6 +27611,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbm7/Eb|Ebm9|Amaj7/Eb,Gmaj7/Eb|Abmaj7/Eb"
         },
@@ -27457,6 +27684,7 @@
     "Sections": [
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Em7|Fmaj7|B7|Cmaj7|Am7|Fmaj7|Emaj7|Em7"
         },
@@ -27485,6 +27713,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gmaj7|C7|Gmaj7|C7"
         },
@@ -27762,6 +27991,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbm/maj7|Bbm/maj7|Abm/maj7|Abm/maj7|Bbm/maj7|Bbm/maj7|Abm7|Db7|Abm7|Db7|Gbmaj7|C7#5#9|F7#5|F7#5|Bbm/maj7|Bbm/maj7"
         },
@@ -27862,6 +28092,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Em9|Bb7#5#9|Ebm9|Bbmaj7#11/A|Gmaj7#11/F#|G07,A#07|Bm11|E7#9#11"
         },
@@ -27883,6 +28114,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbmaj7#11,Ebmaj7#11|D9sus,Bm7"
         },
@@ -27969,6 +28201,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Am7b5,D7b9|Gmaj7|F#m7b5,B7b9|Em7,Em7/D|C#7(Em7),C7(A7)|Bm7,Bb7|Am7,Ab7#11|Gmaj7"
         },
@@ -28034,6 +28267,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dm6|A7b9/C#|D7/C|G6/B|Em7b5/Bb|Dm/A,,Bb7,A7|Dm6|Bb7,A7b9"
         },
@@ -28155,6 +28389,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm|Gm|Gm|Gm"
         },
@@ -28334,6 +28569,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm6|Db7,Gb7|Bm7,Bb7|Ebmaj7,D7|Gm6|Bb13#11|D13#11|D13#11"
         },
@@ -29015,6 +29251,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbmaj7|Bbmaj7|Bbmaj7|Bbmaj7"
         },
@@ -29022,6 +29259,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Am7b5,D7b13|Gm7,,(Fm7),(Bb7)|Cm7(Eb),F7(Cm7)|Bbmaj7|A7#9,Ab7|Gm7,Bb7/F|Em7b5,D7b13|Gm7"
         },
@@ -29119,6 +29357,7 @@
       },
       {
         "Label": "C",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7,C7|Gm7,C7|B7,E7,A7,C/D|G6,G7|Gm7,C7|Gm7,C7|A7,Eb7|D7#5"
         },
@@ -29541,6 +29780,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Eb6,Cm7|Gm7,Ebmaj7|Abmaj7,A07(Bb7sus)|Gm7,C7|Fm7,Db7|Gm7,C7b9|F7,Bb7|Eb6,Bb7"
         },
@@ -29635,6 +29875,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cmaj7|Ebm7,Ab7|Dm7,Bb7|Ebmaj7,A7#11|Ab7,Db7|Gbmaj7,F7#5|Ebm7,,Ab7,G7|Dbmaj7"
         },
@@ -29751,6 +29992,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "F7sus|F7sus|F7sus|F7sus|F7sus|F7sus|F7sus|F7sus"
         },
@@ -29773,6 +30015,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "F#9b5|F9b5|F#9b5|F9b5|E7b13,Eb13|D9,D7b9|G69|G69"
         },
@@ -29931,6 +30174,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7b5|C7b13|Fm/maj7|Fm/maj7|Bbm7|Eb7b13|Abmaj7|D7#5|Db7sus|C7#9|B13|Bb7|Ebm7|Ab13|Dbmaj7|Dbmaj7"
         },
@@ -30189,6 +30433,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Em7|Am7,B7|Em7|Am7,B7|Em7|C7,B7|Em7,Am7|Em7"
         },
@@ -30282,6 +30527,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bm9|Bm9|Bm9|Bm9|Bbmaj7#11|Bbmaj7#11|Bbmaj7#11|Bbmaj7#11"
         },
@@ -30347,6 +30593,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb13|B13|Bb13|B13"
         },
@@ -30354,6 +30601,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb13|B13|Bb13|B13|Bb13|B13|Bb13|B13|Dbmaj7|Cm7,F7#5|Bbmaj7|Abmaj7|G7b9|Gbmaj7|Fm7,Bb7|Ebmaj7|D7b9#5|Dbmaj7|Cm7|F7"
         },
@@ -30439,6 +30687,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "A7sus|A7sus|A7sus|A7sus|A7sus|A7sus|D6|D6"
         },
@@ -30446,6 +30695,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "D6|D6|Am/D|Am/D|Gm7|Em7b5,A7b9|D6|D6"
         },
@@ -30704,6 +30954,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm9|Gm9|Bb7|Ebm7"
         },
@@ -30789,6 +31040,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "G,A,Bmaj7,|Cmaj7#11|G,A,Bmaj7,|Cmaj7#11"
         },
@@ -30955,6 +31207,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbmaj7|Bmaj7/Bb|Bbmaj7|Ebmaj7/Bb|Bbmaj7|Bb69|Bmaj7/Bb|C/B"
         },
@@ -30984,6 +31237,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dm|Dmb6|Dm6|Dm7|Gm7|Am7|Bbmaj7|C7sus|Dm|Dmb6|Dm6|Cm7,F7|B7#5#9|Bb7#11|A7#5#9|Dm"
         },
@@ -31189,12 +31443,14 @@
     "Rhythm": "Funk",
     "Sections": [
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C#m11|Bm11|D7sus,E7sus|F#7sus,G#7sus"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C#m7|Bm7,E7|Amaj7|D#m7b5,G#7b9"
         },
@@ -31318,6 +31574,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbmaj7|Eb7|Dm7|G7|Gm7|C7b9|Fmaj7|Cm7,F7"
         },
@@ -31347,6 +31604,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb,G7|Cm7,F7|Bb,G7|Cm7,F7|Bb7,Bb7/D|Eb7,E07|Bb7/F,G7|Cm7,F7"
         },
@@ -31376,6 +31634,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7|Gm7|Am7b5|D7b9|Gm7,Gm7/F|Ebmaj7|Em7b5,Cm7|D7#9,Gm7"
         },
@@ -32155,6 +32414,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbmaj7|Ebmaj7|Em9|F9"
         },
@@ -32278,6 +32538,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Amb6|Am|Amb6|Am"
         },
@@ -32285,6 +32546,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Amb6|Am|Amb6|Am"
         },
@@ -32299,6 +32561,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Amb6|Am|Amb6|Am"
         },
@@ -32312,6 +32575,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Amb6|Am"
         },
@@ -32327,6 +32591,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Am7b5,D7b9|G13sus|Am7b5,D7b9|G13sus|Gm11,C7b9|Fm7,Bb13b9|Ebm7,Ab13b9|C#m7,E7/B"
         },
@@ -32362,6 +32627,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Eb|G7|Cm|Gm|Ab,Bb7|Eb,C7|Fm7,Bb7|Eb"
         },
@@ -32488,6 +32754,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C6|C6|C6,(A7)|D7,G7|C6,C7|F7,F#07(Bb7)|C6,A7|D7,G7,C6,"
         },
@@ -32710,6 +32977,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ab6(Ab),(Fm7)|Ab6(Bbm7),(Eb7)|Ab6(Cm7),(F7)|Ab6(Bbm7),(Eb7)|Ab6(Ab),(Ab7/C)|Ab6(Db),(D07)|Ab6(Bbm7/Eb),(Eb7)|Ab6(Ab)"
         },
@@ -32746,6 +33014,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fmaj7,Bb7|Em7b5,A7|Dm7,Ab7|G7|Gm7|C7|Eb6,E6|F6"
         },
@@ -33281,6 +33550,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Am9|Am9|Am9|Am9|Dm9|Dm9|Am9|Am9"
         },
@@ -33397,6 +33667,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Eb7#9|Abm7|Bb7#9|Ebm7"
         },
@@ -33404,6 +33675,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Eb7#9|Abm7|Db7|Cm/maj7,Cm7|Em7|Abm7|Bm7|Ebm7"
         },
@@ -33627,6 +33899,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "B7#11,Bb7b13|Ebm7|Ebm7,Ab7alt|Dbmaj7|Fm7,Em7|Ebm7|Eb7,D7|Dbmaj7"
         },
@@ -34101,6 +34374,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm7|Fm7|Eb7|Eb7|Db7|C7sus|Fm7|Fm7"
         },
@@ -34123,6 +34397,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dm7|G7|Gm7/Bb|F/C"
         },
@@ -34130,12 +34405,14 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dm7|G7|Gm7/Bb|F/C|Dm7|G7|Gm7/Bb|F/C|Dm7|G7|Gm7/Bb|F/C|Dbm7|Dbm7|Dbm7|Dbm7"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fmaj7/C|Fmaj7/C|Fmaj7/C|Fmaj7/C|Fmaj7/C|Fmaj7/C|Fmaj7/C|Fmaj7/C"
         },
@@ -34449,6 +34726,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Am9|E9sus"
         },
@@ -34463,6 +34741,7 @@
       },
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Am9|E9sus"
         },
@@ -34512,6 +34791,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm7|Dbmaj7|Cm7|Dbmaj7|Cm7|Dbmaj7|Cm7|Dbmaj7,Ebm7|Em7,Cm7|Dm7,Bbm7|A7alt|Bbm7|A7alt|Bbm7"
         },
@@ -34540,6 +34820,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "G/D|Gb/D|F/D|E/D|Eb/D|D|Gm|F#7b13|Bm|C#m7b5,F#7b9|Bm|Em7,A7"
         },
@@ -34783,6 +35064,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ebmaj7|Fm7,Bb7|Ebmaj7|Ebm7,Ab7|Dbmaj7|Gm7b5,C7b9|Fmaj7|B7,Bb7"
         },
@@ -34906,6 +35188,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm7|Dm7/C|Ebmaj7/C|Dm7/C"
         },
@@ -35051,6 +35334,7 @@
     "Sections": [
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bm7,E7|Am7,D7|Gm7,C7|Fm7,Bb7|Ebm7|E7|Gb7|D7|Fm7|Bb7|Ebm7|Ebm7"
         },
@@ -35266,6 +35550,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7b5|C7b9|Fm7|Fm7|Dm7b5|G7b9|Cmaj7|Cmaj7"
         },
@@ -35366,6 +35651,7 @@
       },
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dmaj9|Dmaj9|Dm9|Dm9"
         },
@@ -35622,6 +35908,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbmaj7,B07|Cm7,F7|Bbmaj7,B07|Cm7,F7|Bbmaj7,B07|Am7b5,D7|Gm7,C7|Cm7,F7"
         },
@@ -35709,6 +35996,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7|C7|Gm7|C7|F7|Bbmaj7,Eb7|Cmaj7,G7|C6"
         },
@@ -36240,6 +36528,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bmaj7,Gmaj7|Emaj7,Cmaj7#11"
         },
@@ -36255,6 +36544,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7,A7b9|Dm7|A7b9|Dm7|Gm7,A7b9|Dm7|E7,A7b9|Dm7"
         },
@@ -37063,6 +37353,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "F,B9b5|Dm7,Eb9|Ab13,Db7|Gb13|F,B9b5|Dm7,Eb9|Ab7,Db7|Gb7"
         },
@@ -37255,6 +37546,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm7|Bb7|Fm7|Bb7"
         },
@@ -37275,6 +37567,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Fm7|Bb7|Fm7|B7"
         },
@@ -37410,6 +37703,7 @@
         ]
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Ebmaj7|Db7"
         },
@@ -37431,6 +37725,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cmaj7|Cmaj7|Cmaj7|Ebm7,Ab7|Dm7|G7|Dm7|G7"
         },
@@ -37460,6 +37755,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm7|G7b13|Cm7|F7|Fm7,Bb7|Ab7,Db7,Ebmaj7,|Dbmaj7,Dm7b5|G7b9,Cm7|Dm7b5,G7b9|Cm7,Am7b5|Dm7b5|G7b9"
         },
@@ -37669,6 +37965,7 @@
       },
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C7#9|C7#9|Fm6|Fm6|C7#9|C7#9|Fm6|Fm6"
         },
@@ -38322,6 +38619,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Em,C/D|Gmaj7,B7|Em,C/D|Gmaj7,D/F#"
         },
@@ -38379,6 +38677,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbm7,Eb7|A7#11|Ab7,Db7|F#7,B7|E7,Fm7|Bb7#5,Ebmaj7|Ebmaj7|Ebmaj7"
         },
@@ -38566,6 +38865,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb7,Ab7|Ab7,Bb7|Bb7,Ab7|Ab7,Bb7"
         },
@@ -38644,6 +38944,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dbmaj7|Dbm/maj7|Abmaj7|F7#11|Bbm7|Eb7|Abmaj7|Ab7"
         },
@@ -38709,6 +39010,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dm7b5|G13b9|Dm7b5|Dbmaj7,Eb7#11|Ebm7|Ab13b9|Dbmaj7|Dbmaj7"
         },
@@ -38993,6 +39295,7 @@
     "Sections": [
       {
         "Label": "i",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cmaj7/G|C6/G|G9sus|G7"
         },
@@ -39085,6 +39388,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cmaj7|Bb7|Ebmaj7|Ab7b9|Dbmaj7|G7|Cmaj7|Bb7#11|Dmaj7|Am7|F#m7|B13b9|Em7|Ab7|Dbmaj7|G7"
         },
@@ -39292,12 +39596,14 @@
     "Rhythm": "Funk",
     "Sections": [
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "G7,C7|G7,C7|G7,C7|G7,C7|G7,C7|G7,C7|G7,C7|G7,C7|Bm7|Em7|D7sus|Am7,Bm7,Cmaj7,|Bm7|Em7|Am7|D7sus|D7sus|D7sus"
         },
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "G7,C7|G7,C7"
         },
@@ -39363,6 +39669,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cmaj7,Bbmaj7|Abmaj7,Gbmaj7|Fmaj7,B13|Emaj7,Amaj7#11|Ebmaj7,Abmaj7|Dbmaj7,Gbmaj7|Bmaj7,Emaj7|Amaj7,Dmaj7"
         },
@@ -39508,6 +39815,7 @@
     "Sections": [
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Dmaj7|Bb07|Am7|D7b9|Gmaj7|Gm6|F#13,F#7b13|B9,B7b9|E9|Bb7,A7|Dm7,G7|Dm7,G7"
         },
@@ -39593,6 +39901,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbmaj7,Ab7|Gb7|Cm7|F7|Fm7,Bb7b9|Ebmaj7,Ab7|C7|F7"
         },
@@ -39708,6 +40017,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "F6|Gb7|F6|Gb7|F6|Gb7|F6|F6"
         },
@@ -39765,6 +40075,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bb7|Ab7|Bb7|Bm7,E7|Eb7|Eb7|Bb7|Bb7|F7|Eb7|Bb7|Bb7"
         },
@@ -39945,6 +40256,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7b5|C7b9|Fm6|Fm6|Dm7b5|G7#5|Cmaj7|Cmaj7"
         },
@@ -40218,6 +40530,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "C7,Bb7|Am7,D7|C7,C#07|D7sus,D7|Dm7,G7|Cmaj7,F7|Bm7,E7|Am7,D7"
         },
@@ -40721,6 +41034,7 @@
         "Endings": []
       },
       {
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bmaj7|Bmaj7|C#m7/B|C#m7/B"
         },
@@ -40912,6 +41226,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Gm7b5|C7b9|Fm7b5|Bb7b9|Ebm7b5|Ab7b9|Dbmaj7|Dbmaj7"
         },
@@ -41105,6 +41420,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "D7sus|D7sus|D7sus|D7sus|Dmaj7|Dmaj7|Dmaj7|Dmaj7|Am7,D7|Gmaj7,F7|Bbmaj7|Bbmaj7|Em7|Em7"
         },
@@ -41184,6 +41500,7 @@
     "Sections": [
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cm|Dm7b5,G7b9|Cm,C7b9|Fm7|Dm7b5|G7b9|Cmaj7|Cmaj7"
         },
@@ -41528,6 +41845,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Bbmaj7,B07(G7b9#5)|Cm7,F7(C#07)|Bbmaj7(Dm7),B07(G7#5)|Fm7/C(Gb9),F7|Bbmaj7,Bb7(E7b5)|Ebmaj7,Eb6(E07)|Dm7(Bb6/F),Db07(G7#5)|Cm7,F7"
         },
@@ -41882,6 +42200,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "E7|Bm7b5|E7|Bm7b5,E7|Em7b5|A7b9|D7,Bb7|Am7,F7"
         },
@@ -41965,6 +42284,7 @@
       },
       {
         "Label": "B",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Abmaj7,Gm7|Fm7,Bb7|Eb6|Am7b5|D7,G7|C7,F7|Fm7|Bb7"
         },
@@ -42192,6 +42512,7 @@
     "Sections": [
       {
         "Label": "A",
+        "Repeats": 1,
         "MainSegment": {
           "Chords": "Cmaj7#11|Cmaj7#11|Cmaj7#11|Cmaj7#11|Bbmaj7#11|Bbmaj7#11|Bbmaj7#11|Bbmaj7#11"
         },

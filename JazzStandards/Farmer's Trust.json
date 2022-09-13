@@ -20,6 +20,7 @@
     },
     {
       "Label": "v",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Csus,,C,C|Abmaj7,,Bb/Ab,Bb/Ab|Csus,,C,C|C"
       },

@@ -39,6 +39,7 @@
       "Endings": []
     },
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Em,C/D|Gmaj7,B7|Em,C/D|Gmaj7,D/F#"
       },

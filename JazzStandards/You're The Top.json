@@ -24,6 +24,7 @@
     },
     {
       "Label": "B",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Abmaj7,Gm7|Fm7,Bb7|Eb6|Am7b5|D7,G7|C7,F7|Fm7|Bb7"
       },

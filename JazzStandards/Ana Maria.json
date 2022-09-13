@@ -13,6 +13,7 @@
     },
     {
       "Label": "B",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "G7b9sus|Ebmaj7/G"
       },
@@ -32,6 +33,7 @@
       "Endings": []
     },
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "G7b9sus|Ebmaj7/G"
       },

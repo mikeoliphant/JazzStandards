@@ -20,6 +20,7 @@
     },
     {
       "Label": "A",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Gm7,C7|F7sus,Bb"
       },
@@ -34,12 +35,14 @@
     },
     {
       "Label": "A",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Gm7|C7|F7|F7|Gm7|C7|F7,F7/Eb|Bb/D,F7/C"
       },
       "Endings": []
     },
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Bbmaj7,Bb7|Ebmaj9,D9|Gm7,C7|F7sus,Bb|Bbmaj7,Bb7|Ebmaj9,D9|Gm7,C7|F7sus,Bb"
       },

@@ -13,6 +13,7 @@
     },
     {
       "Label": "A",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Bbm7|Eb7|Bbm7|Eb7"
       },
@@ -20,6 +21,7 @@
     },
     {
       "Label": "B",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Bbm7|Eb7|Bbm7|Eb7"
       },

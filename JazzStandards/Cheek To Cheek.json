@@ -20,6 +20,7 @@
     },
     {
       "Label": "C",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Dm7,G7|C6,A7|Dm7,G7|C6,A7|Dm7,G7|C6,A7|Dm7,G7|C6"
       },

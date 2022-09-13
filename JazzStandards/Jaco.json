@@ -5,6 +5,7 @@
   "Rhythm": "Even 8ths",
   "Sections": [
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Gsus|Gsus"
       },
@@ -32,6 +33,7 @@
     },
     {
       "Label": "i",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Cm7,Abmaj9|Dbmaj7,G7#5"
       },

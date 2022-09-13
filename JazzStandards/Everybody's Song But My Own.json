@@ -34,6 +34,7 @@
     },
     {
       "Label": "C",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Bbmaj9|Bmaj7/Bb|Bbmaj9|Bmaj7/Bb"
       },

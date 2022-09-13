@@ -6,6 +6,7 @@
   "Sections": [
     {
       "Label": "A",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Fm7|Bb7|Ebmaj7|Ebmaj7|Fm7|Bb7|Ebmaj7|Ebmaj7|Dm7|G7|Cmaj7|Cmaj7|Cm7|F7|Bbmaj7|Bbmaj7"
       },

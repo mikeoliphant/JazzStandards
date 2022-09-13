@@ -6,6 +6,7 @@
   "Sections": [
     {
       "Label": "i",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "E|F|G,F|E"
       },
@@ -13,18 +14,21 @@
     },
     {
       "Label": "A",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "E|F|G,F|E"
       },
       "Endings": []
     },
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "E|F|G,F|E"
       },
       "Endings": []
     },
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "E|F|G,F|E"
       },
@@ -58,12 +62,14 @@
       "Endings": []
     },
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "E|F|G,F"
       },
       "Endings": []
     },
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Amaj7,Dmaj7/A|Amaj7,Dmaj7/A|Amaj7,Dmaj7/A|Amaj7,Dmaj7/A"
       },

@@ -13,6 +13,7 @@
     },
     {
       "Label": "A",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Eb6,Cm7|Gm7,Ebmaj7|Abmaj7,A07(Bb7sus)|Gm7,C7|Fm7,Db7|Gm7,C7b9|F7,Bb7|Eb6,Bb7"
       },

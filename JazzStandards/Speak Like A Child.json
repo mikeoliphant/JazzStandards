@@ -12,6 +12,7 @@
       "Endings": []
     },
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Am9|E9sus"
       },
@@ -26,6 +27,7 @@
     },
     {
       "Label": "A",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Am9|E9sus"
       },

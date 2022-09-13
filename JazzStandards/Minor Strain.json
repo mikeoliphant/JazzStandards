@@ -6,12 +6,14 @@
   "Sections": [
     {
       "Label": "A",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Dm11|Dm11|Dm11|Dm11"
       },
       "Endings": []
     },
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Cm11|Cm11|Cm11|Cm11"
       },

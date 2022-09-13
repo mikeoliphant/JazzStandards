@@ -27,6 +27,7 @@
     },
     {
       "Label": "A",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "F13|F13|F13|F13"
       },

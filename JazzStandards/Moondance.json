@@ -6,6 +6,7 @@
   "Sections": [
     {
       "Label": "A",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Am7,Bm7/E|Am7,Bm7/E|Am7,Bm7/E|Am7,Bm7/E|Am7,Bm7/E|Am7,Bm7/E|Am7,Bm7/E|Am7,Bm7/E"
       },
@@ -26,6 +27,7 @@
       "Endings": []
     },
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Am7,Bm7/E|Am7,Bm7/E|Am7,Bm7/E|Am7,Bm7/E"
       },

@@ -19,6 +19,7 @@
     },
     {
       "Label": "C",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Ebmaj7,Ebmaj7,Bb/D,Bb/D|Ab/C,Ab/C,Abm/B,Abm/B|Eb/Bb,Eb/Bb,Eb/Bb,Eb/Bb|Ab/Bb,Ab/Bb,Am7b5,D7"
       },

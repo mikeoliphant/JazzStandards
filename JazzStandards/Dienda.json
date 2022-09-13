@@ -26,6 +26,7 @@
       "Endings": []
     },
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Gm11,Fadd9/A|Gbmaj7#11|Gm11,Fadd9/A|F/Db"
       },

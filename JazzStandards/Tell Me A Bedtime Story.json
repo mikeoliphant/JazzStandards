@@ -53,6 +53,7 @@
       "Endings": []
     },
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Bmaj7,Gmaj7|Emaj7,Cmaj7#11"
       },

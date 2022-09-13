@@ -13,12 +13,14 @@
     },
     {
       "Label": "A",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Bbm7|Gb13|Bbm7|Gb13|Eb7|E7#11|Eb7|Gb13|Bbm7|Abm7,Db7|Eb7|Gb13|Bbm7|Gb13|Bbm7|B7#11"
       },
       "Endings": []
     },
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Bbm7|Gb13"
       },

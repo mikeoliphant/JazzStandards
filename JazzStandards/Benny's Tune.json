@@ -6,6 +6,7 @@
   "Sections": [
     {
       "Label": "A",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Gbm6|Db/F|Gbm6|Db/F"
       },
@@ -19,6 +20,7 @@
       "Endings": []
     },
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "Gbm6|Db/F|Gbm6|Db/F"
       },

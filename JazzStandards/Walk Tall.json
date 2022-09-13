@@ -5,12 +5,14 @@
   "Rhythm": "Funk",
   "Sections": [
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "G7,C7|G7,C7|G7,C7|G7,C7|G7,C7|G7,C7|G7,C7|G7,C7|Bm7|Em7|D7sus|Am7,Bm7,Cmaj7,|Bm7|Em7|Am7|D7sus|D7sus|D7sus"
       },
       "Endings": []
     },
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "G7,C7|G7,C7"
       },

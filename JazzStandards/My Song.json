@@ -6,6 +6,7 @@
   "Sections": [
     {
       "Label": "i",
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "C|C|Dbmaj7|Dm7,G7sus"
       },
@@ -33,6 +34,7 @@
       "Endings": []
     },
     {
+      "Repeats": 1,
       "MainSegment": {
         "Chords": "C|C|Dbmaj7|Dm7,G7sus"
       },
