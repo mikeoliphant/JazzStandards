@@ -1,8 +1,9 @@
 {
   "Title": "Coral",
-  "Composer": "Jarrett Keith",
-  "Key": "C-",
+  "Composer": "Keith Jarrett",
+  "Key": "Cmin",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

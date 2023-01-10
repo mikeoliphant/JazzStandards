@@ -1,8 +1,8 @@
 {
   "Title": "My Shining Hour",
-  "Composer": "Arlen Harold",
-  "Key": "C",
+  "Composer": "Harold Arlen",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

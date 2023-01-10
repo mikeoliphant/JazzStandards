@@ -1,8 +1,8 @@
 {
   "Title": "Quiet Now",
-  "Composer": "Zeitlin Denny",
-  "Key": "C",
+  "Composer": "Denny Zeitlin",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

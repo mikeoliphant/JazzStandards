@@ -1,8 +1,9 @@
 {
   "Title": "How Are Things In Glocca Morra",
-  "Composer": "Lane Burton",
+  "Composer": "Burton Lane",
   "Key": "F",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

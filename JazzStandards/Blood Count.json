@@ -1,8 +1,9 @@
 {
   "Title": "Blood Count",
-  "Composer": "Strayhorn Billy",
+  "Composer": "Billy Strayhorn",
   "Key": "D",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

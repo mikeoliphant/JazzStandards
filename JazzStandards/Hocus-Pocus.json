@@ -1,8 +1,9 @@
 {
   "Title": "Hocus-Pocus",
-  "Composer": "Morgan Lee",
+  "Composer": "Lee Morgan",
   "Key": "F",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

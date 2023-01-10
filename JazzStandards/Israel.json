@@ -1,8 +1,9 @@
 {
   "Title": "Israel",
-  "Composer": "Carisi John",
-  "Key": "D-",
+  "Composer": "John Carisi",
+  "Key": "Dmin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

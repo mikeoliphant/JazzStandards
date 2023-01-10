@@ -1,8 +1,9 @@
 {
   "Title": "Cantaloupe Island",
-  "Composer": "Hancock Herbie",
-  "Key": "F-",
+  "Composer": "Herbie Hancock",
+  "Key": "Fmin",
   "Rhythm": "Rock Pop",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

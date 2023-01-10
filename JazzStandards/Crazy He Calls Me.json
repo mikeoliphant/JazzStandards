@@ -1,8 +1,9 @@
 {
   "Title": "Crazy He Calls Me",
-  "Composer": "Sigman Carl",
+  "Composer": "Carl Sigman",
   "Key": "F",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

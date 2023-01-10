@@ -1,8 +1,9 @@
 {
   "Title": "Blues For Alice",
-  "Composer": "Parker Charlie",
+  "Composer": "Charlie Parker",
   "Key": "F",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

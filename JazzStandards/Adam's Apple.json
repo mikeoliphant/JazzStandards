@@ -1,8 +1,9 @@
 {
   "Title": "Adam's Apple",
-  "Composer": "Shorter Wayne",
+  "Composer": "Wayne Shorter",
   "Key": "Ab",
   "Rhythm": "Even 8ths",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

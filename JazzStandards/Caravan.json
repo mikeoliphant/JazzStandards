@@ -1,8 +1,9 @@
 {
   "Title": "Caravan",
-  "Composer": "Ellington Duke",
-  "Key": "F-",
+  "Composer": "Duke Ellington",
+  "Key": "Fmin",
   "Rhythm": "Latin",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

@@ -1,8 +1,8 @@
 {
   "Title": "Samba De Orfeu",
-  "Composer": "Bonfa Luiz",
-  "Key": "C",
+  "Composer": "Luiz Bonfa",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

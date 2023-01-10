@@ -1,8 +1,9 @@
 {
   "Title": "Satellite",
-  "Composer": "Coltrane John",
+  "Composer": "John Coltrane",
   "Key": "G",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

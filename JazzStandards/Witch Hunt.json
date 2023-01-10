@@ -1,8 +1,9 @@
 {
   "Title": "Witch Hunt",
-  "Composer": "Shorter Wayne",
-  "Key": "C-",
+  "Composer": "Wayne Shorter",
+  "Key": "Cmin",
   "Rhythm": "Slow Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

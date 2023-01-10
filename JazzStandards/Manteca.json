@@ -1,8 +1,9 @@
 {
   "Title": "Manteca",
-  "Composer": "Gillespie Dizzy",
+  "Composer": "Dizzy Gillespie",
   "Key": "Bb",
   "Rhythm": "Latin",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

@@ -1,8 +1,9 @@
 {
   "Title": "Nostalgia In Times Square",
-  "Composer": "Mingus Charles",
+  "Composer": "Charles Mingus",
   "Key": "F",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

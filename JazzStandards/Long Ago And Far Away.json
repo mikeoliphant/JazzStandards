@@ -1,8 +1,9 @@
 {
   "Title": "Long Ago And Far Away",
-  "Composer": "Kern Jerome",
+  "Composer": "Jerome Kern",
   "Key": "F",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

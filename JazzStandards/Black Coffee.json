@@ -1,8 +1,8 @@
 {
   "Title": "Black Coffee",
   "Composer": "Burke-Webster",
-  "Key": "C",
   "Rhythm": "Slow Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

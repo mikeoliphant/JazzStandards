@@ -1,8 +1,9 @@
 {
   "Title": "Jackie-ing",
-  "Composer": "Monk Thelonious",
+  "Composer": "Thelonious Monk",
   "Key": "Bb",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

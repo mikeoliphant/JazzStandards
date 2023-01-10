@@ -1,8 +1,9 @@
 {
   "Title": "Nobody Knows You When You're Down And Out",
-  "Composer": "Cox Jimmy",
+  "Composer": "Jimmy Cox",
   "Key": "F",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

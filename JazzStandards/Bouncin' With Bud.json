@@ -1,8 +1,9 @@
 {
   "Title": "Bouncin' With Bud",
-  "Composer": "Powell Bud",
+  "Composer": "Bud Powell",
   "Key": "Bb",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

@@ -1,8 +1,9 @@
 {
   "Title": "Ligia",
-  "Composer": "Jobim Antonio-Carlos",
+  "Composer": "Antonio-Carlos Jobim",
   "Key": "B",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

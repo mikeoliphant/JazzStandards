@@ -1,8 +1,8 @@
 {
   "Title": "Cheryl",
-  "Composer": "Parker Charlie",
-  "Key": "C",
+  "Composer": "Charlie Parker",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

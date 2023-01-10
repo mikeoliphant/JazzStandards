@@ -1,8 +1,9 @@
 {
   "Title": "Moon And Sand",
   "Composer": "Wilder-Palitz",
-  "Key": "D-",
+  "Key": "Dmin",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

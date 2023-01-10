@@ -1,8 +1,9 @@
 {
   "Title": "Blues For Wood",
-  "Composer": "Shaw Woody",
-  "Key": "F-",
+  "Composer": "Woody Shaw",
+  "Key": "Fmin",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

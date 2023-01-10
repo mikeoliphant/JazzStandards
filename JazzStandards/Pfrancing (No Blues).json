@@ -1,8 +1,9 @@
 {
   "Title": "Pfrancing (No Blues)",
-  "Composer": "Davis Miles",
+  "Composer": "Miles Davis",
   "Key": "F",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

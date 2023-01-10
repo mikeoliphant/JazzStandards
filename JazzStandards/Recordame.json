@@ -1,8 +1,9 @@
 {
   "Title": "Recordame",
-  "Composer": "Henderson Joe",
-  "Key": "A-",
+  "Composer": "Joe Henderson",
+  "Key": "Amin",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

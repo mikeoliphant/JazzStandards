@@ -1,8 +1,9 @@
 {
   "Title": "Last Train Home",
-  "Composer": "Metheny Pat",
+  "Composer": "Pat Metheny",
   "Key": "Bb",
   "Rhythm": "Even 8ths",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

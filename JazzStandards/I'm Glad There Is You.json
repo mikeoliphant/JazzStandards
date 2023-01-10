@@ -1,13 +1,14 @@
 {
   "Title": "I'm Glad There Is You",
-  "Composer": "Dorsey Jimmy",
+  "Composer": "Jimmy Dorsey",
   "Key": "F",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Fmaj7|Fmaj7|Fm7|F(Bb7)|Gm7|C7|Fmaj7,D7b9|Gm7,C7"
+        "Chords": "Fmaj7|Fmaj7|Fm7|Fm7(Bb7)|Gm7|C7|Fmaj7,D7b9|Gm7,C7"
       },
       "Endings": []
     },
@@ -28,7 +29,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Fmaj7|Fmaj7|Fm7|F(Bb7)|Gm7|C7|Cm7(Am7b5)|F7(D7b9)|Bbmaj7(G7)|Gm7,C7|F6|Gm7,C7"
+        "Chords": "Fmaj7|Fmaj7|Fm7|Fm7(Bb7)|Gm7|C7|Cm7(Am7b5)|F7(D7b9)|Bbmaj7(G7)|Gm7,C7|F6|Gm7,C7"
       },
       "Endings": []
     }

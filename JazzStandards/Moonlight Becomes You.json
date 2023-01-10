@@ -1,8 +1,9 @@
 {
   "Title": "Moonlight Becomes You",
-  "Composer": "Van-Heusen Jimmy",
+  "Composer": "Jimmy Van-Heusen",
   "Key": "F",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

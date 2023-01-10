@@ -1,8 +1,9 @@
 {
   "Title": "Midnight Blue",
-  "Composer": "Burrell Kenny",
+  "Composer": "Kenny Burrell",
   "Key": "Ab",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

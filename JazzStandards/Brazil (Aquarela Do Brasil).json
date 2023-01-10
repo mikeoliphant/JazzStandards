@@ -1,8 +1,9 @@
 {
   "Title": "Brazil (Aquarela Do Brasil)",
-  "Composer": "Barroso Ary",
+  "Composer": "Ary Barroso",
   "Key": "D",
   "Rhythm": "Samba",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "v",

@@ -1,8 +1,9 @@
 {
   "Title": "I Get Along Without You",
-  "Composer": "Carmichael Hoagy",
+  "Composer": "Hoagy Carmichael",
   "Key": "Bb",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

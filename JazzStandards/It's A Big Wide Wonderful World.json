@@ -1,8 +1,9 @@
 {
   "Title": "It's A Big Wide Wonderful World",
-  "Composer": "Rox John",
+  "Composer": "John Rox",
   "Key": "Ab",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "A",

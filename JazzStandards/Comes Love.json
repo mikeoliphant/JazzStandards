@@ -1,8 +1,9 @@
 {
   "Title": "Comes Love",
   "Composer": "Brown-Stept-Tobias",
-  "Key": "G-",
+  "Key": "Gmin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

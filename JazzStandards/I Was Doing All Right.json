@@ -1,8 +1,9 @@
 {
   "Title": "I Was Doing All Right",
-  "Composer": "Gershwin George",
+  "Composer": "George Gershwin",
   "Key": "G",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

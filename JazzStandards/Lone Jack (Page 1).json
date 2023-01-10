@@ -1,8 +1,9 @@
 {
   "Title": "Lone Jack (Page 1)",
-  "Composer": "Metheny Pat",
-  "Key": "Bb-",
+  "Composer": "Pat Metheny",
+  "Key": "Bbmin",
   "Rhythm": "Samba",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

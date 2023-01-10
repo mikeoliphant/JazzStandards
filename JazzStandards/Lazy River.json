@@ -1,8 +1,9 @@
 {
   "Title": "Lazy River",
-  "Composer": "Carmichael Hoagy",
+  "Composer": "Hoagy Carmichael",
   "Key": "F",
   "Rhythm": "Slow Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

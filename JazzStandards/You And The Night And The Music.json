@@ -1,8 +1,9 @@
 {
   "Title": "You And The Night And The Music",
-  "Composer": "Schwartz Arthur",
-  "Key": "C-",
+  "Composer": "Arthur Schwartz",
+  "Key": "Cmin",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

@@ -1,8 +1,9 @@
 {
   "Title": "Blue Bossa",
-  "Composer": "Dorham Kenny",
-  "Key": "C-",
+  "Composer": "Kenny Dorham",
+  "Key": "Cmin",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

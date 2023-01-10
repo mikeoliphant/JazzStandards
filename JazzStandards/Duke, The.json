@@ -1,8 +1,8 @@
 {
   "Title": "Duke, The",
-  "Composer": "Brubeck Dave",
-  "Key": "C",
+  "Composer": "Dave Brubeck",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

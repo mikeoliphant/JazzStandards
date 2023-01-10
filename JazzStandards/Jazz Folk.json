@@ -1,8 +1,8 @@
 {
   "Title": "Jazz Folk",
-  "Composer": "Abercrombie John",
-  "Key": "C",
+  "Composer": "John Abercrombie",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

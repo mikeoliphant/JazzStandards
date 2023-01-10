@@ -1,8 +1,9 @@
 {
   "Title": "Jitterbug Waltz",
-  "Composer": "Waller Fats",
+  "Composer": "Fats Waller",
   "Key": "Eb",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "B",

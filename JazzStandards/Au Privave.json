@@ -1,8 +1,9 @@
 {
   "Title": "Au Privave",
-  "Composer": "Parker Charlie",
+  "Composer": "Charlie Parker",
   "Key": "F",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

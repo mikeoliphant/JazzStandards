@@ -1,8 +1,9 @@
 {
   "Title": "Questar",
-  "Composer": "Jarrett Keith",
+  "Composer": "Keith Jarrett",
   "Key": "Bb",
   "Rhythm": "Even 8ths",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

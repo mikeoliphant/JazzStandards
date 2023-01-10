@@ -1,8 +1,8 @@
 {
   "Title": "Laura",
-  "Composer": "Raksin David",
-  "Key": "C",
+  "Composer": "David Raksin",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

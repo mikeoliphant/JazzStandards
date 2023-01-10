@@ -1,8 +1,8 @@
 {
   "Title": "September Song",
-  "Composer": "Weill Kurt",
-  "Key": "C",
+  "Composer": "Kurt Weill",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

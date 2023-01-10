@@ -1,8 +1,8 @@
 {
   "Title": "Summer Band Camp",
-  "Composer": "Goodrick Mick",
-  "Key": "C",
+  "Composer": "Mick Goodrick",
   "Rhythm": "Even 8ths",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

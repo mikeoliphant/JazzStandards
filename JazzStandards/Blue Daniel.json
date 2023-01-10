@@ -1,8 +1,9 @@
 {
   "Title": "Blue Daniel",
-  "Composer": "Rosolino Frank",
+  "Composer": "Frank Rosolino",
   "Key": "D",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "MainSegment": {

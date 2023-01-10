@@ -1,8 +1,9 @@
 {
   "Title": "Chicken, The",
-  "Composer": "Ellis Pee-Wee",
+  "Composer": "Pee-Wee Ellis",
   "Key": "Bb",
   "Rhythm": "Funk",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

@@ -1,8 +1,9 @@
 {
   "Title": "One I Love (Belongs To Somebody Else), The",
-  "Composer": "Jones Isham",
+  "Composer": "Isham Jones",
   "Key": "G",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

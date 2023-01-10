@@ -1,8 +1,9 @@
 {
   "Title": "Home At Last",
-  "Composer": "Mobley Hank",
+  "Composer": "Hank Mobley",
   "Key": "Bb",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

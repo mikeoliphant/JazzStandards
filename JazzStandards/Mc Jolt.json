@@ -1,8 +1,9 @@
 {
   "Title": "Mc Jolt",
-  "Composer": "Beirach Richie",
-  "Key": "Eb-",
+  "Composer": "Richie Beirach",
+  "Key": "Ebmin",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Repeats": 1,

@@ -1,8 +1,8 @@
 {
   "Title": "All Too Soon",
-  "Composer": "Ellington Duke",
-  "Key": "C",
+  "Composer": "Duke Ellington",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

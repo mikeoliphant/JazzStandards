@@ -1,13 +1,14 @@
 {
   "Title": "Soon",
-  "Composer": "Gershwin George",
+  "Composer": "George Gershwin",
   "Key": "Eb",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Ebmaj7|Eb(Abmaj7)|Gm7b5|C7b13,C7|Fm7|Fm7|Fm7b5(Abm7),(Db7)|Bb7b13(B7),Bb7"
+        "Chords": "Ebmaj7|Ebm(Abmaj7)|Gm7b5|C7b13,C7|Fm7|Fm7|Fm7b5(Abm7),(Db7)|Bb7b13(B7),Bb7"
       },
       "Endings": []
     },
@@ -21,7 +22,7 @@
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "Ebmaj7|Eb(Abmaj7)|Gm7b5|C7b13,C7|Fm7|Fm7|Fm7b5(Abm7),(Db7)|Bb7b13(B7),Bb7"
+        "Chords": "Ebmaj7|Ebm(Abmaj7)|Gm7b5|C7b13,C7|Fm7|Fm7|Fm7b5(Abm7),(Db7)|Bb7b13(B7),Bb7"
       },
       "Endings": []
     },

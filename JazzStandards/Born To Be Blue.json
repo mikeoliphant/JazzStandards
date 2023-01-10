@@ -1,8 +1,8 @@
 {
   "Title": "Born To Be Blue",
   "Composer": "Wells-Torme",
-  "Key": "C",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

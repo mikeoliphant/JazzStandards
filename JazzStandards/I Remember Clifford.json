@@ -1,8 +1,9 @@
 {
   "Title": "I Remember Clifford",
-  "Composer": "Golson Benny",
+  "Composer": "Benny Golson",
   "Key": "Eb",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

@@ -1,8 +1,9 @@
 {
   "Title": "Brazilian Suite",
-  "Composer": "Petrucciani Michel",
-  "Key": "Bb-",
+  "Composer": "Michel Petrucciani",
+  "Key": "Bbmin",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

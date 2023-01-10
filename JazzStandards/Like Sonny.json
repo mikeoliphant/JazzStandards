@@ -1,8 +1,9 @@
 {
   "Title": "Like Sonny",
-  "Composer": "Coltrane John",
+  "Composer": "John Coltrane",
   "Key": "Eb",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

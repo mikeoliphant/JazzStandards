@@ -1,8 +1,9 @@
 {
   "Title": "Serene",
-  "Composer": "Dolphy Eric",
+  "Composer": "Eric Dolphy",
   "Key": "Eb",
   "Rhythm": "Slow Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

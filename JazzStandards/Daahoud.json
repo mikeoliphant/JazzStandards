@@ -1,0 +1,37 @@
+{
+  "Title": "Daahoud",
+  "Composer": "Clifford Brown",
+  "Key": "Eb",
+  "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
+  "Sections": [
+    {
+      "Label": "A",
+      "Repeats": 1,
+      "MainSegment": {
+        "Chords": "Ebm7,Ab7|Dbm7,Gb7|Bmaj7|Fm7,Bb7|Ebm7(Abm7),(Gb6)|B7(F7),Bb7(Emaj7)|Ebmaj7|Ebmaj7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "B",
+      "MainSegment": {
+        "Chords": "Bbm7|Eb7|Abmaj7|Abmaj7|Abm7|Db7|Gbmaj7|Fm7,Bb7"
+      },
+      "Endings": []
+    },
+    {
+      "Label": "A",
+      "MainSegment": {
+        "Chords": "Ebm7,Ab7|Dbm7,Gb7|Bmaj7|Fm7,Bb7|Ebm7(Abm7),(Gb6)|B7(F7),Bb7(Emaj7)|Ebmaj7|Ebm(Abm7),(Db7)"
+      },
+      "Endings": []
+    },
+    {
+      "MainSegment": {
+        "Chords": "Gbmaj7|Ebm7,Ab7|Cm7b5,B7|Bb7"
+      },
+      "Endings": []
+    }
+  ]
+}

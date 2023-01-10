@@ -1,8 +1,9 @@
 {
   "Title": "Wayne's Thang",
-  "Composer": "Garrett Kenny",
-  "Key": "E-",
+  "Composer": "Kenny Garrett",
+  "Key": "Emin",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

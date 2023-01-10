@@ -1,8 +1,8 @@
 {
   "Title": "Who's Sorry Now?",
   "Composer": "Snyder-Kalmar-Ruby",
-  "Key": "C",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

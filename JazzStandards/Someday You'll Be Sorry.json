@@ -1,8 +1,9 @@
 {
   "Title": "Someday You'll Be Sorry",
-  "Composer": "Armstrong Louis",
+  "Composer": "Louis Armstrong",
   "Key": "Eb",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

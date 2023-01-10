@@ -1,8 +1,9 @@
 {
   "Title": "Wild Flower",
-  "Composer": "Shorter Wayne",
+  "Composer": "Wayne Shorter",
   "Key": "Bb",
   "Rhythm": "Waltz",
+  "TimeSignature": "6/4",
   "Sections": [
     {
       "Label": "B",

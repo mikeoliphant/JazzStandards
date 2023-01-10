@@ -1,8 +1,9 @@
 {
   "Title": "Shutterbug",
-  "Composer": "Johnson J.J.",
-  "Key": "G-",
+  "Composer": "J.J. Johnson",
+  "Key": "Gmin",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

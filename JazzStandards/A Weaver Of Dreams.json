@@ -1,8 +1,8 @@
 {
   "Title": "A Weaver Of Dreams",
-  "Composer": "Young Victor",
-  "Key": "C",
+  "Composer": "Victor Young",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

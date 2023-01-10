@@ -1,8 +1,9 @@
 {
   "Title": "She's Funny That Way",
-  "Composer": "Daniels Charles",
+  "Composer": "Charles Daniels",
   "Key": "Eb",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

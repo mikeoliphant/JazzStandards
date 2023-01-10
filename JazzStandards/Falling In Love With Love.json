@@ -1,8 +1,9 @@
 {
   "Title": "Falling In Love With Love",
-  "Composer": "Rodgers Richard",
+  "Composer": "Richard Rodgers",
   "Key": "Bb",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "MainSegment": {

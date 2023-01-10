@@ -1,8 +1,9 @@
 {
   "Title": "Solitude",
-  "Composer": "Ellington Duke",
+  "Composer": "Duke Ellington",
   "Key": "Eb",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

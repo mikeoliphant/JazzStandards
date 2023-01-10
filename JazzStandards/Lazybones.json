@@ -1,8 +1,8 @@
 {
   "Title": "Lazybones",
   "Composer": "Carmichael-Mercer",
-  "Key": "C",
   "Rhythm": "Slow Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

@@ -1,8 +1,9 @@
 {
   "Title": "I'll Be Seeing You",
-  "Composer": "Fain Sammy",
+  "Composer": "Sammy Fain",
   "Key": "Eb",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

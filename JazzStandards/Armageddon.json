@@ -1,8 +1,9 @@
 {
   "Title": "Armageddon",
-  "Composer": "Shorter Wayne",
-  "Key": "Bb-",
+  "Composer": "Wayne Shorter",
+  "Key": "Bbmin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

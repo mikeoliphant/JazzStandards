@@ -1,8 +1,9 @@
 {
   "Title": "Here's That Sunny Day",
-  "Composer": "Kessel Barney",
+  "Composer": "Barney Kessel",
   "Key": "A",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

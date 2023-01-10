@@ -1,8 +1,8 @@
 {
   "Title": "Who Cares",
-  "Composer": "Gershwin George",
-  "Key": "C",
+  "Composer": "George Gershwin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

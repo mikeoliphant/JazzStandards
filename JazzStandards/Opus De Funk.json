@@ -1,8 +1,9 @@
 {
   "Title": "Opus De Funk",
-  "Composer": "Silver Horace",
+  "Composer": "Horace Silver",
   "Key": "Bb",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

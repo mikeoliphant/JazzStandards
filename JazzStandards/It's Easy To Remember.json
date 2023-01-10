@@ -1,8 +1,9 @@
 {
   "Title": "It's Easy To Remember",
-  "Composer": "Rodgers Richard",
+  "Composer": "Richard Rodgers",
   "Key": "Eb",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

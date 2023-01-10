@@ -1,8 +1,9 @@
 {
   "Title": "United",
-  "Composer": "Shorter Wayne",
+  "Composer": "Wayne Shorter",
   "Key": "F",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "MainSegment": {

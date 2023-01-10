@@ -1,8 +1,9 @@
 {
   "Title": "Making Whoopee",
-  "Composer": "Donaldson Walter",
+  "Composer": "Walter Donaldson",
   "Key": "G",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

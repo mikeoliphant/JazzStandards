@@ -1,8 +1,9 @@
 {
   "Title": "Nothing Personal",
-  "Composer": "Grolnick Don",
-  "Key": "G-",
+  "Composer": "Don Grolnick",
+  "Key": "Gmin",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

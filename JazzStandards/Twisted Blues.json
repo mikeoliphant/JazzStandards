@@ -1,8 +1,9 @@
 {
   "Title": "Twisted Blues",
-  "Composer": "Montgomery Wes",
+  "Composer": "Wes Montgomery",
   "Key": "Db",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

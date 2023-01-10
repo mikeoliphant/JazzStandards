@@ -1,8 +1,9 @@
 {
   "Title": "One Finger Snap",
-  "Composer": "Hancock Herbie",
+  "Composer": "Herbie Hancock",
   "Key": "Eb",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

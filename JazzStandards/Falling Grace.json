@@ -1,8 +1,9 @@
 {
   "Title": "Falling Grace",
-  "Composer": "Swallow Steve",
+  "Composer": "Steve Swallow",
   "Key": "Ab",
   "Rhythm": "Even 8ths",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

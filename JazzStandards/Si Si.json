@@ -1,8 +1,9 @@
 {
   "Title": "Si Si",
-  "Composer": "Parker Charlie",
+  "Composer": "Charlie Parker",
   "Key": "F",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

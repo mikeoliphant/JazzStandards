@@ -1,8 +1,9 @@
 {
   "Title": "El Gaucho",
-  "Composer": "Shorter Wayne",
+  "Composer": "Wayne Shorter",
   "Key": "F",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

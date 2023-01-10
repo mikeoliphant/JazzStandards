@@ -1,8 +1,9 @@
 {
   "Title": "Poinciana",
-  "Composer": "Simon Nat",
+  "Composer": "Nat Simon",
   "Key": "D",
   "Rhythm": "Latin",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

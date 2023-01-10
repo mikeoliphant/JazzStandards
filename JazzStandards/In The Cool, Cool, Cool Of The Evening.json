@@ -1,8 +1,9 @@
 {
   "Title": "In The Cool, Cool, Cool Of The Evening",
-  "Composer": "Carmichael Hoagy",
+  "Composer": "Hoagy Carmichael",
   "Key": "F",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

@@ -1,8 +1,9 @@
 {
   "Title": "Decision",
-  "Composer": "Rollins Sonny",
-  "Key": "F-",
+  "Composer": "Sonny Rollins",
+  "Key": "Fmin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

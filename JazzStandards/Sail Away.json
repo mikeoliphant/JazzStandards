@@ -1,8 +1,8 @@
 {
   "Title": "Sail Away",
-  "Composer": "Harrell Tom",
-  "Key": "C",
+  "Composer": "Tom Harrell",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

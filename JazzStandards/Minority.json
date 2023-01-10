@@ -1,8 +1,9 @@
 {
   "Title": "Minority",
-  "Composer": "Gryce Gigi",
-  "Key": "F-",
+  "Composer": "Gigi Gryce",
+  "Key": "Fmin",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

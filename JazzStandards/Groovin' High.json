@@ -1,8 +1,9 @@
 {
   "Title": "Groovin' High",
-  "Composer": "Gillespie Dizzy",
+  "Composer": "Dizzy Gillespie",
   "Key": "Eb",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

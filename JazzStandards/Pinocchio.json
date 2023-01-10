@@ -1,8 +1,9 @@
 {
   "Title": "Pinocchio",
-  "Composer": "Shorter Wayne",
-  "Key": "Eb-",
+  "Composer": "Wayne Shorter",
+  "Key": "Ebmin",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

@@ -1,8 +1,9 @@
 {
   "Title": "Ugly Beauty",
-  "Composer": "Monk Thelonious",
+  "Composer": "Thelonious Monk",
   "Key": "Db",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "A",

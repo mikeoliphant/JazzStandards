@@ -1,8 +1,8 @@
 {
   "Title": "Fly Me To The Moon",
-  "Composer": "Howard Bart",
-  "Key": "C",
+  "Composer": "Bart Howard",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

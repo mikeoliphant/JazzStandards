@@ -1,8 +1,8 @@
 {
   "Title": "Pennies From Heaven",
-  "Composer": "Johnston Arthur",
-  "Key": "C",
+  "Composer": "Arthur Johnston",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

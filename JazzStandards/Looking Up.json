@@ -1,8 +1,9 @@
 {
   "Title": "Looking Up",
-  "Composer": "Petrucciani Michel",
+  "Composer": "Michel Petrucciani",
   "Key": "A",
   "Rhythm": "Latin",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

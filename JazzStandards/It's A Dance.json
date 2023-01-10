@@ -1,8 +1,8 @@
 {
   "Title": "It's A Dance",
-  "Composer": "Petrucciani Michel",
-  "Key": "C",
+  "Composer": "Michel Petrucciani",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "A",

@@ -1,8 +1,9 @@
 {
   "Title": "Black Nile",
-  "Composer": "Shorter Wayne",
-  "Key": "D-",
+  "Composer": "Wayne Shorter",
+  "Key": "Dmin",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

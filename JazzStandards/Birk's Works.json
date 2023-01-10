@@ -1,8 +1,9 @@
 {
   "Title": "Birk's Works",
-  "Composer": "Gillespie Dizzy",
-  "Key": "F-",
+  "Composer": "Dizzy Gillespie",
+  "Key": "Fmin",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

@@ -1,8 +1,9 @@
 {
   "Title": "Sun down",
-  "Composer": "Montgomery Wes",
+  "Composer": "Wes Montgomery",
   "Key": "A",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

@@ -1,8 +1,8 @@
 {
   "Title": "Up With The Lark",
-  "Composer": "Kern Jerome",
-  "Key": "C",
+  "Composer": "Jerome Kern",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "i",

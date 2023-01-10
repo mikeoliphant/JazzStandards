@@ -1,8 +1,9 @@
 {
   "Title": "Why Don't You Do Right?",
-  "Composer": "McCoy Kansas-Joe",
-  "Key": "D-",
+  "Composer": "Kansas-Joe McCoy",
+  "Key": "Dmin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

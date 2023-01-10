@@ -1,8 +1,9 @@
 {
   "Title": "Lucky Southern",
-  "Composer": "Jarrett Keith",
+  "Composer": "Keith Jarrett",
   "Key": "D",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

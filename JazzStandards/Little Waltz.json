@@ -1,8 +1,9 @@
 {
   "Title": "Little Waltz",
-  "Composer": "Carter Ron",
-  "Key": "F-",
+  "Composer": "Ron Carter",
+  "Key": "Fmin",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "A",

@@ -1,8 +1,9 @@
 {
   "Title": "Beatrice",
-  "Composer": "Rivers Sam",
+  "Composer": "Sam Rivers",
   "Key": "F",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

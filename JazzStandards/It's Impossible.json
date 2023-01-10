@@ -1,8 +1,9 @@
 {
   "Title": "It's Impossible",
-  "Composer": "Manzanero Armando",
+  "Composer": "Armando Manzanero",
   "Key": "G",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

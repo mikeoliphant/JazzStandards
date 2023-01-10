@@ -1,8 +1,9 @@
 {
   "Title": "Do Nothin' Til You Hear From Me",
-  "Composer": "Ellington Duke",
+  "Composer": "Duke Ellington",
   "Key": "Bb",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

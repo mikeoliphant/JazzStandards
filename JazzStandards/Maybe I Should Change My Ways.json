@@ -1,8 +1,9 @@
 {
   "Title": "Maybe I Should Change My Ways",
-  "Composer": "Ellington Duke",
+  "Composer": "Duke Ellington",
   "Key": "Bb",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

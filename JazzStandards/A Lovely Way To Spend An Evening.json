@@ -1,8 +1,9 @@
 {
   "Title": "A Lovely Way To Spend An Evening",
-  "Composer": "McHugh Jimmy",
+  "Composer": "Jimmy McHugh",
   "Key": "F",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

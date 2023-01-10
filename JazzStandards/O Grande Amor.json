@@ -1,8 +1,9 @@
 {
   "Title": "O Grande Amor",
-  "Composer": "Jobim Antonio-Carlos",
-  "Key": "A-",
+  "Composer": "Antonio-Carlos Jobim",
+  "Key": "Amin",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

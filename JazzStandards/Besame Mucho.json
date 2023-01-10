@@ -1,8 +1,9 @@
 {
   "Title": "Besame Mucho",
-  "Composer": "Velazques Consuelo",
-  "Key": "D-",
+  "Composer": "Consuelo Velazques",
+  "Key": "Dmin",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

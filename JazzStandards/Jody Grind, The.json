@@ -1,8 +1,9 @@
 {
   "Title": "Jody Grind, The",
-  "Composer": "Silver Horace",
-  "Key": "Bb-",
+  "Composer": "Horace Silver",
+  "Key": "Bbmin",
   "Rhythm": "Even 8ths",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

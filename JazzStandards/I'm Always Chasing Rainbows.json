@@ -1,8 +1,9 @@
 {
   "Title": "I'm Always Chasing Rainbows",
-  "Composer": "Carroll Harry",
+  "Composer": "Harry Carroll",
   "Key": "G",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

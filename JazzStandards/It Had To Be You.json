@@ -1,8 +1,9 @@
 {
   "Title": "It Had To Be You",
-  "Composer": "Jones Isham",
+  "Composer": "Isham Jones",
   "Key": "G",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

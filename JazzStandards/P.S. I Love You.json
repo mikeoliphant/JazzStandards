@@ -1,8 +1,9 @@
 {
   "Title": "P.S. I Love You",
-  "Composer": "Jenkins Gordon",
+  "Composer": "Gordon Jenkins",
   "Key": "Eb",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

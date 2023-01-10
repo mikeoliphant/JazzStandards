@@ -1,8 +1,9 @@
 {
   "Title": "Cute",
-  "Composer": "Hefti Neal",
+  "Composer": "Neal Hefti",
   "Key": "F",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

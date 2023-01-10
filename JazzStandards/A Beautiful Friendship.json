@@ -1,8 +1,8 @@
 {
   "Title": "A Beautiful Friendship",
-  "Composer": "Kahn Donald",
-  "Key": "C",
+  "Composer": "Donald Kahn",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

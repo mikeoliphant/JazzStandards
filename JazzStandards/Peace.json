@@ -1,8 +1,9 @@
 {
   "Title": "Peace",
-  "Composer": "Silver Horace",
+  "Composer": "Horace Silver",
   "Key": "Bb",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

@@ -1,8 +1,9 @@
 {
   "Title": "Make Someone Happy",
-  "Composer": "Styne Jule",
+  "Composer": "Jule Styne",
   "Key": "Eb",
   "Rhythm": "Slow Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

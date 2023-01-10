@@ -1,8 +1,8 @@
 {
   "Title": "Chicago",
-  "Composer": "Fisher Fred",
-  "Key": "C",
+  "Composer": "Fred Fisher",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

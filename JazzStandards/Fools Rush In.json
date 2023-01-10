@@ -1,8 +1,8 @@
 {
   "Title": "Fools Rush In",
-  "Composer": "Bloom Rube",
-  "Key": "C",
+  "Composer": "Rube Bloom",
   "Rhythm": "Slow Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

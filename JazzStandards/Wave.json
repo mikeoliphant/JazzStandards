@@ -1,8 +1,9 @@
 {
   "Title": "Wave",
-  "Composer": "Jobim Antonio-Carlos",
+  "Composer": "Antonio-Carlos Jobim",
   "Key": "D",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

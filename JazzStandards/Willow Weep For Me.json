@@ -1,8 +1,9 @@
 {
   "Title": "Willow Weep For Me",
-  "Composer": "Ronell Ann",
+  "Composer": "Ann Ronell",
   "Key": "G",
   "Rhythm": "Slow Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

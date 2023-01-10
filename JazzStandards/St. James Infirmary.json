@@ -1,8 +1,9 @@
 {
   "Title": "St. James Infirmary",
-  "Composer": "Primrose Joe",
-  "Key": "F-",
+  "Composer": "Joe Primrose",
+  "Key": "Fmin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

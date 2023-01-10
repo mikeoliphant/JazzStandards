@@ -1,8 +1,9 @@
 {
   "Title": "Hideaway",
-  "Composer": "Sanborn David",
+  "Composer": "David Sanborn",
   "Key": "Ab",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

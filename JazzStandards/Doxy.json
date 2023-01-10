@@ -1,8 +1,9 @@
 {
   "Title": "Doxy",
-  "Composer": "Rollins Sonny",
+  "Composer": "Sonny Rollins",
   "Key": "Bb",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

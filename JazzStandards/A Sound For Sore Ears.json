@@ -1,8 +1,9 @@
 {
   "Title": "A Sound For Sore Ears",
-  "Composer": "Heath Jimmy",
+  "Composer": "Jimmy Heath",
   "Key": "Eb",
   "Rhythm": "Even 8ths",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

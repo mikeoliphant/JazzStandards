@@ -1,8 +1,9 @@
 {
   "Title": "Sugar",
-  "Composer": "Turrentine Stanley",
-  "Key": "C-",
+  "Composer": "Stanley Turrentine",
+  "Key": "Cmin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

@@ -1,8 +1,9 @@
 {
   "Title": "Love Is The Sweetest Thing",
-  "Composer": "Noble Ray",
+  "Composer": "Ray Noble",
   "Key": "D",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

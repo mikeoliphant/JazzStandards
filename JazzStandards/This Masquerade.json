@@ -1,8 +1,9 @@
 {
   "Title": "This Masquerade",
-  "Composer": "Russell Leon",
-  "Key": "F-",
+  "Composer": "Leon Russell",
+  "Key": "Fmin",
   "Rhythm": "Rock Pop",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

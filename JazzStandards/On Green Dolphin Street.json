@@ -1,8 +1,9 @@
 {
   "Title": "On Green Dolphin Street",
-  "Composer": "Kaper Bronislau",
+  "Composer": "Bronislau Kaper",
   "Key": "Eb",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

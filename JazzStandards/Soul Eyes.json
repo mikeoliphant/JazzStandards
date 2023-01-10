@@ -1,8 +1,9 @@
 {
   "Title": "Soul Eyes",
-  "Composer": "Waldron Mal",
-  "Key": "C-",
+  "Composer": "Mal Waldron",
+  "Key": "Cmin",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

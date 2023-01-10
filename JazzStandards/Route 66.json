@@ -1,8 +1,9 @@
 {
   "Title": "Route 66",
-  "Composer": "Troup Bobby",
+  "Composer": "Bobby Troup",
   "Key": "F",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

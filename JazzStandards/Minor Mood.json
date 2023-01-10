@@ -1,8 +1,9 @@
 {
   "Title": "Minor Mood",
-  "Composer": "Brown Clifford",
-  "Key": "F-",
+  "Composer": "Clifford Brown",
+  "Key": "Fmin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

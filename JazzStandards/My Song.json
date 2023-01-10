@@ -1,8 +1,8 @@
 {
   "Title": "My Song",
-  "Composer": "Jarrett Keith",
-  "Key": "C",
+  "Composer": "Keith Jarrett",
   "Rhythm": "Even 8ths",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

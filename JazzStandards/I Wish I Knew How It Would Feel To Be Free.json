@@ -1,8 +1,9 @@
 {
   "Title": "I Wish I Knew How It Would Feel To Be Free",
-  "Composer": "Taylor Billy",
+  "Composer": "Billy Taylor",
   "Key": "F",
   "Rhythm": "Even 8ths",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

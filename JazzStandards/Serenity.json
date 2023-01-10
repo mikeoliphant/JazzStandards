@@ -1,8 +1,9 @@
 {
   "Title": "Serenity",
-  "Composer": "Henderson Joe",
+  "Composer": "Joe Henderson",
   "Key": "Eb",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

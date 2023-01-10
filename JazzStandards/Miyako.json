@@ -1,8 +1,9 @@
 {
   "Title": "Miyako",
-  "Composer": "Shorter Wayne",
+  "Composer": "Wayne Shorter",
   "Key": "A",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "MainSegment": {

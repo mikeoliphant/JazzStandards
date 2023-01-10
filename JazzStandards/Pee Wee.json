@@ -1,8 +1,9 @@
 {
   "Title": "Pee Wee",
-  "Composer": "Williams Tony",
+  "Composer": "Tony Williams",
   "Key": "Db",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "MainSegment": {

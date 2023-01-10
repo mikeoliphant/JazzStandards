@@ -1,8 +1,9 @@
 {
   "Title": "Once I Loved",
-  "Composer": "Jobim Antonio-Carlos",
-  "Key": "D-",
+  "Composer": "Antonio-Carlos Jobim",
+  "Key": "Dmin",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

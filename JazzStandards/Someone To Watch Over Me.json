@@ -1,8 +1,9 @@
 {
   "Title": "Someone To Watch Over Me",
-  "Composer": "Gershwin George",
+  "Composer": "George Gershwin",
   "Key": "Eb",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

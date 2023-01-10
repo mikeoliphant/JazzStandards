@@ -1,8 +1,9 @@
 {
   "Title": "Poor Butterfly",
-  "Composer": "Hubbell Raymon",
+  "Composer": "Raymon Hubbell",
   "Key": "Ab",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

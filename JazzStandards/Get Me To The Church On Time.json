@@ -1,8 +1,9 @@
 {
   "Title": "Get Me To The Church On Time",
-  "Composer": "Lerner Alan",
+  "Composer": "Alan Lerner",
   "Key": "G",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

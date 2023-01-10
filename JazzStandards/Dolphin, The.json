@@ -1,8 +1,9 @@
 {
   "Title": "Dolphin, The",
-  "Composer": "Eca Luiz",
+  "Composer": "Luiz Eca",
   "Key": "E",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

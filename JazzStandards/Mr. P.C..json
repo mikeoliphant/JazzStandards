@@ -1,8 +1,9 @@
 {
   "Title": "Mr. P.C.",
-  "Composer": "Coltrane John",
-  "Key": "C-",
+  "Composer": "John Coltrane",
+  "Key": "Cmin",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

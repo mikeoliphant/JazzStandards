@@ -1,8 +1,8 @@
 {
   "Title": "Some Other Time",
-  "Composer": "Bernstein Leonard",
-  "Key": "C",
+  "Composer": "Leonard Bernstein",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

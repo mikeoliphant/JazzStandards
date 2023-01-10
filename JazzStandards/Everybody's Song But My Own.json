@@ -1,8 +1,9 @@
 {
   "Title": "Everybody's Song But My Own",
-  "Composer": "Wheeler Kenny",
-  "Key": "C-",
+  "Composer": "Kenny Wheeler",
+  "Key": "Cmin",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "A",

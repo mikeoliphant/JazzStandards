@@ -1,8 +1,9 @@
 {
   "Title": "Scene",
-  "Composer": "Harrell Tom",
+  "Composer": "Tom Harrell",
   "Key": "G",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "A",

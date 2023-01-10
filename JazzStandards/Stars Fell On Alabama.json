@@ -1,8 +1,8 @@
 {
   "Title": "Stars Fell On Alabama",
-  "Composer": "Perkins Frank",
-  "Key": "C",
+  "Composer": "Frank Perkins",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

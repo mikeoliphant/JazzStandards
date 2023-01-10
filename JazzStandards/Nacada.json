@@ -1,8 +1,9 @@
 {
   "Title": "Nacada",
-  "Composer": "Metheny Pat",
+  "Composer": "Pat Metheny",
   "Key": "G",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

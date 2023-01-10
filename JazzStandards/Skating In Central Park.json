@@ -1,8 +1,8 @@
 {
   "Title": "Skating In Central Park",
-  "Composer": "Lewis John",
-  "Key": "C",
+  "Composer": "John Lewis",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "A",

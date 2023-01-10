@@ -1,8 +1,9 @@
 {
   "Title": "Little Niles",
-  "Composer": "Weston Randy",
-  "Key": "G-",
+  "Composer": "Randy Weston",
+  "Key": "Gmin",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "A",

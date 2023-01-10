@@ -1,8 +1,9 @@
 {
   "Title": "Barbados",
-  "Composer": "Parker Charlie",
+  "Composer": "Charlie Parker",
   "Key": "F",
   "Rhythm": "Latin",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

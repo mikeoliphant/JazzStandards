@@ -1,8 +1,9 @@
 {
   "Title": "Moonchild",
-  "Composer": "Jarrett Keith",
-  "Key": "E-",
+  "Composer": "Keith Jarrett",
+  "Key": "Emin",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

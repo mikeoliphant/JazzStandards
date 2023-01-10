@@ -1,8 +1,9 @@
 {
   "Title": "Straight Street",
-  "Composer": "Coltrane John",
-  "Key": "Eb-",
+  "Composer": "John Coltrane",
+  "Key": "Ebmin",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

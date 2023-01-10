@@ -1,8 +1,9 @@
 {
   "Title": "Devil May Care",
   "Composer": "Dorough-Kirk",
-  "Key": "G-",
+  "Key": "Gmin",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",
@@ -21,7 +22,7 @@
     {
       "Label": "C",
       "MainSegment": {
-        "Chords": "Gm,Em7b5|Am7b5,D7b9|Gm,Em7b5|Am7b5,D7b9|Gm,Gm7/F|Em7b5|Eb7#11|Eb7#11|Am7b5|D7b5#9|Gm,(Em7b5)|G(A7b9),(D7b9)"
+        "Chords": "Gm,Em7b5|Am7b5,D7b9|Gm,Em7b5|Am7b5,D7b9|Gm,Gm7/F|Em7b5|Eb7#11|Eb7#11|Am7b5|D7b5#9|Gm,(Em7b5)|Gm(A7b9),(D7b9)"
       },
       "Endings": []
     }

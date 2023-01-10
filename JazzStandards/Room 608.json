@@ -1,8 +1,9 @@
 {
   "Title": "Room 608",
-  "Composer": "Silver Horace",
+  "Composer": "Horace Silver",
   "Key": "Bb",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

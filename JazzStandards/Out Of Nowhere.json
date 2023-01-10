@@ -1,8 +1,9 @@
 {
   "Title": "Out Of Nowhere",
-  "Composer": "Green Johnny",
+  "Composer": "Johnny Green",
   "Key": "G",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

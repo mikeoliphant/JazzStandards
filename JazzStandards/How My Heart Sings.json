@@ -1,8 +1,8 @@
 {
   "Title": "How My Heart Sings",
-  "Composer": "Zindars Earl",
-  "Key": "C",
+  "Composer": "Earl Zindars",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "MainSegment": {

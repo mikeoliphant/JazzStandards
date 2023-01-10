@@ -1,8 +1,9 @@
 {
   "Title": "Desafinado",
-  "Composer": "Jobim Antonio-Carlos",
+  "Composer": "Antonio-Carlos Jobim",
   "Key": "F",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

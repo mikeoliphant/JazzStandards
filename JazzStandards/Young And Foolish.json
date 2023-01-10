@@ -1,8 +1,8 @@
 {
   "Title": "Young And Foolish",
-  "Composer": "Hague Albert",
-  "Key": "C",
+  "Composer": "Albert Hague",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

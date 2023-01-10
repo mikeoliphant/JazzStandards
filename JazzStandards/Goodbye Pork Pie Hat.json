@@ -1,8 +1,9 @@
 {
   "Title": "Goodbye Pork Pie Hat",
-  "Composer": "Mingus Charles",
+  "Composer": "Charles Mingus",
   "Key": "Eb",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

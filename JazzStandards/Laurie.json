@@ -1,8 +1,9 @@
 {
   "Title": "Laurie",
-  "Composer": "Evans Bill",
+  "Composer": "Bill Evans",
   "Key": "Bb",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

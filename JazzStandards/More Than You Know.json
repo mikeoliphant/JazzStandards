@@ -1,8 +1,8 @@
 {
   "Title": "More Than You Know",
-  "Composer": "Youmans Vincent",
-  "Key": "C",
+  "Composer": "Vincent Youmans",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

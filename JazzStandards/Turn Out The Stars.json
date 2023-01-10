@@ -1,8 +1,9 @@
 {
   "Title": "Turn Out The Stars",
-  "Composer": "Evans Bill",
-  "Key": "A-",
+  "Composer": "Bill Evans",
+  "Key": "Amin",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

@@ -1,8 +1,9 @@
 {
   "Title": "Inner Urge",
-  "Composer": "Henderson Joe",
+  "Composer": "Joe Henderson",
   "Key": "G",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

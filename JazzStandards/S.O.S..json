@@ -1,8 +1,9 @@
 {
   "Title": "S.O.S.",
-  "Composer": "Montgomery Wes",
-  "Key": "C-",
+  "Composer": "Wes Montgomery",
+  "Key": "Cmin",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

@@ -1,8 +1,9 @@
 {
   "Title": "Indian Summer",
-  "Composer": "Victor-Aldubin-Herbert ",
+  "Composer": " Victor-Aldubin-Herbert",
   "Key": "G",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

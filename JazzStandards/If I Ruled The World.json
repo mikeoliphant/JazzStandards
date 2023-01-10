@@ -1,8 +1,9 @@
 {
   "Title": "If I Ruled The World",
-  "Composer": "Bricusse Leslie",
+  "Composer": "Leslie Bricusse",
   "Key": "Eb",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

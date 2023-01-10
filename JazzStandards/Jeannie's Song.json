@@ -1,8 +1,9 @@
 {
   "Title": "Jeannie's Song",
-  "Composer": "Ivery Marchel",
+  "Composer": "Marchel Ivery",
   "Key": "F",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

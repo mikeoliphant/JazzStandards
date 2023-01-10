@@ -1,8 +1,9 @@
 {
   "Title": "Speak Low",
-  "Composer": "Weill Kurt",
+  "Composer": "Kurt Weill",
   "Key": "F",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

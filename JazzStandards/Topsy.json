@@ -1,8 +1,9 @@
 {
   "Title": "Topsy",
   "Composer": "Battle-Durham",
-  "Key": "D-",
+  "Key": "Dmin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

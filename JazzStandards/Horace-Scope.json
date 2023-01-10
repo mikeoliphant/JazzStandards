@@ -1,8 +1,9 @@
 {
   "Title": "Horace-Scope",
-  "Composer": "Silver Horace",
+  "Composer": "Horace Silver",
   "Key": "Db",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

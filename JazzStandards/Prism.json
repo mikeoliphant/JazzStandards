@@ -1,8 +1,9 @@
 {
   "Title": "Prism",
-  "Composer": "Jarrett Keith",
-  "Key": "G-",
+  "Composer": "Keith Jarrett",
+  "Key": "Gmin",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

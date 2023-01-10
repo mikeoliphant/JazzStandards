@@ -1,8 +1,9 @@
 {
   "Title": "One By One",
-  "Composer": "Shorter Wayne",
-  "Key": "G-",
+  "Composer": "Wayne Shorter",
+  "Key": "Gmin",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

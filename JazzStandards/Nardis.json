@@ -1,8 +1,9 @@
 {
   "Title": "Nardis",
-  "Composer": "Davis Miles",
-  "Key": "E-",
+  "Composer": "Miles Davis",
+  "Key": "Emin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

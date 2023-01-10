@@ -1,8 +1,9 @@
 {
   "Title": "Moon Rays",
-  "Composer": "Silver Horace",
+  "Composer": "Horace Silver",
   "Key": "Eb",
   "Rhythm": "Latin",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

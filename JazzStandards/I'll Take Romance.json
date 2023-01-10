@@ -1,8 +1,9 @@
 {
   "Title": "I'll Take Romance",
-  "Composer": "Oakland Ben",
+  "Composer": "Ben Oakland",
   "Key": "F",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "MainSegment": {

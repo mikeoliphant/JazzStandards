@@ -1,8 +1,9 @@
 {
   "Title": "East St. Louis Toodle-oo",
   "Composer": "Ellington-Milley",
-  "Key": "C-",
+  "Key": "Cmin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

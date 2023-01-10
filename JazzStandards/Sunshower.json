@@ -1,8 +1,9 @@
 {
   "Title": "Sunshower",
-  "Composer": "Barron Kenny",
-  "Key": "A-",
+  "Composer": "Kenny Barron",
+  "Key": "Amin",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

@@ -1,8 +1,9 @@
 {
   "Title": "We Will Meet Again",
-  "Composer": "Evans Bill",
-  "Key": "C-",
+  "Composer": "Bill Evans",
+  "Key": "Cmin",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "MainSegment": {

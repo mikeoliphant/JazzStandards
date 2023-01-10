@@ -1,8 +1,9 @@
 {
   "Title": "All Alone",
-  "Composer": "Berlin Irving",
+  "Composer": "Irving Berlin",
   "Key": "F",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "A",

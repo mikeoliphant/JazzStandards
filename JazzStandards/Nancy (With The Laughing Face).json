@@ -1,8 +1,9 @@
 {
   "Title": "Nancy (With The Laughing Face)",
-  "Composer": "Van-Heusen Jimmy",
+  "Composer": "Jimmy Van-Heusen",
   "Key": "Eb",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

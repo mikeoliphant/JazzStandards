@@ -1,8 +1,9 @@
 {
   "Title": "Maze, The",
-  "Composer": "Hancock Herbie",
-  "Key": "E-",
+  "Composer": "Herbie Hancock",
+  "Key": "Emin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

@@ -1,8 +1,9 @@
 {
   "Title": "Criss Cross",
-  "Composer": "Monk Thelonious",
-  "Key": "G-",
+  "Composer": "Thelonious Monk",
+  "Key": "Gmin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

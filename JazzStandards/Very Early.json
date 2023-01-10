@@ -1,8 +1,8 @@
 {
   "Title": "Very Early",
-  "Composer": "Evans Bill",
-  "Key": "C",
+  "Composer": "Bill Evans",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "A",

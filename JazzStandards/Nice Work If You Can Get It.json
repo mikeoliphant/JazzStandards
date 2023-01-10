@@ -1,8 +1,9 @@
 {
   "Title": "Nice Work If You Can Get It",
-  "Composer": "Gershwin George",
+  "Composer": "George Gershwin",
   "Key": "G",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

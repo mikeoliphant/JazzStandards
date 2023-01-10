@@ -1,8 +1,8 @@
 {
   "Title": "Day In, Day Out",
-  "Composer": "Bloom Rube",
-  "Key": "C",
+  "Composer": "Rube Bloom",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

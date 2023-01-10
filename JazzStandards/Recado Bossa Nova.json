@@ -1,8 +1,9 @@
 {
   "Title": "Recado Bossa Nova",
-  "Composer": "Ferreira Djalma",
-  "Key": "G-",
+  "Composer": "Djalma Ferreira",
+  "Key": "Gmin",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

@@ -1,8 +1,9 @@
 {
   "Title": "Core, The",
-  "Composer": "Hubbard Freddie",
-  "Key": "Eb-",
+  "Composer": "Freddie Hubbard",
+  "Key": "Ebmin",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

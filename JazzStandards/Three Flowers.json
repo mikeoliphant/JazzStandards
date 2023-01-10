@@ -1,8 +1,9 @@
 {
   "Title": "Three Flowers",
-  "Composer": "Tyner McCoy",
+  "Composer": "McCoy Tyner",
   "Key": "Eb",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "MainSegment": {

@@ -1,8 +1,9 @@
 {
   "Title": "Be My Love",
-  "Composer": "Brodszky Nikolaus",
+  "Composer": "Nikolaus Brodszky",
   "Key": "G",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

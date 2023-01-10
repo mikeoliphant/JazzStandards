@@ -1,8 +1,9 @@
 {
   "Title": "Two For The Road",
-  "Composer": "Mancini Henry",
+  "Composer": "Henry Mancini",
   "Key": "G",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

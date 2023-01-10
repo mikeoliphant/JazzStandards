@@ -1,8 +1,9 @@
 {
   "Title": "Spain",
-  "Composer": "Corea Chick",
-  "Key": "B-",
+  "Composer": "Chick Corea",
+  "Key": "Bmin",
   "Rhythm": "Latin",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

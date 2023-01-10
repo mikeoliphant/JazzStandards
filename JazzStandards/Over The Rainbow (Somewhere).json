@@ -1,8 +1,9 @@
 {
   "Title": "Over The Rainbow (Somewhere)",
-  "Composer": "Arlen Harold",
+  "Composer": "Harold Arlen",
   "Key": "Eb",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "v",

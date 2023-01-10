@@ -1,8 +1,9 @@
 {
   "Title": "This Can't Be Love",
-  "Composer": "Rodgers Richard",
+  "Composer": "Richard Rodgers",
   "Key": "F",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

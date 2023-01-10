@@ -1,8 +1,8 @@
 {
   "Title": "My Last Affair",
-  "Composer": "Johnson Haven",
-  "Key": "C",
+  "Composer": "Haven Johnson",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

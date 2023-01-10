@@ -1,8 +1,9 @@
 {
   "Title": "Invitation",
-  "Composer": "Kaper Bronislau",
-  "Key": "C-",
+  "Composer": "Bronislau Kaper",
+  "Key": "Cmin",
   "Rhythm": "Even 8ths",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

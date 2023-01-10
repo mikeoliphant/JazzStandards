@@ -1,13 +1,14 @@
 {
   "Title": "Cheese Cake",
-  "Composer": "Gordon Dexter",
-  "Key": "C-",
+  "Composer": "Dexter Gordon",
+  "Key": "Cmin",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Cm69|Dm7b5,G7b13|Cm69|C,(C7b9)|Fm69|Gm7b5,C7b13|Fm69|Fm69|Dm7b5|G7b13|Fm7|Bb7|Ebm7,Ab7|Dm7b5,G7b13"
+        "Chords": "Cm69|Dm7b5,G7b13|Cm69|Cm69,(C7b9)|Fm69|Gm7b5,C7b13|Fm69|Fm69|Dm7b5|G7b13|Fm7|Bb7|Ebm7,Ab7|Dm7b5,G7b13"
       },
       "Endings": [
         {

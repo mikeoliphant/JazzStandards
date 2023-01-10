@@ -1,8 +1,9 @@
 {
   "Title": "I'm Gonna Sit Right Down and Write Myself A Letter",
-  "Composer": "Ahlert Fred",
+  "Composer": "Fred Ahlert",
   "Key": "G",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

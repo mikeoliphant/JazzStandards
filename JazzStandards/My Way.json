@@ -1,8 +1,8 @@
 {
   "Title": "My Way",
   "Composer": "Revaux-Francois-Thibaud-Anka",
-  "Key": "C",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

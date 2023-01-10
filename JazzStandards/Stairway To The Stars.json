@@ -1,8 +1,8 @@
 {
   "Title": "Stairway To The Stars",
-  "Composer": "Maineck Matt",
-  "Key": "C",
+  "Composer": "Matt Maineck",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

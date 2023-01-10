@@ -1,8 +1,9 @@
 {
   "Title": "All The Things You Are",
-  "Composer": "Kern Jerome",
+  "Composer": "Jerome Kern",
   "Key": "Ab",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

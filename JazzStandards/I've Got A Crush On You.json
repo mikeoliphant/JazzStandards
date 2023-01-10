@@ -1,8 +1,9 @@
 {
   "Title": "I've Got A Crush On You",
-  "Composer": "Gershwin George",
+  "Composer": "George Gershwin",
   "Key": "Bb",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

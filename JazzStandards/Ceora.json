@@ -1,8 +1,9 @@
 {
   "Title": "Ceora",
-  "Composer": "Morgan Lee",
+  "Composer": "Lee Morgan",
   "Key": "Ab",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

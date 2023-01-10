@@ -1,8 +1,9 @@
 {
   "Title": "When It Rains",
-  "Composer": "Mehldau Brad",
+  "Composer": "Brad Mehldau",
   "Key": "B",
   "Rhythm": "Even 8ths",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

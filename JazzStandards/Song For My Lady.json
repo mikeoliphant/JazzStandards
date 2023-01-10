@@ -1,8 +1,9 @@
 {
   "Title": "Song For My Lady",
-  "Composer": "Tyner McCoy",
-  "Key": "D-",
+  "Composer": "McCoy Tyner",
+  "Key": "Dmin",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "i",

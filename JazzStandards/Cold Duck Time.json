@@ -1,8 +1,9 @@
 {
   "Title": "Cold Duck Time",
-  "Composer": "Harris Eddie",
+  "Composer": "Eddie Harris",
   "Key": "F",
   "Rhythm": "Rock Pop",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Repeats": 1,

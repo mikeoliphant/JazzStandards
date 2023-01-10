@@ -1,8 +1,8 @@
 {
   "Title": "Sentimental Journey",
   "Composer": "Brown-Green-Homer",
-  "Key": "C",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

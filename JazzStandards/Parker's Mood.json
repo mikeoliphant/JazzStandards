@@ -1,8 +1,9 @@
 {
   "Title": "Parker's Mood",
-  "Composer": "Parker Charlie",
+  "Composer": "Charlie Parker",
   "Key": "Bb",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

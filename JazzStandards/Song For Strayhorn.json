@@ -1,8 +1,9 @@
 {
   "Title": "Song For Strayhorn",
-  "Composer": "Mulligan Gerry",
+  "Composer": "Gerry Mulligan",
   "Key": "D",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

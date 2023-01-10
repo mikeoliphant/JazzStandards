@@ -1,8 +1,8 @@
 {
   "Title": "Early Autumn",
   "Composer": "Burns-Herman",
-  "Key": "C",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

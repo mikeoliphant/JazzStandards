@@ -1,8 +1,9 @@
 {
   "Title": "C.T.A.",
-  "Composer": "Heath Jimmy",
+  "Composer": "Jimmy Heath",
   "Key": "Bb",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

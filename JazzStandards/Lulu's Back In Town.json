@@ -1,8 +1,9 @@
 {
   "Title": "Lulu's Back In Town",
-  "Composer": "Warren Harry",
+  "Composer": "Harry Warren",
   "Key": "Eb",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

@@ -1,8 +1,9 @@
 {
   "Title": "Stablemates",
-  "Composer": "Golson Benny",
+  "Composer": "Benny Golson",
   "Key": "Db",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

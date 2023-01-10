@@ -1,8 +1,9 @@
 {
   "Title": "For All We Know",
-  "Composer": "Coots Fred",
+  "Composer": "Fred Coots",
   "Key": "Eb",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

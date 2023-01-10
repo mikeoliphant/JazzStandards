@@ -1,8 +1,9 @@
 {
   "Title": "There Is No Greater Love",
-  "Composer": "Jones Isham",
+  "Composer": "Isham Jones",
   "Key": "Bb",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

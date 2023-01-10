@@ -1,8 +1,9 @@
 {
   "Title": "Afro Blue",
-  "Composer": "Santamaria Mongo",
-  "Key": "F-",
+  "Composer": "Mongo Santamaria",
+  "Key": "Fmin",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "MainSegment": {

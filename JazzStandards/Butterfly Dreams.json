@@ -1,8 +1,8 @@
 {
   "Title": "Butterfly Dreams",
-  "Composer": "Clarke Stanley",
-  "Key": "C",
+  "Composer": "Stanley Clarke",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "i",

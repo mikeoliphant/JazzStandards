@@ -1,8 +1,9 @@
 {
   "Title": "Chucho",
-  "Composer": "D'Rivera Paquito",
-  "Key": "D-",
+  "Composer": "Paquito D'Rivera",
+  "Key": "Dmin",
   "Rhythm": "Latin",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

@@ -1,8 +1,8 @@
 {
   "Title": "I Feel Pretty",
   "Composer": "Bernstein-Sondheim",
-  "Key": "C",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "A",

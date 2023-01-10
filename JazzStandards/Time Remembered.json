@@ -1,8 +1,9 @@
 {
   "Title": "Time Remembered",
-  "Composer": "Evans Bill",
-  "Key": "B-",
+  "Composer": "Bill Evans",
+  "Key": "Bmin",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

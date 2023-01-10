@@ -1,8 +1,9 @@
 {
   "Title": "Butch And Butch",
-  "Composer": "Nelson Oliver",
+  "Composer": "Oliver Nelson",
   "Key": "G",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

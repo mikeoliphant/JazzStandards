@@ -1,8 +1,9 @@
 {
   "Title": "Since I Fell For You",
-  "Composer": "Johnson Buddy",
+  "Composer": "Buddy Johnson",
   "Key": "Eb",
   "Rhythm": "Slow Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

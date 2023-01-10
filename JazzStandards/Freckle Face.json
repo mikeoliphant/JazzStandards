@@ -1,8 +1,9 @@
 {
   "Title": "Freckle Face",
-  "Composer": "Nestico Sammy",
+  "Composer": "Sammy Nestico",
   "Key": "Bb",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

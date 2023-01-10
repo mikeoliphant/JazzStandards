@@ -1,8 +1,9 @@
 {
   "Title": "A Felicidade",
-  "Composer": "Jobim Antonio-Carlos",
-  "Key": "A-",
+  "Composer": "Antonio-Carlos Jobim",
+  "Key": "Amin",
   "Rhythm": "Bossa Nova",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",
@@ -15,7 +16,7 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Cmaj7|Cmaj7|Bm7b5|E7b9|Am7|A,(Abm7)|Gm7|C7|Fmaj7|Dm7|Am7|D7|Am7|Bm7b5,E7b9|Am7|G7"
+        "Chords": "Cmaj7|Cmaj7|Bm7b5|E7b9|Am7|Am7,(Abm7)|Gm7|C7|Fmaj7|Dm7|Am7|D7|Am7|Bm7b5,E7b9|Am7|G7"
       },
       "Endings": []
     },

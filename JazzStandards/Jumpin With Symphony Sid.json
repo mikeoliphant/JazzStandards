@@ -1,8 +1,9 @@
 {
   "Title": "Jumpin With Symphony Sid",
-  "Composer": "Young Lester",
+  "Composer": "Lester Young",
   "Key": "Bb",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

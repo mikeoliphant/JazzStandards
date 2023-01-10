@@ -1,8 +1,9 @@
 {
   "Title": "Sophisticated Lady",
-  "Composer": "Ellington Duke",
+  "Composer": "Duke Ellington",
   "Key": "Ab",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

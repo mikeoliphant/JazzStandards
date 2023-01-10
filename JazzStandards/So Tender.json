@@ -1,8 +1,9 @@
 {
   "Title": "So Tender",
-  "Composer": "Jarrett Keith",
+  "Composer": "Keith Jarrett",
   "Key": "A",
   "Rhythm": "Even 8ths",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

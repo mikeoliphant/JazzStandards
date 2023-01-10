@@ -1,8 +1,9 @@
 {
   "Title": "Love For Sale",
-  "Composer": "Porter Cole",
-  "Key": "Bb-",
+  "Composer": "Cole Porter",
+  "Key": "Bbmin",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

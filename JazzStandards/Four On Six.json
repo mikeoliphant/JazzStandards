@@ -1,8 +1,9 @@
 {
   "Title": "Four On Six",
-  "Composer": "Montgomery Wes",
-  "Key": "G-",
+  "Composer": "Wes Montgomery",
+  "Key": "Gmin",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

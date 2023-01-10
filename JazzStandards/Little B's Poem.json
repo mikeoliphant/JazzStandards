@@ -1,8 +1,9 @@
 {
   "Title": "Little B's Poem",
-  "Composer": "Hutcherson Bobby",
-  "Key": "F-",
+  "Composer": "Bobby Hutcherson",
+  "Key": "Fmin",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "MainSegment": {

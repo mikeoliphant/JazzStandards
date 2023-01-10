@@ -1,8 +1,9 @@
 {
   "Title": "Got A Match?",
-  "Composer": "Corea Chick",
-  "Key": "D-",
+  "Composer": "Chick Corea",
+  "Key": "Dmin",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

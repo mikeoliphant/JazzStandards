@@ -1,8 +1,9 @@
 {
   "Title": "Little Sunflower",
-  "Composer": "Hubbard Freddie",
-  "Key": "D-",
+  "Composer": "Freddie Hubbard",
+  "Key": "Dmin",
   "Rhythm": "Even 8ths",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

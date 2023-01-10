@@ -1,8 +1,9 @@
 {
   "Title": "Sunny",
-  "Composer": "Hebb Bobby",
-  "Key": "A-",
+  "Composer": "Bobby Hebb",
+  "Key": "Amin",
   "Rhythm": "Rock Pop",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

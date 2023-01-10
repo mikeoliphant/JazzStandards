@@ -1,8 +1,8 @@
 {
   "Title": "Dreamsville",
-  "Composer": "Mancini Henry",
-  "Key": "C",
+  "Composer": "Henry Mancini",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

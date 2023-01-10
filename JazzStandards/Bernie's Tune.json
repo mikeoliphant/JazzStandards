@@ -1,8 +1,9 @@
 {
   "Title": "Bernie's Tune",
-  "Composer": "Miller Bernie",
-  "Key": "D-",
+  "Composer": "Bernie Miller",
+  "Key": "Dmin",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",
@@ -28,7 +29,7 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Dm7|Dm7|Bb7#11|Bb7#11|Em7b5|A7b9|Dm7|D(Em7b5),(A7b9)"
+        "Chords": "Dm7|Dm7|Bb7#11|Bb7#11|Em7b5|A7b9|Dm7|Dm7(Em7b5),(A7b9)"
       },
       "Endings": []
     }

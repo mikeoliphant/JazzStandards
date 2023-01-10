@@ -1,8 +1,9 @@
 {
   "Title": "Catch Me",
-  "Composer": "Pass Joe",
-  "Key": "D-",
+  "Composer": "Joe Pass",
+  "Key": "Dmin",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

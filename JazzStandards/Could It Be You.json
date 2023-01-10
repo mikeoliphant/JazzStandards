@@ -1,8 +1,9 @@
 {
   "Title": "Could It Be You",
-  "Composer": "Porter Cole",
+  "Composer": "Cole Porter",
   "Key": "Bb",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

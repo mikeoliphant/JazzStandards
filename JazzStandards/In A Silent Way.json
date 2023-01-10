@@ -1,8 +1,9 @@
 {
   "Title": "In A Silent Way",
-  "Composer": "Zawinul Josef",
-  "Key": "C#-",
+  "Composer": "Josef Zawinul",
+  "Key": "C#min",
   "Rhythm": "Latin",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

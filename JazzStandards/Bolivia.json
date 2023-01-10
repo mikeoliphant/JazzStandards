@@ -1,8 +1,9 @@
 {
   "Title": "Bolivia",
-  "Composer": "Walton Cedar",
+  "Composer": "Cedar Walton",
   "Key": "D",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

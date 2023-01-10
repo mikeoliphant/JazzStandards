@@ -1,8 +1,9 @@
 {
   "Title": "Pent Up House",
-  "Composer": "Rollins Sonny",
+  "Composer": "Sonny Rollins",
   "Key": "G",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

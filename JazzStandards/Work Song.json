@@ -1,8 +1,9 @@
 {
   "Title": "Work Song",
-  "Composer": "Adderley Nat",
-  "Key": "F-",
+  "Composer": "Nat Adderley",
+  "Key": "Fmin",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

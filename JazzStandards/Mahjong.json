@@ -1,8 +1,9 @@
 {
   "Title": "Mahjong",
-  "Composer": "Shorter Wayne",
-  "Key": "F-",
+  "Composer": "Wayne Shorter",
+  "Key": "Fmin",
   "Rhythm": "Latin",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

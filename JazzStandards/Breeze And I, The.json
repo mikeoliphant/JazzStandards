@@ -1,8 +1,9 @@
 {
   "Title": "Breeze And I, The",
-  "Composer": "Lecuona Ernesto",
+  "Composer": "Ernesto Lecuona",
   "Key": "Eb",
   "Rhythm": "Latin",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

@@ -1,8 +1,9 @@
 {
   "Title": "Sea Journey",
-  "Composer": "Corea Chick",
-  "Key": "A-",
+  "Composer": "Chick Corea",
+  "Key": "Amin",
   "Rhythm": "Latin",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

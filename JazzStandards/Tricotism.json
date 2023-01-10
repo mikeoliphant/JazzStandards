@@ -1,8 +1,9 @@
 {
   "Title": "Tricotism",
-  "Composer": "Pettiford Oscar",
+  "Composer": "Oscar Pettiford",
   "Key": "Db",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

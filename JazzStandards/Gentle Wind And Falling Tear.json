@@ -1,8 +1,9 @@
 {
   "Title": "Gentle Wind And Falling Tear",
-  "Composer": "Burton Gary",
+  "Composer": "Gary Burton",
   "Key": "Ab",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

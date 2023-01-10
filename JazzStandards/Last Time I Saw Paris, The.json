@@ -1,8 +1,9 @@
 {
   "Title": "Last Time I Saw Paris, The",
-  "Composer": "Mancini Henry",
+  "Composer": "Henry Mancini",
   "Key": "Ab",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

@@ -1,8 +1,9 @@
 {
   "Title": "Round Midnight",
-  "Composer": "Monk Thelonious",
-  "Key": "Eb-",
+  "Composer": "Thelonious Monk",
+  "Key": "Ebmin",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

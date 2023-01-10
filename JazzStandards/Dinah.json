@@ -1,8 +1,9 @@
 {
   "Title": "Dinah",
-  "Composer": "Akst Harry",
+  "Composer": "Harry Akst",
   "Key": "G",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

@@ -1,8 +1,9 @@
 {
   "Title": "Bark For Barksdale",
-  "Composer": "Mulligan Gerry",
+  "Composer": "Gerry Mulligan",
   "Key": "F",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

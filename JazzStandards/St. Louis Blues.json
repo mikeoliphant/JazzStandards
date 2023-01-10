@@ -1,8 +1,9 @@
 {
   "Title": "St. Louis Blues",
-  "Composer": "Handy W.C.",
+  "Composer": "W.C. Handy",
   "Key": "G",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

@@ -1,8 +1,8 @@
 {
   "Title": "St. Thomas",
-  "Composer": "Rollins Sonny",
-  "Key": "C",
+  "Composer": "Sonny Rollins",
   "Rhythm": "Latin",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

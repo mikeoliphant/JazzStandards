@@ -1,8 +1,9 @@
 {
   "Title": "Pink Panther, The",
-  "Composer": "Mancini Henry",
-  "Key": "E-",
+  "Composer": "Henry Mancini",
+  "Key": "Emin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

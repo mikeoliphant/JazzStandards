@@ -1,8 +1,9 @@
 {
   "Title": "S'posin'",
-  "Composer": "Denniker Paul",
+  "Composer": "Paul Denniker",
   "Key": "Bb",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

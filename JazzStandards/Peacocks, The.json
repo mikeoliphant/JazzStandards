@@ -1,8 +1,9 @@
 {
   "Title": "Peacocks, The",
-  "Composer": "Rowles Jimmy",
-  "Key": "Bb-",
+  "Composer": "Jimmy Rowles",
+  "Key": "Bbmin",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

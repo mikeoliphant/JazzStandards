@@ -1,8 +1,8 @@
 {
   "Title": "Hello Dolly",
-  "Composer": "Herman Jerry",
-  "Key": "C",
+  "Composer": "Jerry Herman",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

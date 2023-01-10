@@ -1,8 +1,9 @@
 {
   "Title": "Wendy",
-  "Composer": "Desmond Paul",
+  "Composer": "Paul Desmond",
   "Key": "Eb",
   "Rhythm": "Slow Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

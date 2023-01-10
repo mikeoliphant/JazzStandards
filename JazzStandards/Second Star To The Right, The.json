@@ -1,8 +1,9 @@
 {
   "Title": "Second Star To The Right, The",
-  "Composer": "Fain Sammy",
+  "Composer": "Sammy Fain",
   "Key": "Eb",
   "Rhythm": "Slow Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

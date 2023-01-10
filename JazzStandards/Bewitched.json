@@ -1,8 +1,8 @@
 {
   "Title": "Bewitched",
-  "Composer": "Rodgers Richard",
-  "Key": "C",
+  "Composer": "Richard Rodgers",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

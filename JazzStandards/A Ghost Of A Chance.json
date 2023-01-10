@@ -1,8 +1,8 @@
 {
   "Title": "A Ghost Of A Chance",
-  "Composer": "Young Victor",
-  "Key": "C",
+  "Composer": "Victor Young",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

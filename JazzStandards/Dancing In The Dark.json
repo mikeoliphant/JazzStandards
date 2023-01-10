@@ -1,8 +1,8 @@
 {
   "Title": "Dancing In The Dark",
-  "Composer": "Schwartz Arthur",
-  "Key": "C",
+  "Composer": "Arthur Schwartz",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

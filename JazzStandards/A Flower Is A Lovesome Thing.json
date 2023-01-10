@@ -1,8 +1,9 @@
 {
   "Title": "A Flower Is A Lovesome Thing",
-  "Composer": "Strayhorn Billy",
+  "Composer": "Billy Strayhorn",
   "Key": "Db",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

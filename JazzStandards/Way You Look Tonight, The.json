@@ -1,8 +1,9 @@
 {
   "Title": "Way You Look Tonight, The",
-  "Composer": "Kern Jerome",
+  "Composer": "Jerome Kern",
   "Key": "F",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "B",

@@ -1,8 +1,8 @@
 {
   "Title": "Dienda",
-  "Composer": "Kirkland Kenny",
-  "Key": "C",
+  "Composer": "Kenny Kirkland",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "i",

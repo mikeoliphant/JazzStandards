@@ -1,8 +1,9 @@
 {
   "Title": "Leaving",
-  "Composer": "Beirach Richie",
+  "Composer": "Richie Beirach",
   "Key": "Bb",
   "Rhythm": "Even 8ths",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

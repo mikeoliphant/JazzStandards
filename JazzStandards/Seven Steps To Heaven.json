@@ -1,8 +1,9 @@
 {
   "Title": "Seven Steps To Heaven",
-  "Composer": "Feldman Victor",
+  "Composer": "Victor Feldman",
   "Key": "F",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

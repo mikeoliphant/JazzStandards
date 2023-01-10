@@ -1,8 +1,9 @@
 {
   "Title": "La Fiesta",
-  "Composer": "Corea Chick",
+  "Composer": "Chick Corea",
   "Key": "A",
   "Rhythm": "Latin",
+  "TimeSignature": "6/4",
   "Sections": [
     {
       "Label": "i",

@@ -1,8 +1,9 @@
 {
   "Title": "Midnight Mood",
-  "Composer": "Zawinul Joe",
+  "Composer": "Joe Zawinul",
   "Key": "Db",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "MainSegment": {

@@ -1,8 +1,9 @@
 {
   "Title": "Interplay",
-  "Composer": "Evans Bill",
-  "Key": "F-",
+  "Composer": "Bill Evans",
+  "Key": "Fmin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

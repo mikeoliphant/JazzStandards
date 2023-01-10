@@ -1,8 +1,9 @@
 {
   "Title": "Idle Moments",
-  "Composer": "Green Grant",
-  "Key": "C-",
+  "Composer": "Grant Green",
+  "Key": "Cmin",
   "Rhythm": "Slow Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

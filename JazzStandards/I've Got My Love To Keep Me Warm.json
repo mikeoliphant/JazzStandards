@@ -1,8 +1,9 @@
 {
   "Title": "I've Got My Love To Keep Me Warm",
-  "Composer": "Berlin Irving",
+  "Composer": "Irving Berlin",
   "Key": "Eb",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

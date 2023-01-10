@@ -1,8 +1,9 @@
 {
   "Title": "Serenade To A Soul Sister",
-  "Composer": "Silver Horace",
-  "Key": "Eb-",
+  "Composer": "Horace Silver",
+  "Key": "Ebmin",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "A",

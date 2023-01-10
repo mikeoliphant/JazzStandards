@@ -1,8 +1,9 @@
 {
   "Title": "All Blues",
-  "Composer": "Davis Miles",
+  "Composer": "Miles Davis",
   "Key": "G",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "MainSegment": {

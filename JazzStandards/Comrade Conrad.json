@@ -1,8 +1,9 @@
 {
   "Title": "Comrade Conrad",
-  "Composer": "Evans Bill",
-  "Key": "G-",
+  "Composer": "Bill Evans",
+  "Key": "Gmin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "A",

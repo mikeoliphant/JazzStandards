@@ -1,8 +1,9 @@
 {
   "Title": "Contemplation",
-  "Composer": "Tyner McCoy",
-  "Key": "C-",
+  "Composer": "McCoy Tyner",
+  "Key": "Cmin",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "MainSegment": {

@@ -1,8 +1,9 @@
 {
   "Title": "I've Never Been In Love Before",
-  "Composer": "Loesser Frank",
+  "Composer": "Frank Loesser",
   "Key": "Bb",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

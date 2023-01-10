@@ -1,8 +1,9 @@
 {
   "Title": "And On The Third Day",
-  "Composer": "Gibbs Michael",
+  "Composer": "Michael Gibbs",
   "Key": "D",
   "Rhythm": "Slow Rock",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

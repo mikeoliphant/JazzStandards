@@ -1,8 +1,9 @@
 {
   "Title": "Summertime",
-  "Composer": "Gershwin George",
-  "Key": "A-",
+  "Composer": "George Gershwin",
+  "Key": "Amin",
   "Rhythm": "Slow Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

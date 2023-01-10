@@ -1,8 +1,8 @@
 {
   "Title": "Alice In Wonderland",
-  "Composer": "Fain Sammy",
-  "Key": "C",
+  "Composer": "Sammy Fain",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "A",

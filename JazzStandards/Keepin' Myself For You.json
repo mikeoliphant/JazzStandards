@@ -1,8 +1,9 @@
 {
   "Title": "Keepin' Myself For You",
-  "Composer": "Youmans Vincent",
+  "Composer": "Vincent Youmans",
   "Key": "Eb",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

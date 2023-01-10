@@ -1,8 +1,8 @@
 {
   "Title": "What's New",
-  "Composer": "Haggard Bob",
-  "Key": "C",
+  "Composer": "Bob Haggard",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

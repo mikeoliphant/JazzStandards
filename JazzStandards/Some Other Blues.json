@@ -1,8 +1,9 @@
 {
   "Title": "Some Other Blues",
-  "Composer": "Coltrane John",
+  "Composer": "John Coltrane",
   "Key": "F",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

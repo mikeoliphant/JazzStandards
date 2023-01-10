@@ -1,8 +1,9 @@
 {
   "Title": "For Minors Only",
-  "Composer": "Heath Jimmy",
-  "Key": "C-",
+  "Composer": "Jimmy Heath",
+  "Key": "Cmin",
   "Rhythm": "Up Tempo Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {
@@ -20,7 +21,7 @@
           "Chords": "Cm7,Cm7/Bb|Ab7,G7b13|Cm7|G7#11"
         },
         {
-          "Chords": "Cm7,Cm7/Bb|Ab7,G7b13|Cm7|C(Dm7b5),(G7)"
+          "Chords": "Cm7,Cm7/Bb|Ab7,G7b13|Cm7|Cm7(Dm7b5),(G7)"
         }
       ]
     }

@@ -1,8 +1,9 @@
 {
   "Title": "Radio",
-  "Composer": "Swallow Steve",
+  "Composer": "Steve Swallow",
   "Key": "F",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

@@ -1,8 +1,9 @@
 {
   "Title": "Someday My Prince Will Come",
-  "Composer": "Churchill Frank",
+  "Composer": "Frank Churchill",
   "Key": "Bb",
   "Rhythm": "Waltz",
+  "TimeSignature": "3/4",
   "Sections": [
     {
       "Label": "A",

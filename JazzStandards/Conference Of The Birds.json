@@ -1,8 +1,9 @@
 {
   "Title": "Conference Of The Birds",
-  "Composer": "Holland Dave",
+  "Composer": "Dave Holland",
   "Key": "F",
   "Rhythm": "Even 8ths",
+  "TimeSignature": "2/4",
   "Sections": [
     {
       "Label": "i",

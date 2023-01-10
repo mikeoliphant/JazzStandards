@@ -1,8 +1,9 @@
 {
   "Title": "Moments To Remember",
-  "Composer": "Allen Robert",
+  "Composer": "Robert Allen",
   "Key": "G",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

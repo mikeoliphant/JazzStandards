@@ -1,8 +1,9 @@
 {
   "Title": "Bags' Groove",
-  "Composer": "Jackson Milt",
+  "Composer": "Milt Jackson",
   "Key": "F",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

@@ -1,8 +1,9 @@
 {
   "Title": "Never Will I Marry",
-  "Composer": "Loesser Frank",
+  "Composer": "Frank Loesser",
   "Key": "Bb",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

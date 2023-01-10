@@ -1,8 +1,8 @@
 {
   "Title": "A Fine Romance",
-  "Composer": "Kern Jerome",
-  "Key": "C",
+  "Composer": "Jerome Kern",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

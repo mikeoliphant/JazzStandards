@@ -1,8 +1,9 @@
 {
   "Title": "Duke Ellington's Sound Of Love",
-  "Composer": "Mingus Charles",
+  "Composer": "Charles Mingus",
   "Key": "Db",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

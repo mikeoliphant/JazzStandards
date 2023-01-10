@@ -1,8 +1,9 @@
 {
   "Title": "Trane’s Blues",
-  "Composer": "Coltrane John",
+  "Composer": "John Coltrane",
   "Key": "Bb",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

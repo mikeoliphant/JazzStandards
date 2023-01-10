@@ -1,8 +1,9 @@
 {
   "Title": "Stolen Moments",
-  "Composer": "Nelson Oliver",
-  "Key": "C-",
+  "Composer": "Oliver Nelson",
+  "Key": "Cmin",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",

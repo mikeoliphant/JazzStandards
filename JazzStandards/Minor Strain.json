@@ -1,8 +1,9 @@
 {
   "Title": "Minor Strain",
-  "Composer": "Timmons Bobby",
+  "Composer": "Bobby Timmons",
   "Key": "G",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

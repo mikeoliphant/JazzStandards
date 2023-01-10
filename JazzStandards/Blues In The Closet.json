@@ -1,8 +1,9 @@
 {
   "Title": "Blues In The Closet",
-  "Composer": "Pettiford Oscar",
+  "Composer": "Oscar Pettiford",
   "Key": "Ab",
   "Rhythm": "Medium Up Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

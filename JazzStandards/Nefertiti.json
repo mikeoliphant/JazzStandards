@@ -1,8 +1,9 @@
 {
   "Title": "Nefertiti",
-  "Composer": "Shorter Wayne",
+  "Composer": "Wayne Shorter",
   "Key": "Ab",
   "Rhythm": "Slow Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "MainSegment": {

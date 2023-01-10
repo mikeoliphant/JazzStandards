@@ -1,8 +1,8 @@
 {
   "Title": "Pretend",
   "Composer": "Douglas-Parman-Lavere",
-  "Key": "C",
   "Rhythm": "Ballad",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

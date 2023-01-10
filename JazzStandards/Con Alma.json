@@ -1,8 +1,8 @@
 {
   "Title": "Con Alma",
-  "Composer": "Gillespie Dizzy",
-  "Key": "C",
+  "Composer": "Dizzy Gillespie",
   "Rhythm": "Afro",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "A",

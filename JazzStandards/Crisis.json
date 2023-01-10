@@ -1,8 +1,9 @@
 {
   "Title": "Crisis",
-  "Composer": "Hubbard Freddie",
+  "Composer": "Freddie Hubbard",
   "Key": "B",
   "Rhythm": "Medium Swing",
+  "TimeSignature": "4/4",
   "Sections": [
     {
       "Label": "i",
