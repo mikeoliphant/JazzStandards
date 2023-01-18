@@ -10,15 +10,13 @@
       "Repeats": 1,
       "MainSegment": {
         "Chords": "Bb7,Eb7|Bb7,Eb7|Bb7,Eb7|Bb7,Eb7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
         "Chords": "Bb7|Bb7|Bb7|Bb7|Eb7|Eb7|D7|G7|C7|C7|C7|Bb7,Eb7|Bb7,Eb7|Bb7,Eb7|Bb7,Eb7"
-      },
-      "Endings": []
+      }
     }
   ]
 }

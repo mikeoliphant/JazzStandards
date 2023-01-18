@@ -8,36 +8,31 @@
     {
       "MainSegment": {
         "Chords": "Em7|A/E|Em7|A/E"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "i",
       "MainSegment": {
         "Chords": "Em7|A/E|Em7|A/E"
-      },
-      "Endings": []
+      }
     },
     {
       "Repeats": 1,
       "MainSegment": {
         "Chords": "Am7|Gm7|F#m7b5|F13"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "Repeats": 1,
       "MainSegment": {
         "Chords": "Em7|A7|Em7|A7|Am7|Gm7|F#m7b5|B7b9"
-      },
-      "Endings": []
+      }
     },
     {
       "MainSegment": {
         "Chords": "Fmaj7"
-      },
-      "Endings": []
+      }
     }
   ]
 }

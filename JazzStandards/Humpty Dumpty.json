@@ -7,14 +7,12 @@
     {
       "MainSegment": {
         "Chords": "Ebmaj7|Dmaj7|Gbmaj7|Fmaj7|A7alt|Bbmaj7|Bbm7|Bbm7|Bbm7|Bbm7"
-      },
-      "Endings": []
+      }
     },
     {
       "MainSegment": {
         "Chords": "Dm7|Bm7|Abm7|Abm7|Fm7|Abm7|Gbmaj7|Bb7#5"
-      },
-      "Endings": []
+      }
     }
   ]
 }

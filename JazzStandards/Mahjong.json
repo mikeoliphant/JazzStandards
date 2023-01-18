@@ -10,36 +10,31 @@
       "Repeats": 1,
       "MainSegment": {
         "Chords": "Fm11|Eb69|Fm11|Eb69"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
         "Chords": "Fm11|Eb69|Fm11|Eb69|Fm11|Eb69|Fm11|Eb69"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "B",
       "MainSegment": {
         "Chords": "Dbmaj9|Eb69|Dbmaj9|Eb69|Dbmaj9|Eb69|Dbmaj9|Eb69"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "C",
       "MainSegment": {
         "Chords": "D7#9|Ebm7,Ab7|Dbmaj9|Dbm7,Gb7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
         "Chords": "Fm11|Eb69|Fm11|Eb69|Fm11|Eb69|Fm11|Eb69"
-      },
-      "Endings": []
+      }
     }
   ]
 }

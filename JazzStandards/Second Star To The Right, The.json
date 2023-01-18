@@ -10,22 +10,19 @@
       "Repeats": 1,
       "MainSegment": {
         "Chords": "Eb|G7|Cm|Gm|Ab,Bb7|Eb,C7|Fm7,Bb7|Eb"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "B",
       "MainSegment": {
         "Chords": "Ab|Bbm7|Ab|Bbm7,Eb7|Ab|G7|Cm|Fm7,Bb7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "C",
       "MainSegment": {
         "Chords": "Eb|G7|Cm|Gm|Ab,Bb7|Eb,C7|Fm7,Bb7|Eb,Bb7"
-      },
-      "Endings": []
+      }
     }
   ]
 }

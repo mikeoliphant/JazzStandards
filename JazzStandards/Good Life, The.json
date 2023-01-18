@@ -9,15 +9,13 @@
       "Label": "A",
       "MainSegment": {
         "Chords": "Abmaj7|Abmaj7|Gm7b5|C7#9|Fm7|Fm6|Cm11|F9|Bbm7|Gb7|Abmaj7|Gm7b5,C7b9|Fm7|Bb7|Bbm7|Eb7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "B",
       "MainSegment": {
         "Chords": "Abmaj7|Abmaj7|Gm7b5|C7#9|Fm7|Fm7|Cm11|F9|Bbm7|Gb7|Abmaj7|F7b9|Bbm7|Eb7sus,Eb7b9|Ab6|Bbm7,Eb7"
-      },
-      "Endings": []
+      }
     }
   ]
 }

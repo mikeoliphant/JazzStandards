@@ -7,9 +7,8 @@
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "E|D6/E|D6/E|Fmaj7#11/E|E|E,E,G#m7|Amaj7|G#m7|G#m7|Dmaj7/E|Dmaj7/E,D,C#m7,|Bm7,E7|C#m7,C/G#|A/F|A/F,A/F,Dmaj9|B/C#|B/C#,Bm6/C#|Bm7/C#|Bm7/C#|C/C#|C#m7|E,G#m7|Amaj7|G#m7|G#m7|Dmaj7/E|Dmaj7/E,D,C#m7,|Bm7,E7|C#m7,C/G#|A/F|A/F,A/F,Dmaj9|C#m11"
-      },
-      "Endings": []
+        "Chords": "E|D6/E|D6/E|Fmaj7#11/E|E|E,G#m7|Amaj7|G#m7|G#m7|Dmaj7/E|Dmaj7/E,D,C#m7,|Bm7,E7|C#m7,C/G#|A/F|A/F,Dmaj9|B/C#|B/C#,Bm6/C#|Bm7/C#|Bm7/C#|C/C#|C#m7|E,G#m7|Amaj7|G#m7|G#m7|Dmaj7/E|Dmaj7/E,D,C#m7,|Bm7,E7|C#m7,C/G#|A/F|A/F,Dmaj9|C#m11"
+      }
     }
   ]
 }

@@ -9,8 +9,7 @@
       "Label": "i",
       "MainSegment": {
         "Chords": "Abmaj7|Bb7b9|G7b9,G7b9/B|Cm7,Bbm7,Abm7,Gbm7|Fm7|Bb7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
@@ -30,15 +29,13 @@
       "Label": "B",
       "MainSegment": {
         "Chords": "Dm7b5,G7b9|Cm7,Cm7/Bb|Am7b5,D7b9|Gm7,C7,Fm7,Bb7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
         "Chords": "Ebmaj7,G7|Abmaj7,A07|Bb7,B07|Cm7,Cm7/Bb|Am7b5,D7b9|Gm7b5,C7b9|Fm7,Bb7alt|Eb6,,Fm7,Bb7"
-      },
-      "Endings": []
+      }
     }
   ]
 }

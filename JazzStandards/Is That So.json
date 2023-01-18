@@ -7,22 +7,19 @@
     {
       "MainSegment": {
         "Chords": "Fm7,Ebm9|Bmaj7,C#m9|Amaj7,Dmaj7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "i",
       "MainSegment": {
         "Chords": "Gmaj7|Gb7#5|F13|E7b9|Ebmaj7|Am7,D7|Gmaj7|Cm7,F7|Bbmaj7|A7#5|Ab13|G7b9|Gbmaj7|Ebm7,Dbm7|Amaj7,Bm9|Gmaj7,Cmaj7|Fmaj7|E7#5|Eb13|D7b9|Dbmaj7|Gm7,C7|Abm7,Db7|Am7,D7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
         "Chords": "Ebmaj7|Cm7,Bbm9|Gbmaj7,Abm9|Emaj7,Amaj7|Dmaj7,Fmaj7#11"
-      },
-      "Endings": []
+      }
     }
   ]
 }

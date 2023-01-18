@@ -8,14 +8,12 @@
     {
       "MainSegment": {
         "Chords": "Am|Am|Am|Am|Cm|Cm|Cm|Cm7,F7"
-      },
-      "Endings": []
+      }
     },
     {
       "MainSegment": {
         "Chords": "Bbmaj7|Bbm7,Eb7|Abmaj7|Abm7,Db7|Gbmaj7|Gm7,C7|Fmaj7|E7#9"
-      },
-      "Endings": []
+      }
     }
   ]
 }

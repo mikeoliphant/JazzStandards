@@ -9,8 +9,7 @@
       "Label": "i",
       "MainSegment": {
         "Chords": "F13|F13|F13|F13|F13|F13|F13|F13,E7#9"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
@@ -31,8 +30,7 @@
       "Repeats": 1,
       "MainSegment": {
         "Chords": "F13|F13|F13|F13"
-      },
-      "Endings": []
+      }
     }
   ]
 }

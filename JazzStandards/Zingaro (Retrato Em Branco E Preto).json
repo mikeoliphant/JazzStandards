@@ -8,16 +8,14 @@
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Gm7|Gm7|D7b9/F#|D7b9/F#|Fm6|Fm6,Fm6,Emaj7|Ebmaj7|Ebmaj7|Cm7|D7b9|Bbmaj7|Bbmaj7|A13#9|A13#9|Dmaj7|Ab7#11"
-      },
-      "Endings": []
+        "Chords": "Gm7|Gm7|D7b9/F#|D7b9/F#|Fm6|Fm6,Emaj7|Ebmaj7|Ebmaj7|Cm7|D7b9|Bbmaj7|Bbmaj7|A13#9|A13#9|Dmaj7|Ab7#11"
+      }
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Gm7|Gm7|D7b9/F#|D7b9/F#|Fm6|Fm6,Fm6,Emaj7|Ebmaj7|Ebmaj7|Cm7|C#07|Gm/D|Ebmaj7|Cm7|Ebm7,D7|Gm7|Ebm7,Ebm6"
-      },
-      "Endings": []
+        "Chords": "Gm7|Gm7|D7b9/F#|D7b9/F#|Fm6|Fm6,Emaj7|Ebmaj7|Ebmaj7|Cm7|C#07|Gm/D|Ebmaj7|Cm7|Ebm7,D7|Gm7|Ebm7,Ebm6"
+      }
     },
     {
       "MainSegment": {

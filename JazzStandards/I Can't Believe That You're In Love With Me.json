@@ -8,29 +8,25 @@
       "Label": "A",
       "MainSegment": {
         "Chords": "F6|Bb7|Cmaj7|D7|G7|G7|Cmaj7|Gm7,C7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
         "Chords": "F6|Bb7|Cmaj7|D7|G7|G7|C6,F7|C6"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "E7|E7|A7|A7|D7|D7|G7|G7,G7,C7"
-      },
-      "Endings": []
+        "Chords": "E7|E7|A7|A7|D7|D7|G7|G7,C7"
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
         "Chords": "F6|Bb7|Cmaj7|D7|G7|G7|Cmaj7|Gm7,C7"
-      },
-      "Endings": []
+      }
     }
   ]
 }

@@ -22,15 +22,13 @@
       "Label": "B",
       "MainSegment": {
         "Chords": "Gm7|C7|Fmaj7|Bb7|Em7|A7|D7|G7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
         "Chords": "Cmaj7,F7|Em7,A7|Dm7|G7|Dm7|G7|C6,Am7|Dm7,G7"
-      },
-      "Endings": []
+      }
     }
   ]
 }

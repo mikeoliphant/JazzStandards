@@ -22,14 +22,12 @@
     {
       "MainSegment": {
         "Chords": "Abmaj7|F7|Bbm7|Eb7|Abmaj7|Fm7|Bbm7|Eb7|Abmaj7|F7|Bbm7|Eb7|Abmaj7|Dbmaj7|Gm7|C7"
-      },
-      "Endings": []
+      }
     },
     {
       "MainSegment": {
         "Chords": "Gm7|C7|F6,Dm7|Gm7,C7"
-      },
-      "Endings": []
+      }
     }
   ]
 }

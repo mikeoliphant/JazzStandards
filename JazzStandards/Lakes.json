@@ -10,43 +10,37 @@
       "Repeats": 1,
       "MainSegment": {
         "Chords": "D|A/D|G/D|A/D"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
         "Chords": "D,,A/C#,Bm|Bm,D/A|E/G#,G/A|Dmaj7,F#7|F#7,Bm7|Em,,G/A,A/G|Dmaj7/F#,Em9|G/A,Bb/A"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "A,,Bb0,Bm|Bm,D/C,D/C,D/C|A/C#,Am7/D|Gmaj7,F#/G#|C#m7,C9|Bm,D9|Gmaj7,F#m7|Fmaj7"
-      },
-      "Endings": []
+        "Chords": "A,,Bb0,Bm|Bm,D/C,D/C,|A/C#,Am7/D|Gmaj7,F#/G#|C#m7,C9|Bm,D9|Gmaj7,F#m7|Fmaj7"
+      }
     },
     {
       "Label": "C",
       "MainSegment": {
         "Chords": "Em9,F#m7|F#/G|E7#9/G#,Eb/A|D/A#|C/B,Bb/C|A7/C#,,D9,D/Eb|Em9,,F#m7,G|A7sus"
-      },
-      "Endings": []
+      }
     },
     {
       "Repeats": 1,
       "MainSegment": {
         "Chords": "D|A/D|G/C|A/D"
-      },
-      "Endings": []
+      }
     },
     {
       "Repeats": 1,
       "MainSegment": {
         "Chords": "Dmaj7,C7sus|Fmaj7,Ab7sus|Dbmaj7,B7sus|Emaj7,D7sus|Gmaj7,F7sus|Bbmaj7,Db7sus|Gbmaj7,G7sus|Cmaj7,A7sus"
-      },
-      "Endings": []
+      }
     }
   ]
 }

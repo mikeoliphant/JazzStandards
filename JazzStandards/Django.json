@@ -9,16 +9,14 @@
       "Label": "v",
       "MainSegment": {
         "Chords": "Fm|Bbm|C7b9|Fm|F7b9|Bbm|Eb7b9|Ab6|Dbmaj7|Gm7b5|G7b9/F|C7b13/E"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "Repeats": 1,
       "MainSegment": {
         "Chords": "Fm|Bbm|C7b9|Fm"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "B",
@@ -38,14 +36,12 @@
       "Label": "C",
       "MainSegment": {
         "Chords": "F7b9|Bbm6/F|F7b9|Bbm6/F|F7b9|Bbm6/F|F7b9,Bb07/F|F7b9"
-      },
-      "Endings": []
+      }
     },
     {
       "MainSegment": {
         "Chords": "Bbm7,Gm7b5|C7b9,F7b9|Bb7,Ebm7|Ab7,Db7|Gb7|Gb7|Db7|Db7|Gb7|Gb7|Db7|C7b9"
-      },
-      "Endings": []
+      }
     }
   ]
 }

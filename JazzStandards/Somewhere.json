@@ -23,22 +23,19 @@
       "Label": "B",
       "MainSegment": {
         "Chords": "B|Abm|Ebm|Fm7|B,Abm6|Gb|F|Dm7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
         "Chords": "Bb,Bb7|Eb7,Ab|Fm7,Bb7|Eb7,Ab|Bb,Bb7|Gm,Cm|Ab,Db|Bbm,Gb"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "C",
       "MainSegment": {
         "Chords": "B|Ab|Eb,Eb7|Ab"
-      },
-      "Endings": []
+      }
     }
   ]
 }

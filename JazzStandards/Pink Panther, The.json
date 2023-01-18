@@ -8,14 +8,12 @@
     {
       "MainSegment": {
         "Chords": "Em|Em|C7#11|C7#11|Em|Em|F7#11|F7#11"
-      },
-      "Endings": []
+      }
     },
     {
       "MainSegment": {
         "Chords": "Em|Em|C7#11|C7#11|Em|C7#11,B7#9|Em|Em"
-      },
-      "Endings": []
+      }
     }
   ]
 }

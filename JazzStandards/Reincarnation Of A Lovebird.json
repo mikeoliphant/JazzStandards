@@ -9,36 +9,31 @@
       "Label": "A",
       "MainSegment": {
         "Chords": "F#m|Dmaj7|G#7|C#7#5|F#m|D9#11|G#7|C#7#5|F#m|D7#9|Bm7|Eb13|G#7#5#9|C#7#5|F#m|G#m7b5,C#7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "B",
       "MainSegment": {
         "Chords": "F#m|Dmaj7|G#7|C#7|F#m|D9#11|G#7|C#7#5|F#m|D7#9|Bm7|Ebmaj7|G#7|C#7#9|F#m|F#m"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "C",
       "MainSegment": {
         "Chords": "F#m7,B7|F#m7,B7|Emaj7,A9#11|Emaj7,A9#11"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "D",
       "MainSegment": {
         "Chords": "Am7|D7|Gmaj7,C7|Bm7b5,Bb7|Am7|D7b9|G#7|C#7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
         "Chords": "F#m|Dmaj7|G#7|C#7#5|F#m|D9#11|G#7|C#7#5|F#m|D7#9|Bm7|Eb13|G#7#5#9|C#7#5|F#m|G#m7b5,C#7|Bm7|Ebmaj7|G#7|C#7#5#9|F#m|G#m7b5,C#7"
-      },
-      "Endings": []
+      }
     }
   ]
 }

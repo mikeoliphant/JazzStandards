@@ -21,9 +21,8 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "C,Cmaj7|Gm7,C7|Fmaj7|Fmaj7,Fmaj7,Fmaj7/E|Dm7|G7|Em7|Am7|Dm7|G7|F/C|C,(F/G)"
-      },
-      "Endings": []
+        "Chords": "C,Cmaj7|Gm7,C7|Fmaj7|Fmaj7,Fmaj7/E|Dm7|G7|Em7|Am7|Dm7|G7|F/C|C,(F/G)"
+      }
     }
   ]
 }

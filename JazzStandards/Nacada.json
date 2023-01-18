@@ -8,20 +8,17 @@
     {
       "MainSegment": {
         "Chords": "Gmaj9,Em9|Ebmaj7#11,B7#5#9|Em9,A13|Abmaj9,Db9#11,Cm7b5,F7#9"
-      },
-      "Endings": []
+      }
     },
     {
       "MainSegment": {
         "Chords": "Emaj9,A13|Dmaj7,Bm7|Bbmaj7,Eb9#11|Am7,D7"
-      },
-      "Endings": []
+      }
     },
     {
       "MainSegment": {
         "Chords": "Dmaj7,Bm7|Bbmaj7,Eb9#11|Dmaj7"
-      },
-      "Endings": []
+      }
     }
   ]
 }

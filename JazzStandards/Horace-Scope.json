@@ -7,7 +7,7 @@
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "Dbmaj7|Em7,A7|Ebm7|Abm7,Db7|Dbm7|Ab7#5|G13|G13,G13,Gb13|Fm7|Bbm7|Ebm7|Ab7#5|Db7#9|Bb7b5#9|A7"
+        "Chords": "Dbmaj7|Em7,A7|Ebm7|Abm7,Db7|Dbm7|Ab7#5|G13|G13,Gb13|Fm7|Bbm7|Ebm7|Ab7#5|Db7#9|Bb7b5#9|A7"
       },
       "Endings": [
         {
@@ -22,15 +22,13 @@
       "Repeats": 1,
       "MainSegment": {
         "Chords": "Dbmaj7|Em7,A7|Ebm7|Abm7,Db7|Dbm7|Ab7#5|G13|Gb13|Fm7|Bbm7|Ebm7|Ab7#5|Db7#9|Bb7b5#9|A7|Ab7#5#9"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
         "Chords": "Gbm7|Bb7b5#9,A7|Gbm7/Ab|Db7#9"
-      },
-      "Endings": []
+      }
     }
   ]
 }

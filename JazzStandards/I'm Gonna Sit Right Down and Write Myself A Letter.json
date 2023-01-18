@@ -9,13 +9,12 @@
       "Label": "i",
       "MainSegment": {
         "Chords": "Gmaj7|Ab07|Am7|D7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "Gmaj7|Gmaj7,Gmaj7,D7|Gmaj7|Gmaj7|Gmaj7|B7|C,E7|Am7"
+        "Chords": "Gmaj7|Gmaj7,D7|Gmaj7|Gmaj7|Gmaj7|B7|C,E7|Am7"
       },
       "Endings": [
         {

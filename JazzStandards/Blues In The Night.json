@@ -10,8 +10,7 @@
       "Repeats": 1,
       "MainSegment": {
         "Chords": "G7|C7|G7|G7|C7|C7|G7|G7|D7|Eb7,D7|G7,C7|G7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "B",
@@ -30,8 +29,7 @@
     {
       "MainSegment": {
         "Chords": "A7,Db7|C7|Eb7,D7|G6"
-      },
-      "Endings": []
+      }
     }
   ]
 }

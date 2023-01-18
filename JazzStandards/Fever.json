@@ -9,14 +9,12 @@
       "Label": "A",
       "MainSegment": {
         "Chords": "Am|Am|Am|Am|Am|Am|E7|Am|Am|Am|Am|Am|Am|Am|E7|Am"
-      },
-      "Endings": []
+      }
     },
     {
       "MainSegment": {
         "Chords": "E7|Am|E7|Am|E7|Am|E7|Am"
-      },
-      "Endings": []
+      }
     }
   ]
 }

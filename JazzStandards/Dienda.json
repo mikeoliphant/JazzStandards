@@ -8,36 +8,31 @@
       "Label": "i",
       "MainSegment": {
         "Chords": "Gm11,Fadd9/A|Gbmaj7#11|Gm11,Fadd9/A|F/Db|F/Db"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
         "Chords": "F/G|F/Db,Bbm/Db|Dm9|G13#11|Gbmaj9#11|Fm11|Cadd9/E|F/Eb|Dm11|Bbmaj7/D|A9sus|Fm9/Bb,Bb/Gb|Bb/Gb|Fm9,Fm9/Eb|Dm7b5|E/C,C6|C7alt"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "B",
       "MainSegment": {
         "Chords": "Fm9|Db13#11|Dm9|Dm9/C|Gb/Bb,Bbm|Fm11/Ab|Gm11|Gbmaj7#11|Bbmaj7#5/A|Bbmaj7#11/D|C/Ab|Dbmaj7|Gm11,Fadd9/A|Gbmaj7#11|Gm11,Fadd9/A|F/Db|F/Db"
-      },
-      "Endings": []
+      }
     },
     {
       "Repeats": 1,
       "MainSegment": {
         "Chords": "Gm11,Fadd9/A|Gbmaj7#11|Gm11,Fadd9/A|F/Db"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
         "Chords": "F/Db"
-      },
-      "Endings": []
+      }
     }
   ]
 }

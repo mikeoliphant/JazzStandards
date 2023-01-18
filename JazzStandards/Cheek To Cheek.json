@@ -23,14 +23,12 @@
       "Repeats": 1,
       "MainSegment": {
         "Chords": "Dm7,G7|C6,A7|Dm7,G7|C6,A7|Dm7,G7|C6,A7|Dm7,G7|C6"
-      },
-      "Endings": []
+      }
     },
     {
       "MainSegment": {
         "Chords": "Cm7|Cm7|Ebm7|Ab7|Dm7b5|G7,G#07|Am7|Dm7,G7"
-      },
-      "Endings": []
+      }
     }
   ]
 }

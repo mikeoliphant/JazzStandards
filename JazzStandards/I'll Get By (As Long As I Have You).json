@@ -6,16 +6,14 @@
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "C6|C6,C6,G7b9|Cmaj7,Bm7|E7,E7#5|F6|F6,F6,A7/E|Dm7,D7|D7|G7|G7,G7,Eb07|G7/D,G7|G7,G7#5|Em7,Eb7|Dm7,G7"
-      },
-      "Endings": []
+        "Chords": "C6|C6,G7b9|Cmaj7,Bm7|E7,E7#5|F6|F6,A7/E|Dm7,D7|D7|G7|G7,Eb07|G7/D,G7|G7,G7#5|Em7,Eb7|Dm7,G7"
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
-        "Chords": "C6|C6,C6,G7b9|Cmaj7,Bm7|E7,E7#5|F6|F6,F6,A7/E|Dm7,Bm7|E7|Am7,A7|A7|Dm7|G7,G13b9|C6|Dm7,G7"
-      },
-      "Endings": []
+        "Chords": "C6|C6,G7b9|Cmaj7,Bm7|E7,E7#5|F6|F6,A7/E|Dm7,Bm7|E7|Am7,A7|A7|Dm7|G7,G13b9|C6|Dm7,G7"
+      }
     }
   ]
 }

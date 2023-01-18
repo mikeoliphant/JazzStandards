@@ -9,15 +9,13 @@
       "Repeats": 1,
       "MainSegment": {
         "Chords": "Em7|Em7|Ebm7|Ebm7|Bmaj7#11|Bbm11|D7sus|D7#9|Gm7|A7b9b13|Dm7|F7sus|Abm11|Bb7b9b13|Ebm7|Gb7sus"
-      },
-      "Endings": []
+      }
     },
     {
       "Repeats": 1,
       "MainSegment": {
         "Chords": "Abm11|Bb7b9b13|Ebm7|Gb7sus"
-      },
-      "Endings": []
+      }
     }
   ]
 }

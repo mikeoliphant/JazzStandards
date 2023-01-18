@@ -9,21 +9,18 @@
       "Label": "A",
       "MainSegment": {
         "Chords": "Ebmaj7|Fm7,Bb7|Ebmaj7|Fm7,Bb7|Ebmaj7,E07|Fm7,Bb7|Ebmaj7|Eb7"
-      },
-      "Endings": []
+      }
     },
     {
       "MainSegment": {
         "Chords": "Abmaj7,A07|Ebmaj7,Cm7|Fm7,Bb7|Ebmaj7|Cm7|F7|Bb7|Bb7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "B",
       "MainSegment": {
         "Chords": "Ebmaj7|Fm7,Bb7|Ebmaj7|Fm7,Bb7|Ebmaj7,E07|Fm7,Bb7|G7|G7|Abmaj7,A07|Ebmaj7|Eb7|Abmaj7,Abm7|Ebmaj7,Cm7|Fm7,Bb7|Ebmaj7|Ebmaj7"
-      },
-      "Endings": []
+      }
     }
   ]
 }

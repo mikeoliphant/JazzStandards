@@ -22,14 +22,12 @@
       "Repeats": 1,
       "MainSegment": {
         "Chords": "Ebmaj7|Db7"
-      },
-      "Endings": []
+      }
     },
     {
       "MainSegment": {
         "Chords": "Ebmaj7"
-      },
-      "Endings": []
+      }
     }
   ]
 }

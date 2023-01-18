@@ -9,29 +9,25 @@
       "Label": "A",
       "MainSegment": {
         "Chords": "Gm7|C7|Fmaj7,Bb7|Am7,D7|Gm7|C7|Fmaj7|Fmaj7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "B",
       "MainSegment": {
         "Chords": "Bbm7|Eb7|Abmaj7|Abmaj7|Cmaj7,Am7|Dm7,G7|Gm7|C7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
         "Chords": "Gm7|C7|Fmaj7,Bb7|Am7,D7|Gm7|C7|Am7b5(Cm7)|D7b9(F7)"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "C",
       "MainSegment": {
         "Chords": "Bm7b5(Bbmaj7)|Bbm7,Eb7|Am7,Dm7|Abm7(Bbm7),Db7(Eb7)|Gm7|C7|F6|Am7,D7"
-      },
-      "Endings": []
+      }
     }
   ]
 }

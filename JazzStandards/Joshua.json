@@ -24,15 +24,13 @@
       "Repeats": 1,
       "MainSegment": {
         "Chords": "Fmaj7|Fm7,Bb7#5#9|Ebmaj7|Ebm7,Ab7#5#9|Dbmaj7|G7#5#9|Cm7,Bbm7|E7#5#9,A7b9#5"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
         "Chords": "Dm11|Dm11|Dm11|Dm11|Dm11|Dm11|Dm11|Dm11|Dm7,Cm7|Bbm7,Cm7|Dm7|Dm7"
-      },
-      "Endings": []
+      }
     }
   ]
 }

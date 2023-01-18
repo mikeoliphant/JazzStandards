@@ -21,16 +21,14 @@
     {
       "Label": "B",
       "MainSegment": {
-        "Chords": "Bm7,Bbm7|Am7,D7|Bm7,Bb07|Am7,D7|Em7,A7#5|D,C7,B7,|Bb7,A7,A7,A7|D7,G7#5"
-      },
-      "Endings": []
+        "Chords": "Bm7,Bbm7|Am7,D7|Bm7,Bb07|Am7,D7|Em7,A7#5|D,C7,B7,|Bb7,A7,A7,|D7,G7#5"
+      }
     },
     {
       "Label": "A",
       "MainSegment": {
         "Chords": "Cmaj7,G7#5|Em7b5,A7b9|Dm7,Dm7b5|Ab7,G7|C7,B7,Bb7,Bb7|Am7b5,Ab7|C6/G,,D7,G7|C6,Dm7,G7,"
-      },
-      "Endings": []
+      }
     }
   ]
 }

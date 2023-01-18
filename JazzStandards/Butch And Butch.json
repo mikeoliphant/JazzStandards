@@ -9,16 +9,14 @@
       "Label": "i",
       "MainSegment": {
         "Chords": "C#m7b5,Cm7|Bm7,E7|Am7|Am7|C#m7b5,F#7b9|Bm7,Db6|D7sus|D7sus"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "Repeats": 1,
       "MainSegment": {
         "Chords": "Gmaj7,G#07|Am7,Bb07|Bm7,G6|Dm7,G7|Cmaj7|C#m7,F#7|Cm7,F7|Bm7,E7|D7sus|D7sus|G6,Bb7|A7,Ab7"
-      },
-      "Endings": []
+      }
     }
   ]
 }

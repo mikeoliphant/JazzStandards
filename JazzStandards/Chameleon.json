@@ -9,24 +9,21 @@
       "Label": "i",
       "MainSegment": {
         "Chords": "Bbm7|Eb7|Bbm7|Eb7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "A",
       "Repeats": 1,
       "MainSegment": {
         "Chords": "Bbm7|Eb7|Bbm7|Eb7"
-      },
-      "Endings": []
+      }
     },
     {
       "Label": "B",
       "Repeats": 1,
       "MainSegment": {
         "Chords": "Bbm7|Eb7|Bbm7|Eb7"
-      },
-      "Endings": []
+      }
     }
   ]
 }

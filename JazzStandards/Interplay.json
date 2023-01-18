@@ -7,9 +7,8 @@
   "Sections": [
     {
       "MainSegment": {
-        "Chords": "Fm6|Fm6|Fm6|Fm6,Fm6,F7b9|Bbm7|Bbm7|Fm6|Fm6|Db7|C7b9|Fm6|Gm7b5,C7b9"
-      },
-      "Endings": []
+        "Chords": "Fm6|Fm6|Fm6|Fm6,F7b9|Bbm7|Bbm7|Fm6|Fm6|Db7|C7b9|Fm6|Gm7b5,C7b9"
+      }
     }
   ]
 }
