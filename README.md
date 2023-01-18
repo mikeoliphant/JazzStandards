@@ -8,8 +8,6 @@ The container format is currently json.
 Here is an example:
 
 ```
-lines (35 sloc)  753 Bytes
-
 {
   "Title": "Alone Together",
   "Composer": "Arthur Schwartz",
